@@ -1,0 +1,18 @@
+name: Feature Request
+description: Suggest a new feature.
+title: "[Feature]: "
+labels: ["Enhancement", "Feature"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What’s your idea?
+      description: Briefly describe the new feature or improvement.
+      placeholder: ex. "Add support for custom gene lists."
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Why is this helpful?
+      placeholder: ex. "This helps focus on specific genes for analysis."

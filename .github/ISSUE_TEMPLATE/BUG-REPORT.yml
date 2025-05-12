@@ -1,0 +1,24 @@
+name: Bug Report
+description: Report a bug.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What’s the problem?
+      description: Briefly explain the issue and what you expected to happen.
+      placeholder: ex. "The tool crashes when I load a VCF file."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we reproduce it?
+      placeholder: ex. "1. Load data\n2. Run analysis\n3. See error"
+  - type: textarea
+    id: logs
+    attributes:
+      label: Any logs or output?
+      description: Paste relevant logs or error messages here.
+      render: shell
