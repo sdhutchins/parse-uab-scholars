@@ -1,114 +1,164 @@
 {
-  "388": [
+  "3120": [
     {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "3153838",
-      "title": "Thesis Committee for Cedric A Edoh (Committee Member)",
-      "status": "Current committee member",
-      "startDate": "2024-11-12T00:00:00-06:00",
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "3203507",
+      "title": "Dissertation Committee for Federico I Prokopczuk (Committee Chair & Mentor)",
+      "status": "Unknown",
+      "startDate": "2025-02-06T00:00:00-06:00",
       "endDate": null
     },
     {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "2788838",
-      "title": "Thesis Committee for Andrew P Tyler (Committee Member)",
-      "status": "No longer on student's committee or student has graduated",
-      "startDate": "2023-06-12T00:00:00-05:00",
-      "endDate": "2024-08-10T00:00:00-05:00"
-    },
-    {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "2463299",
-      "title": "Dissertation Committee for Jessica Johnson (Committee Member)",
-      "status": "No longer on student's committee or student has graduated",
-      "startDate": "2020-12-10T00:00:00-06:00",
-      "endDate": "2022-08-13T00:00:00-05:00"
-    },
-    {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "2300206",
-      "title": "Thesis Committee for Braxton Alexander Linder (Committee Member)",
-      "status": "No longer on student's committee or student has graduated",
-      "startDate": "2019-11-22T00:00:00-06:00",
-      "endDate": "2020-08-15T00:00:00-05:00"
-    },
-    {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "1635708",
-      "title": "Dissertation Committee for Mary L Garvin-Surpris (Committee Member)",
-      "status": "No longer on student's committee or student has graduated",
-      "startDate": "2014-08-28T00:00:00-05:00",
-      "endDate": "2016-04-29T00:00:00-05:00"
-    },
-    {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "1623527",
-      "title": "Thesis Committee for Jonathon T Baccus (Committee Member)",
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "3113424",
+      "title": "Dissertation Committee for Lihao He (Committee Member)",
       "status": "Current committee member",
-      "startDate": "2014-04-25T00:00:00-05:00",
+      "startDate": "2024-09-30T00:00:00-05:00",
       "endDate": null
     },
     {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "1635459",
-      "title": "Dissertation Committee for Larita C Jones (Committee Member)",
-      "status": "No longer on student's committee or student has graduated",
-      "startDate": "2013-08-22T00:00:00-05:00",
-      "endDate": "2014-12-12T00:00:00-06:00"
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2901530",
+      "title": "Dissertation Committee for Kyle Jeffrey Sahlberg (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2023-10-31T00:00:00-05:00",
+      "endDate": null
     },
     {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "1635464",
-      "title": "Thesis Committee for Larita C Jones (Committee Member)",
-      "status": "No longer on student's committee or student has graduated",
-      "startDate": "2011-12-06T00:00:00-06:00",
-      "endDate": "2012-12-14T00:00:00-06:00"
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2774368",
+      "title": "Dissertation Committee for Daniel Minassian (Committee Chair & Mentor)",
+      "status": "Unknown",
+      "startDate": "2023-04-28T00:00:00-05:00",
+      "endDate": null
     },
     {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "1634377",
-      "title": "Dissertation Committee for Corrie Eli Paeglow (Committee Member)",
-      "status": "No longer on student's committee or student has graduated",
-      "startDate": "2010-05-19T00:00:00-05:00",
-      "endDate": "2011-08-03T00:00:00-05:00"
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2680657",
+      "title": "Dissertation Committee for Caitlyn Sebastian (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2022-11-14T00:00:00-06:00",
+      "endDate": null
     },
     {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "1633540",
-      "title": "Dissertation Committee for Emily J Jones (Committee Member)",
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2530561",
+      "title": "Dissertation Committee for Caleb Graham (Committee Member)",
       "status": "No longer on student's committee or student has graduated",
-      "startDate": "2009-06-03T00:00:00-05:00",
-      "endDate": "2010-08-06T00:00:00-05:00"
+      "startDate": "2022-08-11T00:00:00-05:00",
+      "endDate": "2024-12-14T00:00:00-06:00"
     },
     {
-      "userDiscoveryId": "388",
-      "userDiscoveryUrlId": "388-fernando-ovalle",
-      "userName": "Fernando Ovalle",
-      "teachingDiscoveryId": "1624058",
-      "title": "Dissertation Committee for Radhika P Phadke (Committee Member)",
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2513841",
+      "title": "Dissertation Committee for Joshua T Huffines (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2022-04-26T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2500443",
+      "title": "Dissertation Committee for Erin Nicole Yepsen (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2022-03-09T00:00:00-06:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2488573",
+      "title": "Dissertation Committee for Jessica Lane (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2022-01-11T00:00:00-06:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2429774",
+      "title": "Dissertation Committee for Jennifer Nichelle Luck (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2021-05-11T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2427314",
+      "title": "Dissertation Committee for Gillian D Holder (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2021-04-23T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2422154",
+      "title": "Dissertation Committee for Sara Noelle Stoner (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2021-03-15T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2166694",
+      "title": "Dissertation Committee for Katherine L Kruckow (Chairperson)",
       "status": "No longer on student's committee or student has graduated",
-      "startDate": "2006-01-05T00:00:00-06:00",
-      "endDate": "2007-05-04T00:00:00-05:00"
+      "startDate": "2019-07-26T00:00:00-05:00",
+      "endDate": "2023-12-09T00:00:00-06:00"
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "2084309",
+      "title": "Dissertation Committee for Ashleigh N Riegler (Committee Chair & Mentor)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2018-09-19T00:00:00-05:00",
+      "endDate": "2021-08-14T00:00:00-05:00"
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "1640129",
+      "title": "Dissertation Committee for Anukul T Shenoy (Chairperson)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2016-11-30T00:00:00-06:00",
+      "endDate": "2017-12-17T00:00:00-06:00"
+    },
+    {
+      "userDiscoveryId": "3120",
+      "userDiscoveryUrlId": "3120-carlos-orihuela",
+      "userName": "Carlos Orihuela",
+      "teachingDiscoveryId": "1635331",
+      "title": "Dissertation Committee for Fan Zhu (Committee Member)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2015-09-15T00:00:00-05:00",
+      "endDate": "2016-12-16T00:00:00-06:00"
     }
   ]
 }

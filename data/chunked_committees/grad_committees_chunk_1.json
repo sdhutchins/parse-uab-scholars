@@ -1,1 +1,14 @@
-{}
+{
+  "4105": [
+    {
+      "userDiscoveryId": "4105",
+      "userDiscoveryUrlId": "4105-richard-allman",
+      "userName": "Richard Allman",
+      "teachingDiscoveryId": "1629168",
+      "title": "Dissertation Committee for Olivio J Clay (Committee Member)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2006-01-05T00:00:00-06:00",
+      "endDate": "2007-08-10T00:00:00-05:00"
+    }
+  ]
+}

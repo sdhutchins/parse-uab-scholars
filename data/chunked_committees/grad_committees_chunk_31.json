@@ -1,1 +1,104 @@
-{}
+{
+  "2400": [
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "3187206",
+      "title": "Thesis Committee for Christopher D Morgan (Committee Chair & Mentor)",
+      "status": "Unknown",
+      "startDate": "2025-01-09T00:00:00-06:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "3069733",
+      "title": "Thesis Committee for Jonathan Daniel Hill (Committee Chair & Mentor)",
+      "status": "Unknown",
+      "startDate": "2024-07-01T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "2970724",
+      "title": "Thesis Committee for Erica N Schilling (Committee Chair & Mentor)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2023-12-18T00:00:00-06:00",
+      "endDate": "2024-12-14T00:00:00-06:00"
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "2464499",
+      "title": "Dissertation Committee for Yongzhe Yan (Committee Member)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2021-08-18T00:00:00-05:00",
+      "endDate": "2024-12-14T00:00:00-06:00"
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "2405173",
+      "title": "Thesis Committee for John D Easton (Committee Chair & Mentor)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2020-12-17T00:00:00-06:00",
+      "endDate": "2021-05-01T00:00:00-05:00"
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "2388626",
+      "title": "Dissertation Committee for Christopher J Sage (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2020-09-15T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "2452698",
+      "title": "Dissertation Committee for William A Brayer (Committee Member)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2020-08-16T00:00:00-05:00",
+      "endDate": "2022-04-30T00:00:00-05:00"
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "2330994",
+      "title": "Thesis Committee for Ezzuddin Abuhussein (Committee Chair & Mentor)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2020-04-29T00:00:00-05:00",
+      "endDate": "2021-05-01T00:00:00-05:00"
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "2171263",
+      "title": "Dissertation Committee for Alexander Miles Levy (Committee Member)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2019-08-07T00:00:00-05:00",
+      "endDate": "2024-12-14T00:00:00-06:00"
+    },
+    {
+      "userDiscoveryId": "2400",
+      "userDiscoveryUrlId": "2400-alan-eberhardt",
+      "userName": "Alan Eberhardt",
+      "teachingDiscoveryId": "2158152",
+      "title": "Thesis Committee for Kayla Rettig (Committee Chair & Mentor)",
+      "status": "No longer on student's committee or student has graduated",
+      "startDate": "2019-05-20T00:00:00-05:00",
+      "endDate": "2019-12-14T00:00:00-06:00"
+    }
+  ]
+}
