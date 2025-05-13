@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "548",
+    "userDiscoveryUrlId": "548-anju-bansal",
+    "userName": "Anju Bansal",
+    "teachingDiscoveryId": "2824229",
+    "title": "Thesis Committee for Yash Jatin Shah (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-09-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "548",
+    "userDiscoveryUrlId": "548-anju-bansal",
+    "userName": "Anju Bansal",
+    "teachingDiscoveryId": "2783556",
+    "title": "Dissertation Committee for Michael Andrew Rose (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "548",
+    "userDiscoveryUrlId": "548-anju-bansal",
+    "userName": "Anju Bansal",
+    "teachingDiscoveryId": "2489882",
+    "title": "Dissertation Committee for Kevin James Maroney (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2022-01-25T00:00:00-06:00",
+    "endDate": null
+  }
+]

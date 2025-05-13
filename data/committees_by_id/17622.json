@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "17622",
+    "userDiscoveryUrlId": "17622-megan-amersonbrown",
+    "userName": "Megan Amerson-Brown",
+    "teachingDiscoveryId": "3010801",
+    "title": "Dissertation Committee for Md Hasanul Banna Siam (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-03-31T00:00:00-05:00",
+    "endDate": "2025-02-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "17622",
+    "userDiscoveryUrlId": "17622-megan-amersonbrown",
+    "userName": "Megan Amerson-Brown",
+    "teachingDiscoveryId": "2998112",
+    "title": "Dissertation Committee for Emma Lea Matthews (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-03-01T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17622",
+    "userDiscoveryUrlId": "17622-megan-amersonbrown",
+    "userName": "Megan Amerson-Brown",
+    "teachingDiscoveryId": "2850546",
+    "title": "Dissertation Committee for Emma Graffice (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-10-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17622",
+    "userDiscoveryUrlId": "17622-megan-amersonbrown",
+    "userName": "Megan Amerson-Brown",
+    "teachingDiscoveryId": "2785044",
+    "title": "Thesis Committee for Onyebuchi A Elegede (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-26T00:00:00-05:00",
+    "endDate": null
+  }
+]

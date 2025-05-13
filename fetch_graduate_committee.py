@@ -39,7 +39,7 @@ chunk_size = len(all_profiles) // chunk_total + 1
 user_profiles = all_profiles[chunk_id * chunk_size:(chunk_id + 1) * chunk_size]
 
 # === Fetch Function ===
-def fetch_committee_roles(profile, max_retries=5, sleep_secs=2):
+def fetch_committee_roles(profile, max_retries=2, sleep_secs=2):
     discovery_id = str(profile.get("discoveryId"))
     if not discovery_id:
         return None, "no_discovery_id"
