@@ -3,41 +3,69 @@ import json
 import time
 
 url = "https://scholars.uab.edu/api/users"
-headers = {
-    "Content-Type": "application/json"
+headers = {"Content-Type": "application/json"}
+
+jsonl_path = "data/uab_scholars_profiles.jsonl"
+log_path = "logs/uab_scholars_fetch.log"
+
+# Step 1: Determine total records
+init_payload = {
+    "params": {
+        "by": "text",
+        "type": "user",
+        "text": ""
+    },
+    "pagination": {
+        "startFrom": 0,
+        "perPage": 1
+    },
+    "sort": "relevance",
+    "filters": [
+        {"name": "customFilterOne", "matchDocsWithMissingValues": True, "useValuesToFilter": False},
+        {"name": "department", "matchDocsWithMissingValues": True, "useValuesToFilter": False},
+        {"name": "tags", "matchDocsWithMissingValues": True, "useValuesToFilter": False}
+    ]
 }
 
-all_profiles = []
-total_pages = 65  # 6433 / 100 ≈ 65
+r = requests.post(url, headers=headers, json=init_payload, timeout=10)
+total_records = r.json().get("pagination", {}).get("total", 0)
+page_size = 25
+print(f"Found {total_records} profiles")
+print(f"Fetching {total_records // page_size + 1} pages of {page_size} each")
 
-for page in range(1, total_pages + 1):
-    payload = {
-        "params": {
-            "by": "text",
-            "type": "user",
-            "page": page,
-            "pageSize": 100
-        },
-        "filters": [
-            {"name": "department", "matchDocsWithMissingValues": True, "useValuesToFilter": False},
-            {"name": "tags", "matchDocsWithMissingValues": True, "useValuesToFilter": False},
-            {"name": "customFilterOne", "matchDocsWithMissingValues": True, "useValuesToFilter": False}
-        ]
-    }
+# Step 2: Fetch in pages
+with open(jsonl_path, "w", encoding="utf-8") as jsonl_file, open(log_path, "w") as log_file:
+    for start in range(0, total_records, page_size):
+        payload = {
+            "params": {
+                "by": "text",
+                "type": "user",
+                "text": ""
+            },
+            "pagination": {
+                "startFrom": start,
+                "perPage": page_size
+            },
+            "sort": "relevance",
+            "filters": [
+                {"name": "customFilterOne", "matchDocsWithMissingValues": True, "useValuesToFilter": False},
+                {"name": "department", "matchDocsWithMissingValues": True, "useValuesToFilter": False},
+                {"name": "tags", "matchDocsWithMissingValues": True, "useValuesToFilter": False}
+            ]
+        }
 
-    response = requests.post(url, headers=headers, json=payload)
-    if response.status_code == 200:
-        data = response.json()
-        all_profiles.extend(data.get("resource", []))
-        print(f"✅ Fetched page {page}/{total_pages}")
-    else:
-        print(f"❌ Failed on page {page}: {response.status_code}")
-        break
+        res = requests.post(url, headers=headers, json=payload, timeout=10)
+        if res.status_code != 200:
+            print(f"❌ Failed on batch starting at {start}")
+            break
 
-    time.sleep(0.5)  # Respectful delay
+        profiles = res.json().get("resource", [])
+        print(f"✅ Got {len(profiles)} profiles from {start} to {start + page_size - 1}")
 
-# Save all results
-with open("uab_scholars_all_profiles.json", "w", encoding="utf-8") as f:
-    json.dump(all_profiles, f, indent=2)
+        for profile in profiles:
+            jsonl_file.write(json.dumps(profile, ensure_ascii=False) + "\n")
+            log_file.write(f"{start},{profile.get('discoveryId')},{profile.get('firstNameLastName')}\n")
 
-print(f"🎉 Saved {len(all_profiles)} profiles to uab_scholars_all_profiles.json")
+        time.sleep(1)
+
+print("🎉 Done.")
