@@ -11,25 +11,24 @@
 module load Python/3.11.5-GCCcore-13.2.0
 
 # === Setup ===
-export CHUNK_ID=${SLURM_ARRAY_TASK_ID}
+export CHUNK_ID=${SLURM_ARRAY_TASK_ID:-0}
 export CHUNK_TOTAL=128
 export N_THREADS=8
 
 LOGDIR="logs"
-ERROR_LOG="$LOGDIR/chunk_${CHUNK_ID}_grad_committee_errors.log"
 RETRY_REGISTRY="$LOGDIR/retry_registry_chunk_${CHUNK_ID}.csv"
 export RETRY_REGISTRY
 
 ITER=1
 while true; do
     echo "🚀 Starting iteration $ITER for chunk $CHUNK_ID"
+    echo "📄 Using retry registry: $RETRY_REGISTRY"
 
-    # Run the fetch script
     python3 fetch_graduate_committee.py
 
-    # Check if retry registry was created and is non-empty
     if [ ! -s "$RETRY_REGISTRY" ]; then
         echo "✅ No retryable errors remain in chunk $CHUNK_ID"
+        rm -f "$RETRY_REGISTRY"
         break
     fi
 

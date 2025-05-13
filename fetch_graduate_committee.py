@@ -46,7 +46,6 @@ def fetch_committee_roles(profile, max_retries=5, sleep_secs=2):
 
     output_path = os.path.join(output_dir, f"{discovery_id}.json")
 
-    # Skip if valid JSON already exists
     if os.path.exists(output_path):
         try:
             with open(output_path, "r", encoding="utf-8") as f:
@@ -103,7 +102,6 @@ def fetch_committee_roles(profile, max_retries=5, sleep_secs=2):
                             "endDate": end
                         })
 
-                    # ✅ Only write JSON after successful fetch
                     with open(output_path, "w", encoding="utf-8") as out_f:
                         json.dump(result, out_f, indent=2, ensure_ascii=False)
 
@@ -138,7 +136,7 @@ with ThreadPoolExecutor(max_workers=n_threads) as executor:
         except Exception as e:
             results.append((profile.get("discoveryId"), profile.get("firstNameLastName"), f"fatal_error: {e}"))
 
-# === Write Logs and Update Retry Registry ===
+# === Write Logs and Retry Registry ===
 current_failures = set()
 
 with open(log_file, "a") as log, open(error_file, "a") as err:
@@ -148,10 +146,10 @@ with open(log_file, "a") as log, open(error_file, "a") as err:
             err.write(f"{discovery_id},{name},{status}\n")
             current_failures.add(discovery_id)
 
-# === Overwrite retry registry with only current failures ===
-if retry_registry_file:
-    with open(retry_registry_file, "w") as f:
-        for rid in sorted(current_failures):
-            f.write(f"{rid}\n")
+# === Always write retry registry ===
+registry_path = retry_registry_file or f"logs/retry_registry_chunk_{chunk_id}.csv"
+with open(registry_path, "w") as f:
+    for rid in sorted(current_failures):
+        f.write(f"{rid}\n")
 
 print(f"🎓 Done: chunk {chunk_id}, wrote {len(results)} entries to {output_dir}/")
