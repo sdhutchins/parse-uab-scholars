@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "4971",
+    "userDiscoveryUrlId": "4971-sandeep-bodduluri",
+    "userName": "Sandeep Bodduluri",
+    "teachingDiscoveryId": "3246949",
+    "title": "Thesis Committee for Stevan C Fairburn (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2025-04-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4971",
+    "userDiscoveryUrlId": "4971-sandeep-bodduluri",
+    "userName": "Sandeep Bodduluri",
+    "teachingDiscoveryId": "3192944",
+    "title": "Dissertation Committee for Venkata Lakshm Sthanam (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-22T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4971",
+    "userDiscoveryUrlId": "4971-sandeep-bodduluri",
+    "userName": "Sandeep Bodduluri",
+    "teachingDiscoveryId": "3172287",
+    "title": "Dissertation Committee for Ho-Hsin Chang (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-12T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4971",
+    "userDiscoveryUrlId": "4971-sandeep-bodduluri",
+    "userName": "Sandeep Bodduluri",
+    "teachingDiscoveryId": "3136656",
+    "title": "Dissertation Committee for AKM Shahariar Azad Rabby (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-21T00:00:00-05:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "12543",
+    "userDiscoveryUrlId": "12543-laurence-boitet",
+    "userName": "Laurence Boitet",
+    "teachingDiscoveryId": "3263691",
+    "title": "Thesis Committee for Meagan Ashley Belflower (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-05-05T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "12543",
+    "userDiscoveryUrlId": "12543-laurence-boitet",
+    "userName": "Laurence Boitet",
+    "teachingDiscoveryId": "3096395",
+    "title": "Dissertation Committee for Katherine Rowe (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-23T00:00:00-05:00",
+    "endDate": null
+  }
+]

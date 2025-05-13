@@ -1,0 +1,122 @@
+[
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "3051099",
+    "title": "Dissertation Committee for Arvind Singh Bhati (Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-06-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2975786",
+    "title": "Dissertation Committee for Sachin Budhathoki (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-01-04T00:00:00-06:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2822872",
+    "title": "Dissertation Committee for Meet Patel (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-09-11T00:00:00-05:00",
+    "endDate": "2025-02-25T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2780731",
+    "title": "Dissertation Committee for Meimei Wang (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2774364",
+    "title": "Dissertation Committee for Daniel Minassian (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2758167",
+    "title": "Dissertation Committee for Yutao Hua (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2674308",
+    "title": "Dissertation Committee for Yuhua Wei (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-10T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2491385",
+    "title": "Dissertation Committee for Angelica Toro Cora (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2485537",
+    "title": "Dissertation Committee for Lu Wang (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-10T00:00:00-06:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2400052",
+    "title": "Dissertation Committee for Arun Jyothidasan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-11-16T00:00:00-06:00",
+    "endDate": "2023-06-23T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2320354",
+    "title": "Dissertation Committee for Sayan Bakshi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-02-24T00:00:00-06:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6910",
+    "userDiscoveryUrlId": "6910-hind-lal",
+    "userName": "Hind Lal",
+    "teachingDiscoveryId": "2318303",
+    "title": "Thesis Committee for Zainab Gbongbo Suleiman (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-02-10T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

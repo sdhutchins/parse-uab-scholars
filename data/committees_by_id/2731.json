@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "2731",
+    "userDiscoveryUrlId": "2731-bridge-kennedy",
+    "userName": "Bridge Kennedy",
+    "teachingDiscoveryId": "3263694",
+    "title": "Thesis Committee for Meagan Ashley Belflower (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-05-05T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2731",
+    "userDiscoveryUrlId": "2731-bridge-kennedy",
+    "userName": "Bridge Kennedy",
+    "teachingDiscoveryId": "3036141",
+    "title": "Thesis Committee for Veronica R Mixon (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2731",
+    "userDiscoveryUrlId": "2731-bridge-kennedy",
+    "userName": "Bridge Kennedy",
+    "teachingDiscoveryId": "2518900",
+    "title": "Dissertation Committee for Jennifer Rena Weikard (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-06-23T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2731",
+    "userDiscoveryUrlId": "2731-bridge-kennedy",
+    "userName": "Bridge Kennedy",
+    "teachingDiscoveryId": "2491260",
+    "title": "Dissertation Committee for Caro C Wolfner (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-02-01T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]
