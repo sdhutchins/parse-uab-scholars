@@ -14,4 +14,4 @@ export CHUNK_ID=${SLURM_ARRAY_TASK_ID}
 export CHUNK_TOTAL=128
 export N_THREADS=8
 
-python fetch_grad_committee.py
+python3 fetch_graduate_committee.py

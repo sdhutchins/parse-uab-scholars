@@ -1,0 +1,64 @@
+{
+  "17991": [
+    {
+      "userDiscoveryId": "17991",
+      "userDiscoveryUrlId": "17991-chen-huang",
+      "userName": "Chen Huang",
+      "teachingDiscoveryId": "3169927",
+      "title": "Dissertation Committee for Araf Mahmud (Mentor)",
+      "status": "Unknown",
+      "startDate": "2024-12-10T00:00:00-06:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "17991",
+      "userDiscoveryUrlId": "17991-chen-huang",
+      "userName": "Chen Huang",
+      "teachingDiscoveryId": "3169943",
+      "title": "Dissertation Committee for Stephen Opoku (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2024-12-10T00:00:00-06:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "17991",
+      "userDiscoveryUrlId": "17991-chen-huang",
+      "userName": "Chen Huang",
+      "teachingDiscoveryId": "3091340",
+      "title": "Dissertation Committee for Cody R Dotson (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2024-08-19T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "17991",
+      "userDiscoveryUrlId": "17991-chen-huang",
+      "userName": "Chen Huang",
+      "teachingDiscoveryId": "3036017",
+      "title": "Dissertation Committee for Monima Anam (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2024-04-22T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "17991",
+      "userDiscoveryUrlId": "17991-chen-huang",
+      "userName": "Chen Huang",
+      "teachingDiscoveryId": "2767893",
+      "title": "Dissertation Committee for Radomir Slominski (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2023-04-07T00:00:00-05:00",
+      "endDate": null
+    },
+    {
+      "userDiscoveryId": "17991",
+      "userDiscoveryUrlId": "17991-chen-huang",
+      "userName": "Chen Huang",
+      "teachingDiscoveryId": "2712446",
+      "title": "Dissertation Committee for Kristen Coutinho (Committee Member)",
+      "status": "Current committee member",
+      "startDate": "2023-01-05T00:00:00-06:00",
+      "endDate": null
+    }
+  ]
+}
