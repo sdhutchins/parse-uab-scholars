@@ -7,7 +7,7 @@
 #SBATCH --mem=4G
 #SBATCH --time=01:00:00
 
-module load python/3.11 # or whatever matches your environment
+module load Python/3.11.5-GCCcore-13.2.0
 
 export CHUNK_ID=${SLURM_ARRAY_TASK_ID}
 export CHUNK_TOTAL=128
