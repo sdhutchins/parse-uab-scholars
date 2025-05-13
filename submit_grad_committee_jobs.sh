@@ -2,7 +2,7 @@
 #SBATCH --job-name=grad_committees
 #SBATCH --output=logs/slurm_chunk_%a.out
 #SBATCH --error=logs/slurm_chunk_%a.err
-#SBATCH --array=0-127                  # 128 jobs = ~50 users per chunk
+#SBATCH --array=0-127                  # Adjust based on CHUNK_TOTAL
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=4G
 #SBATCH --time=01:00:00
@@ -15,41 +15,26 @@ export CHUNK_ID=${SLURM_ARRAY_TASK_ID}
 export CHUNK_TOTAL=128
 export N_THREADS=8
 
-# Working files
 LOGDIR="logs"
-ERROR_LOG="$LOGDIR/chunk_${CHUNK_ID}_grad_committee_errors_main.log"
-RETRY_REGISTRY="logs/retry_registry_chunk_${CHUNK_ID}.csv"
+ERROR_LOG="$LOGDIR/chunk_${CHUNK_ID}_grad_committee_errors.log"
 
 # === Loop until no errors ===
 ITER=1
 while true; do
     echo "🚀 Starting iteration $ITER for chunk $CHUNK_ID"
 
-    # Clear retry file
-    rm -f "$RETRY_REGISTRY"
-
-    # Run fetch (uses retry file if it exists)
-    export RETRY_REGISTRY
+    # Run fetch script — will skip existing JSONs
     python3 fetch_graduate_committee.py
 
-    # Check if new errors were logged for this chunk
-    if [ ! -f "$ERROR_LOG" ]; then
-        echo "✅ No error log found. Done with chunk $CHUNK_ID"
+    # If no error log created or it's empty, we're done
+    if [ ! -s "$ERROR_LOG" ]; then
+        echo "✅ No errors logged. Done with chunk $CHUNK_ID"
         break
     fi
 
-    cut -d',' -f1 "$ERROR_LOG" | sort -u >"$RETRY_REGISTRY"
-
-    COUNT=$(wc -l <"$RETRY_REGISTRY")
-    if [ "$COUNT" -eq 0 ]; then
-        echo "✅ No retryable IDs in chunk $CHUNK_ID"
-        break
-    else
-        echo "🔁 Retrying $COUNT IDs in chunk $CHUNK_ID"
-        # Clear error log before next run
-        rm -f "$ERROR_LOG"
-        ((ITER++))
-    fi
+    echo "🔁 Retrying chunk $CHUNK_ID (errors detected)"
+    rm -f "$ERROR_LOG"
+    ((ITER++))
 done
 
 echo "🎓 Completed all retries for chunk $CHUNK_ID"
