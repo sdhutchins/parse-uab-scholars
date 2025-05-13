@@ -39,7 +39,7 @@ chunk_size = len(all_profiles) // chunk_total + 1
 user_profiles = all_profiles[chunk_id * chunk_size:(chunk_id + 1) * chunk_size]
 
 # === Fetch Function ===
-def fetch_committee_roles(profile, max_retries=2, sleep_secs=2):
+def fetch_committee_roles(profile, max_retries=5, sleep_secs=2):
     discovery_id = str(profile.get("discoveryId"))
     if not discovery_id:
         return None, "no_discovery_id"
@@ -77,7 +77,6 @@ def fetch_committee_roles(profile, max_retries=2, sleep_secs=2):
                         if a.get("objectTypeDisplayName") == "Graduate Committee Participation"
                     ]
 
-                    # Build results (even if empty)
                     result = []
                     for act in activities:
                         title = act.get("title", "")
@@ -104,10 +103,11 @@ def fetch_committee_roles(profile, max_retries=2, sleep_secs=2):
                             "endDate": end
                         })
 
+                    # ✅ Only write JSON after successful fetch
                     with open(output_path, "w", encoding="utf-8") as out_f:
                         json.dump(result, out_f, indent=2, ensure_ascii=False)
 
-                    return discovery_id, "ok"
+                    return discovery_id, "empty" if not result else "ok"
 
                 elif r.status_code >= 500:
                     print(f"⏳ Retry ({attempts+1}) for {discovery_id} (HTTP {r.status_code})")
@@ -144,7 +144,7 @@ current_failures = set()
 with open(log_file, "a") as log, open(error_file, "a") as err:
     for discovery_id, name, status in results:
         log.write(f"{discovery_id},{name},{status}\n")
-        if "fail" in status or "error" in status or "retry" in status:
+        if any(x in status for x in ("fail", "error", "retry", "max_retries")):
             err.write(f"{discovery_id},{name},{status}\n")
             current_failures.add(discovery_id)
 
