@@ -6,6 +6,7 @@
 #SBATCH --cpus-per-task=8              # ⬅️ Use 8 threads per task
 #SBATCH --mem=4G
 #SBATCH --time=01:00:00
+#SBATCH --partition=express,amd-hdr100
 
 module load Python/3.11.5-GCCcore-13.2.0
 
