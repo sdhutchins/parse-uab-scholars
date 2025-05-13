@@ -138,11 +138,20 @@ with ThreadPoolExecutor(max_workers=n_threads) as executor:
         except Exception as e:
             results.append((profile.get("discoveryId"), profile.get("firstNameLastName"), f"fatal_error: {e}"))
 
-# === Write Logs ===
+# === Write Logs and Update Retry Registry ===
+current_failures = set()
+
 with open(log_file, "a") as log, open(error_file, "a") as err:
     for discovery_id, name, status in results:
         log.write(f"{discovery_id},{name},{status}\n")
         if "fail" in status or "error" in status or "retry" in status:
             err.write(f"{discovery_id},{name},{status}\n")
+            current_failures.add(discovery_id)
+
+# === Overwrite retry registry with only current failures ===
+if retry_registry_file:
+    with open(retry_registry_file, "w") as f:
+        for rid in sorted(current_failures):
+            f.write(f"{rid}\n")
 
 print(f"🎓 Done: chunk {chunk_id}, wrote {len(results)} entries to {output_dir}/")
