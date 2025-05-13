@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "2043",
+    "userDiscoveryUrlId": "2043-peter-burrows",
+    "userName": "Peter Burrows",
+    "teachingDiscoveryId": "2166695",
+    "title": "Dissertation Committee for Sarah Faxel (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2019-07-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2043",
+    "userDiscoveryUrlId": "2043-peter-burrows",
+    "userName": "Peter Burrows",
+    "teachingDiscoveryId": "1638712",
+    "title": "Dissertation Committee for Kenneth P Hough (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-01-07T00:00:00-06:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2043",
+    "userDiscoveryUrlId": "2043-peter-burrows",
+    "userName": "Peter Burrows",
+    "teachingDiscoveryId": "1635842",
+    "title": "Dissertation Committee for Jennie Hamilton (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-09-24T00:00:00-05:00",
+    "endDate": "2017-08-11T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2043",
+    "userDiscoveryUrlId": "2043-peter-burrows",
+    "userName": "Peter Burrows",
+    "teachingDiscoveryId": "1637951",
+    "title": "Dissertation Committee for Yuge Wang (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-04-03T00:00:00-05:00",
+    "endDate": "2016-12-16T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2043",
+    "userDiscoveryUrlId": "2043-peter-burrows",
+    "userName": "Peter Burrows",
+    "teachingDiscoveryId": "1636324",
+    "title": "Dissertation Committee for Michael S Levinson (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-08-20T00:00:00-05:00",
+    "endDate": "2018-08-11T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2043",
+    "userDiscoveryUrlId": "2043-peter-burrows",
+    "userName": "Peter Burrows",
+    "teachingDiscoveryId": "1635369",
+    "title": "Dissertation Committee for Kristine B Valenteros (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-04-22T00:00:00-05:00",
+    "endDate": "2017-12-15T00:00:00-06:00"
+  }
+]

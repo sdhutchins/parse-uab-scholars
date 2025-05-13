@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "2357",
+    "userDiscoveryUrlId": "2357-josephine-prado",
+    "userName": "Josephine Prado",
+    "teachingDiscoveryId": "3101208",
+    "title": "Dissertation Committee for Sally Anne Perz (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2357",
+    "userDiscoveryUrlId": "2357-josephine-prado",
+    "userName": "Josephine Prado",
+    "teachingDiscoveryId": "2478960",
+    "title": "Dissertation Committee for Patricia M Arrington (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-12-01T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2357",
+    "userDiscoveryUrlId": "2357-josephine-prado",
+    "userName": "Josephine Prado",
+    "teachingDiscoveryId": "2472202",
+    "title": "Dissertation Committee for Melinda S Harrison (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-05T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

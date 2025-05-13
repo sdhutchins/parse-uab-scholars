@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3199",
+    "userDiscoveryUrlId": "3199-kelly-kenzik",
+    "userName": "Kelly Kenzik",
+    "teachingDiscoveryId": "2953333",
+    "title": "Dissertation Committee for Jeffrey Alan Franks (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-14T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3199",
+    "userDiscoveryUrlId": "3199-kelly-kenzik",
+    "userName": "Kelly Kenzik",
+    "teachingDiscoveryId": "2149794",
+    "title": "Dissertation Committee for Courtney L Phillips (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-04-11T00:00:00-05:00",
+    "endDate": "2020-05-02T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3199",
+    "userDiscoveryUrlId": "3199-kelly-kenzik",
+    "userName": "Kelly Kenzik",
+    "teachingDiscoveryId": "1635971",
+    "title": "Dissertation Committee for Jacqueline N Bui (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-04-13T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  }
+]

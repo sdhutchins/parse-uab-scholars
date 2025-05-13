@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "2451",
+    "userDiscoveryUrlId": "2451-donald-burke",
+    "userName": "Donald Burke",
+    "teachingDiscoveryId": "3158020",
+    "title": "Dissertation Committee for Christopher Justin Rabe (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-11-19T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2451",
+    "userDiscoveryUrlId": "2451-donald-burke",
+    "userName": "Donald Burke",
+    "teachingDiscoveryId": "2703596",
+    "title": "Dissertation Committee for Jeffrey P Conkwright (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-12-12T00:00:00-06:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17362",
+    "userDiscoveryUrlId": "17362-sarah-maccarthy",
+    "userName": "Sarah MacCarthy",
+    "teachingDiscoveryId": "3036008",
+    "title": "Dissertation Committee for Nicholas A Carlisle (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-04-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17362",
+    "userDiscoveryUrlId": "17362-sarah-maccarthy",
+    "userName": "Sarah MacCarthy",
+    "teachingDiscoveryId": "2837199",
+    "title": "Dissertation Committee for Juliana Sea (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-09-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17362",
+    "userDiscoveryUrlId": "17362-sarah-maccarthy",
+    "userName": "Sarah MacCarthy",
+    "teachingDiscoveryId": "2736105",
+    "title": "Dissertation Committee for Jane C Murphy (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-02-27T00:00:00-06:00",
+    "endDate": null
+  }
+]

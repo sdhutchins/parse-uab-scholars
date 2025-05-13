@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "6698",
+    "userDiscoveryUrlId": "6698-james-hill",
+    "userName": "James Hill",
+    "teachingDiscoveryId": "2535242",
+    "title": "Dissertation Committee for Ayse G Zengul (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-09-15T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6698",
+    "userDiscoveryUrlId": "6698-james-hill",
+    "userName": "James Hill",
+    "teachingDiscoveryId": "2515425",
+    "title": "Dissertation Committee for Julianne Grace Clina (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-05-25T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6698",
+    "userDiscoveryUrlId": "6698-james-hill",
+    "userName": "James Hill",
+    "teachingDiscoveryId": "2329072",
+    "title": "Thesis Committee for Julianne Grace Clina (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-02T00:00:00-05:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  }
+]

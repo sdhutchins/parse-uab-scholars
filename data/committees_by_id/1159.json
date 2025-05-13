@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "1159",
+    "userDiscoveryUrlId": "1159-eugene-brabston",
+    "userName": "Eugene Brabston",
+    "teachingDiscoveryId": "3187204",
+    "title": "Thesis Committee for Christopher D Morgan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-09T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1159",
+    "userDiscoveryUrlId": "1159-eugene-brabston",
+    "userName": "Eugene Brabston",
+    "teachingDiscoveryId": "2970723",
+    "title": "Thesis Committee for Erica N Schilling (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-12-18T00:00:00-06:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  }
+]

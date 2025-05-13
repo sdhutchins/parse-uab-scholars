@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17756",
+    "userDiscoveryUrlId": "17756-erin-dooley",
+    "userName": "Erin Dooley",
+    "teachingDiscoveryId": "3104743",
+    "title": "Dissertation Committee for Taishayla K Nash (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2024-09-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17756",
+    "userDiscoveryUrlId": "17756-erin-dooley",
+    "userName": "Erin Dooley",
+    "teachingDiscoveryId": "3094421",
+    "title": "Dissertation Committee for Michael J Hankes (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17756",
+    "userDiscoveryUrlId": "17756-erin-dooley",
+    "userName": "Erin Dooley",
+    "teachingDiscoveryId": "2991755",
+    "title": "Dissertation Committee for Gabrielle F Gloston (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-02-14T00:00:00-06:00",
+    "endDate": null
+  }
+]
