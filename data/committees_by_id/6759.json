@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "6759",
+    "userDiscoveryUrlId": "6759-yang-zhou",
+    "userName": "Yang Zhou",
+    "teachingDiscoveryId": "2708676",
+    "title": "Dissertation Committee for Meimei Wang (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-12-22T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6759",
+    "userDiscoveryUrlId": "6759-yang-zhou",
+    "userName": "Yang Zhou",
+    "teachingDiscoveryId": "2679242",
+    "title": "Dissertation Committee for Jalal Majed Khalil (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-11-10T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6759",
+    "userDiscoveryUrlId": "6759-yang-zhou",
+    "userName": "Yang Zhou",
+    "teachingDiscoveryId": "2528196",
+    "title": "Dissertation Committee for Jiacheng Sun (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-01T00:00:00-05:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6759",
+    "userDiscoveryUrlId": "6759-yang-zhou",
+    "userName": "Yang Zhou",
+    "teachingDiscoveryId": "2426278",
+    "title": "Dissertation Committee for Guimu Guo (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-04-21T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6759",
+    "userDiscoveryUrlId": "6759-yang-zhou",
+    "userName": "Yang Zhou",
+    "teachingDiscoveryId": "2503239",
+    "title": "Dissertation Committee for Yingnan Si (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-01-05T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6759",
+    "userDiscoveryUrlId": "6759-yang-zhou",
+    "userName": "Yang Zhou",
+    "teachingDiscoveryId": "2330673",
+    "title": "Dissertation Committee for Lu Wang (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-28T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6759",
+    "userDiscoveryUrlId": "6759-yang-zhou",
+    "userName": "Yang Zhou",
+    "teachingDiscoveryId": "2294577",
+    "title": "Dissertation Committee for Yawen Tang (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-10-23T00:00:00-05:00",
+    "endDate": "2022-01-01T00:00:00-06:00"
+  }
+]

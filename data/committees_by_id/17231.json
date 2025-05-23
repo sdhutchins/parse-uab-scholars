@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17231",
+    "userDiscoveryUrlId": "17231-baocheng-geng",
+    "userName": "Baocheng Geng",
+    "teachingDiscoveryId": "3175172",
+    "title": "Dissertation Committee for Fei Zhao (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-16T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17231",
+    "userDiscoveryUrlId": "17231-baocheng-geng",
+    "userName": "Baocheng Geng",
+    "teachingDiscoveryId": "3088090",
+    "title": "Dissertation Committee for Qizhen Lan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-13T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17231",
+    "userDiscoveryUrlId": "17231-baocheng-geng",
+    "userName": "Baocheng Geng",
+    "teachingDiscoveryId": "3087638",
+    "title": "Thesis Committee for Joshua M Daugherty (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-08-12T00:00:00-05:00",
+    "endDate": null
+  }
+]

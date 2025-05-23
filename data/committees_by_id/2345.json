@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "2345",
+    "userDiscoveryUrlId": "2345-paulette-evans",
+    "userName": "Paulette Evans",
+    "teachingDiscoveryId": "2707537",
+    "title": "Dissertation Committee for Tandy L McAlister (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-12-19T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2345",
+    "userDiscoveryUrlId": "2345-paulette-evans",
+    "userName": "Paulette Evans",
+    "teachingDiscoveryId": "2531813",
+    "title": "Dissertation Committee for Lise M Gelatko (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-08-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2345",
+    "userDiscoveryUrlId": "2345-paulette-evans",
+    "userName": "Paulette Evans",
+    "teachingDiscoveryId": "2485371",
+    "title": "Dissertation Committee for Leslie A Cranford (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-07T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2345",
+    "userDiscoveryUrlId": "2345-paulette-evans",
+    "userName": "Paulette Evans",
+    "teachingDiscoveryId": "2432272",
+    "title": "Dissertation Committee for Andrea M Dailey (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-12-11T00:00:00-06:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  }
+]

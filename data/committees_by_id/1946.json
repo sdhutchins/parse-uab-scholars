@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "1946",
+    "userDiscoveryUrlId": "1946-lisle-hites",
+    "userName": "Lisle Hites",
+    "teachingDiscoveryId": "1632655",
+    "title": "Dissertation Committee for Rhiannon J Deierhoi (Advisor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-04-24T00:00:00-05:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1946",
+    "userDiscoveryUrlId": "1946-lisle-hites",
+    "userName": "Lisle Hites",
+    "teachingDiscoveryId": "2131139",
+    "title": "Dissertation Committee for Chenoia N Bryant (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-01-04T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1946",
+    "userDiscoveryUrlId": "1946-lisle-hites",
+    "userName": "Lisle Hites",
+    "teachingDiscoveryId": "1631970",
+    "title": "Dissertation Committee for Marcia A Hughey (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-12-22T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1946",
+    "userDiscoveryUrlId": "1946-lisle-hites",
+    "userName": "Lisle Hites",
+    "teachingDiscoveryId": "1632549",
+    "title": "Thesis Committee for Chenoia N Bryant (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-08-14T00:00:00-05:00",
+    "endDate": "2015-12-11T00:00:00-06:00"
+  }
+]

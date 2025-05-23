@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "3773",
+    "userDiscoveryUrlId": "3773-jillian-richter",
+    "userName": "Jillian Richter",
+    "teachingDiscoveryId": "3161843",
+    "title": "Dissertation Committee for Krystal Lee Rivera (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-11-26T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3773",
+    "userDiscoveryUrlId": "3773-jillian-richter",
+    "userName": "Jillian Richter",
+    "teachingDiscoveryId": "2971833",
+    "title": "Thesis Committee for Frances P Green (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-12-22T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3773",
+    "userDiscoveryUrlId": "3773-jillian-richter",
+    "userName": "Jillian Richter",
+    "teachingDiscoveryId": "2791502",
+    "title": "Dissertation Committee for Bronte Miller (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-06-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3773",
+    "userDiscoveryUrlId": "3773-jillian-richter",
+    "userName": "Jillian Richter",
+    "teachingDiscoveryId": "2791503",
+    "title": "Dissertation Committee for Vaishali Bala (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-06-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3773",
+    "userDiscoveryUrlId": "3773-jillian-richter",
+    "userName": "Jillian Richter",
+    "teachingDiscoveryId": "2717046",
+    "title": "Dissertation Committee for Abbigael Virginia Eli (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-13T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3773",
+    "userDiscoveryUrlId": "3773-jillian-richter",
+    "userName": "Jillian Richter",
+    "teachingDiscoveryId": "2531670",
+    "title": "Thesis Committee for Cambria Shea O'Grady (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-16T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3773",
+    "userDiscoveryUrlId": "3773-jillian-richter",
+    "userName": "Jillian Richter",
+    "teachingDiscoveryId": "1640228",
+    "title": "Thesis Committee for Kaitlyn S Ryan (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-06-14T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3773",
+    "userDiscoveryUrlId": "3773-jillian-richter",
+    "userName": "Jillian Richter",
+    "teachingDiscoveryId": "1640189",
+    "title": "Thesis Committee for Derek Van Vessem (Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-02-20T00:00:00-06:00",
+    "endDate": "2018-04-27T00:00:00-05:00"
+  }
+]

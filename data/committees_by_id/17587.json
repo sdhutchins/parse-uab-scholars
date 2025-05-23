@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "17587",
+    "userDiscoveryUrlId": "17587-melissa-smith",
+    "userName": "Melissa Smith",
+    "teachingDiscoveryId": "3246947",
+    "title": "Dissertation Committee for Mary Appah (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17587",
+    "userDiscoveryUrlId": "17587-melissa-smith",
+    "userName": "Melissa Smith",
+    "teachingDiscoveryId": "3216650",
+    "title": "Dissertation Committee for Ernestina Osei Boateng (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-26T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17587",
+    "userDiscoveryUrlId": "17587-melissa-smith",
+    "userName": "Melissa Smith",
+    "teachingDiscoveryId": "3161852",
+    "title": "Dissertation Committee for Lingling Wang (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2024-11-26T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17587",
+    "userDiscoveryUrlId": "17587-melissa-smith",
+    "userName": "Melissa Smith",
+    "teachingDiscoveryId": "3047846",
+    "title": "Dissertation Committee for Hely Div Nanavati (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-05-29T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "17587",
+    "userDiscoveryUrlId": "17587-melissa-smith",
+    "userName": "Melissa Smith",
+    "teachingDiscoveryId": "2966957",
+    "title": "Dissertation Committee for John Bassler (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-05T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17587",
+    "userDiscoveryUrlId": "17587-melissa-smith",
+    "userName": "Melissa Smith",
+    "teachingDiscoveryId": "2966773",
+    "title": "Dissertation Committee for Jinhong Cui (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17587",
+    "userDiscoveryUrlId": "17587-melissa-smith",
+    "userName": "Melissa Smith",
+    "teachingDiscoveryId": "2818343",
+    "title": "Dissertation Committee for Amy Elizabeth Callahan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17587",
+    "userDiscoveryUrlId": "17587-melissa-smith",
+    "userName": "Melissa Smith",
+    "teachingDiscoveryId": "2533032",
+    "title": "Dissertation Committee for Andrew M Sims (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-31T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

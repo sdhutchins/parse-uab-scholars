@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "4885",
+    "userDiscoveryUrlId": "4885-ronald-lazar",
+    "userName": "Ronald Lazar",
+    "teachingDiscoveryId": "2768918",
+    "title": "Thesis Committee for Terina L Griffith (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-04-14T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4885",
+    "userDiscoveryUrlId": "4885-ronald-lazar",
+    "userName": "Ronald Lazar",
+    "teachingDiscoveryId": "2679231",
+    "title": "Dissertation Committee for Swetha Ravichandran (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-11-10T00:00:00-06:00",
+    "endDate": "2023-08-17T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "4885",
+    "userDiscoveryUrlId": "4885-ronald-lazar",
+    "userName": "Ronald Lazar",
+    "teachingDiscoveryId": "2344572",
+    "title": "Dissertation Committee for Amani Norling (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-07-29T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "5034",
+    "userDiscoveryUrlId": "5034-robert-richter",
+    "userName": "Robert Richter",
+    "teachingDiscoveryId": "3161848",
+    "title": "Dissertation Committee for Krystal Lee Rivera (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-26T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5034",
+    "userDiscoveryUrlId": "5034-robert-richter",
+    "userName": "Robert Richter",
+    "teachingDiscoveryId": "2971841",
+    "title": "Thesis Committee for Frances P Green (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-22T00:00:00-06:00",
+    "endDate": null
+  }
+]

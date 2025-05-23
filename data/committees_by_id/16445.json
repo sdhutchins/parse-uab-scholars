@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "16445",
+    "userDiscoveryUrlId": "16445-yuji-nakada",
+    "userName": "Yuji Nakada",
+    "teachingDiscoveryId": "3206935",
+    "title": "Dissertation Committee for Xiaoxiao Geng (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16445",
+    "userDiscoveryUrlId": "16445-yuji-nakada",
+    "userName": "Yuji Nakada",
+    "teachingDiscoveryId": "2466430",
+    "title": "Dissertation Committee for Xi Lou (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-31T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

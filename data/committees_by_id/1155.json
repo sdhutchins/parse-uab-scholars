@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "1155",
+    "userDiscoveryUrlId": "1155-john-porterfield",
+    "userName": "John Porterfield",
+    "teachingDiscoveryId": "2312180",
+    "title": "Dissertation Committee for Brandon A Singletary (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-10T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1155",
+    "userDiscoveryUrlId": "1155-john-porterfield",
+    "userName": "John Porterfield",
+    "teachingDiscoveryId": "1630646",
+    "title": "Dissertation Committee for Benjamin J McManus (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-10-12T00:00:00-05:00",
+    "endDate": "2018-04-27T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "549",
+    "userDiscoveryUrlId": "549-greer-burkholder",
+    "userName": "Greer Burkholder",
+    "teachingDiscoveryId": "3043177",
+    "title": "Dissertation Committee for Anna L Davidson (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-05-13T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "549",
+    "userDiscoveryUrlId": "549-greer-burkholder",
+    "userName": "Greer Burkholder",
+    "teachingDiscoveryId": "1979918",
+    "title": "Dissertation Committee for Yuanfan Ye (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-03-05T00:00:00-06:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "549",
+    "userDiscoveryUrlId": "549-greer-burkholder",
+    "userName": "Greer Burkholder",
+    "teachingDiscoveryId": "1637330",
+    "title": "Dissertation Committee for Cosmas Zyambo (Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-09-01T00:00:00-05:00",
+    "endDate": "2018-08-11T00:00:00-05:00"
+  }
+]

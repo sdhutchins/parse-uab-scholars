@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "2527",
+    "userDiscoveryUrlId": "2527-jonathan-amsbary",
+    "userName": "Jonathan Amsbary",
+    "teachingDiscoveryId": "2685950",
+    "title": "Thesis Committee for Curt Carter Anderson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-11-29T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2527",
+    "userDiscoveryUrlId": "2527-jonathan-amsbary",
+    "userName": "Jonathan Amsbary",
+    "teachingDiscoveryId": "2463419",
+    "title": "Thesis Committee for Sezgin Ozay Gozuacik (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-10T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2527",
+    "userDiscoveryUrlId": "2527-jonathan-amsbary",
+    "userName": "Jonathan Amsbary",
+    "teachingDiscoveryId": "2330675",
+    "title": "Dissertation Committee for Charlton Mckenna Jones (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-28T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

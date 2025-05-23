@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17174",
+    "userDiscoveryUrlId": "17174-yusen-zhai",
+    "userName": "Yusen Zhai",
+    "teachingDiscoveryId": "3260149",
+    "title": "Dissertation Committee for Emuni Sanderson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-30T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17174",
+    "userDiscoveryUrlId": "17174-yusen-zhai",
+    "userName": "Yusen Zhai",
+    "teachingDiscoveryId": "2819456",
+    "title": "Dissertation Committee for Katherine C Busch (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-08-30T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "17174",
+    "userDiscoveryUrlId": "17174-yusen-zhai",
+    "userName": "Yusen Zhai",
+    "teachingDiscoveryId": "2717020",
+    "title": "Dissertation Committee for Jordin A Bonds (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-13T00:00:00-06:00",
+    "endDate": null
+  }
+]

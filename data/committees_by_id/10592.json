@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "10592",
+    "userDiscoveryUrlId": "10592-chao-he",
+    "userName": "Chao He",
+    "teachingDiscoveryId": "3033121",
+    "title": "Thesis Committee for Jiaxi Shen (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "10592",
+    "userDiscoveryUrlId": "10592-chao-he",
+    "userName": "Chao He",
+    "teachingDiscoveryId": "2774370",
+    "title": "Dissertation Committee for Daniel Minassian (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-28T00:00:00-05:00",
+    "endDate": null
+  }
+]

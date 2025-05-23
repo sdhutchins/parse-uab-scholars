@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "7241",
+    "userDiscoveryUrlId": "7241-ian-mckeag",
+    "userName": "Ian McKeag",
+    "teachingDiscoveryId": "3121976",
+    "title": "Dissertation Committee for Allyn Abadie (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7241",
+    "userDiscoveryUrlId": "7241-ian-mckeag",
+    "userName": "Ian McKeag",
+    "teachingDiscoveryId": "2471947",
+    "title": "Dissertation Committee for Aston Dommel (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-10-07T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  }
+]

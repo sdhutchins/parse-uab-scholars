@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3375",
+    "userDiscoveryUrlId": "3375-adelais-markaki",
+    "userName": "Adelais Markaki",
+    "teachingDiscoveryId": "3083063",
+    "title": "Dissertation Committee for Krisada Suamchaiyaphum (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-06T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3375",
+    "userDiscoveryUrlId": "3375-adelais-markaki",
+    "userName": "Adelais Markaki",
+    "teachingDiscoveryId": "2343831",
+    "title": "Dissertation Committee for Rebecca L Sipples (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-06-03T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3375",
+    "userDiscoveryUrlId": "3375-adelais-markaki",
+    "userName": "Adelais Markaki",
+    "teachingDiscoveryId": "2310962",
+    "title": "Dissertation Committee for Melissa W Hawkins (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-12-16T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

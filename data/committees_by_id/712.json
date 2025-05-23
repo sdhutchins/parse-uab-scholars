@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "712",
+    "userDiscoveryUrlId": "712-khurram-bashir",
+    "userName": "Khurram Bashir",
+    "teachingDiscoveryId": "2040536",
+    "title": "Dissertation Committee for Stephanie C Mueller (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-05-30T00:00:00-05:00",
+    "endDate": "2019-03-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "712",
+    "userDiscoveryUrlId": "712-khurram-bashir",
+    "userName": "Khurram Bashir",
+    "teachingDiscoveryId": "1635267",
+    "title": "Dissertation Committee for Tyler T Wright (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2011-10-20T00:00:00-05:00",
+    "endDate": "2015-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "712",
+    "userDiscoveryUrlId": "712-khurram-bashir",
+    "userName": "Khurram Bashir",
+    "teachingDiscoveryId": "1631262",
+    "title": "Dissertation Committee for Qing Li (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-05-21T00:00:00-05:00",
+    "endDate": "2008-08-07T00:00:00-05:00"
+  }
+]

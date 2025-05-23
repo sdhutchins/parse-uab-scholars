@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "16278",
+    "userDiscoveryUrlId": "16278-matthew-nelson",
+    "userName": "Matthew Nelson",
+    "teachingDiscoveryId": "2785036",
+    "title": "Dissertation Committee for Christophe Bradley Smith (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-05-26T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16278",
+    "userDiscoveryUrlId": "16278-matthew-nelson",
+    "userName": "Matthew Nelson",
+    "teachingDiscoveryId": "3091607",
+    "title": "Dissertation Committee for Saarth Anjali Chitale (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-01-19T00:00:00-06:00",
+    "endDate": null
+  }
+]

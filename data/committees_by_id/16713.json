@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "16713",
+    "userDiscoveryUrlId": "16713-paige-porrett",
+    "userName": "Paige Porrett",
+    "teachingDiscoveryId": "2989981",
+    "title": "Dissertation Committee for Brittney Miranda Knott (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-02-12T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16713",
+    "userDiscoveryUrlId": "16713-paige-porrett",
+    "userName": "Paige Porrett",
+    "teachingDiscoveryId": "2983516",
+    "title": "Dissertation Committee for Chloe Meewes (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-01-26T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16713",
+    "userDiscoveryUrlId": "16713-paige-porrett",
+    "userName": "Paige Porrett",
+    "teachingDiscoveryId": "2812386",
+    "title": "Dissertation Committee for Morgan E Greene (Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-08-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16713",
+    "userDiscoveryUrlId": "16713-paige-porrett",
+    "userName": "Paige Porrett",
+    "teachingDiscoveryId": "2486710",
+    "title": "Dissertation Committee for John T Killian (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-27T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

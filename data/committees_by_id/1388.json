@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "1388",
+    "userDiscoveryUrlId": "1388-janice-jackson",
+    "userName": "Janice Jackson",
+    "teachingDiscoveryId": "3119588",
+    "title": "Thesis Committee for Quiesly Torres Quinones (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1388",
+    "userDiscoveryUrlId": "1388-janice-jackson",
+    "userName": "Janice Jackson",
+    "teachingDiscoveryId": "3111026",
+    "title": "Thesis Committee for Walaa Mohieden Alturki (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1388",
+    "userDiscoveryUrlId": "1388-janice-jackson",
+    "userName": "Janice Jackson",
+    "teachingDiscoveryId": "2818127",
+    "title": "Thesis Committee for Phorum Desai (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-08-25T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1388",
+    "userDiscoveryUrlId": "1388-janice-jackson",
+    "userName": "Janice Jackson",
+    "teachingDiscoveryId": "2779279",
+    "title": "Thesis Committee for Leena Menon (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-08T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1388",
+    "userDiscoveryUrlId": "1388-janice-jackson",
+    "userName": "Janice Jackson",
+    "teachingDiscoveryId": "2518525",
+    "title": "Thesis Committee for Namrata Pradeep Landge (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-06-15T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1388",
+    "userDiscoveryUrlId": "1388-janice-jackson",
+    "userName": "Janice Jackson",
+    "teachingDiscoveryId": "2486477",
+    "title": "Thesis Committee for Taimy Cruz Hondares (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-15T00:00:00-06:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1388",
+    "userDiscoveryUrlId": "1388-janice-jackson",
+    "userName": "Janice Jackson",
+    "teachingDiscoveryId": "2478955",
+    "title": "Thesis Committee for Alexandra A Chen (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-01T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

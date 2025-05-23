@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "17080",
+    "userDiscoveryUrlId": "17080-bryan-becker",
+    "userName": "Bryan Becker",
+    "teachingDiscoveryId": "3225135",
+    "title": "Dissertation Committee for Hiruni Marsha Aponso (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-03-10T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17080",
+    "userDiscoveryUrlId": "17080-bryan-becker",
+    "userName": "Bryan Becker",
+    "teachingDiscoveryId": "3175418",
+    "title": "Dissertation Committee for Tamara Al-Daghastani (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17080",
+    "userDiscoveryUrlId": "17080-bryan-becker",
+    "userName": "Bryan Becker",
+    "teachingDiscoveryId": "3033122",
+    "title": "Thesis Committee for Jiaxi Shen (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-04-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17080",
+    "userDiscoveryUrlId": "17080-bryan-becker",
+    "userName": "Bryan Becker",
+    "teachingDiscoveryId": "2818344",
+    "title": "Dissertation Committee for Robert F Rosencrans (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-08-28T00:00:00-05:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  }
+]

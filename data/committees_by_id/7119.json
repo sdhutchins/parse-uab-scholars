@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "7119",
+    "userDiscoveryUrlId": "7119-cassandra-newsom",
+    "userName": "Cassandra Newsom",
+    "teachingDiscoveryId": "2989781",
+    "title": "Thesis Committee for McKayla Kurtz (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-02-09T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7119",
+    "userDiscoveryUrlId": "7119-cassandra-newsom",
+    "userName": "Cassandra Newsom",
+    "teachingDiscoveryId": "2763523",
+    "title": "Dissertation Committee for Zachary Enos Arnold (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2023-04-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7119",
+    "userDiscoveryUrlId": "7119-cassandra-newsom",
+    "userName": "Cassandra Newsom",
+    "teachingDiscoveryId": "2524556",
+    "title": "Dissertation Committee for Oludesola Oludayo Ogunesan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-07-14T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7119",
+    "userDiscoveryUrlId": "7119-cassandra-newsom",
+    "userName": "Cassandra Newsom",
+    "teachingDiscoveryId": "2329453",
+    "title": "Dissertation Committee for Helen K Root (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-17T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17501",
+    "userDiscoveryUrlId": "17501-elizabeth-lucas",
+    "userName": "Elizabeth Lucas",
+    "teachingDiscoveryId": "3202312",
+    "title": "Dissertation Committee for Patric Joseph Perez (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17501",
+    "userDiscoveryUrlId": "17501-elizabeth-lucas",
+    "userName": "Elizabeth Lucas",
+    "teachingDiscoveryId": "2983510",
+    "title": "Dissertation Committee for Alexa Jo Tellez (Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-01-26T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17501",
+    "userDiscoveryUrlId": "17501-elizabeth-lucas",
+    "userName": "Elizabeth Lucas",
+    "teachingDiscoveryId": "2850540",
+    "title": "Dissertation Committee for Brianna Fitzgerald (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-10-18T00:00:00-05:00",
+    "endDate": null
+  }
+]

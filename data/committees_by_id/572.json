@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "572",
+    "userDiscoveryUrlId": "572-edgar-overton",
+    "userName": "Edgar Overton",
+    "teachingDiscoveryId": "2422466",
+    "title": "Dissertation Committee for Morgan E Greene (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": "2023-08-18T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "572",
+    "userDiscoveryUrlId": "572-edgar-overton",
+    "userName": "Edgar Overton",
+    "teachingDiscoveryId": "2316936",
+    "title": "Dissertation Committee for Alison P Footman (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-02-04T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "572",
+    "userDiscoveryUrlId": "572-edgar-overton",
+    "userName": "Edgar Overton",
+    "teachingDiscoveryId": "2040534",
+    "title": "Dissertation Committee for Ashley N Wimer (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2018-05-30T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "572",
+    "userDiscoveryUrlId": "572-edgar-overton",
+    "userName": "Edgar Overton",
+    "teachingDiscoveryId": "1625308",
+    "title": "Dissertation Committee for Josh N Muhammad (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-02-17T00:00:00-06:00",
+    "endDate": "2018-04-28T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "572",
+    "userDiscoveryUrlId": "572-edgar-overton",
+    "userName": "Edgar Overton",
+    "teachingDiscoveryId": "1634243",
+    "title": "Dissertation Committee for Aditi Dil Shendre (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-08-27T00:00:00-05:00",
+    "endDate": "2016-08-12T00:00:00-05:00"
+  }
+]

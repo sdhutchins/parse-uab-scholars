@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3599",
+    "userDiscoveryUrlId": "3599-akila-subramaniam",
+    "userName": "Akila Subramaniam",
+    "teachingDiscoveryId": "3042671",
+    "title": "Dissertation Committee for Samuel I Stowe (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-10T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3599",
+    "userDiscoveryUrlId": "3599-akila-subramaniam",
+    "userName": "Akila Subramaniam",
+    "teachingDiscoveryId": "2429936",
+    "title": "Thesis Committee for Madeleine Mcgwin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-13T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  }
+]

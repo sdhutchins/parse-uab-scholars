@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "6179",
+    "userDiscoveryUrlId": "6179-emily-johnston",
+    "userName": "Emily Johnston",
+    "teachingDiscoveryId": "3175393",
+    "title": "Dissertation Committee for Kathryn Lenington (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6179",
+    "userDiscoveryUrlId": "6179-emily-johnston",
+    "userName": "Emily Johnston",
+    "teachingDiscoveryId": "2319560",
+    "title": "Thesis Committee for Elizabeth Statham Davis (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-02-19T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  }
+]

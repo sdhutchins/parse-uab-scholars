@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "17143",
+    "userDiscoveryUrlId": "17143-natalie-gassman",
+    "userName": "Natalie Gassman",
+    "teachingDiscoveryId": "3149472",
+    "title": "Dissertation Committee for Nayonika Mukherjee (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-11-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17143",
+    "userDiscoveryUrlId": "17143-natalie-gassman",
+    "userName": "Natalie Gassman",
+    "teachingDiscoveryId": "3111025",
+    "title": "Dissertation Committee for Robert Griffin Thompson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17143",
+    "userDiscoveryUrlId": "17143-natalie-gassman",
+    "userName": "Natalie Gassman",
+    "teachingDiscoveryId": "3090584",
+    "title": "Dissertation Committee for Aniruddha Mukherjee (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17143",
+    "userDiscoveryUrlId": "17143-natalie-gassman",
+    "userName": "Natalie Gassman",
+    "teachingDiscoveryId": "2822879",
+    "title": "Dissertation Committee for Hailey J Levi (Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-09-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17143",
+    "userDiscoveryUrlId": "17143-natalie-gassman",
+    "userName": "Natalie Gassman",
+    "teachingDiscoveryId": "2780204",
+    "title": "Thesis Committee for Lakshmi Madhusoodanan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-10T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "17143",
+    "userDiscoveryUrlId": "17143-natalie-gassman",
+    "userName": "Natalie Gassman",
+    "teachingDiscoveryId": "2473328",
+    "title": "Dissertation Committee for Arlet Hernandez (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-10-20T00:00:00-05:00",
+    "endDate": null
+  }
+]

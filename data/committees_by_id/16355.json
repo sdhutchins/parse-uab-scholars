@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "16355",
+    "userDiscoveryUrlId": "16355-zachary-irwin",
+    "userName": "Zachary Irwin",
+    "teachingDiscoveryId": "3153774",
+    "title": "Dissertation Committee for Autum Key (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16355",
+    "userDiscoveryUrlId": "16355-zachary-irwin",
+    "userName": "Zachary Irwin",
+    "teachingDiscoveryId": "3096385",
+    "title": "Thesis Committee for Robert C Rawlins (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-08-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16355",
+    "userDiscoveryUrlId": "16355-zachary-irwin",
+    "userName": "Zachary Irwin",
+    "teachingDiscoveryId": "2513700",
+    "title": "Dissertation Committee for Anas U Khan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-04-26T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "16355",
+    "userDiscoveryUrlId": "16355-zachary-irwin",
+    "userName": "Zachary Irwin",
+    "teachingDiscoveryId": "2453101",
+    "title": "Dissertation Committee for Adeel A Memon (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-06-28T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "2796",
+    "userDiscoveryUrlId": "2796-sarah-parcak",
+    "userName": "Sarah Parcak",
+    "teachingDiscoveryId": "2489220",
+    "title": "Thesis Committee for Marsha M Smith (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-01-14T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2796",
+    "userDiscoveryUrlId": "2796-sarah-parcak",
+    "userName": "Sarah Parcak",
+    "teachingDiscoveryId": "2113251",
+    "title": "Thesis Committee for Edison D Pearce (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-10-18T00:00:00-05:00",
+    "endDate": "2021-08-24T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2796",
+    "userDiscoveryUrlId": "2796-sarah-parcak",
+    "userName": "Sarah Parcak",
+    "teachingDiscoveryId": "1636078",
+    "title": "Dissertation Committee for Elizabeth M Bevan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-12-11T00:00:00-06:00",
+    "endDate": "2018-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2796",
+    "userDiscoveryUrlId": "2796-sarah-parcak",
+    "userName": "Sarah Parcak",
+    "teachingDiscoveryId": "1638524",
+    "title": "Dissertation Committee for Reda Ahmed Esm El Arafy (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-01-22T00:00:00-06:00",
+    "endDate": "2016-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2796",
+    "userDiscoveryUrlId": "2796-sarah-parcak",
+    "userName": "Sarah Parcak",
+    "teachingDiscoveryId": "1634316",
+    "title": "Dissertation Committee for Laura Bri Gast (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-08-21T00:00:00-05:00",
+    "endDate": "2014-04-25T00:00:00-05:00"
+  }
+]

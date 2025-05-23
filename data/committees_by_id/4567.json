@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "4567",
+    "userDiscoveryUrlId": "4567-david-garber",
+    "userName": "David Garber",
+    "teachingDiscoveryId": "1633049",
+    "title": "Dissertation Committee for Gaurav Nayyar (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2011-05-13T00:00:00-05:00",
+    "endDate": "2012-08-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "4567",
+    "userDiscoveryUrlId": "4567-david-garber",
+    "userName": "David Garber",
+    "teachingDiscoveryId": "1631652",
+    "title": "Thesis Committee for Toral R Patel (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2010-12-28T00:00:00-06:00",
+    "endDate": "2011-05-04T00:00:00-05:00"
+  }
+]

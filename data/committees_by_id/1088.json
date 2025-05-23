@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "1088",
+    "userDiscoveryUrlId": "1088-amy-knight",
+    "userName": "Amy Knight",
+    "teachingDiscoveryId": "3107474",
+    "title": "Thesis Committee for Meagan Leigh Thompson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1088",
+    "userDiscoveryUrlId": "1088-amy-knight",
+    "userName": "Amy Knight",
+    "teachingDiscoveryId": "2837011",
+    "title": "Dissertation Committee for Anudeep Bolaram (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-09-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1088",
+    "userDiscoveryUrlId": "1088-amy-knight",
+    "userName": "Amy Knight",
+    "teachingDiscoveryId": "3101211",
+    "title": "Dissertation Committee for Jason Blake (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-04-06T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1088",
+    "userDiscoveryUrlId": "1088-amy-knight",
+    "userName": "Amy Knight",
+    "teachingDiscoveryId": "2377231",
+    "title": "Thesis Committee for Jason Blake (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-08-06T00:00:00-05:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1088",
+    "userDiscoveryUrlId": "1088-amy-knight",
+    "userName": "Amy Knight",
+    "teachingDiscoveryId": "1640216",
+    "title": "Thesis Committee for Tyler P Bull (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-12-06T00:00:00-06:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1088",
+    "userDiscoveryUrlId": "1088-amy-knight",
+    "userName": "Amy Knight",
+    "teachingDiscoveryId": "1638064",
+    "title": "Dissertation Committee for Amber M Gregory (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-05-17T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1088",
+    "userDiscoveryUrlId": "1088-amy-knight",
+    "userName": "Amy Knight",
+    "teachingDiscoveryId": "1638964",
+    "title": "Dissertation Committee for Nathaniel G Harnett (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-03-16T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1088",
+    "userDiscoveryUrlId": "1088-amy-knight",
+    "userName": "Amy Knight",
+    "teachingDiscoveryId": "1637171",
+    "title": "Dissertation Committee for Caroline L Lassen Greene (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-05-06T00:00:00-05:00",
+    "endDate": "2018-08-11T00:00:00-05:00"
+  }
+]

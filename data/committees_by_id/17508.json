@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17508",
+    "userDiscoveryUrlId": "17508-ritu-kowatra",
+    "userName": "Ritu Kowatra",
+    "teachingDiscoveryId": "3161851",
+    "title": "Dissertation Committee for Lingling Wang (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-26T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17508",
+    "userDiscoveryUrlId": "17508-ritu-kowatra",
+    "userName": "Ritu Kowatra",
+    "teachingDiscoveryId": "3161488",
+    "title": "Dissertation Committee for Nusrat Fatima (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-22T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17508",
+    "userDiscoveryUrlId": "17508-ritu-kowatra",
+    "userName": "Ritu Kowatra",
+    "teachingDiscoveryId": "3113609",
+    "title": "Dissertation Committee for Mahak Bhargava (Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-10-01T00:00:00-05:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "3099",
+    "userDiscoveryUrlId": "3099-nathan-erdmann",
+    "userName": "Nathan Erdmann",
+    "teachingDiscoveryId": "3113258",
+    "title": "Dissertation Committee for Ourania Smeltz (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3099",
+    "userDiscoveryUrlId": "3099-nathan-erdmann",
+    "userName": "Nathan Erdmann",
+    "teachingDiscoveryId": "2972331",
+    "title": "Dissertation Committee for Kyle Robert Landers Landers (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2023-12-27T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3099",
+    "userDiscoveryUrlId": "3099-nathan-erdmann",
+    "userName": "Nathan Erdmann",
+    "teachingDiscoveryId": "2972311",
+    "title": "Dissertation Committee for Skye Amber Opsteen (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-12-27T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3099",
+    "userDiscoveryUrlId": "3099-nathan-erdmann",
+    "userName": "Nathan Erdmann",
+    "teachingDiscoveryId": "2530557",
+    "title": "Thesis Committee for Skye Amber Opsteen (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-08-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3099",
+    "userDiscoveryUrlId": "3099-nathan-erdmann",
+    "userName": "Nathan Erdmann",
+    "teachingDiscoveryId": "2143393",
+    "title": "Dissertation Committee for Krystle L Ong (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-03-05T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

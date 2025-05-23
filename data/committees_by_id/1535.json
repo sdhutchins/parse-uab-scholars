@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "1535",
+    "userDiscoveryUrlId": "1535-pamela-bowen",
+    "userName": "Pamela Bowen",
+    "teachingDiscoveryId": "3079618",
+    "title": "Thesis Committee for Terina L Griffith (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-07-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1535",
+    "userDiscoveryUrlId": "1535-pamela-bowen",
+    "userName": "Pamela Bowen",
+    "teachingDiscoveryId": "2725530",
+    "title": "Dissertation Committee for Elizabeth S Coleman (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-02-01T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1535",
+    "userDiscoveryUrlId": "1535-pamela-bowen",
+    "userName": "Pamela Bowen",
+    "teachingDiscoveryId": "2486466",
+    "title": "Dissertation Committee for Shameka L Rodgers (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-15T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1535",
+    "userDiscoveryUrlId": "1535-pamela-bowen",
+    "userName": "Pamela Bowen",
+    "teachingDiscoveryId": "2431479",
+    "title": "Dissertation Committee for Wesley Ryan Browning (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-06-18T00:00:00-05:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1535",
+    "userDiscoveryUrlId": "1535-pamela-bowen",
+    "userName": "Pamela Bowen",
+    "teachingDiscoveryId": "1639090",
+    "title": "Thesis Committee for Wesley Ryan Browning (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-12-06T00:00:00-06:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1535",
+    "userDiscoveryUrlId": "1535-pamela-bowen",
+    "userName": "Pamela Bowen",
+    "teachingDiscoveryId": "1636624",
+    "title": "Dissertation Committee for Alice M Austin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-10-07T00:00:00-05:00",
+    "endDate": "2017-04-28T00:00:00-05:00"
+  }
+]

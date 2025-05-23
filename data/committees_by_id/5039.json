@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "5039",
+    "userDiscoveryUrlId": "5039-lyne-racette",
+    "userName": "Lyne Racette",
+    "teachingDiscoveryId": "2818126",
+    "title": "Dissertation Committee for Sourav Datta (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-08-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5039",
+    "userDiscoveryUrlId": "5039-lyne-racette",
+    "userName": "Lyne Racette",
+    "teachingDiscoveryId": "2676440",
+    "title": "Dissertation Committee for Ellen Konadu Antwi-Adjei (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-10-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5039",
+    "userDiscoveryUrlId": "5039-lyne-racette",
+    "userName": "Lyne Racette",
+    "teachingDiscoveryId": "2131272",
+    "title": "Dissertation Committee for Shervonne Poleon (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-12-14T00:00:00-06:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  }
+]

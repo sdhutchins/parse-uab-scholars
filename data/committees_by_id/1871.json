@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "1871",
+    "userDiscoveryUrlId": "1871-john-lowman",
+    "userName": "John Lowman",
+    "teachingDiscoveryId": "3051097",
+    "title": "Dissertation Committee for Murdi S Alanazi (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-06-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1871",
+    "userDiscoveryUrlId": "1871-john-lowman",
+    "userName": "John Lowman",
+    "teachingDiscoveryId": "3025729",
+    "title": "Dissertation Committee for Pooja Arora (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1871",
+    "userDiscoveryUrlId": "1871-john-lowman",
+    "userName": "John Lowman",
+    "teachingDiscoveryId": "2818807",
+    "title": "Dissertation Committee for Najlaa Zayed Alotaibi (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-08-29T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1871",
+    "userDiscoveryUrlId": "1871-john-lowman",
+    "userName": "John Lowman",
+    "teachingDiscoveryId": "2801879",
+    "title": "Dissertation Committee for Mckenna Anne Tharpe (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2023-07-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1871",
+    "userDiscoveryUrlId": "1871-john-lowman",
+    "userName": "John Lowman",
+    "teachingDiscoveryId": "2779197",
+    "title": "Dissertation Committee for Corey D Feasel (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-05-05T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1871",
+    "userDiscoveryUrlId": "1871-john-lowman",
+    "userName": "John Lowman",
+    "teachingDiscoveryId": "2123443",
+    "title": "Dissertation Committee for Hassan Y Abu Nurah (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-11-27T00:00:00-06:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  }
+]

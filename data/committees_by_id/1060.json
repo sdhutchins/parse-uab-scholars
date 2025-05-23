@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "1060",
+    "userDiscoveryUrlId": "1060-markus-bredel",
+    "userName": "Markus Bredel",
+    "teachingDiscoveryId": "2726667",
+    "title": "Dissertation Committee for Caitlin Harvey (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-02-03T00:00:00-06:00",
+    "endDate": "2025-01-21T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1060",
+    "userDiscoveryUrlId": "1060-markus-bredel",
+    "userName": "Markus Bredel",
+    "teachingDiscoveryId": "2676494",
+    "title": "Dissertation Committee for Aran Merati (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-10-31T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1060",
+    "userDiscoveryUrlId": "1060-markus-bredel",
+    "userName": "Markus Bredel",
+    "teachingDiscoveryId": "1640239",
+    "title": "Dissertation Committee for Sindhu Nair (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-11-06T00:00:00-06:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1060",
+    "userDiscoveryUrlId": "1060-markus-bredel",
+    "userName": "Markus Bredel",
+    "teachingDiscoveryId": "1639376",
+    "title": "Dissertation Committee for Christian T Stackhouse (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-06-02T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1060",
+    "userDiscoveryUrlId": "1060-markus-bredel",
+    "userName": "Markus Bredel",
+    "teachingDiscoveryId": "1638334",
+    "title": "Dissertation Committee for Nicholas J Eustace (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-04-02T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1060",
+    "userDiscoveryUrlId": "1060-markus-bredel",
+    "userName": "Markus Bredel",
+    "teachingDiscoveryId": "1638135",
+    "title": "Dissertation Committee for Joshua Fried (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-04-17T00:00:00-05:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1060",
+    "userDiscoveryUrlId": "1060-markus-bredel",
+    "userName": "Markus Bredel",
+    "teachingDiscoveryId": "1636995",
+    "title": "Dissertation Committee for Angel Alvarez (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2011-01-05T00:00:00-06:00",
+    "endDate": "2014-04-25T00:00:00-05:00"
+  }
+]

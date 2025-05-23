@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "738",
+    "userDiscoveryUrlId": "738-sandipan-pati",
+    "userName": "Sandipan Pati",
+    "teachingDiscoveryId": "2411709",
+    "title": "Dissertation Committee for Diana Pizarro (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-02-04T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "738",
+    "userDiscoveryUrlId": "738-sandipan-pati",
+    "userName": "Sandipan Pati",
+    "teachingDiscoveryId": "2312186",
+    "title": "Dissertation Committee for Adeel A Memon (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-12-26T00:00:00-06:00",
+    "endDate": "2021-06-28T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "738",
+    "userDiscoveryUrlId": "738-sandipan-pati",
+    "userName": "Sandipan Pati",
+    "teachingDiscoveryId": "2140139",
+    "title": "Dissertation Committee for Graham D Cochrane (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-02-11T00:00:00-06:00",
+    "endDate": "2020-12-18T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "738",
+    "userDiscoveryUrlId": "738-sandipan-pati",
+    "userName": "Sandipan Pati",
+    "teachingDiscoveryId": "2003596",
+    "title": "Dissertation Committee for Luke T Stewart (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-03-29T00:00:00-05:00",
+    "endDate": "2018-04-27T00:00:00-05:00"
+  }
+]

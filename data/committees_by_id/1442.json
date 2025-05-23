@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "1442",
+    "userDiscoveryUrlId": "1442-janene-sims",
+    "userName": "Janene Sims",
+    "teachingDiscoveryId": "2985442",
+    "title": "Thesis Committee for Malia Kawena Princess McDowell (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-02-05T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1442",
+    "userDiscoveryUrlId": "1442-janene-sims",
+    "userName": "Janene Sims",
+    "teachingDiscoveryId": "2818125",
+    "title": "Dissertation Committee for Sourav Datta (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1442",
+    "userDiscoveryUrlId": "1442-janene-sims",
+    "userName": "Janene Sims",
+    "teachingDiscoveryId": "2812627",
+    "title": "Dissertation Committee for Ellen Konadu Antwi-Adjei (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-21T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1442",
+    "userDiscoveryUrlId": "1442-janene-sims",
+    "userName": "Janene Sims",
+    "teachingDiscoveryId": "2329063",
+    "title": "Dissertation Committee for Bright Asare-Bediako (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-14T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  }
+]

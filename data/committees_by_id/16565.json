@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "16565",
+    "userDiscoveryUrlId": "16565-ryan-melvin",
+    "userName": "Ryan Melvin",
+    "teachingDiscoveryId": "2995484",
+    "title": "Thesis Committee for Abel Lopez (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-02-26T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "16565",
+    "userDiscoveryUrlId": "16565-ryan-melvin",
+    "userName": "Ryan Melvin",
+    "teachingDiscoveryId": "2768922",
+    "title": "Dissertation Committee for Kaili Hu (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-04-14T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16565",
+    "userDiscoveryUrlId": "16565-ryan-melvin",
+    "userName": "Ryan Melvin",
+    "teachingDiscoveryId": "2409932",
+    "title": "Dissertation Committee for Tarun karthik kumar Mamidi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-01-21T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  }
+]

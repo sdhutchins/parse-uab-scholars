@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3114",
+    "userDiscoveryUrlId": "3114-erika-austin",
+    "userName": "Erika Austin",
+    "teachingDiscoveryId": "2811356",
+    "title": "Dissertation Committee for Amy Elizabeth Callahan (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2023-08-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3114",
+    "userDiscoveryUrlId": "3114-erika-austin",
+    "userName": "Erika Austin",
+    "teachingDiscoveryId": "2470806",
+    "title": "Dissertation Committee for Jessica P Blair (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-10-04T00:00:00-05:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3114",
+    "userDiscoveryUrlId": "3114-erika-austin",
+    "userName": "Erika Austin",
+    "teachingDiscoveryId": "2472195",
+    "title": "Dissertation Committee for Melinda S Harrison (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-05T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

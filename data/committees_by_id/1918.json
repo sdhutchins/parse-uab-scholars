@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "1918",
+    "userDiscoveryUrlId": "1918-kelley-swatzell",
+    "userName": "Kelley Swatzell",
+    "teachingDiscoveryId": "2791146",
+    "title": "Dissertation Committee for Margaret A Enlow (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-06-27T00:00:00-05:00",
+    "endDate": "2023-11-20T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1918",
+    "userDiscoveryUrlId": "1918-kelley-swatzell",
+    "userName": "Kelley Swatzell",
+    "teachingDiscoveryId": "1636650",
+    "title": "Dissertation Committee for Sylvia Zhongyi Pan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2016-07-21T00:00:00-05:00",
+    "endDate": null
+  }
+]

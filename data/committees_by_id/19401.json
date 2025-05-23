@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "19401",
+    "userDiscoveryUrlId": "19401-satwik-acharyya",
+    "userName": "Satwik Acharyya",
+    "teachingDiscoveryId": "3246952",
+    "title": "Dissertation Committee for Mary Appah (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "19401",
+    "userDiscoveryUrlId": "19401-satwik-acharyya",
+    "userName": "Satwik Acharyya",
+    "teachingDiscoveryId": "3210377",
+    "title": "Dissertation Committee for Md Hasanul Banna Siam (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-14T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "19401",
+    "userDiscoveryUrlId": "19401-satwik-acharyya",
+    "userName": "Satwik Acharyya",
+    "teachingDiscoveryId": "3153975",
+    "title": "Dissertation Committee for Zhenying Ding (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-13T00:00:00-06:00",
+    "endDate": null
+  }
+]

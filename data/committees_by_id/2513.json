@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "2513",
+    "userDiscoveryUrlId": "2513-gary-gray",
+    "userName": "Gary Gray",
+    "teachingDiscoveryId": "2115041",
+    "title": "Dissertation Committee for David French (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-10-29T00:00:00-05:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2513",
+    "userDiscoveryUrlId": "2513-gary-gray",
+    "userName": "Gary Gray",
+    "teachingDiscoveryId": "1623273",
+    "title": "Dissertation Committee for Patrick A Alford (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-11-13T00:00:00-06:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2513",
+    "userDiscoveryUrlId": "2513-gary-gray",
+    "userName": "Gary Gray",
+    "teachingDiscoveryId": "1620784",
+    "title": "Dissertation Committee for William T Higgins (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-10-11T00:00:00-05:00",
+    "endDate": "2020-05-02T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2513",
+    "userDiscoveryUrlId": "2513-gary-gray",
+    "userName": "Gary Gray",
+    "teachingDiscoveryId": "1634948",
+    "title": "Dissertation Committee for Timothy R Totsch (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-07-10T00:00:00-05:00",
+    "endDate": "2020-05-02T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2513",
+    "userDiscoveryUrlId": "2513-gary-gray",
+    "userName": "Gary Gray",
+    "teachingDiscoveryId": "1639550",
+    "title": "Dissertation Committee for Miranda C Trentle (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2017-05-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2513",
+    "userDiscoveryUrlId": "2513-gary-gray",
+    "userName": "Gary Gray",
+    "teachingDiscoveryId": "1638779",
+    "title": "Dissertation Committee for Bing Xue (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-01-03T00:00:00-06:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2513",
+    "userDiscoveryUrlId": "2513-gary-gray",
+    "userName": "Gary Gray",
+    "teachingDiscoveryId": "1638633",
+    "title": "Dissertation Committee for Ozarfar Gafarov (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-06-05T00:00:00-05:00",
+    "endDate": "2020-05-02T00:00:00-05:00"
+  }
+]

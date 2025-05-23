@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3459",
+    "userDiscoveryUrlId": "3459-takamitsu-saigusa",
+    "userName": "Takamitsu Saigusa",
+    "teachingDiscoveryId": "2713785",
+    "title": "Dissertation Committee for Sreelakshmi Cherakara (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-10T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3459",
+    "userDiscoveryUrlId": "3459-takamitsu-saigusa",
+    "userName": "Takamitsu Saigusa",
+    "teachingDiscoveryId": "2489865",
+    "title": "Dissertation Committee for Isis Nakiia Thomas (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-01-25T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3459",
+    "userDiscoveryUrlId": "3459-takamitsu-saigusa",
+    "userName": "Takamitsu Saigusa",
+    "teachingDiscoveryId": "2165264",
+    "title": "Dissertation Committee for Isaac Campos (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2019-07-15T00:00:00-05:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "16882",
+    "userDiscoveryUrlId": "16882-angela-carter",
+    "userName": "Angela Carter",
+    "teachingDiscoveryId": "3241734",
+    "title": "Dissertation Committee for Xi Guo (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-03-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16882",
+    "userDiscoveryUrlId": "16882-angela-carter",
+    "userName": "Angela Carter",
+    "teachingDiscoveryId": "3206924",
+    "title": "Dissertation Committee for Chloe La Prairie (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16882",
+    "userDiscoveryUrlId": "16882-angela-carter",
+    "userName": "Angela Carter",
+    "teachingDiscoveryId": "3071712",
+    "title": "Thesis Committee for Hunter Shaw Goffinett (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-07-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16882",
+    "userDiscoveryUrlId": "16882-angela-carter",
+    "userName": "Angela Carter",
+    "teachingDiscoveryId": "3051094",
+    "title": "Dissertation Committee for Nghi Doan Phuong Dang (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-06-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16882",
+    "userDiscoveryUrlId": "16882-angela-carter",
+    "userName": "Angela Carter",
+    "teachingDiscoveryId": "2500444",
+    "title": "Dissertation Committee for Aran Merati (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-03-09T00:00:00-06:00",
+    "endDate": "2022-10-31T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "6540",
+    "userDiscoveryUrlId": "6540-soumya-niranjan",
+    "userName": "Soumya Niranjan",
+    "teachingDiscoveryId": "3189612",
+    "title": "Dissertation Committee for Kiera Y Chan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-13T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6540",
+    "userDiscoveryUrlId": "6540-soumya-niranjan",
+    "userName": "Soumya Niranjan",
+    "teachingDiscoveryId": "3099862",
+    "title": "Dissertation Committee for Michelle Kung (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6540",
+    "userDiscoveryUrlId": "6540-soumya-niranjan",
+    "userName": "Soumya Niranjan",
+    "teachingDiscoveryId": "3009503",
+    "title": "Dissertation Committee for Sanober Ajani (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-03-26T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6540",
+    "userDiscoveryUrlId": "6540-soumya-niranjan",
+    "userName": "Soumya Niranjan",
+    "teachingDiscoveryId": "2844135",
+    "title": "Dissertation Committee for Aurora Tafili (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-10-13T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6540",
+    "userDiscoveryUrlId": "6540-soumya-niranjan",
+    "userName": "Soumya Niranjan",
+    "teachingDiscoveryId": "2812412",
+    "title": "Dissertation Committee for James E Murrell (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-20T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6540",
+    "userDiscoveryUrlId": "6540-soumya-niranjan",
+    "userName": "Soumya Niranjan",
+    "teachingDiscoveryId": "2761895",
+    "title": "Dissertation Committee for Cesar I Landeros (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-03-29T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6540",
+    "userDiscoveryUrlId": "6540-soumya-niranjan",
+    "userName": "Soumya Niranjan",
+    "teachingDiscoveryId": "2487964",
+    "title": "Dissertation Committee for Carmen S Rainey (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-01-05T00:00:00-06:00",
+    "endDate": null
+  }
+]

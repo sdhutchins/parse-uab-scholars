@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "16645",
+    "userDiscoveryUrlId": "16645-kimberly-smith",
+    "userName": "Kimberly Smith",
+    "teachingDiscoveryId": "3210573",
+    "title": "Dissertation Committee for Silvia Y Lopez Torres (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-18T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16645",
+    "userDiscoveryUrlId": "16645-kimberly-smith",
+    "userName": "Kimberly Smith",
+    "teachingDiscoveryId": "3153978",
+    "title": "Dissertation Committee for Demetria Mar Hubbard (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-13T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16645",
+    "userDiscoveryUrlId": "16645-kimberly-smith",
+    "userName": "Kimberly Smith",
+    "teachingDiscoveryId": "3087641",
+    "title": "Dissertation Committee for Abigail Rose Williamson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-12T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16645",
+    "userDiscoveryUrlId": "16645-kimberly-smith",
+    "userName": "Kimberly Smith",
+    "teachingDiscoveryId": "3000356",
+    "title": "Dissertation Committee for David R Bryan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-03-07T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16645",
+    "userDiscoveryUrlId": "16645-kimberly-smith",
+    "userName": "Kimberly Smith",
+    "teachingDiscoveryId": "2951945",
+    "title": "Dissertation Committee for Ciera Bartholomew (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-06T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16645",
+    "userDiscoveryUrlId": "16645-kimberly-smith",
+    "userName": "Kimberly Smith",
+    "teachingDiscoveryId": "2675072",
+    "title": "Dissertation Committee for Katherine Ellison (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-17T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "2185",
+    "userDiscoveryUrlId": "2185-vladimir-parpura",
+    "userName": "Vladimir Parpura",
+    "teachingDiscoveryId": "2724251",
+    "title": "Thesis Committee for Alexis C Simley (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-30T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2185",
+    "userDiscoveryUrlId": "2185-vladimir-parpura",
+    "userName": "Vladimir Parpura",
+    "teachingDiscoveryId": "2705943",
+    "title": "Dissertation Committee for Olutomi T Akinduro (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-12-15T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2185",
+    "userDiscoveryUrlId": "2185-vladimir-parpura",
+    "userName": "Vladimir Parpura",
+    "teachingDiscoveryId": "2491273",
+    "title": "Dissertation Committee for Lauren Catherine Nassour (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-02-01T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2185",
+    "userDiscoveryUrlId": "2185-vladimir-parpura",
+    "userName": "Vladimir Parpura",
+    "teachingDiscoveryId": "2463420",
+    "title": "Dissertation Committee for Destynie Medeiros (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-07-26T00:00:00-05:00",
+    "endDate": "2021-11-18T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2185",
+    "userDiscoveryUrlId": "2185-vladimir-parpura",
+    "userName": "Vladimir Parpura",
+    "teachingDiscoveryId": "2395503",
+    "title": "Dissertation Committee for Shekinah Miriam Phillips (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-10-06T00:00:00-05:00",
+    "endDate": "2024-04-03T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2185",
+    "userDiscoveryUrlId": "2185-vladimir-parpura",
+    "userName": "Vladimir Parpura",
+    "teachingDiscoveryId": "1639851",
+    "title": "Dissertation Committee for Radhika Chadha (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-11-06T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2185",
+    "userDiscoveryUrlId": "2185-vladimir-parpura",
+    "userName": "Vladimir Parpura",
+    "teachingDiscoveryId": "1639934",
+    "title": "Dissertation Committee for Annesha C King (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2017-09-01T00:00:00-05:00",
+    "endDate": null
+  }
+]

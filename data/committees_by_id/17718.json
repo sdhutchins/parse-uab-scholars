@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17718",
+    "userDiscoveryUrlId": "17718-raymond-jones",
+    "userName": "Raymond Jones",
+    "teachingDiscoveryId": "3094428",
+    "title": "Dissertation Committee for Michael J Hankes (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-08-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17718",
+    "userDiscoveryUrlId": "17718-raymond-jones",
+    "userName": "Raymond Jones",
+    "teachingDiscoveryId": "3069731",
+    "title": "Dissertation Committee for Fitzgerald Dodds (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-07-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17718",
+    "userDiscoveryUrlId": "17718-raymond-jones",
+    "userName": "Raymond Jones",
+    "teachingDiscoveryId": "2801881",
+    "title": "Dissertation Committee for Mckenna Anne Tharpe (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-07-19T00:00:00-05:00",
+    "endDate": null
+  }
+]

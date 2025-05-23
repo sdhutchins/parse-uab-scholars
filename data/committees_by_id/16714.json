@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "16714",
+    "userDiscoveryUrlId": "16714-vikas-dudeja",
+    "userName": "Vikas Dudeja",
+    "teachingDiscoveryId": "3215357",
+    "title": "Dissertation Committee for Meet Patel (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-25T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16714",
+    "userDiscoveryUrlId": "16714-vikas-dudeja",
+    "userName": "Vikas Dudeja",
+    "teachingDiscoveryId": "3180353",
+    "title": "Dissertation Committee for Christina Ruth Larson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-26T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16714",
+    "userDiscoveryUrlId": "16714-vikas-dudeja",
+    "userName": "Vikas Dudeja",
+    "teachingDiscoveryId": "3036145",
+    "title": "Dissertation Committee for Maria Fernanda Salcedo Noriega (Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-04-23T00:00:00-05:00",
+    "endDate": null
+  }
+]

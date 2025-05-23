@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "1188",
+    "userDiscoveryUrlId": "1188-paul-castellanos",
+    "userName": "Paul Castellanos",
+    "teachingDiscoveryId": "1628315",
+    "title": "Dissertation Committee for Christopher E Jackson (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2010-05-04T00:00:00-05:00",
+    "endDate": "2013-05-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1188",
+    "userDiscoveryUrlId": "1188-paul-castellanos",
+    "userName": "Paul Castellanos",
+    "teachingDiscoveryId": "1628317",
+    "title": "Thesis Committee for Christopher E Jackson (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-08-26T00:00:00-05:00",
+    "endDate": "2009-05-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1188",
+    "userDiscoveryUrlId": "1188-paul-castellanos",
+    "userName": "Paul Castellanos",
+    "teachingDiscoveryId": "1621911",
+    "title": "Dissertation Committee for Nicole Green (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-08-24T00:00:00-05:00",
+    "endDate": "2009-08-06T00:00:00-05:00"
+  }
+]

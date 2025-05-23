@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "4001",
+    "userDiscoveryUrlId": "4001-sandra-o'neal",
+    "userName": "Sandra O'Neal",
+    "teachingDiscoveryId": "1636765",
+    "title": "Thesis Committee for Shreedevi Thulasidas (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-05-10T00:00:00-05:00",
+    "endDate": "2013-12-13T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "4001",
+    "userDiscoveryUrlId": "4001-sandra-o'neal",
+    "userName": "Sandra O'Neal",
+    "teachingDiscoveryId": "1620919",
+    "title": "Thesis Committee for Carlos A Polo Montes (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-08-06T00:00:00-05:00",
+    "endDate": "2007-12-13T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "4001",
+    "userDiscoveryUrlId": "4001-sandra-o'neal",
+    "userName": "Sandra O'Neal",
+    "teachingDiscoveryId": "1621108",
+    "title": "Thesis Committee for Chin-Chaun Fu (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2005-08-18T00:00:00-05:00",
+    "endDate": "2006-08-08T00:00:00-05:00"
+  }
+]

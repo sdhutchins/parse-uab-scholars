@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "612",
+    "userDiscoveryUrlId": "612-michal-mrug",
+    "userName": "Michal Mrug",
+    "teachingDiscoveryId": "2503195",
+    "title": "Dissertation Committee for Zhang Li (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-03-15T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "612",
+    "userDiscoveryUrlId": "612-michal-mrug",
+    "userName": "Michal Mrug",
+    "teachingDiscoveryId": "2491014",
+    "title": "Dissertation Committee for Jonathan D Hoover (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-01-28T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "612",
+    "userDiscoveryUrlId": "612-michal-mrug",
+    "userName": "Michal Mrug",
+    "teachingDiscoveryId": "1639797",
+    "title": "Dissertation Committee for Dustin Z Revell (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-08-15T00:00:00-05:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "612",
+    "userDiscoveryUrlId": "612-michal-mrug",
+    "userName": "Michal Mrug",
+    "teachingDiscoveryId": "1639885",
+    "title": "Dissertation Committee for Laurence M Black (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-02-24T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "612",
+    "userDiscoveryUrlId": "612-michal-mrug",
+    "userName": "Michal Mrug",
+    "teachingDiscoveryId": "1635854",
+    "title": "Dissertation Committee for Sarah A Bowhay (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-01-19T00:00:00-06:00",
+    "endDate": "2019-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "612",
+    "userDiscoveryUrlId": "612-michal-mrug",
+    "userName": "Michal Mrug",
+    "teachingDiscoveryId": "1639195",
+    "title": "Dissertation Committee for Jeremie M Lever (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-03-05T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "612",
+    "userDiscoveryUrlId": "612-michal-mrug",
+    "userName": "Michal Mrug",
+    "teachingDiscoveryId": "1637297",
+    "title": "Dissertation Committee for Cheng Song (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-11-11T00:00:00-06:00",
+    "endDate": "2018-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "612",
+    "userDiscoveryUrlId": "612-michal-mrug",
+    "userName": "Michal Mrug",
+    "teachingDiscoveryId": "2081565",
+    "title": "Thesis Committee for Krista L Oswalt (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2005-08-18T00:00:00-05:00",
+    "endDate": "2007-08-10T00:00:00-05:00"
+  }
+]

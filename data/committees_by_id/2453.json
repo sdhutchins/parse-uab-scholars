@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "2453",
+    "userDiscoveryUrlId": "2453-roy-koomullil",
+    "userName": "Roy Koomullil",
+    "teachingDiscoveryId": "3193815",
+    "title": "Dissertation Committee for Tabitha N Holcombe (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-23T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2453",
+    "userDiscoveryUrlId": "2453-roy-koomullil",
+    "userName": "Roy Koomullil",
+    "teachingDiscoveryId": "3190917",
+    "title": "Thesis Committee for MEHMET SABRI AKSOY (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2025-01-15T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2453",
+    "userDiscoveryUrlId": "2453-roy-koomullil",
+    "userName": "Roy Koomullil",
+    "teachingDiscoveryId": "3096847",
+    "title": "Thesis Committee for Desmond M Flanagan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2453",
+    "userDiscoveryUrlId": "2453-roy-koomullil",
+    "userName": "Roy Koomullil",
+    "teachingDiscoveryId": "3038337",
+    "title": "Dissertation Committee for Huashuai Fan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-02T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2453",
+    "userDiscoveryUrlId": "2453-roy-koomullil",
+    "userName": "Roy Koomullil",
+    "teachingDiscoveryId": "2966786",
+    "title": "Thesis Committee for Emmanuel Ongaro Ramogi (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-12-03T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2453",
+    "userDiscoveryUrlId": "2453-roy-koomullil",
+    "userName": "Roy Koomullil",
+    "teachingDiscoveryId": "2714841",
+    "title": "Thesis Committee for Bugrahan Mangan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-01-11T00:00:00-06:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2453",
+    "userDiscoveryUrlId": "2453-roy-koomullil",
+    "userName": "Roy Koomullil",
+    "teachingDiscoveryId": "2530556",
+    "title": "Dissertation Committee for Parth Y Patel (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-11T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2453",
+    "userDiscoveryUrlId": "2453-roy-koomullil",
+    "userName": "Roy Koomullil",
+    "teachingDiscoveryId": "2312941",
+    "title": "Thesis Committee for Andres Morales Rascon (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-14T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  }
+]

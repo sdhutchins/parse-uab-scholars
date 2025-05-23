@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "698",
+    "userDiscoveryUrlId": "698-kenneth-saag",
+    "userName": "Kenneth Saag",
+    "teachingDiscoveryId": "3004156",
+    "title": "Dissertation Committee for Chelsea Nguyen (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-03-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "698",
+    "userDiscoveryUrlId": "698-kenneth-saag",
+    "userName": "Kenneth Saag",
+    "teachingDiscoveryId": "1623341",
+    "title": "Dissertation Committee for Huifeng Yun (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2011-06-03T00:00:00-05:00",
+    "endDate": "2012-08-06T00:00:00-05:00"
+  }
+]

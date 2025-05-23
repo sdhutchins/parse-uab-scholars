@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "16990",
+    "userDiscoveryUrlId": "16990-carlos-cardenas",
+    "userName": "Carlos Cardenas",
+    "teachingDiscoveryId": "3246937",
+    "title": "Thesis Committee for Stevan C Fairburn (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16990",
+    "userDiscoveryUrlId": "16990-carlos-cardenas",
+    "userName": "Carlos Cardenas",
+    "teachingDiscoveryId": "3172281",
+    "title": "Dissertation Committee for Ho-Hsin Chang (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-12-12T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16990",
+    "userDiscoveryUrlId": "16990-carlos-cardenas",
+    "userName": "Carlos Cardenas",
+    "teachingDiscoveryId": "2824167",
+    "title": "Dissertation Committee for Amer M Mansur (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-09-15T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16990",
+    "userDiscoveryUrlId": "16990-carlos-cardenas",
+    "userName": "Carlos Cardenas",
+    "teachingDiscoveryId": "2779824",
+    "title": "Thesis Committee for Samuel Arnold (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-09T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "16990",
+    "userDiscoveryUrlId": "16990-carlos-cardenas",
+    "userName": "Carlos Cardenas",
+    "teachingDiscoveryId": "2518866",
+    "title": "Dissertation Committee for Carlos Alberto Gallegos (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-22T00:00:00-05:00",
+    "endDate": null
+  }
+]

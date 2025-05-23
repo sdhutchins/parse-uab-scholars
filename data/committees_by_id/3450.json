@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "3450",
+    "userDiscoveryUrlId": "3450-dustin-kemp",
+    "userName": "Dustin Kemp",
+    "teachingDiscoveryId": "3037437",
+    "title": "Thesis Committee for Darrien Jamila B De Jesus (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3450",
+    "userDiscoveryUrlId": "3450-dustin-kemp",
+    "userName": "Dustin Kemp",
+    "teachingDiscoveryId": "2844146",
+    "title": "Dissertation Committee for Taylor M Williams (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-10-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3450",
+    "userDiscoveryUrlId": "3450-dustin-kemp",
+    "userName": "Dustin Kemp",
+    "teachingDiscoveryId": "2819792",
+    "title": "Dissertation Committee for Elise Keister (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-09-05T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3450",
+    "userDiscoveryUrlId": "3450-dustin-kemp",
+    "userName": "Dustin Kemp",
+    "teachingDiscoveryId": "2448696",
+    "title": "Dissertation Committee for Shelby Elizabeth Gantt (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-06-02T00:00:00-05:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3450",
+    "userDiscoveryUrlId": "3450-dustin-kemp",
+    "userName": "Dustin Kemp",
+    "teachingDiscoveryId": "2122787",
+    "title": "Dissertation Committee for Michelle D Curtis (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-11-26T00:00:00-06:00",
+    "endDate": "2019-05-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3450",
+    "userDiscoveryUrlId": "3450-dustin-kemp",
+    "userName": "Dustin Kemp",
+    "teachingDiscoveryId": "2120527",
+    "title": "Thesis Committee for Lindsay N Macmillan (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-11-13T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3450",
+    "userDiscoveryUrlId": "3450-dustin-kemp",
+    "userName": "Dustin Kemp",
+    "teachingDiscoveryId": "1628440",
+    "title": "Dissertation Committee for Amy N Bonka (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-05-09T00:00:00-05:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  }
+]

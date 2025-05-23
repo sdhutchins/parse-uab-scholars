@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "2449",
+    "userDiscoveryUrlId": "2449-j-iwan-alexander",
+    "userName": "J. Iwan Alexander",
+    "teachingDiscoveryId": "2066667",
+    "title": "Dissertation Committee for Donald C Boone (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2018-08-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2449",
+    "userDiscoveryUrlId": "2449-j-iwan-alexander",
+    "userName": "J. Iwan Alexander",
+    "teachingDiscoveryId": "1634551",
+    "title": "Dissertation Committee for Michael J Hannon (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-05-01T00:00:00-05:00",
+    "endDate": "2016-12-16T00:00:00-06:00"
+  }
+]

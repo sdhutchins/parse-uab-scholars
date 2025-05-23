@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "5081",
+    "userDiscoveryUrlId": "5081-jeremy-foote",
+    "userName": "Jeremy Foote",
+    "teachingDiscoveryId": "3149471",
+    "title": "Dissertation Committee for Sujith Sarvesh (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5081",
+    "userDiscoveryUrlId": "5081-jeremy-foote",
+    "userName": "Jeremy Foote",
+    "teachingDiscoveryId": "2822871",
+    "title": "Dissertation Committee for Ayushi Mandloi (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-09-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5081",
+    "userDiscoveryUrlId": "5081-jeremy-foote",
+    "userName": "Jeremy Foote",
+    "teachingDiscoveryId": "2447512",
+    "title": "Dissertation Committee for Manvi Sharma (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-26T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "3178",
+    "userDiscoveryUrlId": "3178-nikita-selinger",
+    "userName": "Nikita Selinger",
+    "teachingDiscoveryId": "3258841",
+    "title": "Thesis Committee for Forrest M Hilton (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3178",
+    "userDiscoveryUrlId": "3178-nikita-selinger",
+    "userName": "Nikita Selinger",
+    "teachingDiscoveryId": "2780226",
+    "title": "Dissertation Committee for Adam P Carty (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3178",
+    "userDiscoveryUrlId": "3178-nikita-selinger",
+    "userName": "Nikita Selinger",
+    "teachingDiscoveryId": "2516715",
+    "title": "Thesis Committee for Md. Abdul Aziz (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3178",
+    "userDiscoveryUrlId": "3178-nikita-selinger",
+    "userName": "Nikita Selinger",
+    "teachingDiscoveryId": "2513815",
+    "title": "Dissertation Committee for Brittany E Burdette (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-04-26T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3178",
+    "userDiscoveryUrlId": "3178-nikita-selinger",
+    "userName": "Nikita Selinger",
+    "teachingDiscoveryId": "2485380",
+    "title": "Thesis Committee for Nicholas Claude Plowman (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-07T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3178",
+    "userDiscoveryUrlId": "3178-nikita-selinger",
+    "userName": "Nikita Selinger",
+    "teachingDiscoveryId": "2469047",
+    "title": "Dissertation Committee for Sandeep Chowda Vejandla (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-08-20T00:00:00-05:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "2653",
+    "userDiscoveryUrlId": "2653-john-mayer",
+    "userName": "John Mayer",
+    "teachingDiscoveryId": "3258844",
+    "title": "Thesis Committee for Forrest M Hilton (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2653",
+    "userDiscoveryUrlId": "2653-john-mayer",
+    "userName": "John Mayer",
+    "teachingDiscoveryId": "2788995",
+    "title": "Dissertation Committee for Thomas Sirna (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-06-14T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2653",
+    "userDiscoveryUrlId": "2653-john-mayer",
+    "userName": "John Mayer",
+    "teachingDiscoveryId": "2519798",
+    "title": "Dissertation Committee for Adam P Carty (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2653",
+    "userDiscoveryUrlId": "2653-john-mayer",
+    "userName": "John Mayer",
+    "teachingDiscoveryId": "2516705",
+    "title": "Thesis Committee for Md. Abdul Aziz (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-06-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2653",
+    "userDiscoveryUrlId": "2653-john-mayer",
+    "userName": "John Mayer",
+    "teachingDiscoveryId": "2513790",
+    "title": "Dissertation Committee for Brittany E Burdette (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-04-26T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2653",
+    "userDiscoveryUrlId": "2653-john-mayer",
+    "userName": "John Mayer",
+    "teachingDiscoveryId": "2531983",
+    "title": "Thesis Committee for Alyssa R Wilke (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-04-26T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2653",
+    "userDiscoveryUrlId": "2653-john-mayer",
+    "userName": "John Mayer",
+    "teachingDiscoveryId": "2300210",
+    "title": "Thesis Committee for Cameron G Hale (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-11-20T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

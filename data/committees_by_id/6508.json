@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "6508",
+    "userDiscoveryUrlId": "6508-mahmut-unan",
+    "userName": "Mahmut Unan",
+    "teachingDiscoveryId": "2516706",
+    "title": "Thesis Committee for Md. Abdul Aziz (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6508",
+    "userDiscoveryUrlId": "6508-mahmut-unan",
+    "userName": "Mahmut Unan",
+    "teachingDiscoveryId": "2513822",
+    "title": "Thesis Committee for Alyssa R Wilke (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-04-26T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

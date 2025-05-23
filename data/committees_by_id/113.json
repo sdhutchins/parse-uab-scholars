@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "113",
+    "userDiscoveryUrlId": "113-jeanfrancois-pittet",
+    "userName": "Jean-Francois Pittet",
+    "teachingDiscoveryId": "2131287",
+    "title": "Dissertation Committee for Mohammad A Abdelgawwad (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-12-19T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "113",
+    "userDiscoveryUrlId": "113-jeanfrancois-pittet",
+    "userName": "Jean-Francois Pittet",
+    "teachingDiscoveryId": "1632856",
+    "title": "Dissertation Committee for Naseem Anjum (Advisor)",
+    "status": "Unknown",
+    "startDate": "2016-09-08T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "113",
+    "userDiscoveryUrlId": "113-jeanfrancois-pittet",
+    "userName": "Jean-Francois Pittet",
+    "teachingDiscoveryId": "1637841",
+    "title": "Dissertation Committee for Nathaniel Bone (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-07-06T00:00:00-05:00",
+    "endDate": "2017-12-17T00:00:00-06:00"
+  }
+]

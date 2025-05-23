@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "9234",
+    "userDiscoveryUrlId": "9234-camilla-bell",
+    "userName": "Camilla Bell",
+    "teachingDiscoveryId": "3210382",
+    "title": "Dissertation Committee for Md Hasanul Banna Siam (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-14T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "9234",
+    "userDiscoveryUrlId": "9234-camilla-bell",
+    "userName": "Camilla Bell",
+    "teachingDiscoveryId": "3118520",
+    "title": "Dissertation Committee for Ezgi Sari (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-10-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "9234",
+    "userDiscoveryUrlId": "9234-camilla-bell",
+    "userName": "Camilla Bell",
+    "teachingDiscoveryId": "2972318",
+    "title": "Dissertation Committee for Kyle Robert Landers Landers (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-27T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "9234",
+    "userDiscoveryUrlId": "9234-camilla-bell",
+    "userName": "Camilla Bell",
+    "teachingDiscoveryId": "2951941",
+    "title": "Dissertation Committee for Meghan J Hirsch (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-06T00:00:00-06:00",
+    "endDate": null
+  }
+]

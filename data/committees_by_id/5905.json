@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "5905",
+    "userDiscoveryUrlId": "5905-suresh-verma",
+    "userName": "Suresh Verma",
+    "teachingDiscoveryId": "3206925",
+    "title": "Dissertation Committee for Xiaoxiao Geng (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5905",
+    "userDiscoveryUrlId": "5905-suresh-verma",
+    "userName": "Suresh Verma",
+    "teachingDiscoveryId": "3118542",
+    "title": "Dissertation Committee for Arvind Singh Bhati (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5905",
+    "userDiscoveryUrlId": "5905-suresh-verma",
+    "userName": "Suresh Verma",
+    "teachingDiscoveryId": "2491397",
+    "title": "Dissertation Committee for Angelica Toro Cora (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5905",
+    "userDiscoveryUrlId": "5905-suresh-verma",
+    "userName": "Suresh Verma",
+    "teachingDiscoveryId": "2318302",
+    "title": "Thesis Committee for Zainab Gbongbo Suleiman (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-02-10T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

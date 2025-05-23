@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "2574",
+    "userDiscoveryUrlId": "2574-cynthia-ryan",
+    "userName": "Cynthia Ryan",
+    "teachingDiscoveryId": "2808973",
+    "title": "Thesis Committee for Cody H Isham (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2574",
+    "userDiscoveryUrlId": "2574-cynthia-ryan",
+    "userName": "Cynthia Ryan",
+    "teachingDiscoveryId": "2528447",
+    "title": "Thesis Committee for Mia J Freeman (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-08-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2574",
+    "userDiscoveryUrlId": "2574-cynthia-ryan",
+    "userName": "Cynthia Ryan",
+    "teachingDiscoveryId": "2464489",
+    "title": "Thesis Committee for Nora M Krall (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-18T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2574",
+    "userDiscoveryUrlId": "2574-cynthia-ryan",
+    "userName": "Cynthia Ryan",
+    "teachingDiscoveryId": "2429648",
+    "title": "Dissertation Committee for Brittany Nichole Goodenough-Ellis (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-03-02T00:00:00-06:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2574",
+    "userDiscoveryUrlId": "2574-cynthia-ryan",
+    "userName": "Cynthia Ryan",
+    "teachingDiscoveryId": "2302520",
+    "title": "Dissertation Committee for Stephanie Kirkland (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-12-06T00:00:00-06:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  }
+]

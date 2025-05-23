@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "16600",
+    "userDiscoveryUrlId": "16600-matthew-macaluso",
+    "userName": "Matthew Macaluso",
+    "teachingDiscoveryId": "3265302",
+    "title": "Thesis Committee for lloreal Kennedy May (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-05-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16600",
+    "userDiscoveryUrlId": "16600-matthew-macaluso",
+    "userName": "Matthew Macaluso",
+    "teachingDiscoveryId": "3075013",
+    "title": "Dissertation Committee for Melissa Van-Trang Do (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-07-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16600",
+    "userDiscoveryUrlId": "16600-matthew-macaluso",
+    "userName": "Matthew Macaluso",
+    "teachingDiscoveryId": "2477402",
+    "title": "Thesis Committee for Yuan-Tai Huang (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-11-17T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

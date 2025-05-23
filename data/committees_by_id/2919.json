@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "2919",
+    "userDiscoveryUrlId": "2919-braden-mcfarland",
+    "userName": "Braden McFarland",
+    "teachingDiscoveryId": "2962979",
+    "title": "Dissertation Committee for Alexis N Cox (Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-11-28T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2919",
+    "userDiscoveryUrlId": "2919-braden-mcfarland",
+    "userName": "Braden McFarland",
+    "teachingDiscoveryId": "2908772",
+    "title": "Dissertation Committee for Opeyemi Iwaloye (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2919",
+    "userDiscoveryUrlId": "2919-braden-mcfarland",
+    "userName": "Braden McFarland",
+    "teachingDiscoveryId": "2837203",
+    "title": "Dissertation Committee for Amr Elkholy (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-09-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2919",
+    "userDiscoveryUrlId": "2919-braden-mcfarland",
+    "userName": "Braden McFarland",
+    "teachingDiscoveryId": "2812393",
+    "title": "Dissertation Committee for Francesca Raquel Dempsey (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2919",
+    "userDiscoveryUrlId": "2919-braden-mcfarland",
+    "userName": "Braden McFarland",
+    "teachingDiscoveryId": "2810652",
+    "title": "Dissertation Committee for Taylor Lynn Schanel (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-14T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2919",
+    "userDiscoveryUrlId": "2919-braden-mcfarland",
+    "userName": "Braden McFarland",
+    "teachingDiscoveryId": "2472725",
+    "title": "Dissertation Committee for Sujith Sarvesh (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-10-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2919",
+    "userDiscoveryUrlId": "2919-braden-mcfarland",
+    "userName": "Braden McFarland",
+    "teachingDiscoveryId": "2422458",
+    "title": "Dissertation Committee for Colin H Quinn (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2919",
+    "userDiscoveryUrlId": "2919-braden-mcfarland",
+    "userName": "Braden McFarland",
+    "teachingDiscoveryId": "1639383",
+    "title": "Dissertation Committee for Samuel C Fehling (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-05-16T00:00:00-05:00",
+    "endDate": "2017-03-03T00:00:00-06:00"
+  }
+]

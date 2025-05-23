@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "1202",
+    "userDiscoveryUrlId": "1202-bradford-woodworth",
+    "userName": "Bradford Woodworth",
+    "teachingDiscoveryId": "2998125",
+    "title": "Dissertation Committee for Robin L Myers (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-03-01T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1202",
+    "userDiscoveryUrlId": "1202-bradford-woodworth",
+    "userName": "Bradford Woodworth",
+    "teachingDiscoveryId": "2318319",
+    "title": "Dissertation Committee for Elex S Harris (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-02-12T00:00:00-06:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1202",
+    "userDiscoveryUrlId": "1202-bradford-woodworth",
+    "userName": "Bradford Woodworth",
+    "teachingDiscoveryId": "2058632",
+    "title": "Dissertation Committee for Lawrence Rasmussen (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-07-19T00:00:00-05:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  }
+]

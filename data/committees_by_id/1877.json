@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "1877",
+    "userDiscoveryUrlId": "1877-elizabeth-barstow",
+    "userName": "Elizabeth Barstow",
+    "teachingDiscoveryId": "3246773",
+    "title": "Dissertation Committee for Talal Alshammari (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1877",
+    "userDiscoveryUrlId": "1877-elizabeth-barstow",
+    "userName": "Elizabeth Barstow",
+    "teachingDiscoveryId": "2992872",
+    "title": "Dissertation Committee for Lulwah AlMulhim (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-02-21T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1877",
+    "userDiscoveryUrlId": "1877-elizabeth-barstow",
+    "userName": "Elizabeth Barstow",
+    "teachingDiscoveryId": "2818124",
+    "title": "Dissertation Committee for Sourav Datta (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1877",
+    "userDiscoveryUrlId": "1877-elizabeth-barstow",
+    "userName": "Elizabeth Barstow",
+    "teachingDiscoveryId": "2679233",
+    "title": "Dissertation Committee for Tracy R Fleming-Tracy (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-11-10T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1877",
+    "userDiscoveryUrlId": "1877-elizabeth-barstow",
+    "userName": "Elizabeth Barstow",
+    "teachingDiscoveryId": "2494341",
+    "title": "Dissertation Committee for Trinh Huynh (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2022-02-25T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1877",
+    "userDiscoveryUrlId": "1877-elizabeth-barstow",
+    "userName": "Elizabeth Barstow",
+    "teachingDiscoveryId": "2411585",
+    "title": "Dissertation Committee for Kathleen Mary Weden (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-02-02T00:00:00-06:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1877",
+    "userDiscoveryUrlId": "1877-elizabeth-barstow",
+    "userName": "Elizabeth Barstow",
+    "teachingDiscoveryId": "2310952",
+    "title": "Dissertation Committee for Yumi Kim (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-12-16T00:00:00-06:00",
+    "endDate": "2019-12-16T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1877",
+    "userDiscoveryUrlId": "1877-elizabeth-barstow",
+    "userName": "Elizabeth Barstow",
+    "teachingDiscoveryId": "2058645",
+    "title": "Dissertation Committee for Elizabeth M Smith (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-07-19T00:00:00-05:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "1452",
+    "userDiscoveryUrlId": "1452-katherine-weise",
+    "userName": "Katherine Weise",
+    "teachingDiscoveryId": "2985447",
+    "title": "Thesis Committee for Malia Kawena Princess McDowell (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-02-05T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1452",
+    "userDiscoveryUrlId": "1452-katherine-weise",
+    "userName": "Katherine Weise",
+    "teachingDiscoveryId": "2774176",
+    "title": "Thesis Committee for Adarsha Kumar Shah (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1452",
+    "userDiscoveryUrlId": "1452-katherine-weise",
+    "userName": "Katherine Weise",
+    "teachingDiscoveryId": "2513758",
+    "title": "Dissertation Committee for Brandon Wright (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-04-14T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1452",
+    "userDiscoveryUrlId": "1452-katherine-weise",
+    "userName": "Katherine Weise",
+    "teachingDiscoveryId": "1640111",
+    "title": "Dissertation Committee for Anwar B S Almutairi (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-01-19T00:00:00-06:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  }
+]

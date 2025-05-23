@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "3222",
+    "userDiscoveryUrlId": "3222-allison-jones",
+    "userName": "Allison Jones",
+    "teachingDiscoveryId": "3175427",
+    "title": "Dissertation Committee for Madison D Finch (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-12-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3222",
+    "userDiscoveryUrlId": "3222-allison-jones",
+    "userName": "Allison Jones",
+    "teachingDiscoveryId": "3083064",
+    "title": "Dissertation Committee for Krisada Suamchaiyaphum (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-08-06T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3222",
+    "userDiscoveryUrlId": "3222-allison-jones",
+    "userName": "Allison Jones",
+    "teachingDiscoveryId": "3022176",
+    "title": "Thesis Committee for Lara Anne Self (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-05T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3222",
+    "userDiscoveryUrlId": "3222-allison-jones",
+    "userName": "Allison Jones",
+    "teachingDiscoveryId": "2724256",
+    "title": "Dissertation Committee for Justin L Miller (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-01-30T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3222",
+    "userDiscoveryUrlId": "3222-allison-jones",
+    "userName": "Allison Jones",
+    "teachingDiscoveryId": "1632610",
+    "title": "Dissertation Committee for Bryan P Combs (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-11-10T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  }
+]

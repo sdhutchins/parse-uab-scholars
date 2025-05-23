@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17166",
+    "userDiscoveryUrlId": "17166-paulina-banas",
+    "userName": "Paulina Banas",
+    "teachingDiscoveryId": "3227508",
+    "title": "Thesis Committee for Elizabeth A Malone (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2025-03-13T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17166",
+    "userDiscoveryUrlId": "17166-paulina-banas",
+    "userName": "Paulina Banas",
+    "teachingDiscoveryId": "2774765",
+    "title": "Thesis Committee for Elizabeth Deschamps Blackford (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-01T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "17166",
+    "userDiscoveryUrlId": "17166-paulina-banas",
+    "userName": "Paulina Banas",
+    "teachingDiscoveryId": "2486541",
+    "title": "Thesis Committee for Claire T Lesar (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-16T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

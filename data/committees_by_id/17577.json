@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "17577",
+    "userDiscoveryUrlId": "17577-sofia-beas-parodi",
+    "userName": "Sofia Beas Parodi",
+    "teachingDiscoveryId": "2972322",
+    "title": "Dissertation Committee for Zoe Fokakis (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-27T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17577",
+    "userDiscoveryUrlId": "17577-sofia-beas-parodi",
+    "userName": "Sofia Beas Parodi",
+    "teachingDiscoveryId": "2961093",
+    "title": "Dissertation Committee for Chang Li (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-22T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17577",
+    "userDiscoveryUrlId": "17577-sofia-beas-parodi",
+    "userName": "Sofia Beas Parodi",
+    "teachingDiscoveryId": "2790394",
+    "title": "Dissertation Committee for Natalie D Fitzgerald (Chairperson)",
+    "status": "Unknown",
+    "startDate": "2023-06-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17577",
+    "userDiscoveryUrlId": "17577-sofia-beas-parodi",
+    "userName": "Sofia Beas Parodi",
+    "teachingDiscoveryId": "2674516",
+    "title": "Dissertation Committee for Briana Lynne Machen (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-10-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17577",
+    "userDiscoveryUrlId": "17577-sofia-beas-parodi",
+    "userName": "Sofia Beas Parodi",
+    "teachingDiscoveryId": "2528206",
+    "title": "Dissertation Committee for Adrienne Samani (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-01T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

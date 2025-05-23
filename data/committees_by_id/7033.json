@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "7033",
+    "userDiscoveryUrlId": "7033-summer-thyme",
+    "userName": "Summer Thyme",
+    "teachingDiscoveryId": "2992396",
+    "title": "Dissertation Committee for Verdion Quirinu Martina (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-02-19T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7033",
+    "userDiscoveryUrlId": "7033-summer-thyme",
+    "userName": "Summer Thyme",
+    "teachingDiscoveryId": "2427306",
+    "title": "Dissertation Committee for Ari Benjamin Ginsparg (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-04-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7033",
+    "userDiscoveryUrlId": "7033-summer-thyme",
+    "userName": "Summer Thyme",
+    "teachingDiscoveryId": "2395530",
+    "title": "Dissertation Committee for Emma Finn Jones (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-10-13T00:00:00-05:00",
+    "endDate": "2021-10-05T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "7033",
+    "userDiscoveryUrlId": "7033-summer-thyme",
+    "userName": "Summer Thyme",
+    "teachingDiscoveryId": "2377217",
+    "title": "Dissertation Committee for Nancy Gallus (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-08-06T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "7033",
+    "userDiscoveryUrlId": "7033-summer-thyme",
+    "userName": "Summer Thyme",
+    "teachingDiscoveryId": "2343959",
+    "title": "Dissertation Committee for Prathibha Sekar (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2020-05-20T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7033",
+    "userDiscoveryUrlId": "7033-summer-thyme",
+    "userName": "Summer Thyme",
+    "teachingDiscoveryId": "2315638",
+    "title": "Dissertation Committee for Hunter B Dean (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-29T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "7033",
+    "userDiscoveryUrlId": "7033-summer-thyme",
+    "userName": "Summer Thyme",
+    "teachingDiscoveryId": "2312937",
+    "title": "Dissertation Committee for Robert Albert Phillips (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-16T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

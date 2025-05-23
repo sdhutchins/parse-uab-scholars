@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "1210",
+    "userDiscoveryUrlId": "1210-david-rogers",
+    "userName": "David Rogers",
+    "teachingDiscoveryId": "3150677",
+    "title": "Dissertation Committee for Petra Sprik (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-04T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1210",
+    "userDiscoveryUrlId": "1210-david-rogers",
+    "userName": "David Rogers",
+    "teachingDiscoveryId": "3096397",
+    "title": "Dissertation Committee for Katherine Rowe (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1210",
+    "userDiscoveryUrlId": "1210-david-rogers",
+    "userName": "David Rogers",
+    "teachingDiscoveryId": "2314619",
+    "title": "Dissertation Committee for Alejandra Maria Colón-López (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-17T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

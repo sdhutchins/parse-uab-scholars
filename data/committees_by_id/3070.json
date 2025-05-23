@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "3070",
+    "userDiscoveryUrlId": "3070-richard-dluhy",
+    "userName": "Richard Dluhy",
+    "teachingDiscoveryId": "2801875",
+    "title": "Dissertation Committee for Liana Islam (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-07-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3070",
+    "userDiscoveryUrlId": "3070-richard-dluhy",
+    "userName": "Richard Dluhy",
+    "teachingDiscoveryId": "2785599",
+    "title": "Dissertation Committee for Shelbie J Cingoranelli (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-31T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3070",
+    "userDiscoveryUrlId": "3070-richard-dluhy",
+    "userName": "Richard Dluhy",
+    "teachingDiscoveryId": "2774353",
+    "title": "Thesis Committee for Brynnen Eve Bargerhuff (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3070",
+    "userDiscoveryUrlId": "3070-richard-dluhy",
+    "userName": "Richard Dluhy",
+    "teachingDiscoveryId": "2717036",
+    "title": "Thesis Committee for Lynzi Paige Hunter (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-13T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3070",
+    "userDiscoveryUrlId": "3070-richard-dluhy",
+    "userName": "Richard Dluhy",
+    "teachingDiscoveryId": "2463333",
+    "title": "Dissertation Committee for Amareshwari Konutham (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-07-26T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3070",
+    "userDiscoveryUrlId": "3070-richard-dluhy",
+    "userName": "Richard Dluhy",
+    "teachingDiscoveryId": "2186691",
+    "title": "Dissertation Committee for Miranda C Trentle (Chairperson)",
+    "status": "Unknown",
+    "startDate": "2019-09-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3070",
+    "userDiscoveryUrlId": "3070-richard-dluhy",
+    "userName": "Richard Dluhy",
+    "teachingDiscoveryId": "1635809",
+    "title": "Dissertation Committee for Zachariah M Ingram (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-09-20T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  }
+]

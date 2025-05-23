@@ -1,0 +1,92 @@
+[
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "3010808",
+    "title": "Dissertation Committee for Kiera D Walker (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-03-29T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "2721933",
+    "title": "Dissertation Committee for Deandrea Barren (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-25T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "2518911",
+    "title": "Dissertation Committee for Kevin D Keane (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-06-23T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "2186676",
+    "title": "Dissertation Committee for Corey C Wiggins (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2011-06-29T00:00:00-05:00",
+    "endDate": "2012-05-09T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "2186672",
+    "title": "Thesis Committee for Andres S Pickett (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2010-08-16T00:00:00-05:00",
+    "endDate": "2010-12-15T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "2186722",
+    "title": "Dissertation Committee for Mary L Warren (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2010-07-20T00:00:00-05:00",
+    "endDate": "2012-05-09T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "2186688",
+    "title": "Dissertation Committee for Steven B Powell (Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2009-08-18T00:00:00-05:00",
+    "endDate": "2010-08-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "2186721",
+    "title": "Dissertation Committee for Rashaan Anderson (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2008-09-16T00:00:00-05:00",
+    "endDate": "2008-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "7322",
+    "userDiscoveryUrlId": "7322-david-macrina",
+    "userName": "David Macrina",
+    "teachingDiscoveryId": "2186673",
+    "title": "Dissertation Committee for Jacqueline A Horton (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2004-01-06T00:00:00-06:00",
+    "endDate": "2011-05-04T00:00:00-05:00"
+  }
+]

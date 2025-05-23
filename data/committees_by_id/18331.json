@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "18331",
+    "userDiscoveryUrlId": "18331-outi-keinaenen",
+    "userName": "Outi Keinaenen",
+    "teachingDiscoveryId": "3121968",
+    "title": "Dissertation Committee for Olga Khaybullina (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-10-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18331",
+    "userDiscoveryUrlId": "18331-outi-keinaenen",
+    "userName": "Outi Keinaenen",
+    "teachingDiscoveryId": "3119592",
+    "title": "Dissertation Committee for Edwin M Rojas (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-10-09T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "18331",
+    "userDiscoveryUrlId": "18331-outi-keinaenen",
+    "userName": "Outi Keinaenen",
+    "teachingDiscoveryId": "3040633",
+    "title": "Dissertation Committee for MANGI LAL GODARA (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18331",
+    "userDiscoveryUrlId": "18331-outi-keinaenen",
+    "userName": "Outi Keinaenen",
+    "teachingDiscoveryId": "2979947",
+    "title": "Dissertation Committee for Noimat A Jinadu (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-01-22T00:00:00-06:00",
+    "endDate": null
+  }
+]

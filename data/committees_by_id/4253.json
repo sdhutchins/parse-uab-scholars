@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "4253",
+    "userDiscoveryUrlId": "4253-nathan-smith",
+    "userName": "Nathan Smith",
+    "teachingDiscoveryId": "2812962",
+    "title": "Thesis Committee for Taillk Goncalves Gomes (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4253",
+    "userDiscoveryUrlId": "4253-nathan-smith",
+    "userName": "Nathan Smith",
+    "teachingDiscoveryId": "2531713",
+    "title": "Thesis Committee for Chandani Arjun Mantri (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-17T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

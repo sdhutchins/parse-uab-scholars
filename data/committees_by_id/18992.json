@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "18992",
+    "userDiscoveryUrlId": "18992-ankur-saxena",
+    "userName": "Ankur Saxena",
+    "teachingDiscoveryId": "3246948",
+    "title": "Dissertation Committee for Gaurav Seth (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2025-04-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18992",
+    "userDiscoveryUrlId": "18992-ankur-saxena",
+    "userName": "Ankur Saxena",
+    "teachingDiscoveryId": "2967663",
+    "title": "Dissertation Committee for Dalton Chase Patterson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-11T00:00:00-06:00",
+    "endDate": null
+  }
+]

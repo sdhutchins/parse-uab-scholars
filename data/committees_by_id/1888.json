@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "1888",
+    "userDiscoveryUrlId": "1888-hon-yuen",
+    "userName": "Hon Yuen",
+    "teachingDiscoveryId": "3246776",
+    "title": "Dissertation Committee for Talal Alshammari (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1888",
+    "userDiscoveryUrlId": "1888-hon-yuen",
+    "userName": "Hon Yuen",
+    "teachingDiscoveryId": "3008986",
+    "title": "Dissertation Committee for Hadeel Yousef Alghanim (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-03-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1888",
+    "userDiscoveryUrlId": "1888-hon-yuen",
+    "userName": "Hon Yuen",
+    "teachingDiscoveryId": "2818805",
+    "title": "Dissertation Committee for Najlaa Zayed Alotaibi (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-29T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1888",
+    "userDiscoveryUrlId": "1888-hon-yuen",
+    "userName": "Hon Yuen",
+    "teachingDiscoveryId": "1621222",
+    "title": "Dissertation Committee for Arvind Tripathi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-08-07T00:00:00-05:00",
+    "endDate": "2015-04-24T00:00:00-05:00"
+  }
+]

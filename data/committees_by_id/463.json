@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "463",
+    "userDiscoveryUrlId": "463-maria-pisu",
+    "userName": "Maria Pisu",
+    "teachingDiscoveryId": "1638309",
+    "title": "Dissertation Committee for Debran A Jacobs (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-10-11T00:00:00-05:00",
+    "endDate": "2018-08-11T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "463",
+    "userDiscoveryUrlId": "463-maria-pisu",
+    "userName": "Maria Pisu",
+    "teachingDiscoveryId": "1631064",
+    "title": "Dissertation Committee for Cassandra P Krumpelmann (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-10-10T00:00:00-05:00",
+    "endDate": "2016-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "463",
+    "userDiscoveryUrlId": "463-maria-pisu",
+    "userName": "Maria Pisu",
+    "teachingDiscoveryId": "1634993",
+    "title": "Dissertation Committee for Caresse Campbell (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-12-03T00:00:00-06:00",
+    "endDate": "2014-08-08T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "463",
+    "userDiscoveryUrlId": "463-maria-pisu",
+    "userName": "Maria Pisu",
+    "teachingDiscoveryId": "1632010",
+    "title": "Dissertation Committee for Sheikilya Lewis Thomas (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-07-18T00:00:00-05:00",
+    "endDate": "2013-08-08T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "463",
+    "userDiscoveryUrlId": "463-maria-pisu",
+    "userName": "Maria Pisu",
+    "teachingDiscoveryId": "1624251",
+    "title": "Dissertation Committee for Shamly Austin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2009-05-21T00:00:00-05:00",
+    "endDate": "2010-12-15T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "463",
+    "userDiscoveryUrlId": "463-maria-pisu",
+    "userName": "Maria Pisu",
+    "teachingDiscoveryId": "1622307",
+    "title": "Dissertation Committee for Joe Koppius Gerald (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-01-04T00:00:00-06:00",
+    "endDate": "2007-12-13T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "2271",
+    "userDiscoveryUrlId": "2271-james-byrd",
+    "userName": "James Byrd",
+    "teachingDiscoveryId": "2395504",
+    "title": "Dissertation Committee for Corey T Spraberry (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-10-02T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2271",
+    "userDiscoveryUrlId": "2271-james-byrd",
+    "userName": "James Byrd",
+    "teachingDiscoveryId": "2113246",
+    "title": "Dissertation Committee for Christi G Pierce (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-10-18T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2271",
+    "userDiscoveryUrlId": "2271-james-byrd",
+    "userName": "James Byrd",
+    "teachingDiscoveryId": "2059664",
+    "title": "Dissertation Committee for Neeraj A Puro (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-07-24T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2271",
+    "userDiscoveryUrlId": "2271-james-byrd",
+    "userName": "James Byrd",
+    "teachingDiscoveryId": "1637653",
+    "title": "Dissertation Committee for Dennis O Mccay (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-12-18T00:00:00-06:00",
+    "endDate": "2016-12-16T00:00:00-06:00"
+  }
+]

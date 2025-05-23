@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "19071",
+    "userDiscoveryUrlId": "19071-qing-tian",
+    "userName": "Qing Tian",
+    "teachingDiscoveryId": "3146209",
+    "title": "Dissertation Committee for Vishnu Prasad Iyer (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "19071",
+    "userDiscoveryUrlId": "19071-qing-tian",
+    "userName": "Qing Tian",
+    "teachingDiscoveryId": "3088095",
+    "title": "Dissertation Committee for Qizhen Lan (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-08-13T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "19071",
+    "userDiscoveryUrlId": "19071-qing-tian",
+    "userName": "Qing Tian",
+    "teachingDiscoveryId": "3087636",
+    "title": "Thesis Committee for Joshua M Daugherty (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-12T00:00:00-05:00",
+    "endDate": null
+  }
+]

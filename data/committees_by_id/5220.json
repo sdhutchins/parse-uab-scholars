@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "5220",
+    "userDiscoveryUrlId": "5220-noha-sharafeldin",
+    "userName": "Noha Sharafeldin",
+    "teachingDiscoveryId": "2779822",
+    "title": "Dissertation Committee for Victoria Chirine Seghatoleslami (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5220",
+    "userDiscoveryUrlId": "5220-noha-sharafeldin",
+    "userName": "Noha Sharafeldin",
+    "teachingDiscoveryId": "2767920",
+    "title": "Thesis Committee for Tomiwa Ayetigbo (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-04-07T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5220",
+    "userDiscoveryUrlId": "5220-noha-sharafeldin",
+    "userName": "Noha Sharafeldin",
+    "teachingDiscoveryId": "2417964",
+    "title": "Dissertation Committee for Julie A Trapani (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-02-23T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5220",
+    "userDiscoveryUrlId": "5220-noha-sharafeldin",
+    "userName": "Noha Sharafeldin",
+    "teachingDiscoveryId": "2389971",
+    "title": "Thesis Committee for Victoria Chirine Seghatoleslami (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-09-23T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

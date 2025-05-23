@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "7316",
+    "userDiscoveryUrlId": "7316-meredith-gartin",
+    "userName": "Meredith Gartin",
+    "teachingDiscoveryId": "2992582",
+    "title": "Dissertation Committee for Joyce Imafidon (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-02-20T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7316",
+    "userDiscoveryUrlId": "7316-meredith-gartin",
+    "userName": "Meredith Gartin",
+    "teachingDiscoveryId": "2706991",
+    "title": "Thesis Committee for Maryclare Gabel (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-12-16T00:00:00-06:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "503",
+    "userDiscoveryUrlId": "503-rodney-tucker",
+    "userName": "Rodney Tucker",
+    "teachingDiscoveryId": "2047112",
+    "title": "Dissertation Committee for Amy M Beasley (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-06-22T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "503",
+    "userDiscoveryUrlId": "503-rodney-tucker",
+    "userName": "Rodney Tucker",
+    "teachingDiscoveryId": "1634205",
+    "title": "Dissertation Committee for Mengying He (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-08-04T00:00:00-05:00",
+    "endDate": "2016-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "503",
+    "userDiscoveryUrlId": "503-rodney-tucker",
+    "userName": "Rodney Tucker",
+    "teachingDiscoveryId": "1632640",
+    "title": "Dissertation Committee for Rene Jooste (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-09-19T00:00:00-05:00",
+    "endDate": "2016-12-16T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "503",
+    "userDiscoveryUrlId": "503-rodney-tucker",
+    "userName": "Rodney Tucker",
+    "teachingDiscoveryId": "1627893",
+    "title": "Dissertation Committee for Jessica E Pullins (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2008-07-03T00:00:00-05:00",
+    "endDate": "2010-08-06T00:00:00-05:00"
+  }
+]

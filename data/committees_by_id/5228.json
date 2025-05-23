@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "5228",
+    "userDiscoveryUrlId": "5228-casey-azuero",
+    "userName": "Casey Azuero",
+    "teachingDiscoveryId": "2767900",
+    "title": "Dissertation Committee for Daniel A Kusko (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5228",
+    "userDiscoveryUrlId": "5228-casey-azuero",
+    "userName": "Casey Azuero",
+    "teachingDiscoveryId": "2758163",
+    "title": "Dissertation Committee for Pavithra A Thomas (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5228",
+    "userDiscoveryUrlId": "5228-casey-azuero",
+    "userName": "Casey Azuero",
+    "teachingDiscoveryId": "2528449",
+    "title": "Thesis Committee for Pavithra A Thomas (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-08-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5228",
+    "userDiscoveryUrlId": "5228-casey-azuero",
+    "userName": "Casey Azuero",
+    "teachingDiscoveryId": "2429935",
+    "title": "Dissertation Committee for Cesar E Gonzalez (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-13T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5228",
+    "userDiscoveryUrlId": "5228-casey-azuero",
+    "userName": "Casey Azuero",
+    "teachingDiscoveryId": "2401923",
+    "title": "Thesis Committee for Daniel A Kusko (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-11-30T00:00:00-06:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  }
+]

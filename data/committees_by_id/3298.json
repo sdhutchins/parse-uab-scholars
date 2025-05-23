@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "3298",
+    "userDiscoveryUrlId": "3298-herbert-chen",
+    "userName": "Herbert Chen",
+    "teachingDiscoveryId": "2776730",
+    "title": "Dissertation Committee for Weisheng Chen (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3298",
+    "userDiscoveryUrlId": "3298-herbert-chen",
+    "userName": "Herbert Chen",
+    "teachingDiscoveryId": "2721935",
+    "title": "Dissertation Committee for Brendon R Herring (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-04-23T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3298",
+    "userDiscoveryUrlId": "3298-herbert-chen",
+    "userName": "Herbert Chen",
+    "teachingDiscoveryId": "2422216",
+    "title": "Dissertation Committee for Rachael E Guenter (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-17T00:00:00-05:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3298",
+    "userDiscoveryUrlId": "3298-herbert-chen",
+    "userName": "Herbert Chen",
+    "teachingDiscoveryId": "2411584",
+    "title": "Dissertation Committee for Yichen Guo (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-02-02T00:00:00-06:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3298",
+    "userDiscoveryUrlId": "3298-herbert-chen",
+    "userName": "Herbert Chen",
+    "teachingDiscoveryId": "2165248",
+    "title": "Thesis Committee for Brendon R Herring (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-07-08T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3298",
+    "userDiscoveryUrlId": "3298-herbert-chen",
+    "userName": "Herbert Chen",
+    "teachingDiscoveryId": "1640284",
+    "title": "Dissertation Committee for Gregory Martens (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-05-09T00:00:00-05:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  }
+]

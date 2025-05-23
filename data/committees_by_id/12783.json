@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "12783",
+    "userDiscoveryUrlId": "12783-michael-owens",
+    "userName": "Michael Owens",
+    "teachingDiscoveryId": "2976903",
+    "title": "Thesis Committee for Caroline K Webb (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-01-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "12783",
+    "userDiscoveryUrlId": "12783-michael-owens",
+    "userName": "Michael Owens",
+    "teachingDiscoveryId": "2959676",
+    "title": "Dissertation Committee for Rebecca L Williams (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-20T00:00:00-06:00",
+    "endDate": null
+  }
+]

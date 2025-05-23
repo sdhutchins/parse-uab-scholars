@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "3109",
+    "userDiscoveryUrlId": "3109-bunyamin-ozaydin",
+    "userName": "Bunyamin Ozaydin",
+    "teachingDiscoveryId": "3153765",
+    "title": "Dissertation Committee for Alfred Dewey (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-11-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3109",
+    "userDiscoveryUrlId": "3109-bunyamin-ozaydin",
+    "userName": "Bunyamin Ozaydin",
+    "teachingDiscoveryId": "2397014",
+    "title": "Dissertation Committee for Jeremy Jed Lyman (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-10-30T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3109",
+    "userDiscoveryUrlId": "3109-bunyamin-ozaydin",
+    "userName": "Bunyamin Ozaydin",
+    "teachingDiscoveryId": "2122768",
+    "title": "Dissertation Committee for Shandra M Pittet (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-11-26T00:00:00-06:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3109",
+    "userDiscoveryUrlId": "3109-bunyamin-ozaydin",
+    "userName": "Bunyamin Ozaydin",
+    "teachingDiscoveryId": "1635979",
+    "title": "Dissertation Committee for Levent Onat (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-08-04T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3129",
+    "userDiscoveryUrlId": "3129-justin-schwartz",
+    "userName": "Justin Schwartz",
+    "teachingDiscoveryId": "2763524",
+    "title": "Dissertation Committee for Zachary Enos Arnold (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3129",
+    "userDiscoveryUrlId": "3129-justin-schwartz",
+    "userName": "Justin Schwartz",
+    "teachingDiscoveryId": "2294576",
+    "title": "Dissertation Committee for Christian David Clesi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-10-28T00:00:00-05:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  }
+]

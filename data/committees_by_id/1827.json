@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "1827",
+    "userDiscoveryUrlId": "1827-jessica-williams",
+    "userName": "Jessica Williams",
+    "teachingDiscoveryId": "3153776",
+    "title": "Dissertation Committee for Marjorie Saintil-Alston (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1827",
+    "userDiscoveryUrlId": "1827-jessica-williams",
+    "userName": "Jessica Williams",
+    "teachingDiscoveryId": "2811045",
+    "title": "Dissertation Committee for Daniel Huggins (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-08-15T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1827",
+    "userDiscoveryUrlId": "1827-jessica-williams",
+    "userName": "Jessica Williams",
+    "teachingDiscoveryId": "2761891",
+    "title": "Dissertation Committee for Cesar I Landeros (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-03-29T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1827",
+    "userDiscoveryUrlId": "1827-jessica-williams",
+    "userName": "Jessica Williams",
+    "teachingDiscoveryId": "2487974",
+    "title": "Dissertation Committee for Carmen S Rainey (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-01-05T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1827",
+    "userDiscoveryUrlId": "1827-jessica-williams",
+    "userName": "Jessica Williams",
+    "teachingDiscoveryId": "2293157",
+    "title": "Dissertation Committee for Dae Hyun Kim (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-10-17T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "920",
+    "userDiscoveryUrlId": "920-jeffrey-lebensburger",
+    "userName": "Jeffrey Lebensburger",
+    "teachingDiscoveryId": "2721290",
+    "title": "Dissertation Committee for Mohammad Omar Sako (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-24T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "920",
+    "userDiscoveryUrlId": "920-jeffrey-lebensburger",
+    "userName": "Jeffrey Lebensburger",
+    "teachingDiscoveryId": "2494349",
+    "title": "Dissertation Committee for Tiffany D Tucker (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-02-25T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "920",
+    "userDiscoveryUrlId": "920-jeffrey-lebensburger",
+    "userName": "Jeffrey Lebensburger",
+    "teachingDiscoveryId": "2395533",
+    "title": "Thesis Committee for Tiffany D Tucker (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-10-14T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "920",
+    "userDiscoveryUrlId": "920-jeffrey-lebensburger",
+    "userName": "Jeffrey Lebensburger",
+    "teachingDiscoveryId": "1633635",
+    "title": "Dissertation Committee for Crystal M Taylor (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-03-23T00:00:00-05:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  }
+]

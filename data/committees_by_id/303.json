@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "303",
+    "userDiscoveryUrlId": "303-james-johnston",
+    "userName": "James Johnston",
+    "teachingDiscoveryId": "1637086",
+    "title": "Thesis Committee for Sarah Caitlin Terry (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-12-16T00:00:00-06:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "303",
+    "userDiscoveryUrlId": "303-james-johnston",
+    "userName": "James Johnston",
+    "teachingDiscoveryId": "1637947",
+    "title": "Dissertation Committee for Jilian A Nieman (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-01-19T00:00:00-06:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  }
+]

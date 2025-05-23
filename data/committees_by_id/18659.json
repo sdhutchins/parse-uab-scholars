@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "18659",
+    "userDiscoveryUrlId": "18659-mary-anne-garner",
+    "userName": "Mary Anne Garner",
+    "teachingDiscoveryId": "2850544",
+    "title": "Dissertation Committee for Yingyao Sun (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-10-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18659",
+    "userDiscoveryUrlId": "18659-mary-anne-garner",
+    "userName": "Mary Anne Garner",
+    "teachingDiscoveryId": "2850537",
+    "title": "Thesis Committee for Yingyao Sun (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-04T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  }
+]

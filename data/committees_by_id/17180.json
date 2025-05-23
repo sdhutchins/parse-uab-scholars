@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "17180",
+    "userDiscoveryUrlId": "17180-jonathan-burns",
+    "userName": "Jonathan Burns",
+    "teachingDiscoveryId": "3191919",
+    "title": "Dissertation Committee for MD Golam Hossain (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17180",
+    "userDiscoveryUrlId": "17180-jonathan-burns",
+    "userName": "Jonathan Burns",
+    "teachingDiscoveryId": "2758171",
+    "title": "Dissertation Committee for James Mokaya Omweri (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-03-16T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "17180",
+    "userDiscoveryUrlId": "17180-jonathan-burns",
+    "userName": "Jonathan Burns",
+    "teachingDiscoveryId": "2532963",
+    "title": "Dissertation Committee for Shefali Fnu (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-30T00:00:00-05:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "17180",
+    "userDiscoveryUrlId": "17180-jonathan-burns",
+    "userName": "Jonathan Burns",
+    "teachingDiscoveryId": "2531746",
+    "title": "Dissertation Committee for Noimat A Jinadu (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-08-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17180",
+    "userDiscoveryUrlId": "17180-jonathan-burns",
+    "userName": "Jonathan Burns",
+    "teachingDiscoveryId": "2528561",
+    "title": "Thesis Committee for Moffat Juma Ongeri (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-04T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "17180",
+    "userDiscoveryUrlId": "17180-jonathan-burns",
+    "userName": "Jonathan Burns",
+    "teachingDiscoveryId": "2518870",
+    "title": "Dissertation Committee for Samith Buddhika Jayawardana Manikpura Dewage (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-22T00:00:00-05:00",
+    "endDate": null
+  }
+]

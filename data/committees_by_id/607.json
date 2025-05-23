@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "607",
+    "userDiscoveryUrlId": "607-timmy-lee",
+    "userName": "Timmy Lee",
+    "teachingDiscoveryId": "2726657",
+    "title": "Dissertation Committee for Huy Quoc Nguyen (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "607",
+    "userDiscoveryUrlId": "607-timmy-lee",
+    "userName": "Timmy Lee",
+    "teachingDiscoveryId": "2463357",
+    "title": "Dissertation Committee for Leslie A Donoghue (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-10T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "607",
+    "userDiscoveryUrlId": "607-timmy-lee",
+    "userName": "Timmy Lee",
+    "teachingDiscoveryId": "2343874",
+    "title": "Dissertation Committee for Alexandria L Nichols (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-06-18T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "607",
+    "userDiscoveryUrlId": "607-timmy-lee",
+    "userName": "Timmy Lee",
+    "teachingDiscoveryId": "2062791",
+    "title": "Dissertation Committee for Luke S Dunaway (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2018-08-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "607",
+    "userDiscoveryUrlId": "607-timmy-lee",
+    "userName": "Timmy Lee",
+    "teachingDiscoveryId": "1639299",
+    "title": "Dissertation Committee for Maheshika Somarathna (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-08-04T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  }
+]

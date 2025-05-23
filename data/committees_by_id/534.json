@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "534",
+    "userDiscoveryUrlId": "534-gabrielle-rocque",
+    "userName": "Gabrielle Rocque",
+    "teachingDiscoveryId": "3150674",
+    "title": "Dissertation Committee for Petra Sprik (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-04T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "534",
+    "userDiscoveryUrlId": "534-gabrielle-rocque",
+    "userName": "Gabrielle Rocque",
+    "teachingDiscoveryId": "2953329",
+    "title": "Dissertation Committee for Jeffrey Alan Franks (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-14T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "534",
+    "userDiscoveryUrlId": "534-gabrielle-rocque",
+    "userName": "Gabrielle Rocque",
+    "teachingDiscoveryId": "2532959",
+    "title": "Dissertation Committee for Nicole Caston (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-30T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "534",
+    "userDiscoveryUrlId": "534-gabrielle-rocque",
+    "userName": "Gabrielle Rocque",
+    "teachingDiscoveryId": "2149789",
+    "title": "Dissertation Committee for Courtney L Phillips (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-04-11T00:00:00-05:00",
+    "endDate": "2020-05-02T00:00:00-05:00"
+  }
+]

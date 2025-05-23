@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "1504",
+    "userDiscoveryUrlId": "1504-aimee-holland",
+    "userName": "Aimee Holland",
+    "teachingDiscoveryId": "3234863",
+    "title": "Dissertation Committee for Janice D Harden (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2025-03-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1504",
+    "userDiscoveryUrlId": "1504-aimee-holland",
+    "userName": "Aimee Holland",
+    "teachingDiscoveryId": "2473573",
+    "title": "Dissertation Committee for Brittany J Munger (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-10-26T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

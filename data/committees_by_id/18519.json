@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "18519",
+    "userDiscoveryUrlId": "18519-christopher-ballmann",
+    "userName": "Christopher Ballmann",
+    "teachingDiscoveryId": "3053475",
+    "title": "Dissertation Committee for Emily Susanne Gaddy (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-12-23T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18519",
+    "userDiscoveryUrlId": "18519-christopher-ballmann",
+    "userName": "Christopher Ballmann",
+    "teachingDiscoveryId": "3153839",
+    "title": "Thesis Committee for Cedric A Edoh (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-12T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18519",
+    "userDiscoveryUrlId": "18519-christopher-ballmann",
+    "userName": "Christopher Ballmann",
+    "teachingDiscoveryId": "3090569",
+    "title": "Dissertation Committee for Alexandra Marie Elgin (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18519",
+    "userDiscoveryUrlId": "18519-christopher-ballmann",
+    "userName": "Christopher Ballmann",
+    "teachingDiscoveryId": "3046692",
+    "title": "Thesis Committee for Thomas Case (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-05-20T00:00:00-05:00",
+    "endDate": null
+  }
+]

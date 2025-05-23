@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "1590",
+    "userDiscoveryUrlId": "1590-teena-mcguinness",
+    "userName": "Teena McGuinness",
+    "teachingDiscoveryId": "1637427",
+    "title": "Dissertation Committee for Sally M Bethart (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2015-04-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1590",
+    "userDiscoveryUrlId": "1590-teena-mcguinness",
+    "userName": "Teena McGuinness",
+    "teachingDiscoveryId": "1636422",
+    "title": "Dissertation Committee for Susan G Williams (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-11-06T00:00:00-06:00",
+    "endDate": "2015-08-07T00:00:00-05:00"
+  }
+]

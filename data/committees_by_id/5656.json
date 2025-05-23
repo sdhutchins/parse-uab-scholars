@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "5656",
+    "userDiscoveryUrlId": "5656-ashley-jones",
+    "userName": "Ashley Jones",
+    "teachingDiscoveryId": "3256183",
+    "title": "Thesis Committee for Deamber Harris (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5656",
+    "userDiscoveryUrlId": "5656-ashley-jones",
+    "userName": "Ashley Jones",
+    "teachingDiscoveryId": "2528458",
+    "title": "Thesis Committee for Laurie E Christolear (Ad Hoc Committee Member)",
+    "status": "Unknown",
+    "startDate": "2022-08-03T00:00:00-05:00",
+    "endDate": null
+  }
+]

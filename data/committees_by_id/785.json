@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "785",
+    "userDiscoveryUrlId": "785-john-owen",
+    "userName": "John Owen",
+    "teachingDiscoveryId": "1636737",
+    "title": "Dissertation Committee for Hwasoon Kim (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-08-07T00:00:00-05:00",
+    "endDate": "2015-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "785",
+    "userDiscoveryUrlId": "785-john-owen",
+    "userName": "John Owen",
+    "teachingDiscoveryId": "1628102",
+    "title": "Dissertation Committee for Sarah Nabukera (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2006-05-10T00:00:00-05:00",
+    "endDate": "2007-12-13T00:00:00-06:00"
+  }
+]

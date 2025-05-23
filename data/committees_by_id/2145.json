@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "2145",
+    "userDiscoveryUrlId": "2145-john-shacka",
+    "userName": "John Shacka",
+    "teachingDiscoveryId": "2781028",
+    "title": "Thesis Committee for Ahyeon Park (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2145",
+    "userDiscoveryUrlId": "2145-john-shacka",
+    "userName": "John Shacka",
+    "teachingDiscoveryId": "2780366",
+    "title": "Thesis Committee for Sharmila Sridhar (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-12T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2145",
+    "userDiscoveryUrlId": "2145-john-shacka",
+    "userName": "John Shacka",
+    "teachingDiscoveryId": "2780199",
+    "title": "Thesis Committee for Neha Srinivas (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-10T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2145",
+    "userDiscoveryUrlId": "2145-john-shacka",
+    "userName": "John Shacka",
+    "teachingDiscoveryId": "2672999",
+    "title": "Dissertation Committee for Yingyao Sun (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2022-10-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2145",
+    "userDiscoveryUrlId": "2145-john-shacka",
+    "userName": "John Shacka",
+    "teachingDiscoveryId": "2673005",
+    "title": "Thesis Committee for Yingyao Sun (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-04T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2145",
+    "userDiscoveryUrlId": "2145-john-shacka",
+    "userName": "John Shacka",
+    "teachingDiscoveryId": "2429653",
+    "title": "Thesis Committee for Nguyen Thut Nhu Nguyen (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-07T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2145",
+    "userDiscoveryUrlId": "2145-john-shacka",
+    "userName": "John Shacka",
+    "teachingDiscoveryId": "2377090",
+    "title": "Thesis Committee for Sarah Elizabeth Coffee (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-08-03T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

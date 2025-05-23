@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3089",
+    "userDiscoveryUrlId": "3089-mohamed-kazamel",
+    "userName": "Mohamed Kazamel",
+    "teachingDiscoveryId": "2324921",
+    "title": "Dissertation Committee for Robert F Rosencrans (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-03-05T00:00:00-06:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3089",
+    "userDiscoveryUrlId": "3089-mohamed-kazamel",
+    "userName": "Mohamed Kazamel",
+    "teachingDiscoveryId": "1736696",
+    "title": "Thesis Committee for Molly Ann King Tipton (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2018-01-18T00:00:00-06:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3581",
+    "userDiscoveryUrlId": "3581-andrew-pucker",
+    "userName": "Andrew Pucker",
+    "teachingDiscoveryId": "2452828",
+    "title": "Thesis Committee for D'Ajanee Smallwood (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-06-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3581",
+    "userDiscoveryUrlId": "3581-andrew-pucker",
+    "userName": "Andrew Pucker",
+    "teachingDiscoveryId": "2452831",
+    "title": "Thesis Committee for Darian Travis (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-06-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3581",
+    "userDiscoveryUrlId": "3581-andrew-pucker",
+    "userName": "Andrew Pucker",
+    "teachingDiscoveryId": "2160752",
+    "title": "Dissertation Committee for Keyur V Savla (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-06-06T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "657",
+    "userDiscoveryUrlId": "657-svamsee-raju",
+    "userName": "S.Vamsee Raju",
+    "teachingDiscoveryId": "3254497",
+    "title": "Thesis Committee for Tzu-Chi Huang (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "657",
+    "userDiscoveryUrlId": "657-svamsee-raju",
+    "userName": "S.Vamsee Raju",
+    "teachingDiscoveryId": "3038336",
+    "title": "Thesis Committee for Han-Chung Chen (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-02T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "657",
+    "userDiscoveryUrlId": "657-svamsee-raju",
+    "userName": "S.Vamsee Raju",
+    "teachingDiscoveryId": "2473329",
+    "title": "Dissertation Committee for Arlet Hernandez (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-10-20T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "657",
+    "userDiscoveryUrlId": "657-svamsee-raju",
+    "userName": "S.Vamsee Raju",
+    "teachingDiscoveryId": "2114376",
+    "title": "Dissertation Committee for Benjamin C Hunt (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-10-25T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "657",
+    "userDiscoveryUrlId": "657-svamsee-raju",
+    "userName": "S.Vamsee Raju",
+    "teachingDiscoveryId": "2058627",
+    "title": "Dissertation Committee for Lawrence Rasmussen (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-07-19T00:00:00-05:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "657",
+    "userDiscoveryUrlId": "657-svamsee-raju",
+    "userName": "S.Vamsee Raju",
+    "teachingDiscoveryId": "2050564",
+    "title": "Dissertation Committee for Oluwabunmi Dad M Dada (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-06-29T00:00:00-05:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "657",
+    "userDiscoveryUrlId": "657-svamsee-raju",
+    "userName": "S.Vamsee Raju",
+    "teachingDiscoveryId": "1636703",
+    "title": "Dissertation Committee for Vivian Y Lin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-04-03T00:00:00-05:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  }
+]

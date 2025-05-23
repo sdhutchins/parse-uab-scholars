@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "2708",
+    "userDiscoveryUrlId": "2708-andrei-stanishevsky",
+    "userName": "Andrei Stanishevsky",
+    "teachingDiscoveryId": "3172295",
+    "title": "Dissertation Committee for Sarah L Nealy (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-12T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2708",
+    "userDiscoveryUrlId": "2708-andrei-stanishevsky",
+    "userName": "Andrei Stanishevsky",
+    "teachingDiscoveryId": "2488089",
+    "title": "Dissertation Committee for Hannah A Lacy (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-07T00:00:00-06:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2708",
+    "userDiscoveryUrlId": "2708-andrei-stanishevsky",
+    "userName": "Andrei Stanishevsky",
+    "teachingDiscoveryId": "2429768",
+    "title": "Dissertation Committee for Lindsey E Motlow (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-05-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2708",
+    "userDiscoveryUrlId": "2708-andrei-stanishevsky",
+    "userName": "Andrei Stanishevsky",
+    "teachingDiscoveryId": "2452701",
+    "title": "Dissertation Committee for William A Brayer (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-08-16T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2708",
+    "userDiscoveryUrlId": "2708-andrei-stanishevsky",
+    "userName": "Andrei Stanishevsky",
+    "teachingDiscoveryId": "2187333",
+    "title": "Thesis Committee for Lindsey E Motlow (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-09-19T00:00:00-05:00",
+    "endDate": "2020-05-02T00:00:00-05:00"
+  }
+]

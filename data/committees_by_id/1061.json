@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "1061",
+    "userDiscoveryUrlId": "1061-ivan-brezovich",
+    "userName": "Ivan Brezovich",
+    "teachingDiscoveryId": "1637233",
+    "title": "Dissertation Committee for Hugo Jimenez (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2012-12-07T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1061",
+    "userDiscoveryUrlId": "1061-ivan-brezovich",
+    "userName": "Ivan Brezovich",
+    "teachingDiscoveryId": "1633347",
+    "title": "Dissertation Committee for Jacquelyn W Zimmerman (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2010-03-17T00:00:00-05:00",
+    "endDate": "2012-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1061",
+    "userDiscoveryUrlId": "1061-ivan-brezovich",
+    "userName": "Ivan Brezovich",
+    "teachingDiscoveryId": "1621341",
+    "title": "Dissertation Committee for Laruen Anna Rast (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2009-02-18T00:00:00-06:00",
+    "endDate": "2011-05-04T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "2857",
+    "userDiscoveryUrlId": "2857-subhashini-bolisetty",
+    "userName": "Subhashini Bolisetty",
+    "teachingDiscoveryId": "2726658",
+    "title": "Dissertation Committee for Huy Quoc Nguyen (Chairperson)",
+    "status": "Unknown",
+    "startDate": "2023-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2857",
+    "userDiscoveryUrlId": "2857-subhashini-bolisetty",
+    "userName": "Subhashini Bolisetty",
+    "teachingDiscoveryId": "2721291",
+    "title": "Dissertation Committee for Mohammad Omar Sako (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-24T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2857",
+    "userDiscoveryUrlId": "2857-subhashini-bolisetty",
+    "userName": "Subhashini Bolisetty",
+    "teachingDiscoveryId": "2490815",
+    "title": "Dissertation Committee for Gelare Ghajar-Rahimi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-27T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2857",
+    "userDiscoveryUrlId": "2857-subhashini-bolisetty",
+    "userName": "Subhashini Bolisetty",
+    "teachingDiscoveryId": "2399749",
+    "title": "Dissertation Committee for Cailin Elizabeth Kellum (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2020-11-15T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2857",
+    "userDiscoveryUrlId": "2857-subhashini-bolisetty",
+    "userName": "Subhashini Bolisetty",
+    "teachingDiscoveryId": "1959039",
+    "title": "Dissertation Committee for Brian A Czaya (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-02-19T00:00:00-06:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2857",
+    "userDiscoveryUrlId": "2857-subhashini-bolisetty",
+    "userName": "Subhashini Bolisetty",
+    "teachingDiscoveryId": "1639883",
+    "title": "Dissertation Committee for Laurence M Black (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-02-24T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  }
+]

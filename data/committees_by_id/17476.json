@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17476",
+    "userDiscoveryUrlId": "17476-lei-ye",
+    "userName": "Lei Ye",
+    "teachingDiscoveryId": "2970522",
+    "title": "Dissertation Committee for Akazha Nicole Green (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2023-12-15T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17476",
+    "userDiscoveryUrlId": "17476-lei-ye",
+    "userName": "Lei Ye",
+    "teachingDiscoveryId": "2844414",
+    "title": "Dissertation Committee for Bijay Guragain (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-10-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17476",
+    "userDiscoveryUrlId": "17476-lei-ye",
+    "userName": "Lei Ye",
+    "teachingDiscoveryId": "2674300",
+    "title": "Dissertation Committee for Yuhua Wei (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-10T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  }
+]

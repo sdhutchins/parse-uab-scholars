@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "984",
+    "userDiscoveryUrlId": "984-ammar-saadoon-alishlash",
+    "userName": "Ammar Saadoon Alishlash",
+    "teachingDiscoveryId": "2757168",
+    "title": "Dissertation Committee for Kelsey M Maclin (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-12T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "984",
+    "userDiscoveryUrlId": "984-ammar-saadoon-alishlash",
+    "userName": "Ammar Saadoon Alishlash",
+    "teachingDiscoveryId": "2494350",
+    "title": "Dissertation Committee for Tiffany D Tucker (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-02-25T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "984",
+    "userDiscoveryUrlId": "984-ammar-saadoon-alishlash",
+    "userName": "Ammar Saadoon Alishlash",
+    "teachingDiscoveryId": "2401930",
+    "title": "Thesis Committee for Tiffany D Tucker (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-11-30T00:00:00-06:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  }
+]

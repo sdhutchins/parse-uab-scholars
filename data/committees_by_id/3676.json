@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "3676",
+    "userDiscoveryUrlId": "3676-andre-leier",
+    "userName": "Andre Leier",
+    "teachingDiscoveryId": "3037098",
+    "title": "Thesis Committee for Jordan Seale (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-26T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3676",
+    "userDiscoveryUrlId": "3676-andre-leier",
+    "userName": "Andre Leier",
+    "teachingDiscoveryId": "2842695",
+    "title": "Dissertation Committee for Sajesan Aryal (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-10-06T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3676",
+    "userDiscoveryUrlId": "3676-andre-leier",
+    "userName": "Andre Leier",
+    "teachingDiscoveryId": "2811861",
+    "title": "Thesis Committee for Cameron L Church (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-08-17T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3676",
+    "userDiscoveryUrlId": "3676-andre-leier",
+    "userName": "Andre Leier",
+    "teachingDiscoveryId": "2746579",
+    "title": "Dissertation Committee for Jiungwen Chen (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-09T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3676",
+    "userDiscoveryUrlId": "3676-andre-leier",
+    "userName": "Andre Leier",
+    "teachingDiscoveryId": "2726670",
+    "title": "Dissertation Committee for Caitlin Harvey (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3676",
+    "userDiscoveryUrlId": "3676-andre-leier",
+    "userName": "Andre Leier",
+    "teachingDiscoveryId": "2344021",
+    "title": "Dissertation Committee for Lisa Shrestha (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-05-14T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3676",
+    "userDiscoveryUrlId": "3676-andre-leier",
+    "userName": "Andre Leier",
+    "teachingDiscoveryId": "2122778",
+    "title": "Dissertation Committee for Jazmine I Benjamin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-11-26T00:00:00-06:00",
+    "endDate": "2019-10-11T00:00:00-05:00"
+  }
+]

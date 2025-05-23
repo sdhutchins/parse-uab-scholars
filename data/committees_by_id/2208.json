@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "2208",
+    "userDiscoveryUrlId": "2208-david-crossman",
+    "userName": "David Crossman",
+    "teachingDiscoveryId": "2995479",
+    "title": "Thesis Committee for Abel Lopez (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-02-26T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2208",
+    "userDiscoveryUrlId": "2208-david-crossman",
+    "userName": "David Crossman",
+    "teachingDiscoveryId": "2717049",
+    "title": "Dissertation Committee for Yuwei Song (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-13T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2208",
+    "userDiscoveryUrlId": "2208-david-crossman",
+    "userName": "David Crossman",
+    "teachingDiscoveryId": "2485991",
+    "title": "Dissertation Committee for Christian Fay (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-14T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  }
+]

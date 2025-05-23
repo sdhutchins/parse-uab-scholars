@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "18540",
+    "userDiscoveryUrlId": "18540-britney-murphy",
+    "userName": "Britney Murphy",
+    "teachingDiscoveryId": "3243376",
+    "title": "Thesis Committee for Beau R Bowden (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-02T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18540",
+    "userDiscoveryUrlId": "18540-britney-murphy",
+    "userName": "Britney Murphy",
+    "teachingDiscoveryId": "3229341",
+    "title": "Thesis Committee for Joshua Hamby (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-03-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18540",
+    "userDiscoveryUrlId": "18540-britney-murphy",
+    "userName": "Britney Murphy",
+    "teachingDiscoveryId": "3040645",
+    "title": "Thesis Committee for Eric L Davis (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-05-03T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  }
+]

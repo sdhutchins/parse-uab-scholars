@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "17193",
+    "userDiscoveryUrlId": "17193-katia-bruxvoort",
+    "userName": "Katia Bruxvoort",
+    "teachingDiscoveryId": "3189379",
+    "title": "Thesis Committee for William Bradford (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17193",
+    "userDiscoveryUrlId": "17193-katia-bruxvoort",
+    "userName": "Katia Bruxvoort",
+    "teachingDiscoveryId": "2972316",
+    "title": "Dissertation Committee for Rosebella Capio (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-27T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17193",
+    "userDiscoveryUrlId": "17193-katia-bruxvoort",
+    "userName": "Katia Bruxvoort",
+    "teachingDiscoveryId": "2850543",
+    "title": "Thesis Committee for Ally Lynn Pullen (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-10-18T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "17193",
+    "userDiscoveryUrlId": "17193-katia-bruxvoort",
+    "userName": "Katia Bruxvoort",
+    "teachingDiscoveryId": "2784817",
+    "title": "Thesis Committee for Justin Thomas Catt (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-24T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17193",
+    "userDiscoveryUrlId": "17193-katia-bruxvoort",
+    "userName": "Katia Bruxvoort",
+    "teachingDiscoveryId": "2767916",
+    "title": "Thesis Committee for Carla V Brooks (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17193",
+    "userDiscoveryUrlId": "17193-katia-bruxvoort",
+    "userName": "Katia Bruxvoort",
+    "teachingDiscoveryId": "2718946",
+    "title": "Thesis Committee for Sandra Chibuzor Olisakwe (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-01-18T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17193",
+    "userDiscoveryUrlId": "17193-katia-bruxvoort",
+    "userName": "Katia Bruxvoort",
+    "teachingDiscoveryId": "2513771",
+    "title": "Dissertation Committee for Nora A Balas (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-05-11T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "17193",
+    "userDiscoveryUrlId": "17193-katia-bruxvoort",
+    "userName": "Katia Bruxvoort",
+    "teachingDiscoveryId": "2488086",
+    "title": "Thesis Committee for Ryan Mitchell Fischer (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-07T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

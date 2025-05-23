@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "1360",
+    "userDiscoveryUrlId": "1360-anthony-morlandt",
+    "userName": "Anthony Morlandt",
+    "teachingDiscoveryId": "3136658",
+    "title": "Dissertation Committee for Sherin James (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1360",
+    "userDiscoveryUrlId": "1360-anthony-morlandt",
+    "userName": "Anthony Morlandt",
+    "teachingDiscoveryId": "2131172",
+    "title": "Thesis Committee for Aikaterini K Aslanidou (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-12-21T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  }
+]

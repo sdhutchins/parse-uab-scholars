@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "17661",
+    "userDiscoveryUrlId": "17661-lisa-gezon",
+    "userName": "Lisa Gezon",
+    "teachingDiscoveryId": "3189387",
+    "title": "Thesis Committee for Amy J Shields (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2025-01-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17661",
+    "userDiscoveryUrlId": "17661-lisa-gezon",
+    "userName": "Lisa Gezon",
+    "teachingDiscoveryId": "3090573",
+    "title": "Thesis Committee for Taylor Kiefer (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-16T00:00:00-05:00",
+    "endDate": null
+  }
+]

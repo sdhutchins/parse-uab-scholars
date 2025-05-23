@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "6271",
+    "userDiscoveryUrlId": "6271-scott-pruett",
+    "userName": "Scott Pruett",
+    "teachingDiscoveryId": "3265298",
+    "title": "Thesis Committee for lloreal Kennedy May (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-05-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6271",
+    "userDiscoveryUrlId": "6271-scott-pruett",
+    "userName": "Scott Pruett",
+    "teachingDiscoveryId": "3246778",
+    "title": "Thesis Committee for Amanda Cordle (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2025-04-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6271",
+    "userDiscoveryUrlId": "6271-scott-pruett",
+    "userName": "Scott Pruett",
+    "teachingDiscoveryId": "2672489",
+    "title": "Dissertation Committee for Natalie Remiszewski (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-09-28T00:00:00-05:00",
+    "endDate": null
+  }
+]

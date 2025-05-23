@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3072",
+    "userDiscoveryUrlId": "3072-stefanie-robel",
+    "userName": "Stefanie Robel",
+    "teachingDiscoveryId": "3241735",
+    "title": "Dissertation Committee for Xi Guo (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2025-03-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3072",
+    "userDiscoveryUrlId": "3072-stefanie-robel",
+    "userName": "Stefanie Robel",
+    "teachingDiscoveryId": "3047676",
+    "title": "Dissertation Committee for Akash Nagarajan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3072",
+    "userDiscoveryUrlId": "3072-stefanie-robel",
+    "userName": "Stefanie Robel",
+    "teachingDiscoveryId": "3044354",
+    "title": "Dissertation Committee for Owen Leitzel (Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-05-16T00:00:00-05:00",
+    "endDate": null
+  }
+]

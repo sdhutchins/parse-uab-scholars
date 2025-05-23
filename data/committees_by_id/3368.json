@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3368",
+    "userDiscoveryUrlId": "3368-luz-padilla",
+    "userName": "Luz Padilla",
+    "teachingDiscoveryId": "3099852",
+    "title": "Dissertation Committee for Michelle Kung (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3368",
+    "userDiscoveryUrlId": "3368-luz-padilla",
+    "userName": "Luz Padilla",
+    "teachingDiscoveryId": "3011642",
+    "title": "Thesis Committee for Isabel Cuellar Acker (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-04-01T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3368",
+    "userDiscoveryUrlId": "3368-luz-padilla",
+    "userName": "Luz Padilla",
+    "teachingDiscoveryId": "2468183",
+    "title": "Thesis Committee for Madeleine Mcgwin (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-09-09T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  }
+]

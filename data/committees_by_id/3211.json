@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3211",
+    "userDiscoveryUrlId": "3211-claire-mowling",
+    "userName": "Claire Mowling",
+    "teachingDiscoveryId": "2953084",
+    "title": "Dissertation Committee for Amy D Carr (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-10T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3211",
+    "userDiscoveryUrlId": "3211-claire-mowling",
+    "userName": "Claire Mowling",
+    "teachingDiscoveryId": "2428611",
+    "title": "Dissertation Committee for Stepan Vancurik (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2020-02-19T00:00:00-06:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "16771",
+    "userDiscoveryUrlId": "16771-girish-melkani",
+    "userName": "Girish Melkani",
+    "teachingDiscoveryId": "2962976",
+    "title": "Dissertation Committee for Morgan Barkley (Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-11-28T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16771",
+    "userDiscoveryUrlId": "16771-girish-melkani",
+    "userName": "Girish Melkani",
+    "teachingDiscoveryId": "2471949",
+    "title": "Dissertation Committee for Farah Abou Daya (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-10-07T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "16771",
+    "userDiscoveryUrlId": "16771-girish-melkani",
+    "userName": "Girish Melkani",
+    "teachingDiscoveryId": "2468184",
+    "title": "Dissertation Committee for Christopher Ramirez Livelo (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-09-09T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "16771",
+    "userDiscoveryUrlId": "16771-girish-melkani",
+    "userName": "Girish Melkani",
+    "teachingDiscoveryId": "2463329",
+    "title": "Dissertation Committee for Yiming Guo Livelo (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-10T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  }
+]

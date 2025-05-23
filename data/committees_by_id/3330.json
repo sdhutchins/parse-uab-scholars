@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3330",
+    "userDiscoveryUrlId": "3330-gabriela-oates",
+    "userName": "Gabriela Oates",
+    "teachingDiscoveryId": "2703330",
+    "title": "Dissertation Committee for Andria M Cimino (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-12-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3330",
+    "userDiscoveryUrlId": "3330-gabriela-oates",
+    "userName": "Gabriela Oates",
+    "teachingDiscoveryId": "2399857",
+    "title": "Thesis Committee for Tiffany D Tucker (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-11-15T00:00:00-06:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  }
+]

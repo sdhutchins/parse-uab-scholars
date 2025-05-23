@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3604",
+    "userDiscoveryUrlId": "3604-jill-clements",
+    "userName": "Jill Clements",
+    "teachingDiscoveryId": "2528198",
+    "title": "Thesis Committee for Maggie Lethi Sharp (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-01T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3604",
+    "userDiscoveryUrlId": "3604-jill-clements",
+    "userName": "Jill Clements",
+    "teachingDiscoveryId": "2333188",
+    "title": "Thesis Committee for Rebecca Elizabeth Foushee (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-05-04T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3604",
+    "userDiscoveryUrlId": "3604-jill-clements",
+    "userName": "Jill Clements",
+    "teachingDiscoveryId": "2074258",
+    "title": "Thesis Committee for Nathan W Kitchens (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2018-08-24T00:00:00-05:00",
+    "endDate": null
+  }
+]

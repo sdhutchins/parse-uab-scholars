@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "2999",
+    "userDiscoveryUrlId": "2999-karen-jaunarajs",
+    "userName": "Karen Jaunarajs",
+    "teachingDiscoveryId": "3215130",
+    "title": "Dissertation Committee for Brea Ford (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-24T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2999",
+    "userDiscoveryUrlId": "2999-karen-jaunarajs",
+    "userName": "Karen Jaunarajs",
+    "teachingDiscoveryId": "2972310",
+    "title": "Dissertation Committee for Zoe Fokakis (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-27T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2999",
+    "userDiscoveryUrlId": "2999-karen-jaunarajs",
+    "userName": "Karen Jaunarajs",
+    "teachingDiscoveryId": "2810646",
+    "title": "Dissertation Committee for Charlotte Brzozowski (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-14T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2999",
+    "userDiscoveryUrlId": "2999-karen-jaunarajs",
+    "userName": "Karen Jaunarajs",
+    "teachingDiscoveryId": "2785040",
+    "title": "Dissertation Committee for Henrique De Oliveira Amaral (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-05-26T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2999",
+    "userDiscoveryUrlId": "2999-karen-jaunarajs",
+    "userName": "Karen Jaunarajs",
+    "teachingDiscoveryId": "2503218",
+    "title": "Dissertation Committee for Miguel Duran (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-04-05T00:00:00-05:00",
+    "endDate": null
+  }
+]

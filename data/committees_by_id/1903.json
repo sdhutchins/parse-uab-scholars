@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "1903",
+    "userDiscoveryUrlId": "1903-remo-george",
+    "userName": "Remo George",
+    "teachingDiscoveryId": "2774175",
+    "title": "Thesis Committee for Michael Richard Drelich (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1903",
+    "userDiscoveryUrlId": "1903-remo-george",
+    "userName": "Remo George",
+    "teachingDiscoveryId": "2515850",
+    "title": "Thesis Committee for Raquema Williams (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-05-31T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1903",
+    "userDiscoveryUrlId": "1903-remo-george",
+    "userName": "Remo George",
+    "teachingDiscoveryId": "2134323",
+    "title": "Thesis Committee for Abdullah F Alosaimi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-01-11T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "2561",
+    "userDiscoveryUrlId": "2561-jessie-dunbar",
+    "userName": "Jessie Dunbar",
+    "teachingDiscoveryId": "3077513",
+    "title": "Thesis Committee for Aniyah Fleets-Giles (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-07-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2561",
+    "userDiscoveryUrlId": "2561-jessie-dunbar",
+    "userName": "Jessie Dunbar",
+    "teachingDiscoveryId": "3075036",
+    "title": "Thesis Committee for Deamber Harris (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-07-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2561",
+    "userDiscoveryUrlId": "2561-jessie-dunbar",
+    "userName": "Jessie Dunbar",
+    "teachingDiscoveryId": "3075035",
+    "title": "Thesis Committee for Victor Unachukwu (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-07-22T00:00:00-05:00",
+    "endDate": "2024-10-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2561",
+    "userDiscoveryUrlId": "2561-jessie-dunbar",
+    "userName": "Jessie Dunbar",
+    "teachingDiscoveryId": "2811349",
+    "title": "Thesis Committee for Madison Robin Owens (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2561",
+    "userDiscoveryUrlId": "2561-jessie-dunbar",
+    "userName": "Jessie Dunbar",
+    "teachingDiscoveryId": "2403853",
+    "title": "Thesis Committee for Olivia A Grider (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-12-10T00:00:00-06:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2561",
+    "userDiscoveryUrlId": "2561-jessie-dunbar",
+    "userName": "Jessie Dunbar",
+    "teachingDiscoveryId": "2391870",
+    "title": "Dissertation Committee for Martez D Files (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-09-30T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2561",
+    "userDiscoveryUrlId": "2561-jessie-dunbar",
+    "userName": "Jessie Dunbar",
+    "teachingDiscoveryId": "1636853",
+    "title": "Thesis Committee for Sarah E Goggans (Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-12-30T00:00:00-06:00",
+    "endDate": "2016-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2561",
+    "userDiscoveryUrlId": "2561-jessie-dunbar",
+    "userName": "Jessie Dunbar",
+    "teachingDiscoveryId": "1639228",
+    "title": "Thesis Committee for Sharanna B Polk (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-12-31T00:00:00-06:00",
+    "endDate": "2015-08-07T00:00:00-05:00"
+  }
+]

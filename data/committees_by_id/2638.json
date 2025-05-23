@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "2638",
+    "userDiscoveryUrlId": "2638-shelly-mcgrath",
+    "userName": "Shelly McGrath",
+    "teachingDiscoveryId": "3258843",
+    "title": "Thesis Committee for Ruheen Firoz Charania (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2638",
+    "userDiscoveryUrlId": "2638-shelly-mcgrath",
+    "userName": "Shelly McGrath",
+    "teachingDiscoveryId": "1639193",
+    "title": "Thesis Committee for Julien C Grayer (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-01-07T00:00:00-06:00",
+    "endDate": "2015-08-07T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2638",
+    "userDiscoveryUrlId": "2638-shelly-mcgrath",
+    "userName": "Shelly McGrath",
+    "teachingDiscoveryId": "1623685",
+    "title": "Thesis Committee for Emmanuel E Umoh (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-11-12T00:00:00-06:00",
+    "endDate": "2014-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2638",
+    "userDiscoveryUrlId": "2638-shelly-mcgrath",
+    "userName": "Shelly McGrath",
+    "teachingDiscoveryId": "1632500",
+    "title": "Thesis Committee for Kimberly C Williams (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-09-03T00:00:00-05:00",
+    "endDate": "2015-04-24T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2638",
+    "userDiscoveryUrlId": "2638-shelly-mcgrath",
+    "userName": "Shelly McGrath",
+    "teachingDiscoveryId": "1633766",
+    "title": "Thesis Committee for Lakesha R Martin (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-08-27T00:00:00-05:00",
+    "endDate": "2014-08-08T00:00:00-05:00"
+  }
+]

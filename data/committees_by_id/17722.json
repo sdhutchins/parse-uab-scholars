@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17722",
+    "userDiscoveryUrlId": "17722-patricia-aguilar-calvo",
+    "userName": "Patricia Aguilar Calvo",
+    "teachingDiscoveryId": "2991876",
+    "title": "Dissertation Committee for Lauren Fielding (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-02-15T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17722",
+    "userDiscoveryUrlId": "17722-patricia-aguilar-calvo",
+    "userName": "Patricia Aguilar Calvo",
+    "teachingDiscoveryId": "2967644",
+    "title": "Dissertation Committee for Saumya Digraskar (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-12-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17722",
+    "userDiscoveryUrlId": "17722-patricia-aguilar-calvo",
+    "userName": "Patricia Aguilar Calvo",
+    "teachingDiscoveryId": "2783544",
+    "title": "Dissertation Committee for Ashley B Adamson (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-05-22T00:00:00-05:00",
+    "endDate": null
+  }
+]

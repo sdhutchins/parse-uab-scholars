@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "1896",
+    "userDiscoveryUrlId": "1896-m-tino-unlap",
+    "userName": "M. Tino Unlap",
+    "teachingDiscoveryId": "3263693",
+    "title": "Thesis Committee for Sree Sai Chandhanna Khatravath (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-05-05T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1896",
+    "userDiscoveryUrlId": "1896-m-tino-unlap",
+    "userName": "M. Tino Unlap",
+    "teachingDiscoveryId": "3202317",
+    "title": "Dissertation Committee for Amy E Glass (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2025-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1896",
+    "userDiscoveryUrlId": "1896-m-tino-unlap",
+    "userName": "M. Tino Unlap",
+    "teachingDiscoveryId": "2746574",
+    "title": "Thesis Committee for AHANA CHATTERJEE (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-09T00:00:00-06:00",
+    "endDate": null
+  }
+]

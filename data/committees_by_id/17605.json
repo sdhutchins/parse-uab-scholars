@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "17605",
+    "userDiscoveryUrlId": "17605-karen-scott",
+    "userName": "Karen Scott",
+    "teachingDiscoveryId": "3259060",
+    "title": "Thesis Committee for Katelyn Coker (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-29T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17605",
+    "userDiscoveryUrlId": "17605-karen-scott",
+    "userName": "Karen Scott",
+    "teachingDiscoveryId": "2998121",
+    "title": "Thesis Committee for Kerry Murr (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-03-01T00:00:00-06:00",
+    "endDate": null
+  }
+]

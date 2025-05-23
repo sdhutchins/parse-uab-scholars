@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "753",
+    "userDiscoveryUrlId": "753-lawrence-ver-hoef",
+    "userName": "Lawrence Ver Hoef",
+    "teachingDiscoveryId": "2135791",
+    "title": "Dissertation Committee for Ashleigh R Burns (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-01-22T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "753",
+    "userDiscoveryUrlId": "753-lawrence-ver-hoef",
+    "userName": "Lawrence Ver Hoef",
+    "teachingDiscoveryId": "1638535",
+    "title": "Dissertation Committee for Carla Ammons (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2017-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "753",
+    "userDiscoveryUrlId": "753-lawrence-ver-hoef",
+    "userName": "Lawrence Ver Hoef",
+    "teachingDiscoveryId": "1639486",
+    "title": "Dissertation Committee for Megan C Rich (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-06-22T00:00:00-05:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "753",
+    "userDiscoveryUrlId": "753-lawrence-ver-hoef",
+    "userName": "Lawrence Ver Hoef",
+    "teachingDiscoveryId": "1638627",
+    "title": "Dissertation Committee for Julia C Fleming (Advisor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-04-05T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "753",
+    "userDiscoveryUrlId": "753-lawrence-ver-hoef",
+    "userName": "Lawrence Ver Hoef",
+    "teachingDiscoveryId": "1638289",
+    "title": "Thesis Committee for Seongtaek Lee (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-01-19T00:00:00-06:00",
+    "endDate": "2016-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "753",
+    "userDiscoveryUrlId": "753-lawrence-ver-hoef",
+    "userName": "Lawrence Ver Hoef",
+    "teachingDiscoveryId": "1638848",
+    "title": "Dissertation Committee for Richard G Sanchez (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-12-03T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "753",
+    "userDiscoveryUrlId": "753-lawrence-ver-hoef",
+    "userName": "Lawrence Ver Hoef",
+    "teachingDiscoveryId": "1638284",
+    "title": "Dissertation Committee for Seongtaek Lee (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-05-01T00:00:00-05:00",
+    "endDate": "2016-04-29T00:00:00-05:00"
+  }
+]

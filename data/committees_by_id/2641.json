@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "2641",
+    "userDiscoveryUrlId": "2641-john-sloan",
+    "userName": "John Sloan",
+    "teachingDiscoveryId": "1637941",
+    "title": "Dissertation Committee for Rasib H Khan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-12-12T00:00:00-06:00",
+    "endDate": "2016-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2641",
+    "userDiscoveryUrlId": "2641-john-sloan",
+    "userName": "John Sloan",
+    "teachingDiscoveryId": "1637572",
+    "title": "Thesis Committee for Brandi L Jefferson (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-05-25T00:00:00-05:00",
+    "endDate": "2013-08-08T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2641",
+    "userDiscoveryUrlId": "2641-john-sloan",
+    "userName": "John Sloan",
+    "teachingDiscoveryId": "1621325",
+    "title": "Thesis Committee for Jamie L Blalock (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2008-03-18T00:00:00-05:00",
+    "endDate": "2008-08-07T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2641",
+    "userDiscoveryUrlId": "2641-john-sloan",
+    "userName": "John Sloan",
+    "teachingDiscoveryId": "1624087",
+    "title": "Thesis Committee for Elizabeth R Donovan (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2008-01-08T00:00:00-06:00",
+    "endDate": "2012-05-09T00:00:00-05:00"
+  }
+]

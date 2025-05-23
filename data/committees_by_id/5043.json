@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "5043",
+    "userDiscoveryUrlId": "5043-rachel-sinkey",
+    "userName": "Rachel Sinkey",
+    "teachingDiscoveryId": "3265295",
+    "title": "Dissertation Committee for Nekayla Jenae Anderson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-05-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5043",
+    "userDiscoveryUrlId": "5043-rachel-sinkey",
+    "userName": "Rachel Sinkey",
+    "teachingDiscoveryId": "3042672",
+    "title": "Dissertation Committee for Samuel I Stowe (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-10T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5043",
+    "userDiscoveryUrlId": "5043-rachel-sinkey",
+    "userName": "Rachel Sinkey",
+    "teachingDiscoveryId": "2676498",
+    "title": "Dissertation Committee for Sarah Lee Bowler (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-31T00:00:00-05:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5043",
+    "userDiscoveryUrlId": "5043-rachel-sinkey",
+    "userName": "Rachel Sinkey",
+    "teachingDiscoveryId": "2676397",
+    "title": "Dissertation Committee for Angelina Aduke Toluhi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-27T00:00:00-05:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5043",
+    "userDiscoveryUrlId": "5043-rachel-sinkey",
+    "userName": "Rachel Sinkey",
+    "teachingDiscoveryId": "2314604",
+    "title": "Dissertation Committee for Megan Rutland Mileski (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-22T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  }
+]

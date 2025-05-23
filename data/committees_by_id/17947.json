@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "17947",
+    "userDiscoveryUrlId": "17947-greer-dolby",
+    "userName": "Greer Dolby",
+    "teachingDiscoveryId": "3107470",
+    "title": "Dissertation Committee for Austin Biddy (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-09-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17947",
+    "userDiscoveryUrlId": "17947-greer-dolby",
+    "userName": "Greer Dolby",
+    "teachingDiscoveryId": "3093303",
+    "title": "Dissertation Committee for Nikita Jade Mellor (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-08-21T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17947",
+    "userDiscoveryUrlId": "17947-greer-dolby",
+    "userName": "Greer Dolby",
+    "teachingDiscoveryId": "2781030",
+    "title": "Dissertation Committee for Akash Nagarajan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-17T00:00:00-05:00",
+    "endDate": "2024-05-28T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "17947",
+    "userDiscoveryUrlId": "17947-greer-dolby",
+    "userName": "Greer Dolby",
+    "teachingDiscoveryId": "2780419",
+    "title": "Dissertation Committee for Mohammad Mijanur Rahman (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-15T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  }
+]

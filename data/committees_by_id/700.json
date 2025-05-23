@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "700",
+    "userDiscoveryUrlId": "700-jasvinder-singh",
+    "userName": "Jasvinder Singh",
+    "teachingDiscoveryId": "2519049",
+    "title": "Dissertation Committee for Aizhan Karabukayeva (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-06-24T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "700",
+    "userDiscoveryUrlId": "700-jasvinder-singh",
+    "userName": "Jasvinder Singh",
+    "teachingDiscoveryId": "2518912",
+    "title": "Thesis Committee for Aizhan Karabukayeva (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-23T00:00:00-05:00",
+    "endDate": null
+  }
+]

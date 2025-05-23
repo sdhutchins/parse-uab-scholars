@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "16431",
+    "userDiscoveryUrlId": "16431-vivek-nanda",
+    "userName": "Vivek Nanda",
+    "teachingDiscoveryId": "2721936",
+    "title": "Dissertation Committee for Sara Ann Wennersten (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-25T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16431",
+    "userDiscoveryUrlId": "16431-vivek-nanda",
+    "userName": "Vivek Nanda",
+    "teachingDiscoveryId": "2471953",
+    "title": "Dissertation Committee for Farah Abou Daya (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-10-07T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "16431",
+    "userDiscoveryUrlId": "16431-vivek-nanda",
+    "userName": "Vivek Nanda",
+    "teachingDiscoveryId": "2463342",
+    "title": "Dissertation Committee for Yiming Guo Livelo (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-10T00:00:00-05:00",
+    "endDate": "2021-10-05T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "16431",
+    "userDiscoveryUrlId": "16431-vivek-nanda",
+    "userName": "Vivek Nanda",
+    "teachingDiscoveryId": "2344053",
+    "title": "Dissertation Committee for Zainab Motolani Shonibare (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-06-23T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

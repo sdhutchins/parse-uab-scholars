@@ -1,0 +1,92 @@
+[
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "3193821",
+    "title": "Dissertation Committee for Tabitha N Holcombe (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-23T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "2850530",
+    "title": "Dissertation Committee for Shuo Sun (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-10-18T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "2783319",
+    "title": "Dissertation Committee for LaBreesha Batey (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-05-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "2711865",
+    "title": "Thesis Committee for Sergen Barcin (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-01-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "2490809",
+    "title": "Dissertation Committee for Carlos Gerardo Angulo Ruiz (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-27T00:00:00-06:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "2487976",
+    "title": "Dissertation Committee for Yu Chao Shih (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-05T00:00:00-06:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "2475777",
+    "title": "Thesis Committee for Ethan M Stonecipher (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-11-12T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "2464501",
+    "title": "Dissertation Committee for Yongzhe Yan (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-18T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2444",
+    "userDiscoveryUrlId": "2444-selvum-pillay",
+    "userName": "Selvum Pillay",
+    "teachingDiscoveryId": "2395521",
+    "title": "Thesis Committee for Ibrahim Gundogdu (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2020-10-14T00:00:00-05:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "2384",
+    "userDiscoveryUrlId": "2384-shannon-mccarthy",
+    "userName": "Shannon McCarthy",
+    "teachingDiscoveryId": "3034170",
+    "title": "Dissertation Committee for Jennifer Gilbert (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2384",
+    "userDiscoveryUrlId": "2384-shannon-mccarthy",
+    "userName": "Shannon McCarthy",
+    "teachingDiscoveryId": "2811859",
+    "title": "Thesis Committee for Rachel L McMullen (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2384",
+    "userDiscoveryUrlId": "2384-shannon-mccarthy",
+    "userName": "Shannon McCarthy",
+    "teachingDiscoveryId": "2514997",
+    "title": "Dissertation Committee for Melissa D McGuff (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-05-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2384",
+    "userDiscoveryUrlId": "2384-shannon-mccarthy",
+    "userName": "Shannon McCarthy",
+    "teachingDiscoveryId": "2432275",
+    "title": "Dissertation Committee for Andrea M Dailey (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-12-11T00:00:00-06:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2384",
+    "userDiscoveryUrlId": "2384-shannon-mccarthy",
+    "userName": "Shannon McCarthy",
+    "teachingDiscoveryId": "1736796",
+    "title": "Dissertation Committee for Doris F Pu (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-01-18T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2384",
+    "userDiscoveryUrlId": "2384-shannon-mccarthy",
+    "userName": "Shannon McCarthy",
+    "teachingDiscoveryId": "1636116",
+    "title": "Dissertation Committee for Amanda W Esslinger (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-08-20T00:00:00-05:00",
+    "endDate": "2016-04-29T00:00:00-05:00"
+  }
+]

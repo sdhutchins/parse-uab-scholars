@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "6643",
+    "userDiscoveryUrlId": "6643-lewis-zhichang-shi",
+    "userName": "Lewis Zhichang Shi",
+    "teachingDiscoveryId": "2795862",
+    "title": "Dissertation Committee for Fengyuan Huang (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-07-07T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6643",
+    "userDiscoveryUrlId": "6643-lewis-zhichang-shi",
+    "userName": "Lewis Zhichang Shi",
+    "teachingDiscoveryId": "2528215",
+    "title": "Dissertation Committee for Charles Joseph Kuhlmann (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-08-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6643",
+    "userDiscoveryUrlId": "6643-lewis-zhichang-shi",
+    "userName": "Lewis Zhichang Shi",
+    "teachingDiscoveryId": "2422475",
+    "title": "Dissertation Committee for Sam E Gary (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6643",
+    "userDiscoveryUrlId": "6643-lewis-zhichang-shi",
+    "userName": "Lewis Zhichang Shi",
+    "teachingDiscoveryId": "2395510",
+    "title": "Dissertation Committee for Oluwagbemiga A Ojo (Mentor)",
+    "status": "Unknown",
+    "startDate": "2020-10-13T00:00:00-05:00",
+    "endDate": null
+  }
+]

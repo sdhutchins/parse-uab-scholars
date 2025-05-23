@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "5302",
+    "userDiscoveryUrlId": "5302-j-bart-rose",
+    "userName": "J. Bart Rose",
+    "teachingDiscoveryId": "3202324",
+    "title": "Dissertation Committee for Logan Olivia Mavar (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5302",
+    "userDiscoveryUrlId": "5302-j-bart-rose",
+    "userName": "J. Bart Rose",
+    "teachingDiscoveryId": "2961094",
+    "title": "Thesis Committee for Alexis E Kennedy (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-11-22T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5302",
+    "userDiscoveryUrlId": "5302-j-bart-rose",
+    "userName": "J. Bart Rose",
+    "teachingDiscoveryId": "2844137",
+    "title": "Dissertation Committee for Lucinda A Hall (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-10-13T00:00:00-05:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5302",
+    "userDiscoveryUrlId": "5302-j-bart-rose",
+    "userName": "J. Bart Rose",
+    "teachingDiscoveryId": "2757176",
+    "title": "Dissertation Committee for Atul Kumar (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-10T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5302",
+    "userDiscoveryUrlId": "5302-j-bart-rose",
+    "userName": "J. Bart Rose",
+    "teachingDiscoveryId": "2674514",
+    "title": "Dissertation Committee for Hasan Alrefai (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-10-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5302",
+    "userDiscoveryUrlId": "5302-j-bart-rose",
+    "userName": "J. Bart Rose",
+    "teachingDiscoveryId": "2491399",
+    "title": "Dissertation Committee for Weisheng Chen (Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5302",
+    "userDiscoveryUrlId": "5302-j-bart-rose",
+    "userName": "J. Bart Rose",
+    "teachingDiscoveryId": "2427307",
+    "title": "Dissertation Committee for Brendon R Herring (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-04-23T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

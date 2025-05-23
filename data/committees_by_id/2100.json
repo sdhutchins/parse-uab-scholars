@@ -1,0 +1,602 @@
+[
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "3158017",
+    "title": "Dissertation Committee for Muthya Pragun Acharya (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-11-19T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2971796",
+    "title": "Dissertation Committee for Alana Franceski (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-21T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2672901",
+    "title": "Dissertation Committee for Shivangi Dave (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-10-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2672736",
+    "title": "Dissertation Committee for Audrey Meloun (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-09-30T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2422491",
+    "title": "Dissertation Committee for Christopher Wilson (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2422445",
+    "title": "Dissertation Committee for Sierra Hansen (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2131273",
+    "title": "Dissertation Committee for Baiyi Cai (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-12-06T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2069774",
+    "title": "Dissertation Committee for Ryan J McMonigle (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-08-19T00:00:00-05:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2008459",
+    "title": "Dissertation Committee for Emma C Dean (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-04-05T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1982690",
+    "title": "Dissertation Committee for Michael L Dixon (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-03-16T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "2136565",
+    "title": "Dissertation Committee for Blake Frey (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-01-25T00:00:00-06:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1638110",
+    "title": "Dissertation Committee for Kristen M Reeder (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-08-24T00:00:00-05:00",
+    "endDate": "2017-12-15T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1639116",
+    "title": "Dissertation Committee for Tyler R McCaw (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-06-15T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1639716",
+    "title": "Dissertation Committee for Cameron K Postnikoff (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-03-05T00:00:00-06:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1638820",
+    "title": "Dissertation Committee for Marvin Q Bowlin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-07-14T00:00:00-05:00",
+    "endDate": "2018-09-18T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1638121",
+    "title": "Dissertation Committee for Preeyam S Patel (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-09-16T00:00:00-05:00",
+    "endDate": "2016-12-16T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1636532",
+    "title": "Dissertation Committee for Qing Zhao (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-05-15T00:00:00-05:00",
+    "endDate": "2015-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1636861",
+    "title": "Dissertation Committee for Sara L Stone (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-03-25T00:00:00-05:00",
+    "endDate": "2017-08-11T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1636748",
+    "title": "Dissertation Committee for Jeffrey R Singer (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-02-25T00:00:00-06:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1636720",
+    "title": "Dissertation Committee for Daniel F Ditoro (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-02-21T00:00:00-06:00",
+    "endDate": "2017-12-17T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1635180",
+    "title": "Dissertation Committee for Carson E Moseley (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-10-04T00:00:00-05:00",
+    "endDate": "2016-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1627184",
+    "title": "Dissertation Committee for Katie L Alexander (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-06-13T00:00:00-05:00",
+    "endDate": "2015-04-24T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1635509",
+    "title": "Dissertation Committee for Lindsey E Padgett (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-03-21T00:00:00-05:00",
+    "endDate": "2015-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1634641",
+    "title": "Dissertation Committee for Catherine H Poholek (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-03-06T00:00:00-06:00",
+    "endDate": "2014-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1633265",
+    "title": "Dissertation Committee for Chao Li (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2011-11-14T00:00:00-06:00",
+    "endDate": "2015-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1635132",
+    "title": "Dissertation Committee for Daniel J Silberger (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2011-09-29T00:00:00-05:00",
+    "endDate": "2015-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1633379",
+    "title": "Dissertation Committee for Emily G Blosser (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2010-09-27T00:00:00-05:00",
+    "endDate": "2014-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1633407",
+    "title": "Dissertation Committee for Donald J McGuire (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2010-08-16T00:00:00-05:00",
+    "endDate": "2014-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1620743",
+    "title": "Dissertation Committee for John H Wang (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2009-06-08T00:00:00-05:00",
+    "endDate": "2009-08-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1631725",
+    "title": "Dissertation Committee for Carolyn Durham (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2009-04-03T00:00:00-05:00",
+    "endDate": "2010-08-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1629442",
+    "title": "Dissertation Committee for Maureen A Cox (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2009-02-04T00:00:00-06:00",
+    "endDate": "2012-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1625665",
+    "title": "Dissertation Committee for Tingting Zhang (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2008-07-31T00:00:00-05:00",
+    "endDate": "2011-08-03T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1620563",
+    "title": "Dissertation Committee for Anand Balasubramani (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2008-04-08T00:00:00-05:00",
+    "endDate": "2010-12-15T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1621620",
+    "title": "Dissertation Committee for Matthew S Beatty (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-11-06T00:00:00-06:00",
+    "endDate": "2013-08-08T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1621360",
+    "title": "Dissertation Committee for Sarah K Whitley (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-10-16T00:00:00-05:00",
+    "endDate": "2011-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1629746",
+    "title": "Dissertation Committee for Yunkyung Lee (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-05-01T00:00:00-05:00",
+    "endDate": "2009-05-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1629813",
+    "title": "Dissertation Committee for Jen-Feng Lai (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-04-05T00:00:00-05:00",
+    "endDate": "2009-08-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1628756",
+    "title": "Dissertation Committee for Elizabeth Staley (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2007-02-23T00:00:00-06:00",
+    "endDate": "2009-08-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1624149",
+    "title": "Dissertation Committee for Saman F Khaled (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2006-08-22T00:00:00-05:00",
+    "endDate": "2011-05-04T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1627880",
+    "title": "Plan 2 Masters for Clayton L Ulrey (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2006-08-22T00:00:00-05:00",
+    "endDate": "2009-08-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1624036",
+    "title": "Dissertation Committee for Julia M Schmitz (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2006-01-05T00:00:00-06:00",
+    "endDate": "2008-08-07T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1629708",
+    "title": "Dissertation Committee for Melissa A Thal (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2006-01-05T00:00:00-06:00",
+    "endDate": "2009-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1631404",
+    "title": "Dissertation Committee for Rita J Luther (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2005-08-18T00:00:00-05:00",
+    "endDate": "2009-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1623682",
+    "title": "Dissertation Committee for Jeremy B Foote (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2005-05-09T00:00:00-05:00",
+    "endDate": "2009-08-06T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1624560",
+    "title": "Dissertation Committee for Christopher Dodd (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2005-01-04T00:00:00-06:00",
+    "endDate": "2008-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1624552",
+    "title": "Dissertation Committee for Craig L Maynard (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2005-01-04T00:00:00-06:00",
+    "endDate": "2007-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1628812",
+    "title": "Dissertation Committee for Robert Axtell (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2005-01-04T00:00:00-06:00",
+    "endDate": "2007-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1620862",
+    "title": "Dissertation Committee for Saulius E Drukteinis (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2005-01-04T00:00:00-06:00",
+    "endDate": "2012-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1628924",
+    "title": "Dissertation Committee for Li-Chen Wu (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2004-01-06T00:00:00-06:00",
+    "endDate": "2008-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1629777",
+    "title": "Dissertation Committee for Melissa K Swiecki (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2004-01-06T00:00:00-06:00",
+    "endDate": "2007-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1625860",
+    "title": "Dissertation Committee for Paul R Mangan (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2004-01-06T00:00:00-06:00",
+    "endDate": "2006-08-08T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1627180",
+    "title": "Dissertation Committee for Michael Fuller (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2003-05-09T00:00:00-05:00",
+    "endDate": "2005-08-03T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1632620",
+    "title": "Dissertation Committee for Darrell B. O'Quinn (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2003-01-06T00:00:00-06:00",
+    "endDate": "2005-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1628629",
+    "title": "Dissertation Committee for Rodney G King (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2003-01-06T00:00:00-06:00",
+    "endDate": "2007-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1621474",
+    "title": "Dissertation Committee for Thuc Vy Le (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2003-01-06T00:00:00-06:00",
+    "endDate": "2007-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1627502",
+    "title": "Dissertation Committee for Brantley Herrin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2002-05-06T00:00:00-05:00",
+    "endDate": "2005-08-03T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1622050",
+    "title": "Dissertation Committee for Rebecca L Goldstein (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2002-05-06T00:00:00-05:00",
+    "endDate": "2007-12-13T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1631450",
+    "title": "Dissertation Committee for Zachary T Kneass (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2002-01-02T00:00:00-06:00",
+    "endDate": "2005-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1629487",
+    "title": "Dissertation Committee for Yong W Jung (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2001-08-22T00:00:00-05:00",
+    "endDate": "2005-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2100",
+    "userDiscoveryUrlId": "2100-casey-weaver",
+    "userName": "Casey Weaver",
+    "teachingDiscoveryId": "1631455",
+    "title": "Dissertation Committee for John Bates (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2001-01-03T00:00:00-06:00",
+    "endDate": "2005-04-25T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "5161",
+    "userDiscoveryUrlId": "5161-jeremy-blackburn",
+    "userName": "Jeremy Blackburn",
+    "teachingDiscoveryId": "2081569",
+    "title": "Dissertation Committee for S Abhishek Anand (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-09-12T00:00:00-05:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "5161",
+    "userDiscoveryUrlId": "5161-jeremy-blackburn",
+    "userName": "Jeremy Blackburn",
+    "teachingDiscoveryId": "2037429",
+    "title": "Dissertation Committee for Prakash Shrestha (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-05-23T00:00:00-05:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "5161",
+    "userDiscoveryUrlId": "5161-jeremy-blackburn",
+    "userName": "Jeremy Blackburn",
+    "teachingDiscoveryId": "2036453",
+    "title": "Dissertation Committee for Maliheh Shirvanian (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-05-18T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  }
+]

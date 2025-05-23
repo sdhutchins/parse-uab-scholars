@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "5075",
+    "userDiscoveryUrlId": "5075-maria-grant",
+    "userName": "Maria Grant",
+    "teachingDiscoveryId": "2774763",
+    "title": "Dissertation Committee for Esther Nutifafa Nutifafa Yawa Senanu (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5075",
+    "userDiscoveryUrlId": "5075-maria-grant",
+    "userName": "Maria Grant",
+    "teachingDiscoveryId": "2466550",
+    "title": "Dissertation Committee for Yvonne Adu Agyeiwaah (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-09-02T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5075",
+    "userDiscoveryUrlId": "5075-maria-grant",
+    "userName": "Maria Grant",
+    "teachingDiscoveryId": "2343957",
+    "title": "Dissertation Committee for Priyamvada M Pitale (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-06-18T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "5075",
+    "userDiscoveryUrlId": "5075-maria-grant",
+    "userName": "Maria Grant",
+    "teachingDiscoveryId": "2343913",
+    "title": "Dissertation Committee for Seth D Fortmann (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-06-17T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5075",
+    "userDiscoveryUrlId": "5075-maria-grant",
+    "userName": "Maria Grant",
+    "teachingDiscoveryId": "2329925",
+    "title": "Dissertation Committee for Mariana D Dupont (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-20T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5075",
+    "userDiscoveryUrlId": "5075-maria-grant",
+    "userName": "Maria Grant",
+    "teachingDiscoveryId": "2329057",
+    "title": "Dissertation Committee for Bright Asare-Bediako (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-14T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5075",
+    "userDiscoveryUrlId": "5075-maria-grant",
+    "userName": "Maria Grant",
+    "teachingDiscoveryId": "2324885",
+    "title": "Dissertation Committee for Robert F Rosencrans (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-03-05T00:00:00-06:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5075",
+    "userDiscoveryUrlId": "5075-maria-grant",
+    "userName": "Maria Grant",
+    "teachingDiscoveryId": "2318313",
+    "title": "Dissertation Committee for Jason L Floyd (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2020-02-10T00:00:00-06:00",
+    "endDate": null
+  }
+]

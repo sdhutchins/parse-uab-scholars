@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3799",
+    "userDiscoveryUrlId": "3799-ismail-mohamed",
+    "userName": "Ismail Mohamed",
+    "teachingDiscoveryId": "3087643",
+    "title": "Dissertation Committee for Caila Ann Coyne (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-12T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3799",
+    "userDiscoveryUrlId": "3799-ismail-mohamed",
+    "userName": "Ismail Mohamed",
+    "teachingDiscoveryId": "2447510",
+    "title": "Dissertation Committee for Pravinkumar G Kandhare (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-26T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  }
+]

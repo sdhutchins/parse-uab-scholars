@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "2625",
+    "userDiscoveryUrlId": "2625-stephen-miller",
+    "userName": "Stephen Miller",
+    "teachingDiscoveryId": "2975784",
+    "title": "Thesis Committee for Brendyn D Matthews (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-01-04T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2625",
+    "userDiscoveryUrlId": "2625-stephen-miller",
+    "userName": "Stephen Miller",
+    "teachingDiscoveryId": "2530687",
+    "title": "Thesis Committee for Kelly Jackson (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-08-12T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2625",
+    "userDiscoveryUrlId": "2625-stephen-miller",
+    "userName": "Stephen Miller",
+    "teachingDiscoveryId": "2473404",
+    "title": "Thesis Committee for Brian P Sunderman (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-10-21T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2625",
+    "userDiscoveryUrlId": "2625-stephen-miller",
+    "userName": "Stephen Miller",
+    "teachingDiscoveryId": "2464639",
+    "title": "Thesis Committee for Michael W Davis (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-20T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2625",
+    "userDiscoveryUrlId": "2625-stephen-miller",
+    "userName": "Stephen Miller",
+    "teachingDiscoveryId": "2449639",
+    "title": "Thesis Committee for Kimberly Dacey Gerlach (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-06-04T00:00:00-05:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2625",
+    "userDiscoveryUrlId": "2625-stephen-miller",
+    "userName": "Stephen Miller",
+    "teachingDiscoveryId": "2388090",
+    "title": "Thesis Committee for Allyson Carol Payne (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-09-10T00:00:00-05:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2625",
+    "userDiscoveryUrlId": "2625-stephen-miller",
+    "userName": "Stephen Miller",
+    "teachingDiscoveryId": "1632248",
+    "title": "Thesis Committee for Stephanie K Womack (Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-01-04T00:00:00-06:00",
+    "endDate": "2017-08-11T00:00:00-05:00"
+  }
+]

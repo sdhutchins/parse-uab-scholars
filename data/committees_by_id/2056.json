@@ -1,0 +1,92 @@
+[
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "3175406",
+    "title": "Dissertation Committee for Ashley J Denslow (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "2791151",
+    "title": "Dissertation Committee for Jung Shan Hsu (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-06-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "2774372",
+    "title": "Dissertation Committee for Aaron C Lucander (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "3035965",
+    "title": "Dissertation Committee for Taylor A Person (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "2422483",
+    "title": "Thesis Committee for Taylor A Person (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": "2024-04-19T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "2329071",
+    "title": "Dissertation Committee for Ellenore Craine (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-08T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "2186701",
+    "title": "Dissertation Committee for Joseph L Blake (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2019-09-12T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "2154551",
+    "title": "Dissertation Committee for Jordan C Lingo (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-04-23T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2056",
+    "userDiscoveryUrlId": "2056-rodney-king",
+    "userName": "Rodney King",
+    "teachingDiscoveryId": "1635345",
+    "title": "Dissertation Committee for Michael L Dixon (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-05-31T00:00:00-05:00",
+    "endDate": "2018-03-16T00:00:00-05:00"
+  }
+]

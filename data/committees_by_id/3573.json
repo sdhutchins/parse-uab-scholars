@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3573",
+    "userDiscoveryUrlId": "3573-adam-beck",
+    "userName": "Adam Beck",
+    "teachingDiscoveryId": "2757173",
+    "title": "Dissertation Committee for Atul Kumar (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-10T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3573",
+    "userDiscoveryUrlId": "3573-adam-beck",
+    "userName": "Adam Beck",
+    "teachingDiscoveryId": "2411576",
+    "title": "Dissertation Committee for Yichen Guo (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-02-02T00:00:00-06:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  }
+]

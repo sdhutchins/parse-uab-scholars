@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "5080",
+    "userDiscoveryUrlId": "5080-natalie-todak",
+    "userName": "Natalie Todak",
+    "teachingDiscoveryId": "3118530",
+    "title": "Thesis Committee for Amari Phelps (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5080",
+    "userDiscoveryUrlId": "5080-natalie-todak",
+    "userName": "Natalie Todak",
+    "teachingDiscoveryId": "2530560",
+    "title": "Thesis Committee for Logan Hunter Lavender (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-11T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5080",
+    "userDiscoveryUrlId": "5080-natalie-todak",
+    "userName": "Natalie Todak",
+    "teachingDiscoveryId": "2429871",
+    "title": "Thesis Committee for Benjamin E Hixon (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-12T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5080",
+    "userDiscoveryUrlId": "5080-natalie-todak",
+    "userName": "Natalie Todak",
+    "teachingDiscoveryId": "2344022",
+    "title": "Thesis Committee for Tyler Nixon (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-05-18T00:00:00-05:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5080",
+    "userDiscoveryUrlId": "5080-natalie-todak",
+    "userName": "Natalie Todak",
+    "teachingDiscoveryId": "2333521",
+    "title": "Thesis Committee for Lekendra Kidd (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-05-08T00:00:00-05:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "5080",
+    "userDiscoveryUrlId": "5080-natalie-todak",
+    "userName": "Natalie Todak",
+    "teachingDiscoveryId": "2131248",
+    "title": "Thesis Committee for Marshall Lorraine White (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-12-06T00:00:00-06:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  }
+]

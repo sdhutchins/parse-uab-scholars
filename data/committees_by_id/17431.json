@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "17431",
+    "userDiscoveryUrlId": "17431-lori-edmonds",
+    "userName": "Lori Edmonds",
+    "teachingDiscoveryId": "3115188",
+    "title": "Dissertation Committee for Khalilah D Smith (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-10-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17431",
+    "userDiscoveryUrlId": "17431-lori-edmonds",
+    "userName": "Lori Edmonds",
+    "teachingDiscoveryId": "2953082",
+    "title": "Dissertation Committee for Amy D Carr (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-10T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17431",
+    "userDiscoveryUrlId": "17431-lori-edmonds",
+    "userName": "Lori Edmonds",
+    "teachingDiscoveryId": "2780410",
+    "title": "Dissertation Committee for Melinda S Harrison (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-15T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "17431",
+    "userDiscoveryUrlId": "17431-lori-edmonds",
+    "userName": "Lori Edmonds",
+    "teachingDiscoveryId": "2517775",
+    "title": "Dissertation Committee for Carl A Floyd (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-14T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17431",
+    "userDiscoveryUrlId": "17431-lori-edmonds",
+    "userName": "Lori Edmonds",
+    "teachingDiscoveryId": "2517532",
+    "title": "Dissertation Committee for Patricia M Arrington (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-07T00:00:00-05:00",
+    "endDate": null
+  }
+]

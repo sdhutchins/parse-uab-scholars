@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "2907",
+    "userDiscoveryUrlId": "2907-susan-campbell",
+    "userName": "Susan Campbell",
+    "teachingDiscoveryId": "3044352",
+    "title": "Dissertation Committee for Owen Leitzel (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2907",
+    "userDiscoveryUrlId": "2907-susan-campbell",
+    "userName": "Susan Campbell",
+    "teachingDiscoveryId": "2822878",
+    "title": "Dissertation Committee for Xi Guo (Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-09-11T00:00:00-05:00",
+    "endDate": null
+  }
+]

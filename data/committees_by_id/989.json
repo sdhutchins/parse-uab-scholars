@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "989",
+    "userDiscoveryUrlId": "989-drew-davis",
+    "userName": "Drew Davis",
+    "teachingDiscoveryId": "2411594",
+    "title": "Dissertation Committee for Kathleen Mary Weden (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-02-02T00:00:00-06:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "989",
+    "userDiscoveryUrlId": "989-drew-davis",
+    "userName": "Drew Davis",
+    "teachingDiscoveryId": "2084572",
+    "title": "Dissertation Committee for Tyler R Bell (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-01-18T00:00:00-06:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "989",
+    "userDiscoveryUrlId": "989-drew-davis",
+    "userName": "Drew Davis",
+    "teachingDiscoveryId": "1640113",
+    "title": "Dissertation Committee for Anwar B S Almutairi (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-01-19T00:00:00-06:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "807",
+    "userDiscoveryUrlId": "807-j-crawford-downs",
+    "userName": "J. Crawford Downs",
+    "teachingDiscoveryId": "3118533",
+    "title": "Dissertation Committee for Sadhana Sharma (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "807",
+    "userDiscoveryUrlId": "807-j-crawford-downs",
+    "userName": "J. Crawford Downs",
+    "teachingDiscoveryId": "2032264",
+    "title": "Dissertation Committee for Ji Hee Kim (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-05-08T00:00:00-05:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "807",
+    "userDiscoveryUrlId": "807-j-crawford-downs",
+    "userName": "J. Crawford Downs",
+    "teachingDiscoveryId": "1639952",
+    "title": "Dissertation Committee for Jessica Jasien (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-11-20T00:00:00-06:00",
+    "endDate": "2020-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "807",
+    "userDiscoveryUrlId": "807-j-crawford-downs",
+    "userName": "J. Crawford Downs",
+    "teachingDiscoveryId": "1638181",
+    "title": "Dissertation Committee for Daniel C Turner (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-11-05T00:00:00-06:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "807",
+    "userDiscoveryUrlId": "807-j-crawford-downs",
+    "userName": "J. Crawford Downs",
+    "teachingDiscoveryId": "1628675",
+    "title": "Dissertation Committee for Timothy J Fee (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-12-10T00:00:00-06:00",
+    "endDate": "2016-04-29T00:00:00-05:00"
+  }
+]

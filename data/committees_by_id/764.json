@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "764",
+    "userDiscoveryUrlId": "764-holly-richter",
+    "userName": "Holly Richter",
+    "teachingDiscoveryId": "2812388",
+    "title": "Dissertation Committee for Morgan E Greene (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-18T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "764",
+    "userDiscoveryUrlId": "764-holly-richter",
+    "userName": "Holly Richter",
+    "teachingDiscoveryId": "1636594",
+    "title": "Dissertation Committee for Katherine G Michel (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-01-13T00:00:00-06:00",
+    "endDate": "2014-08-08T00:00:00-05:00"
+  }
+]

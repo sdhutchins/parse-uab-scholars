@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "17275",
+    "userDiscoveryUrlId": "17275-safal-khanal",
+    "userName": "Safal Khanal",
+    "teachingDiscoveryId": "3256184",
+    "title": "Thesis Committee for Carolene Botha (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17275",
+    "userDiscoveryUrlId": "17275-safal-khanal",
+    "userName": "Safal Khanal",
+    "teachingDiscoveryId": "3037102",
+    "title": "Thesis Committee for Gavin J Buba (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-04-26T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17275",
+    "userDiscoveryUrlId": "17275-safal-khanal",
+    "userName": "Safal Khanal",
+    "teachingDiscoveryId": "2774177",
+    "title": "Thesis Committee for Adarsha Kumar Shah (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-04-27T00:00:00-05:00",
+    "endDate": null
+  }
+]

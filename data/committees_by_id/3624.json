@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "3624",
+    "userDiscoveryUrlId": "3624-allison-shorten",
+    "userName": "Allison Shorten",
+    "teachingDiscoveryId": "3263977",
+    "title": "Dissertation Committee for Peyton E Lewis (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-05-06T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3624",
+    "userDiscoveryUrlId": "3624-allison-shorten",
+    "userName": "Allison Shorten",
+    "teachingDiscoveryId": "2844407",
+    "title": "Dissertation Committee for Meghan C Jones (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2023-10-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3624",
+    "userDiscoveryUrlId": "3624-allison-shorten",
+    "userName": "Allison Shorten",
+    "teachingDiscoveryId": "2531984",
+    "title": "Dissertation Committee for Allyson N Sanders (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-08-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3624",
+    "userDiscoveryUrlId": "3624-allison-shorten",
+    "userName": "Allison Shorten",
+    "teachingDiscoveryId": "2479046",
+    "title": "Dissertation Committee for Tera L Webb (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-02T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

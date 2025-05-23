@@ -1,0 +1,112 @@
+[
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "3183116",
+    "title": "Thesis Committee for BINOOP MOHAN (Co-Chairperson)",
+    "status": "Unknown",
+    "startDate": "2024-12-30T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "3037426",
+    "title": "Dissertation Committee for Jinbao Liu (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-05-01T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2721938",
+    "title": "Dissertation Committee for Brendon R Herring (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-01-25T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2517534",
+    "title": "Dissertation Committee for Danish Gulab Hussain Diwan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-06-07T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2485450",
+    "title": "Dissertation Committee for Taiaba Afrin (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-12-09T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2485373",
+    "title": "Dissertation Committee for Nilesh Kumar (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-07T00:00:00-06:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2466547",
+    "title": "Dissertation Committee for Santhosh Kumar Karthikeyan (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-09-02T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2464494",
+    "title": "Dissertation Committee for Bharat Mishra (Co-Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-08-18T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2150211",
+    "title": "Dissertation Committee for Timothy C Howton (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-04-16T00:00:00-05:00",
+    "endDate": "2020-05-02T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2149799",
+    "title": "Thesis Committee for Ningxiang Zeng (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-04-11T00:00:00-05:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2499",
+    "userDiscoveryUrlId": "2499-shahid-mukhtar",
+    "userName": "Shahid Mukhtar",
+    "teachingDiscoveryId": "2040528",
+    "title": "Dissertation Committee for Yali Sun (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-05-30T00:00:00-05:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  }
+]

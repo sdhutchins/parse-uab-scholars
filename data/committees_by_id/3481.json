@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3481",
+    "userDiscoveryUrlId": "3481-pankaj-arora",
+    "userName": "Pankaj Arora",
+    "teachingDiscoveryId": "2503247",
+    "title": "Dissertation Committee for Sara Ann Wennersten (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-03-15T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3481",
+    "userDiscoveryUrlId": "3481-pankaj-arora",
+    "userName": "Pankaj Arora",
+    "teachingDiscoveryId": "2477375",
+    "title": "Dissertation Committee for Catharine A Couch (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-11-17T00:00:00-06:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  }
+]

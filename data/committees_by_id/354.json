@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "354",
+    "userDiscoveryUrlId": "354-steven-lloyd",
+    "userName": "Steven Lloyd",
+    "teachingDiscoveryId": "2343888",
+    "title": "Dissertation Committee for Muhammad Rifqi Aufan (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-05-19T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "354",
+    "userDiscoveryUrlId": "354-steven-lloyd",
+    "userName": "Steven Lloyd",
+    "teachingDiscoveryId": "2324890",
+    "title": "Dissertation Committee for Lamario J Williams (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-03-05T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "354",
+    "userDiscoveryUrlId": "354-steven-lloyd",
+    "userName": "Steven Lloyd",
+    "teachingDiscoveryId": "1639120",
+    "title": "Dissertation Committee for Mark E Pepin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-05-10T00:00:00-05:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "354",
+    "userDiscoveryUrlId": "354-steven-lloyd",
+    "userName": "Steven Lloyd",
+    "teachingDiscoveryId": "1637449",
+    "title": "Dissertation Committee for Jalessa N Wright (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-07-17T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  }
+]

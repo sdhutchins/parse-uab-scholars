@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "2657",
+    "userDiscoveryUrlId": "2657-roman-shterenberg",
+    "userName": "Roman Shterenberg",
+    "teachingDiscoveryId": "3096678",
+    "title": "Thesis Committee for Brandiece N Berry (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2657",
+    "userDiscoveryUrlId": "2657-roman-shterenberg",
+    "userName": "Roman Shterenberg",
+    "teachingDiscoveryId": "2485381",
+    "title": "Thesis Committee for Nicholas Claude Plowman (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-07T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2657",
+    "userDiscoveryUrlId": "2657-roman-shterenberg",
+    "userName": "Roman Shterenberg",
+    "teachingDiscoveryId": "2131148",
+    "title": "Dissertation Committee for Robert S Browning (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-12-06T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2657",
+    "userDiscoveryUrlId": "2657-roman-shterenberg",
+    "userName": "Roman Shterenberg",
+    "teachingDiscoveryId": "1637121",
+    "title": "Dissertation Committee for Seong-uk Kim (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-04-20T00:00:00-05:00",
+    "endDate": "2016-08-12T00:00:00-05:00"
+  }
+]

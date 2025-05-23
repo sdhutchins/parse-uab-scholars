@@ -1,0 +1,92 @@
+[
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "2976561",
+    "title": "Dissertation Committee for Nicole Pelletier (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-01-10T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "2528261",
+    "title": "Dissertation Committee for Thomas Alb Swain (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-08-02T00:00:00-05:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "2447505",
+    "title": "Dissertation Committee for Brittany A Shelton (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-25T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "2407646",
+    "title": "Thesis Committee for Alexander J Kozuch (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-01-05T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "1632653",
+    "title": "Dissertation Committee for Rhiannon J Deierhoi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-08-04T00:00:00-05:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "1637631",
+    "title": "Dissertation Committee for John P Donnelly (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-11-20T00:00:00-06:00",
+    "endDate": "2018-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "1637902",
+    "title": "Dissertation Committee for Carrie Huisingh (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-04-20T00:00:00-05:00",
+    "endDate": "2018-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "1628018",
+    "title": "Dissertation Committee for Russell L Griffin (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2011-02-08T00:00:00-06:00",
+    "endDate": "2011-08-03T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1128",
+    "userDiscoveryUrlId": "1128-paul-maclennan",
+    "userName": "Paul MacLennan",
+    "teachingDiscoveryId": "1633162",
+    "title": "Dissertation Committee for Justin L Blackburn (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2010-11-09T00:00:00-06:00",
+    "endDate": "2011-08-03T00:00:00-05:00"
+  }
+]

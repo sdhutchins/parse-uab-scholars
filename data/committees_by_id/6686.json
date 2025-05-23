@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "6686",
+    "userDiscoveryUrlId": "6686-adam-goodman",
+    "userName": "Adam Goodman",
+    "teachingDiscoveryId": "3047847",
+    "title": "Dissertation Committee for Chloe L Jones (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-29T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6686",
+    "userDiscoveryUrlId": "6686-adam-goodman",
+    "userName": "Adam Goodman",
+    "teachingDiscoveryId": "3011641",
+    "title": "Dissertation Committee for Taylor Robin Davis (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6686",
+    "userDiscoveryUrlId": "6686-adam-goodman",
+    "userName": "Adam Goodman",
+    "teachingDiscoveryId": "2837013",
+    "title": "Dissertation Committee for Anudeep Bolaram (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-09-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6686",
+    "userDiscoveryUrlId": "6686-adam-goodman",
+    "userName": "Adam Goodman",
+    "teachingDiscoveryId": "2424076",
+    "title": "Dissertation Committee for Ayushe Sharma (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-29T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  }
+]

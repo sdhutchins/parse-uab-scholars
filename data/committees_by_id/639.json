@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "639",
+    "userDiscoveryUrlId": "639-qiang-ding",
+    "userName": "Qiang Ding",
+    "teachingDiscoveryId": "2736688",
+    "title": "Dissertation Committee for Spring Li (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-02-28T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "639",
+    "userDiscoveryUrlId": "639-qiang-ding",
+    "userName": "Qiang Ding",
+    "teachingDiscoveryId": "2428248",
+    "title": "Dissertation Committee for Meimei Wang (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-04-28T00:00:00-05:00",
+    "endDate": "2022-12-22T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "639",
+    "userDiscoveryUrlId": "639-qiang-ding",
+    "userName": "Qiang Ding",
+    "teachingDiscoveryId": "1635426",
+    "title": "Dissertation Committee for Lin Guo (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-01-04T00:00:00-06:00",
+    "endDate": "2014-04-25T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "4642",
+    "userDiscoveryUrlId": "4642-jennifer-casey",
+    "userName": "Jennifer Casey",
+    "teachingDiscoveryId": "3118532",
+    "title": "Dissertation Committee for Ezgi Sari (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4642",
+    "userDiscoveryUrlId": "4642-jennifer-casey",
+    "userName": "Jennifer Casey",
+    "teachingDiscoveryId": "2972314",
+    "title": "Dissertation Committee for Luke I Jones (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-27T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4642",
+    "userDiscoveryUrlId": "4642-jennifer-casey",
+    "userName": "Jennifer Casey",
+    "teachingDiscoveryId": "2403868",
+    "title": "Dissertation Committee for Seth Bollenbecker (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-12-11T00:00:00-06:00",
+    "endDate": "2024-04-27T00:00:00-05:00"
+  }
+]

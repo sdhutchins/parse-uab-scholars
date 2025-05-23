@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "740",
+    "userDiscoveryUrlId": "740-john-rinker",
+    "userName": "John Rinker",
+    "teachingDiscoveryId": "3161660",
+    "title": "Dissertation Committee for Amani Mofareh Assiry (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-25T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "740",
+    "userDiscoveryUrlId": "740-john-rinker",
+    "userName": "John Rinker",
+    "teachingDiscoveryId": "3150874",
+    "title": "Dissertation Committee for Meghan E Gilliland (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-11-05T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "740",
+    "userDiscoveryUrlId": "740-john-rinker",
+    "userName": "John Rinker",
+    "teachingDiscoveryId": "2494340",
+    "title": "Dissertation Committee for Trinh Huynh (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-02-25T00:00:00-06:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "1867",
+    "userDiscoveryUrlId": "1867-jennifer-christy",
+    "userName": "Jennifer Christy",
+    "teachingDiscoveryId": "2779195",
+    "title": "Dissertation Committee for Corey D Feasel (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-05T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1867",
+    "userDiscoveryUrlId": "1867-jennifer-christy",
+    "userName": "Jennifer Christy",
+    "teachingDiscoveryId": "2068204",
+    "title": "Dissertation Committee for Graham D Cochrane (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-08-14T00:00:00-05:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1867",
+    "userDiscoveryUrlId": "1867-jennifer-christy",
+    "userName": "Jennifer Christy",
+    "teachingDiscoveryId": "1640114",
+    "title": "Dissertation Committee for Anwar B S Almutairi (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-01-19T00:00:00-06:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "6890",
+    "userDiscoveryUrlId": "6890-james-kobie",
+    "userName": "James Kobie",
+    "teachingDiscoveryId": "2730521",
+    "title": "Thesis Committee for Kellen A Cowen (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-02-10T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6890",
+    "userDiscoveryUrlId": "6890-james-kobie",
+    "userName": "James Kobie",
+    "teachingDiscoveryId": "2709795",
+    "title": "Dissertation Committee for Cristina Meehan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-12-28T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6890",
+    "userDiscoveryUrlId": "6890-james-kobie",
+    "userName": "James Kobie",
+    "teachingDiscoveryId": "2489875",
+    "title": "Dissertation Committee for Kevin James Maroney (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-01-25T00:00:00-06:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "5162",
+    "userDiscoveryUrlId": "5162-carmen-de-miguel",
+    "userName": "Carmen De Miguel",
+    "teachingDiscoveryId": "3175402",
+    "title": "Dissertation Committee for Tamara Al-Daghastani (Chairperson)",
+    "status": "Unknown",
+    "startDate": "2024-12-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5162",
+    "userDiscoveryUrlId": "5162-carmen-de-miguel",
+    "userName": "Carmen De Miguel",
+    "teachingDiscoveryId": "3104131",
+    "title": "Dissertation Committee for Abigail Jane Brooks (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-09-06T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5162",
+    "userDiscoveryUrlId": "5162-carmen-de-miguel",
+    "userName": "Carmen De Miguel",
+    "teachingDiscoveryId": "3070042",
+    "title": "Dissertation Committee for Lance Dylan Reynolds (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-07-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5162",
+    "userDiscoveryUrlId": "5162-carmen-de-miguel",
+    "userName": "Carmen De Miguel",
+    "teachingDiscoveryId": "2758172",
+    "title": "Dissertation Committee for Gillian Claire Kelly (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5162",
+    "userDiscoveryUrlId": "5162-carmen-de-miguel",
+    "userName": "Carmen De Miguel",
+    "teachingDiscoveryId": "2489647",
+    "title": "Dissertation Committee for Jazmine I Benjamin (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-21T00:00:00-06:00",
+    "endDate": "2023-12-09T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "5162",
+    "userDiscoveryUrlId": "5162-carmen-de-miguel",
+    "userName": "Carmen De Miguel",
+    "teachingDiscoveryId": "2452830",
+    "title": "Thesis Committee for Margaret Ellen Lloyd (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-06-23T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

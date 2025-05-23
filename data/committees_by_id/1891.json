@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "1891",
+    "userDiscoveryUrlId": "1891-michelle-brown",
+    "userName": "Michelle Brown",
+    "teachingDiscoveryId": "3113425",
+    "title": "Dissertation Committee for Shanequa S Roscoe (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-30T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1891",
+    "userDiscoveryUrlId": "1891-michelle-brown",
+    "userName": "Michelle Brown",
+    "teachingDiscoveryId": "3101210",
+    "title": "Dissertation Committee for Krisada Suamchaiyaphum (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1891",
+    "userDiscoveryUrlId": "1891-michelle-brown",
+    "userName": "Michelle Brown",
+    "teachingDiscoveryId": "2975995",
+    "title": "Dissertation Committee for Ryan Allen (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-01-05T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1891",
+    "userDiscoveryUrlId": "1891-michelle-brown",
+    "userName": "Michelle Brown",
+    "teachingDiscoveryId": "2724257",
+    "title": "Dissertation Committee for Justin L Miller (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-01-30T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1891",
+    "userDiscoveryUrlId": "1891-michelle-brown",
+    "userName": "Michelle Brown",
+    "teachingDiscoveryId": "2479037",
+    "title": "Dissertation Committee for Tera L Webb (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-02T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

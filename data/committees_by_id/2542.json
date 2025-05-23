@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "2542",
+    "userDiscoveryUrlId": "2542-john-johnstone",
+    "userName": "John Johnstone",
+    "teachingDiscoveryId": "2715843",
+    "title": "Thesis Committee for Nicholas P Netterville (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-01-12T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2542",
+    "userDiscoveryUrlId": "2542-john-johnstone",
+    "userName": "John Johnstone",
+    "teachingDiscoveryId": "2489878",
+    "title": "Dissertation Committee for Steven A Redolfi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-25T00:00:00-06:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  }
+]

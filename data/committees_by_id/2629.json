@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "2629",
+    "userDiscoveryUrlId": "2629-walter-ward",
+    "userName": "Walter Ward",
+    "teachingDiscoveryId": "2975788",
+    "title": "Thesis Committee for Brendyn D Matthews (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-01-04T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2629",
+    "userDiscoveryUrlId": "2629-walter-ward",
+    "userName": "Walter Ward",
+    "teachingDiscoveryId": "2966774",
+    "title": "Thesis Committee for Brian Zachary Williamson (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-12-03T00:00:00-06:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2629",
+    "userDiscoveryUrlId": "2629-walter-ward",
+    "userName": "Walter Ward",
+    "teachingDiscoveryId": "2959205",
+    "title": "Thesis Committee for Jacob L Kennedy (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-11-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2629",
+    "userDiscoveryUrlId": "2629-walter-ward",
+    "userName": "Walter Ward",
+    "teachingDiscoveryId": "2676654",
+    "title": "Thesis Committee for Henry Nathan Smith (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-11-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2629",
+    "userDiscoveryUrlId": "2629-walter-ward",
+    "userName": "Walter Ward",
+    "teachingDiscoveryId": "1637084",
+    "title": "Thesis Committee for Timothy Ramon Granger (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-03-23T00:00:00-05:00",
+    "endDate": "2016-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2629",
+    "userDiscoveryUrlId": "2629-walter-ward",
+    "userName": "Walter Ward",
+    "teachingDiscoveryId": "1628761",
+    "title": "Thesis Committee for Jennifer Land (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-07-02T00:00:00-05:00",
+    "endDate": "2014-08-08T00:00:00-05:00"
+  }
+]

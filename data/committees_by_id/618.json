@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "618",
+    "userDiscoveryUrlId": "618-dana-rizk",
+    "userName": "Dana Rizk",
+    "teachingDiscoveryId": "3104129",
+    "title": "Dissertation Committee for Abigail Jane Brooks (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-06T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "618",
+    "userDiscoveryUrlId": "618-dana-rizk",
+    "userName": "Dana Rizk",
+    "teachingDiscoveryId": "3035964",
+    "title": "Dissertation Committee for Taylor A Person (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "618",
+    "userDiscoveryUrlId": "618-dana-rizk",
+    "userName": "Dana Rizk",
+    "teachingDiscoveryId": "2422492",
+    "title": "Thesis Committee for Taylor A Person (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": "2024-04-19T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "618",
+    "userDiscoveryUrlId": "618-dana-rizk",
+    "userName": "Dana Rizk",
+    "teachingDiscoveryId": "2329931",
+    "title": "Dissertation Committee for Ciara Maria Mitchell (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2020-04-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "618",
+    "userDiscoveryUrlId": "618-dana-rizk",
+    "userName": "Dana Rizk",
+    "teachingDiscoveryId": "2154527",
+    "title": "Dissertation Committee for Jordan C Lingo (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-04-23T00:00:00-05:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "618",
+    "userDiscoveryUrlId": "618-dana-rizk",
+    "userName": "Dana Rizk",
+    "teachingDiscoveryId": "2149832",
+    "title": "Dissertation Committee for Ellenore Craine (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-04-11T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  }
+]

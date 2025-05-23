@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "696",
+    "userDiscoveryUrlId": "696-richard-reynolds",
+    "userName": "Richard Reynolds",
+    "teachingDiscoveryId": "2463317",
+    "title": "Dissertation Committee for Nicholas Andrew Sumpter (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-07-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "696",
+    "userDiscoveryUrlId": "696-richard-reynolds",
+    "userName": "Richard Reynolds",
+    "teachingDiscoveryId": "2429875",
+    "title": "Dissertation Committee for Ninad Chaudhary (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-12T00:00:00-05:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  }
+]

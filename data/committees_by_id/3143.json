@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "3143",
+    "userDiscoveryUrlId": "3143-ilias-perakis",
+    "userName": "Ilias Perakis",
+    "teachingDiscoveryId": "3071720",
+    "title": "Dissertation Committee for Ethan James Taylor (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-07-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3143",
+    "userDiscoveryUrlId": "3143-ilias-perakis",
+    "userName": "Ilias Perakis",
+    "teachingDiscoveryId": "2489181",
+    "title": "Dissertation Committee for Varun Bhardwaj (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-13T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3143",
+    "userDiscoveryUrlId": "3143-ilias-perakis",
+    "userName": "Ilias Perakis",
+    "teachingDiscoveryId": "2487128",
+    "title": "Dissertation Committee for Tracy G Hastings (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2021-12-28T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3143",
+    "userDiscoveryUrlId": "3143-ilias-perakis",
+    "userName": "Ilias Perakis",
+    "teachingDiscoveryId": "2513799",
+    "title": "Dissertation Committee for Minh The Nguyen (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-01-14T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3143",
+    "userDiscoveryUrlId": "3143-ilias-perakis",
+    "userName": "Ilias Perakis",
+    "teachingDiscoveryId": "2469045",
+    "title": "Dissertation Committee for Wei Chih Chen (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-01-05T00:00:00-06:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "3143",
+    "userDiscoveryUrlId": "3143-ilias-perakis",
+    "userName": "Ilias Perakis",
+    "teachingDiscoveryId": "2074255",
+    "title": "Dissertation Committee for Ashlyn D Burch (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-08-23T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3143",
+    "userDiscoveryUrlId": "3143-ilias-perakis",
+    "userName": "Ilias Perakis",
+    "teachingDiscoveryId": "2066680",
+    "title": "Dissertation Committee for Donald C Boone (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2018-08-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3143",
+    "userDiscoveryUrlId": "3143-ilias-perakis",
+    "userName": "Ilias Perakis",
+    "teachingDiscoveryId": "1639221",
+    "title": "Thesis Committee for Andrew Garrison Linn (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-01-13T00:00:00-06:00",
+    "endDate": "2017-04-29T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3040",
+    "userDiscoveryUrlId": "3040-cullen-clark",
+    "userName": "Cullen Clark",
+    "teachingDiscoveryId": "3175422",
+    "title": "Dissertation Committee for Deirdre Ferguson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3040",
+    "userDiscoveryUrlId": "3040-cullen-clark",
+    "userName": "Cullen Clark",
+    "teachingDiscoveryId": "2302514",
+    "title": "Dissertation Committee for Stephanie Kirkland (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-12-06T00:00:00-06:00",
+    "endDate": "2021-12-11T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "3040",
+    "userDiscoveryUrlId": "3040-cullen-clark",
+    "userName": "Cullen Clark",
+    "teachingDiscoveryId": "2066669",
+    "title": "Dissertation Committee for Aowen Zhu (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-08-11T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  }
+]

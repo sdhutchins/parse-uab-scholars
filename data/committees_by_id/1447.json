@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "1447",
+    "userDiscoveryUrlId": "1447-mark-swanson",
+    "userName": "Mark Swanson",
+    "teachingDiscoveryId": "2676394",
+    "title": "Thesis Committee for Sammy J Haskins (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-10-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1447",
+    "userDiscoveryUrlId": "1447-mark-swanson",
+    "userName": "Mark Swanson",
+    "teachingDiscoveryId": "2331004",
+    "title": "Thesis Committee for Brooke Nicole Conner (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-30T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1447",
+    "userDiscoveryUrlId": "1447-mark-swanson",
+    "userName": "Mark Swanson",
+    "teachingDiscoveryId": "1736673",
+    "title": "Thesis Committee for Molly Ann King Tipton (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2018-01-18T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1447",
+    "userDiscoveryUrlId": "1447-mark-swanson",
+    "userName": "Mark Swanson",
+    "teachingDiscoveryId": "1638983",
+    "title": "Thesis Committee for Sarah Margaret Berry (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-08-24T00:00:00-05:00",
+    "endDate": "2017-08-11T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1447",
+    "userDiscoveryUrlId": "1447-mark-swanson",
+    "userName": "Mark Swanson",
+    "teachingDiscoveryId": "1623669",
+    "title": "Dissertation Committee for Robin M Deacy (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-11-05T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "1447",
+    "userDiscoveryUrlId": "1447-mark-swanson",
+    "userName": "Mark Swanson",
+    "teachingDiscoveryId": "1633740",
+    "title": "Thesis Committee for Kayla L Schmidt (Chairperson)",
+    "status": "Unknown",
+    "startDate": "2015-08-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1447",
+    "userDiscoveryUrlId": "1447-mark-swanson",
+    "userName": "Mark Swanson",
+    "teachingDiscoveryId": "1631562",
+    "title": "Thesis Committee for Pearl J Shin (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-08-07T00:00:00-05:00",
+    "endDate": "2015-04-24T00:00:00-05:00"
+  }
+]

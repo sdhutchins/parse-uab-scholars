@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3093",
+    "userDiscoveryUrlId": "3093-julie-wolfson",
+    "userName": "Julie Wolfson",
+    "teachingDiscoveryId": "2779821",
+    "title": "Dissertation Committee for Victoria Chirine Seghatoleslami (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3093",
+    "userDiscoveryUrlId": "3093-julie-wolfson",
+    "userName": "Julie Wolfson",
+    "teachingDiscoveryId": "2389972",
+    "title": "Thesis Committee for Victoria Chirine Seghatoleslami (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-09-23T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

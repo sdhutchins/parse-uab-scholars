@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "1314",
+    "userDiscoveryUrlId": "1314-raquel-mazergurmendi",
+    "userName": "Raquel Mazer-Gurmendi",
+    "teachingDiscoveryId": "2812960",
+    "title": "Thesis Committee for Taillk Goncalves Gomes (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1314",
+    "userDiscoveryUrlId": "1314-raquel-mazergurmendi",
+    "userName": "Raquel Mazer-Gurmendi",
+    "teachingDiscoveryId": "2489861",
+    "title": "Thesis Committee for Rawan Oueis (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-25T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

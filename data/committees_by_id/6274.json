@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "6274",
+    "userDiscoveryUrlId": "6274-bin-ren",
+    "userName": "Bin Ren",
+    "teachingDiscoveryId": "2757175",
+    "title": "Dissertation Committee for Atul Kumar (Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-03-10T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6274",
+    "userDiscoveryUrlId": "6274-bin-ren",
+    "userName": "Bin Ren",
+    "teachingDiscoveryId": "2503240",
+    "title": "Thesis Committee for Bronte Miller (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-03-30T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6274",
+    "userDiscoveryUrlId": "6274-bin-ren",
+    "userName": "Bin Ren",
+    "teachingDiscoveryId": "2477376",
+    "title": "Dissertation Committee for Gerardo Hernandez-Moreno (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-11-17T00:00:00-06:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6274",
+    "userDiscoveryUrlId": "6274-bin-ren",
+    "userName": "Bin Ren",
+    "teachingDiscoveryId": "2448002",
+    "title": "Dissertation Committee for Itika Arora (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-28T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6274",
+    "userDiscoveryUrlId": "6274-bin-ren",
+    "userName": "Bin Ren",
+    "teachingDiscoveryId": "2411582",
+    "title": "Dissertation Committee for Yichen Guo (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-02-02T00:00:00-06:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  }
+]

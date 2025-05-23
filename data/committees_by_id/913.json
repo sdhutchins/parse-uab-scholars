@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "913",
+    "userDiscoveryUrlId": "913-gregory-friedman",
+    "userName": "Gregory Friedman",
+    "teachingDiscoveryId": "2493096",
+    "title": "Dissertation Committee for Dagoberto Estevez-Ordonez (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-02-16T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "913",
+    "userDiscoveryUrlId": "913-gregory-friedman",
+    "userName": "Gregory Friedman",
+    "teachingDiscoveryId": "2422468",
+    "title": "Dissertation Committee for Gelare Ghajar-Rahimi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": "2022-01-26T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "913",
+    "userDiscoveryUrlId": "913-gregory-friedman",
+    "userName": "Gregory Friedman",
+    "teachingDiscoveryId": "2422454",
+    "title": "Dissertation Committee for Sam E Gary (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-19T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "913",
+    "userDiscoveryUrlId": "913-gregory-friedman",
+    "userName": "Gregory Friedman",
+    "teachingDiscoveryId": "2324923",
+    "title": "Dissertation Committee for Emily Hayward (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2020-03-05T00:00:00-06:00",
+    "endDate": null
+  }
+]

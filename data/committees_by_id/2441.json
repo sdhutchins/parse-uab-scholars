@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "2441",
+    "userDiscoveryUrlId": "2441-john-griffin",
+    "userName": "John Griffin",
+    "teachingDiscoveryId": "1635873",
+    "title": "Thesis Committee for Aaron T Kelley (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-10-12T00:00:00-05:00",
+    "endDate": "2017-08-11T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2441",
+    "userDiscoveryUrlId": "2441-john-griffin",
+    "userName": "John Griffin",
+    "teachingDiscoveryId": "1638517",
+    "title": "Thesis Committee for Elis A Rivera (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-10-01T00:00:00-05:00",
+    "endDate": "2015-08-07T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2441",
+    "userDiscoveryUrlId": "2441-john-griffin",
+    "userName": "John Griffin",
+    "teachingDiscoveryId": "1635454",
+    "title": "Thesis Committee for Maria Diana M David (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-08-01T00:00:00-05:00",
+    "endDate": "2015-04-24T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2441",
+    "userDiscoveryUrlId": "2441-john-griffin",
+    "userName": "John Griffin",
+    "teachingDiscoveryId": "1631374",
+    "title": "Thesis Committee for Jeffrey P Hamby (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-02-25T00:00:00-06:00",
+    "endDate": "2013-08-08T00:00:00-05:00"
+  }
+]

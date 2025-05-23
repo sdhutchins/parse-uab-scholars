@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "6528",
+    "userDiscoveryUrlId": "6528-craig-powell",
+    "userName": "Craig Powell",
+    "teachingDiscoveryId": "2992390",
+    "title": "Dissertation Committee for Verdion Quirinu Martina (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-02-19T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6528",
+    "userDiscoveryUrlId": "6528-craig-powell",
+    "userName": "Craig Powell",
+    "teachingDiscoveryId": "2760999",
+    "title": "Dissertation Committee for Wei-Chen Chen (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-03-27T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6528",
+    "userDiscoveryUrlId": "6528-craig-powell",
+    "userName": "Craig Powell",
+    "teachingDiscoveryId": "2674512",
+    "title": "Dissertation Committee for Briana Lynne Machen (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-11T00:00:00-05:00",
+    "endDate": "2023-04-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6528",
+    "userDiscoveryUrlId": "6528-craig-powell",
+    "userName": "Craig Powell",
+    "teachingDiscoveryId": "2518902",
+    "title": "Dissertation Committee for Stephen Cunningham (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-06-23T00:00:00-05:00",
+    "endDate": null
+  }
+]

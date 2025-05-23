@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "1083",
+    "userDiscoveryUrlId": "1083-yuying-chen",
+    "userName": "Yu-Ying Chen",
+    "teachingDiscoveryId": "3179492",
+    "title": "Dissertation Committee for Md Nazmul Hassan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-23T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1083",
+    "userDiscoveryUrlId": "1083-yuying-chen",
+    "userName": "Yu-Ying Chen",
+    "teachingDiscoveryId": "1640034",
+    "title": "Dissertation Committee for Huacong Wen (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-10-20T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1083",
+    "userDiscoveryUrlId": "1083-yuying-chen",
+    "userName": "Yu-Ying Chen",
+    "teachingDiscoveryId": "1628721",
+    "title": "Dissertation Committee for Haiyan Qu (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2006-08-22T00:00:00-05:00",
+    "endDate": "2007-08-10T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "665",
+    "userDiscoveryUrlId": "665-james-wells",
+    "userName": "James Wells",
+    "teachingDiscoveryId": "3118536",
+    "title": "Dissertation Committee for Ezgi Sari (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "665",
+    "userDiscoveryUrlId": "665-james-wells",
+    "userName": "James Wells",
+    "teachingDiscoveryId": "3096383",
+    "title": "Dissertation Committee for Chia-Ying Chiu (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "665",
+    "userDiscoveryUrlId": "665-james-wells",
+    "userName": "James Wells",
+    "teachingDiscoveryId": "3036016",
+    "title": "Dissertation Committee for Hanna Sothers (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "665",
+    "userDiscoveryUrlId": "665-james-wells",
+    "userName": "James Wells",
+    "teachingDiscoveryId": "2985446",
+    "title": "Dissertation Committee for Bitota Kabishe Lukusa-Sawalena (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-02-05T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "665",
+    "userDiscoveryUrlId": "665-james-wells",
+    "userName": "James Wells",
+    "teachingDiscoveryId": "2185425",
+    "title": "Dissertation Committee for Mohammed Mes Alqahtani (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-09-03T00:00:00-05:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "665",
+    "userDiscoveryUrlId": "665-james-wells",
+    "userName": "James Wells",
+    "teachingDiscoveryId": "2122777",
+    "title": "Dissertation Committee for Abdullah M Alanazi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-11-26T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

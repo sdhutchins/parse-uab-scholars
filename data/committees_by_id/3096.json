@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "3096",
+    "userDiscoveryUrlId": "3096-michael-seifert",
+    "userName": "Michael Seifert",
+    "teachingDiscoveryId": "3206470",
+    "title": "Dissertation Committee for Ahmad Fakhir Mohammad (Mentor)",
+    "status": "Unknown",
+    "startDate": "2025-02-07T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3096",
+    "userDiscoveryUrlId": "3096-michael-seifert",
+    "userName": "Michael Seifert",
+    "teachingDiscoveryId": "2784885",
+    "title": "Dissertation Committee for McKenna Marie Somerville (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-05-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3096",
+    "userDiscoveryUrlId": "3096-michael-seifert",
+    "userName": "Michael Seifert",
+    "teachingDiscoveryId": "2758175",
+    "title": "Dissertation Committee for Gillian Claire Kelly (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-03-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3096",
+    "userDiscoveryUrlId": "3096-michael-seifert",
+    "userName": "Michael Seifert",
+    "teachingDiscoveryId": "2419788",
+    "title": "Dissertation Committee for Boyi Guo (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-03-01T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

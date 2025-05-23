@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "16379",
+    "userDiscoveryUrlId": "16379-frank-puga",
+    "userName": "Frank Puga",
+    "teachingDiscoveryId": "3070250",
+    "title": "Dissertation Committee for Cheryl A Lee (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-07-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16379",
+    "userDiscoveryUrlId": "16379-frank-puga",
+    "userName": "Frank Puga",
+    "teachingDiscoveryId": "2858424",
+    "title": "Dissertation Committee for Sofía Mildrum Chana (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-10-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16379",
+    "userDiscoveryUrlId": "16379-frank-puga",
+    "userName": "Frank Puga",
+    "teachingDiscoveryId": "2844409",
+    "title": "Dissertation Committee for Meghan C Jones (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-10-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16379",
+    "userDiscoveryUrlId": "16379-frank-puga",
+    "userName": "Frank Puga",
+    "teachingDiscoveryId": "2837021",
+    "title": "Dissertation Committee for Abigail Poe (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-09-22T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16379",
+    "userDiscoveryUrlId": "16379-frank-puga",
+    "userName": "Frank Puga",
+    "teachingDiscoveryId": "2431476",
+    "title": "Dissertation Committee for Chunhong Xiao (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-19T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "16379",
+    "userDiscoveryUrlId": "16379-frank-puga",
+    "userName": "Frank Puga",
+    "teachingDiscoveryId": "2344026",
+    "title": "Dissertation Committee for Kyungmi Lee (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2020-07-07T00:00:00-05:00",
+    "endDate": null
+  }
+]

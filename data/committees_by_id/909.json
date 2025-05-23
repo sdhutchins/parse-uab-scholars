@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "909",
+    "userDiscoveryUrlId": "909-heather-mcginnis",
+    "userName": "Heather McGinnis",
+    "teachingDiscoveryId": "3099860",
+    "title": "Dissertation Committee for Brianna N Stein (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "909",
+    "userDiscoveryUrlId": "909-heather-mcginnis",
+    "userName": "Heather McGinnis",
+    "teachingDiscoveryId": "2534048",
+    "title": "Dissertation Committee for Melanie G Albright (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-09-12T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "909",
+    "userDiscoveryUrlId": "909-heather-mcginnis",
+    "userName": "Heather McGinnis",
+    "teachingDiscoveryId": "1637918",
+    "title": "Dissertation Committee for Desti Shepard (Adjunct Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-07-17T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  }
+]

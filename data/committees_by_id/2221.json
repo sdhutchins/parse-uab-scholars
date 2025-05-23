@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "2221",
+    "userDiscoveryUrlId": "2221-keshav-singh",
+    "userName": "Keshav Singh",
+    "teachingDiscoveryId": "2819505",
+    "title": "Thesis Committee for Tulya Rupa Sri Vankayala Pati (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-08-31T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2221",
+    "userDiscoveryUrlId": "2221-keshav-singh",
+    "userName": "Keshav Singh",
+    "teachingDiscoveryId": "1639927",
+    "title": "Dissertation Committee for Brian Spurlock (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-03-10T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2221",
+    "userDiscoveryUrlId": "2221-keshav-singh",
+    "userName": "Keshav Singh",
+    "teachingDiscoveryId": "1638932",
+    "title": "Dissertation Committee for Sean M Santos (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-09-15T00:00:00-05:00",
+    "endDate": "2019-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2221",
+    "userDiscoveryUrlId": "2221-keshav-singh",
+    "userName": "Keshav Singh",
+    "teachingDiscoveryId": "1638856",
+    "title": "Dissertation Committee for Trung Tam Vu (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-01-13T00:00:00-06:00",
+    "endDate": "2018-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2221",
+    "userDiscoveryUrlId": "2221-keshav-singh",
+    "userName": "Keshav Singh",
+    "teachingDiscoveryId": "1632780",
+    "title": "Dissertation Committee for Haley D Albright (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2014-05-13T00:00:00-05:00",
+    "endDate": "2017-12-17T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "2221",
+    "userDiscoveryUrlId": "2221-keshav-singh",
+    "userName": "Keshav Singh",
+    "teachingDiscoveryId": "1637039",
+    "title": "Dissertation Committee for Trevor Carden (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2013-07-02T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2221",
+    "userDiscoveryUrlId": "2221-keshav-singh",
+    "userName": "Keshav Singh",
+    "teachingDiscoveryId": "1635552",
+    "title": "Dissertation Committee for Jennifer A Stanley (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-08-09T00:00:00-05:00",
+    "endDate": "2015-12-11T00:00:00-06:00"
+  }
+]

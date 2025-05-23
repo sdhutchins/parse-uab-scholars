@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "11282",
+    "userDiscoveryUrlId": "11282-jessica-chambliss",
+    "userName": "Jessica Chambliss",
+    "teachingDiscoveryId": "3246747",
+    "title": "Dissertation Committee for Maizonne J Fields (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-04-04T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "11282",
+    "userDiscoveryUrlId": "11282-jessica-chambliss",
+    "userName": "Jessica Chambliss",
+    "teachingDiscoveryId": "3189380",
+    "title": "Thesis Committee for Kennedy Nicole Butler (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "11282",
+    "userDiscoveryUrlId": "11282-jessica-chambliss",
+    "userName": "Jessica Chambliss",
+    "teachingDiscoveryId": "3175424",
+    "title": "Dissertation Committee for Nevette S Sample (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "11282",
+    "userDiscoveryUrlId": "11282-jessica-chambliss",
+    "userName": "Jessica Chambliss",
+    "teachingDiscoveryId": "2992580",
+    "title": "Dissertation Committee for Joyce Imafidon (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-02-20T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "11282",
+    "userDiscoveryUrlId": "11282-jessica-chambliss",
+    "userName": "Jessica Chambliss",
+    "teachingDiscoveryId": "2842778",
+    "title": "Dissertation Committee for Jolanda Hudson (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-10-09T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "11282",
+    "userDiscoveryUrlId": "11282-jessica-chambliss",
+    "userName": "Jessica Chambliss",
+    "teachingDiscoveryId": "2784873",
+    "title": "Dissertation Committee for Lindsey Allison Rice (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-05-25T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "11282",
+    "userDiscoveryUrlId": "11282-jessica-chambliss",
+    "userName": "Jessica Chambliss",
+    "teachingDiscoveryId": "2513708",
+    "title": "Dissertation Committee for Amber N Martin (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-04-27T00:00:00-05:00",
+    "endDate": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "17185",
+    "userDiscoveryUrlId": "17185-atanas-stefanov",
+    "userName": "Atanas Stefanov",
+    "teachingDiscoveryId": "3146216",
+    "title": "Dissertation Committee for Vishnu Prasad Iyer (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-10-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "17185",
+    "userDiscoveryUrlId": "17185-atanas-stefanov",
+    "userName": "Atanas Stefanov",
+    "teachingDiscoveryId": "2489872",
+    "title": "Dissertation Committee for Steven A Redolfi (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-25T00:00:00-06:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "2652",
+    "userDiscoveryUrlId": "2652-junfang-li",
+    "userName": "Junfang Li",
+    "teachingDiscoveryId": "2689202",
+    "title": "Dissertation Committee for Dipakprasad Prasad Dulal (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-12-01T00:00:00-06:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2652",
+    "userDiscoveryUrlId": "2652-junfang-li",
+    "userName": "Junfang Li",
+    "teachingDiscoveryId": "2673697",
+    "title": "Dissertation Committee for Jonathon G Knowles (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-10-05T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2652",
+    "userDiscoveryUrlId": "2652-junfang-li",
+    "userName": "Junfang Li",
+    "teachingDiscoveryId": "1636757",
+    "title": "Thesis Committee for Eartha Drew (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-01-27T00:00:00-06:00",
+    "endDate": "2012-05-09T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "2652",
+    "userDiscoveryUrlId": "2652-junfang-li",
+    "userName": "Junfang Li",
+    "teachingDiscoveryId": "1631610",
+    "title": "Thesis Committee for Jessica L Bass (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2012-01-27T00:00:00-06:00",
+    "endDate": "2012-05-09T00:00:00-05:00"
+  }
+]

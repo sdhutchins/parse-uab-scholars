@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "6755",
+    "userDiscoveryUrlId": "6755-shinichi-kano",
+    "userName": "Shinichi Kano",
+    "teachingDiscoveryId": "2979627",
+    "title": "Thesis Committee for Katherine Elizabeth Miller (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-01-17T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6755",
+    "userDiscoveryUrlId": "6755-shinichi-kano",
+    "userName": "Shinichi Kano",
+    "teachingDiscoveryId": "2971846",
+    "title": "Dissertation Committee for Macy A McCuiston (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-22T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6755",
+    "userDiscoveryUrlId": "6755-shinichi-kano",
+    "userName": "Shinichi Kano",
+    "teachingDiscoveryId": "2838527",
+    "title": "Dissertation Committee for Jana H Badrani (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-09-29T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6755",
+    "userDiscoveryUrlId": "6755-shinichi-kano",
+    "userName": "Shinichi Kano",
+    "teachingDiscoveryId": "2463416",
+    "title": "Dissertation Committee for Destynie Medeiros (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-07-26T00:00:00-05:00",
+    "endDate": "2021-11-18T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6755",
+    "userDiscoveryUrlId": "6755-shinichi-kano",
+    "userName": "Shinichi Kano",
+    "teachingDiscoveryId": "2314586",
+    "title": "Dissertation Committee for Carla J Shepard (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-21T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "7302",
+    "userDiscoveryUrlId": "7302-yuhua-fang",
+    "userName": "Yu-Hua Fang",
+    "teachingDiscoveryId": "2983909",
+    "title": "Dissertation Committee for Yun Chi Lin (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-01-30T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7302",
+    "userDiscoveryUrlId": "7302-yuhua-fang",
+    "userName": "Yu-Hua Fang",
+    "teachingDiscoveryId": "2975993",
+    "title": "Dissertation Committee for Ugur Akca (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-01-05T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7302",
+    "userDiscoveryUrlId": "7302-yuhua-fang",
+    "userName": "Yu-Hua Fang",
+    "teachingDiscoveryId": "2514820",
+    "title": "Thesis Committee for Ezinwanne Elizabeth Onuoha (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-05-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7302",
+    "userDiscoveryUrlId": "7302-yuhua-fang",
+    "userName": "Yu-Hua Fang",
+    "teachingDiscoveryId": "2513818",
+    "title": "Dissertation Committee for SHENG-CHIEH CHIU (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2022-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7302",
+    "userDiscoveryUrlId": "7302-yuhua-fang",
+    "userName": "Yu-Hua Fang",
+    "teachingDiscoveryId": "2486476",
+    "title": "Thesis Committee for Ugur Akca (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-12-15T00:00:00-06:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  }
+]

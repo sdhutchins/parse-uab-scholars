@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "1151",
+    "userDiscoveryUrlId": "1151-daniel-chu",
+    "userName": "Daniel Chu",
+    "teachingDiscoveryId": "3043179",
+    "title": "Dissertation Committee for Anna L Davidson (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-05-13T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1151",
+    "userDiscoveryUrlId": "1151-daniel-chu",
+    "userName": "Daniel Chu",
+    "teachingDiscoveryId": "3008999",
+    "title": "Thesis Committee for Wendelyn Oslock (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-03-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1151",
+    "userDiscoveryUrlId": "1151-daniel-chu",
+    "userName": "Daniel Chu",
+    "teachingDiscoveryId": "2774349",
+    "title": "Dissertation Committee for Whitney N Neal (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-04-28T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1151",
+    "userDiscoveryUrlId": "1151-daniel-chu",
+    "userName": "Daniel Chu",
+    "teachingDiscoveryId": "2293159",
+    "title": "Dissertation Committee for Dae Hyun Kim (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-10-17T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

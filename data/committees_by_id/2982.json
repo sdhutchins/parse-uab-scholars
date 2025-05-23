@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "2982",
+    "userDiscoveryUrlId": "2982-wei-li",
+    "userName": "Wei Li",
+    "teachingDiscoveryId": "3166341",
+    "title": "Dissertation Committee for Zephyr Desa (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2982",
+    "userDiscoveryUrlId": "2982-wei-li",
+    "userName": "Wei Li",
+    "teachingDiscoveryId": "3107653",
+    "title": "Dissertation Committee for Jewel S Hairston (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-17T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "2982",
+    "userDiscoveryUrlId": "2982-wei-li",
+    "userName": "Wei Li",
+    "teachingDiscoveryId": "2961090",
+    "title": "Dissertation Committee for Chang Li (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-11-22T00:00:00-06:00",
+    "endDate": null
+  }
+]

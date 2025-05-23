@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "3228",
+    "userDiscoveryUrlId": "3228-kelly-mccornack",
+    "userName": "Kelly McCornack",
+    "teachingDiscoveryId": "3037439",
+    "title": "Thesis Committee for Miranda V Brunn (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-05-01T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3228",
+    "userDiscoveryUrlId": "3228-kelly-mccornack",
+    "userName": "Kelly McCornack",
+    "teachingDiscoveryId": "2535319",
+    "title": "Thesis Committee for Ziyu Zhao (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-09-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3228",
+    "userDiscoveryUrlId": "3228-kelly-mccornack",
+    "userName": "Kelly McCornack",
+    "teachingDiscoveryId": "2408078",
+    "title": "Thesis Committee for William Tyler Deverell (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-01-11T00:00:00-06:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  }
+]

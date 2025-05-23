@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3180",
+    "userDiscoveryUrlId": "3180-taajah-witherspoon",
+    "userName": "Taajah Witherspoon",
+    "teachingDiscoveryId": "2844118",
+    "title": "Dissertation Committee for Jennifer Gilbert (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-02-01T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3180",
+    "userDiscoveryUrlId": "3180-taajah-witherspoon",
+    "userName": "Taajah Witherspoon",
+    "teachingDiscoveryId": "2123429",
+    "title": "Dissertation Committee for Paulette G Evans (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2018-11-27T00:00:00-06:00",
+    "endDate": "2019-12-14T00:00:00-06:00"
+  }
+]

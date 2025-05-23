@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "16409",
+    "userDiscoveryUrlId": "16409-barry-sleckman",
+    "userName": "Barry Sleckman",
+    "teachingDiscoveryId": "2726661",
+    "title": "Dissertation Committee for Nghi Doan Phuong Dang (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-02-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16409",
+    "userDiscoveryUrlId": "16409-barry-sleckman",
+    "userName": "Barry Sleckman",
+    "teachingDiscoveryId": "2491247",
+    "title": "Dissertation Committee for Lance Dylan Reynolds (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-02-01T00:00:00-06:00",
+    "endDate": "2024-07-03T00:00:00-05:00"
+  }
+]

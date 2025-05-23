@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "3112",
+    "userDiscoveryUrlId": "3112-ariel-salas",
+    "userName": "Ariel Salas",
+    "teachingDiscoveryId": "2788428",
+    "title": "Thesis Committee for Emily Gunawan (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-06-06T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "3112",
+    "userDiscoveryUrlId": "3112-ariel-salas",
+    "userName": "Ariel Salas",
+    "teachingDiscoveryId": "2399841",
+    "title": "Dissertation Committee for Maggie Louise Jerome (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-11-15T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  }
+]

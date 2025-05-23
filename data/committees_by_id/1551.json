@@ -1,0 +1,42 @@
+[
+  {
+    "userDiscoveryId": "1551",
+    "userDiscoveryUrlId": "1551-candace-knight",
+    "userName": "Candace Knight",
+    "teachingDiscoveryId": "3104741",
+    "title": "Dissertation Committee for Taishayla K Nash (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-09-09T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "1551",
+    "userDiscoveryUrlId": "1551-candace-knight",
+    "userName": "Candace Knight",
+    "teachingDiscoveryId": "2535321",
+    "title": "Dissertation Committee for Heather E Hudspeth (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-06-15T00:00:00-05:00",
+    "endDate": "2023-04-29T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1551",
+    "userDiscoveryUrlId": "1551-candace-knight",
+    "userName": "Candace Knight",
+    "teachingDiscoveryId": "2314818",
+    "title": "Dissertation Committee for Megan Rutland Mileski (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-22T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "1551",
+    "userDiscoveryUrlId": "1551-candace-knight",
+    "userName": "Candace Knight",
+    "teachingDiscoveryId": "2296318",
+    "title": "Dissertation Committee for Jessica L Patterson (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-11-11T00:00:00-06:00",
+    "endDate": "2020-08-15T00:00:00-05:00"
+  }
+]

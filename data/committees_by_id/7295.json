@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "7295",
+    "userDiscoveryUrlId": "7295-victor-del-bene",
+    "userName": "Victor Del Bene",
+    "teachingDiscoveryId": "3225137",
+    "title": "Dissertation Committee for Brandon Steve Mitchell (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-03-10T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7295",
+    "userDiscoveryUrlId": "7295-victor-del-bene",
+    "userName": "Victor Del Bene",
+    "teachingDiscoveryId": "3187198",
+    "title": "Dissertation Committee for Rachel Fra Stuckwisch (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-09T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7295",
+    "userDiscoveryUrlId": "7295-victor-del-bene",
+    "userName": "Victor Del Bene",
+    "teachingDiscoveryId": "3037101",
+    "title": "Dissertation Committee for Erin Elizabeth Ballard (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-26T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7295",
+    "userDiscoveryUrlId": "7295-victor-del-bene",
+    "userName": "Victor Del Bene",
+    "teachingDiscoveryId": "2858433",
+    "title": "Thesis Committee for Katherine C Cleveland (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-10-25T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "7295",
+    "userDiscoveryUrlId": "7295-victor-del-bene",
+    "userName": "Victor Del Bene",
+    "teachingDiscoveryId": "2768913",
+    "title": "Thesis Committee for Terina L Griffith (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2023-04-14T00:00:00-05:00",
+    "endDate": "2024-07-28T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "7295",
+    "userDiscoveryUrlId": "7295-victor-del-bene",
+    "userName": "Victor Del Bene",
+    "teachingDiscoveryId": "2515300",
+    "title": "Dissertation Committee for Alexandra E Jacob (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-05-23T00:00:00-05:00",
+    "endDate": "2024-08-10T00:00:00-05:00"
+  }
+]

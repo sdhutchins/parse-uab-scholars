@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "5106",
+    "userDiscoveryUrlId": "5106-spencer-poore",
+    "userName": "Spencer Poore",
+    "teachingDiscoveryId": "3010805",
+    "title": "Dissertation Committee for Md Hasanul Banna Siam (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2024-03-31T00:00:00-05:00",
+    "endDate": "2025-02-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "5106",
+    "userDiscoveryUrlId": "5106-spencer-poore",
+    "userName": "Spencer Poore",
+    "teachingDiscoveryId": "2825431",
+    "title": "Thesis Committee for Anh Tuan Nguyen (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2023-09-20T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "5106",
+    "userDiscoveryUrlId": "5106-spencer-poore",
+    "userName": "Spencer Poore",
+    "teachingDiscoveryId": "2703792",
+    "title": "Dissertation Committee for Kristina Nicole Valladares (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-12-13T00:00:00-06:00",
+    "endDate": "2024-11-17T00:00:00-06:00"
+  }
+]

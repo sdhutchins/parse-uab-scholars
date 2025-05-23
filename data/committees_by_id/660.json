@@ -1,0 +1,62 @@
+[
+  {
+    "userDiscoveryId": "660",
+    "userDiscoveryUrlId": "660-george-solomon",
+    "userName": "George Solomon",
+    "teachingDiscoveryId": "3096382",
+    "title": "Thesis Committee for Heather S Fisher (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-08-23T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "660",
+    "userDiscoveryUrlId": "660-george-solomon",
+    "userName": "George Solomon",
+    "teachingDiscoveryId": "2966777",
+    "title": "Dissertation Committee for Kendall Mae Shaffer (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-03T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "660",
+    "userDiscoveryUrlId": "660-george-solomon",
+    "userName": "George Solomon",
+    "teachingDiscoveryId": "2447529",
+    "title": "Dissertation Committee for Jacelyn E Peabody (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-25T00:00:00-05:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "660",
+    "userDiscoveryUrlId": "660-george-solomon",
+    "userName": "George Solomon",
+    "teachingDiscoveryId": "2466338",
+    "title": "Dissertation Committee for Julianna Bailey (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-04-17T00:00:00-05:00",
+    "endDate": "2021-10-27T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "660",
+    "userDiscoveryUrlId": "660-george-solomon",
+    "userName": "George Solomon",
+    "teachingDiscoveryId": "2131242",
+    "title": "Dissertation Committee for Melissa S McDaniel (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2018-12-06T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "660",
+    "userDiscoveryUrlId": "660-george-solomon",
+    "userName": "George Solomon",
+    "teachingDiscoveryId": "1638933",
+    "title": "Dissertation Committee for Carleen Mae P Sabusap (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-06-05T00:00:00-05:00",
+    "endDate": "2018-08-10T00:00:00-05:00"
+  }
+]

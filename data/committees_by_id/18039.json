@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "18039",
+    "userDiscoveryUrlId": "18039-lara-ianov",
+    "userName": "Lara Ianov",
+    "teachingDiscoveryId": "3206469",
+    "title": "Dissertation Committee for Ahmad Fakhir Mohammad (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-02-07T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18039",
+    "userDiscoveryUrlId": "18039-lara-ianov",
+    "userName": "Lara Ianov",
+    "teachingDiscoveryId": "3186376",
+    "title": "Dissertation Committee for Mahima S Reddy (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2025-01-08T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18039",
+    "userDiscoveryUrlId": "18039-lara-ianov",
+    "userName": "Lara Ianov",
+    "teachingDiscoveryId": "3012958",
+    "title": "Dissertation Committee for Samuel Bharti (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-04-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18039",
+    "userDiscoveryUrlId": "18039-lara-ianov",
+    "userName": "Lara Ianov",
+    "teachingDiscoveryId": "2975785",
+    "title": "Dissertation Committee for Shaurita Hutchins (Ad Hoc Committee Member)",
+    "status": "Unknown",
+    "startDate": "2024-01-04T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18039",
+    "userDiscoveryUrlId": "18039-lara-ianov",
+    "userName": "Lara Ianov",
+    "teachingDiscoveryId": "2967648",
+    "title": "Dissertation Committee for Dalton Chase Patterson (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18039",
+    "userDiscoveryUrlId": "18039-lara-ianov",
+    "userName": "Lara Ianov",
+    "teachingDiscoveryId": "2819504",
+    "title": "Dissertation Committee for Guy Michael Twa (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-08-31T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "18039",
+    "userDiscoveryUrlId": "18039-lara-ianov",
+    "userName": "Lara Ianov",
+    "teachingDiscoveryId": "2533828",
+    "title": "Dissertation Committee for Jennifer Lynn Fisher (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-12-10T00:00:00-06:00",
+    "endDate": "2023-08-12T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "18039",
+    "userDiscoveryUrlId": "18039-lara-ianov",
+    "userName": "Lara Ianov",
+    "teachingDiscoveryId": "2533834",
+    "title": "Dissertation Committee for Christian T Stackhouse (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2017-10-24T00:00:00-05:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

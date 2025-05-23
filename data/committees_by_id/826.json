@@ -1,0 +1,52 @@
+[
+  {
+    "userDiscoveryId": "826",
+    "userDiscoveryUrlId": "826-brian-samuels",
+    "userName": "Brian Samuels",
+    "teachingDiscoveryId": "3118523",
+    "title": "Dissertation Committee for Sadhana Sharma (Ad Hoc Committee Member)",
+    "status": "Unknown",
+    "startDate": "2024-10-07T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "826",
+    "userDiscoveryUrlId": "826-brian-samuels",
+    "userName": "Brian Samuels",
+    "teachingDiscoveryId": "2531657",
+    "title": "Dissertation Committee for Mahmoud Tawfik KhalafAllah (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-08-16T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "826",
+    "userDiscoveryUrlId": "826-brian-samuels",
+    "userName": "Brian Samuels",
+    "teachingDiscoveryId": "2171264",
+    "title": "Dissertation Committee for Alexander Miles Levy (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2019-08-07T00:00:00-05:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "826",
+    "userDiscoveryUrlId": "826-brian-samuels",
+    "userName": "Brian Samuels",
+    "teachingDiscoveryId": "1639950",
+    "title": "Dissertation Committee for Jessica Jasien (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2016-11-20T00:00:00-06:00",
+    "endDate": "2020-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "826",
+    "userDiscoveryUrlId": "826-brian-samuels",
+    "userName": "Brian Samuels",
+    "teachingDiscoveryId": "1638179",
+    "title": "Dissertation Committee for Daniel C Turner (Ad Hoc Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2015-11-05T00:00:00-06:00",
+    "endDate": "2019-04-25T00:00:00-05:00"
+  }
+]

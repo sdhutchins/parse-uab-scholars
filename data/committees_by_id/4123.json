@@ -1,0 +1,32 @@
+[
+  {
+    "userDiscoveryId": "4123",
+    "userDiscoveryUrlId": "4123-warren-jones",
+    "userName": "Warren Jones",
+    "teachingDiscoveryId": "1627250",
+    "title": "Dissertation Committee for Chunlin Wang (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2003-01-06T00:00:00-06:00",
+    "endDate": "2005-08-03T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "4123",
+    "userDiscoveryUrlId": "4123-warren-jones",
+    "userName": "Warren Jones",
+    "teachingDiscoveryId": "1629096",
+    "title": "Dissertation Committee for Yuliang Liu (Chairperson)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2002-08-21T00:00:00-05:00",
+    "endDate": "2014-10-23T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "4123",
+    "userDiscoveryUrlId": "4123-warren-jones",
+    "userName": "Warren Jones",
+    "teachingDiscoveryId": "1632113",
+    "title": "Dissertation Committee for Sharina D Person (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "1997-09-15T00:00:00-05:00",
+    "endDate": "1998-11-17T00:00:00-06:00"
+  }
+]

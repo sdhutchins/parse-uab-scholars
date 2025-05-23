@@ -1,0 +1,82 @@
+[
+  {
+    "userDiscoveryId": "4018",
+    "userDiscoveryUrlId": "4018-ken-marion",
+    "userName": "Ken Marion",
+    "teachingDiscoveryId": "3115190",
+    "title": "Thesis Committee for Theresa Rose Madrigal (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-10-03T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4018",
+    "userDiscoveryUrlId": "4018-ken-marion",
+    "userName": "Ken Marion",
+    "teachingDiscoveryId": "2967849",
+    "title": "Thesis Committee for Zachary Brian Cimino (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-13T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4018",
+    "userDiscoveryUrlId": "4018-ken-marion",
+    "userName": "Ken Marion",
+    "teachingDiscoveryId": "2967656",
+    "title": "Dissertation Committee for Forrest W Collins (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2023-12-11T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4018",
+    "userDiscoveryUrlId": "4018-ken-marion",
+    "userName": "Ken Marion",
+    "teachingDiscoveryId": "2530563",
+    "title": "Dissertation Committee for Sarah Shainker (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-08-11T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4018",
+    "userDiscoveryUrlId": "4018-ken-marion",
+    "userName": "Ken Marion",
+    "teachingDiscoveryId": "2503198",
+    "title": "Thesis Committee for Robby Brannum (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2022-04-12T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "4018",
+    "userDiscoveryUrlId": "4018-ken-marion",
+    "userName": "Ken Marion",
+    "teachingDiscoveryId": "2411528",
+    "title": "Thesis Committee for Katherine Margaret Presz (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-02-01T00:00:00-06:00",
+    "endDate": "2022-08-13T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "4018",
+    "userDiscoveryUrlId": "4018-ken-marion",
+    "userName": "Ken Marion",
+    "teachingDiscoveryId": "2408579",
+    "title": "Thesis Committee for Forrest W Collins (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-01-13T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "4018",
+    "userDiscoveryUrlId": "4018-ken-marion",
+    "userName": "Ken Marion",
+    "teachingDiscoveryId": "2399849",
+    "title": "Dissertation Committee for Eric V Muth (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-11-15T00:00:00-06:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  }
+]

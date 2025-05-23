@@ -1,0 +1,72 @@
+[
+  {
+    "userDiscoveryId": "6385",
+    "userDiscoveryUrlId": "6385-seyedabdollah-mirbozorgi",
+    "userName": "Seyedabdollah Mirbozorgi",
+    "teachingDiscoveryId": "2675064",
+    "title": "Dissertation Committee for Md Kamal Hossain (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-10-17T00:00:00-05:00",
+    "endDate": "2022-12-10T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6385",
+    "userDiscoveryUrlId": "6385-seyedabdollah-mirbozorgi",
+    "userName": "Seyedabdollah Mirbozorgi",
+    "teachingDiscoveryId": "2489864",
+    "title": "Dissertation Committee for Reepa Saha (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2022-01-25T00:00:00-06:00",
+    "endDate": "2024-12-14T00:00:00-06:00"
+  },
+  {
+    "userDiscoveryId": "6385",
+    "userDiscoveryUrlId": "6385-seyedabdollah-mirbozorgi",
+    "userName": "Seyedabdollah Mirbozorgi",
+    "teachingDiscoveryId": "2431472",
+    "title": "Dissertation Committee for Raghavendra Rao Morusupalli (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2021-05-19T00:00:00-05:00",
+    "endDate": "2022-04-30T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6385",
+    "userDiscoveryUrlId": "6385-seyedabdollah-mirbozorgi",
+    "userName": "Seyedabdollah Mirbozorgi",
+    "teachingDiscoveryId": "2431462",
+    "title": "Thesis Committee for Maryam Saberi (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2021-05-19T00:00:00-05:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "6385",
+    "userDiscoveryUrlId": "6385-seyedabdollah-mirbozorgi",
+    "userName": "Seyedabdollah Mirbozorgi",
+    "teachingDiscoveryId": "2344045",
+    "title": "Thesis Committee for shao-yu Fu (Committee Member)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-05-20T00:00:00-05:00",
+    "endDate": "2021-08-14T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6385",
+    "userDiscoveryUrlId": "6385-seyedabdollah-mirbozorgi",
+    "userName": "Seyedabdollah Mirbozorgi",
+    "teachingDiscoveryId": "2312959",
+    "title": "Thesis Committee for Fan Wu (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-16T00:00:00-06:00",
+    "endDate": "2021-05-01T00:00:00-05:00"
+  },
+  {
+    "userDiscoveryId": "6385",
+    "userDiscoveryUrlId": "6385-seyedabdollah-mirbozorgi",
+    "userName": "Seyedabdollah Mirbozorgi",
+    "teachingDiscoveryId": "2312969",
+    "title": "Thesis Committee for Xinlei Yang (Committee Chair & Mentor)",
+    "status": "No longer on student's committee or student has graduated",
+    "startDate": "2020-01-16T00:00:00-06:00",
+    "endDate": "2020-12-12T00:00:00-06:00"
+  }
+]

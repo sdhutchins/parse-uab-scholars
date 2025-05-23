@@ -1,0 +1,22 @@
+[
+  {
+    "userDiscoveryId": "16927",
+    "userDiscoveryUrlId": "16927-neil-pfister",
+    "userName": "Neil Pfister",
+    "teachingDiscoveryId": "3172290",
+    "title": "Dissertation Committee for Teresa Chiyanne Beamon (Committee Member)",
+    "status": "Current committee member",
+    "startDate": "2024-12-12T00:00:00-06:00",
+    "endDate": null
+  },
+  {
+    "userDiscoveryId": "16927",
+    "userDiscoveryUrlId": "16927-neil-pfister",
+    "userName": "Neil Pfister",
+    "teachingDiscoveryId": "3090580",
+    "title": "Dissertation Committee for Aniruddha Mukherjee (Committee Chair & Mentor)",
+    "status": "Unknown",
+    "startDate": "2024-08-16T00:00:00-05:00",
+    "endDate": null
+  }
+]
