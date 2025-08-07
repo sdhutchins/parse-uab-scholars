@@ -47,13 +47,66 @@ class FacultyTable {
     }
 
     setupEventListeners() {
-        // Search input
+        // Search input with autocomplete
         const searchInput = document.getElementById('searchInput');
+        const searchSuggestions = document.getElementById('searchSuggestions');
+        
         if (searchInput) {
             searchInput.addEventListener('input', (e) => {
                 this.currentFilters.search = e.target.value;
                 this.currentPage = 1;
                 this.filterData();
+                this.showSearchSuggestions(e.target.value);
+            });
+
+            // Keyboard navigation
+            searchInput.addEventListener('keydown', (e) => {
+                const suggestions = searchSuggestions.querySelectorAll('.suggestion-item');
+                const currentIndex = Array.from(suggestions).findIndex(item => item.classList.contains('selected'));
+                
+                switch(e.key) {
+                    case 'ArrowDown':
+                        e.preventDefault();
+                        this.navigateSuggestions(currentIndex, 1, suggestions);
+                        break;
+                    case 'ArrowUp':
+                        e.preventDefault();
+                        this.navigateSuggestions(currentIndex, -1, suggestions);
+                        break;
+                    case 'Enter':
+                        e.preventDefault();
+                        if (currentIndex >= 0 && suggestions[currentIndex]) {
+                            const selectedText = suggestions[currentIndex].getAttribute('data-value');
+                            searchInput.value = selectedText;
+                            this.currentFilters.search = selectedText;
+                            this.currentPage = 1;
+                            this.filterData();
+                            this.hideSearchSuggestions();
+                        }
+                        break;
+                    case 'Escape':
+                        this.hideSearchSuggestions();
+                        break;
+                }
+            });
+
+            // Hide suggestions when clicking outside
+            document.addEventListener('click', (e) => {
+                if (!searchInput.contains(e.target) && !searchSuggestions.contains(e.target)) {
+                    this.hideSearchSuggestions();
+                }
+            });
+
+            // Handle suggestion clicks
+            searchSuggestions.addEventListener('click', (e) => {
+                if (e.target.classList.contains('suggestion-item')) {
+                    const selectedText = e.target.getAttribute('data-value');
+                    searchInput.value = selectedText;
+                    this.currentFilters.search = selectedText;
+                    this.currentPage = 1;
+                    this.filterData();
+                    this.hideSearchSuggestions();
+                }
             });
         }
 
@@ -183,6 +236,105 @@ class FacultyTable {
         }
     }
 
+    showSearchSuggestions(query) {
+        const suggestions = document.getElementById('searchSuggestions');
+        if (!suggestions || !query || query.length < 2) {
+            this.hideSearchSuggestions();
+            return;
+        }
+
+        const allSuggestions = new Set();
+        const lowerQuery = query.toLowerCase();
+
+        // Collect suggestions from faculty names, research areas, and students
+        this.facultyData.forEach(faculty => {
+            // Faculty names
+            if (faculty.userName.toLowerCase().includes(lowerQuery)) {
+                allSuggestions.add(faculty.userName);
+            }
+
+            // Research areas
+            if (faculty.researchAreas) {
+                faculty.researchAreas.split(', ').forEach(area => {
+                    if (area.toLowerCase().includes(lowerQuery)) {
+                        allSuggestions.add(area.trim());
+                    }
+                });
+            }
+
+            // Students (ignore middle names in search)
+            if (faculty.students) {
+                faculty.students.split(', ').forEach(student => {
+                    const studentTrimmed = student.trim();
+                    if (!studentTrimmed) return; // Skip empty strings
+                    
+                    // Create search-friendly version without middle names
+                    const studentWords = studentTrimmed.split(' ').filter(word => word.trim());
+                    if (studentWords.length >= 2) {
+                        // Use first and last name for search
+                        const searchFriendlyName = `${studentWords[0]} ${studentWords[studentWords.length - 1]}`;
+                        if (searchFriendlyName.toLowerCase().includes(lowerQuery)) {
+                            allSuggestions.add(studentTrimmed);
+                        }
+                    } else if (studentWords.length === 1) {
+                        // Single name
+                        if (studentWords[0].toLowerCase().includes(lowerQuery)) {
+                            allSuggestions.add(studentTrimmed);
+                        }
+                    }
+                });
+            }
+        });
+
+        // Convert to array and limit to 10 suggestions
+        const suggestionsList = Array.from(allSuggestions).slice(0, 10);
+
+        if (suggestionsList.length > 0) {
+            suggestions.innerHTML = suggestionsList.map(suggestion => 
+                `<div class="suggestion-item p-2 border-bottom" style="cursor: pointer; hover: background-color: #f8f9fa;" data-value="${suggestion}">
+                    <i class="fas fa-search me-2 text-muted"></i>${suggestion}
+                </div>`
+            ).join('');
+            suggestions.style.display = 'block';
+        } else {
+            this.hideSearchSuggestions();
+        }
+    }
+
+    hideSearchSuggestions() {
+        const suggestions = document.getElementById('searchSuggestions');
+        if (suggestions) {
+            suggestions.style.display = 'none';
+            // Remove any selected state
+            suggestions.querySelectorAll('.suggestion-item').forEach(item => {
+                item.classList.remove('selected');
+            });
+        }
+    }
+
+    navigateSuggestions(currentIndex, direction, suggestions) {
+        const maxIndex = suggestions.length - 1;
+        let newIndex;
+        
+        if (currentIndex === -1) {
+            // No current selection
+            newIndex = direction > 0 ? 0 : maxIndex;
+        } else {
+            newIndex = currentIndex + direction;
+            if (newIndex < 0) newIndex = maxIndex;
+            if (newIndex > maxIndex) newIndex = 0;
+        }
+        
+        // Remove previous selection
+        suggestions.forEach(item => item.classList.remove('selected'));
+        
+        // Add selection to new item
+        if (suggestions[newIndex]) {
+            suggestions[newIndex].classList.add('selected');
+            suggestions[newIndex].scrollIntoView({ block: 'nearest' });
+        }
+    }
+
     filterData() {
         let filtered = [...this.facultyData];
         const searchTerm = this.currentFilters.search.toLowerCase();
@@ -190,11 +342,40 @@ class FacultyTable {
 
         if (searchTerm) {
             filtered = filtered.filter(faculty => {
-                return faculty.userName.toLowerCase().includes(searchTerm) ||
-                       faculty.researchAreas.toLowerCase().includes(searchTerm) ||
-                       faculty.students.toLowerCase().includes(searchTerm) ||
-                       (faculty.email && faculty.email.toLowerCase().includes(searchTerm)) ||
-                       (faculty.searchKeywords && faculty.searchKeywords.toLowerCase().includes(searchTerm));
+                // Check faculty name
+                if (faculty.userName.toLowerCase().includes(searchTerm)) return true;
+                
+                // Check research areas
+                if (faculty.researchAreas.toLowerCase().includes(searchTerm)) return true;
+                
+                // Check students (ignore middle names)
+                if (faculty.students) {
+                    const students = faculty.students.split(', ');
+                    for (const student of students) {
+                        const studentTrimmed = student.trim();
+                        if (!studentTrimmed) continue; // Skip empty strings
+                        
+                        // Check if the search term matches the full student name
+                        if (studentTrimmed.toLowerCase().includes(searchTerm)) return true;
+                        
+                        // Also check search-friendly version (first + last name)
+                        const studentWords = studentTrimmed.split(' ').filter(word => word.trim());
+                        if (studentWords.length >= 2) {
+                            const searchFriendlyName = `${studentWords[0]} ${studentWords[studentWords.length - 1]}`;
+                            if (searchFriendlyName.toLowerCase().includes(searchTerm)) return true;
+                        } else if (studentWords.length === 1) {
+                            if (studentWords[0].toLowerCase().includes(searchTerm)) return true;
+                        }
+                    }
+                }
+                
+                // Check email
+                if (faculty.email && faculty.email.toLowerCase().includes(searchTerm)) return true;
+                
+                // Check hidden keywords
+                if (faculty.searchKeywords && faculty.searchKeywords.toLowerCase().includes(searchTerm)) return true;
+                
+                return false;
             });
         }
 

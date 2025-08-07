@@ -35,8 +35,11 @@
                             <label for="searchInput" class="form-label">
                                 <i class="fas fa-search me-2"></i>Search
                             </label>
-                            <input type="text" class="form-control" id="searchInput" 
-                                   placeholder="Faculty, research areas, or students...">
+                            <div class="position-relative">
+                                <input type="text" class="form-control" id="searchInput" 
+                                       placeholder="Faculty, research areas, or students...">
+                                <div id="searchSuggestions" class="position-absolute w-100 bg-white border rounded shadow-sm" style="top: 100%; z-index: 1000; max-height: 200px; overflow-y: auto; display: none;"></div>
+                            </div>
                         </div>
                         <div class="col-md-4">
                             <label for="researchFilter" class="form-label">Research Area</label>

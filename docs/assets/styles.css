@@ -239,4 +239,31 @@ body {
 
 #researchAreasDropdown::-webkit-scrollbar-thumb:hover {
     background: #a8a8a8;
+}
+
+/* Search suggestions styling */
+#searchSuggestions {
+    border: 1px solid #dee2e6;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.suggestion-item {
+    transition: background-color 0.2s ease;
+}
+
+.suggestion-item:hover {
+    background-color: #f8f9fa !important;
+}
+
+.suggestion-item:last-child {
+    border-bottom: none !important;
+}
+
+.suggestion-item.selected {
+    background-color: #007bff !important;
+    color: white !important;
+}
+
+.suggestion-item.selected i {
+    color: white !important;
 } 
