@@ -1,10 +1,10 @@
 #!/bin/bash
 #SBATCH --job-name=uab_pipeline
-#SBATCH --output=logs/slurm_%a_%A.out
-#SBATCH --error=logs/slurm_%a_%A.err
-#SBATCH --array=0-199
-#SBATCH --cpus-per-task=1
-#SBATCH --mem=2G
+#SBATCH --output=logs/slurm_chunk_%a.out
+#SBATCH --error=logs/slurm_chunk_%a.err
+#SBATCH --array=0-127
+#SBATCH --cpus-per-task=8
+#SBATCH --mem=4G
 #SBATCH --time=01:00:00
 #SBATCH --partition=express,amd-hdr100
 
@@ -12,8 +12,8 @@ module load Python/3.11.5-GCCcore-13.2.0
 
 # === Setup ===
 export CHUNK_ID=${SLURM_ARRAY_TASK_ID:-0}
-export CHUNK_TOTAL=200
-export N_THREADS=1
+export CHUNK_TOTAL=128
+export N_THREADS=8
 
 LOGDIR="logs"
 
