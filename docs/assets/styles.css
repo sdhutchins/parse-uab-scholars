@@ -1,0 +1,160 @@
+/* Custom styles for UAB Faculty Committee Memberships Table */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header-section {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: white;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+}
+
+.header-section h1 {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.header-section p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+    margin-bottom: 0;
+}
+
+.search-section {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+}
+
+.stats-badge {
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+}
+
+.table-container {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table th {
+    background: #f8f9fa;
+    border-bottom: 2px solid #dee2e6;
+    font-weight: 600;
+    color: #495057;
+    padding: 1rem;
+}
+
+.table td {
+    padding: 0.75rem 1rem;
+    vertical-align: top;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.faculty-name {
+    font-weight: 500;
+    color: #2c3e50;
+}
+
+.faculty-link {
+    color: #1976d2;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.faculty-link:hover {
+    color: #1565c0;
+    text-decoration: underline;
+}
+
+.faculty-link .fa-external-link-alt {
+    font-size: 0.8em;
+    margin-left: 0.25rem;
+}
+
+.research-areas {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #666;
+}
+
+.students {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #333;
+}
+
+.no-results {
+    text-align: center;
+    padding: 2rem;
+    color: #6c757d;
+    font-style: italic;
+}
+
+.filter-buttons {
+    margin-top: 1rem;
+}
+
+.filter-buttons .btn {
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.highlight {
+    background-color: #fff3cd;
+    padding: 0.1rem 0.2rem;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .header-section {
+        padding: 1.5rem 0;
+    }
+    
+    .header-section h1 {
+        font-size: 1.75rem;
+    }
+    
+    .search-section {
+        padding: 0.75rem;
+    }
+    
+    .table th,
+    .table td {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+    
+    .stats-badge {
+        margin-right: 0.5rem;
+        margin-bottom: 0.25rem;
+        font-size: 0.8rem;
+    }
+}
+
+.loading {
+    text-align: center;
+    padding: 2rem;
+}
+
+.loading .spinner-border {
+    margin-bottom: 1rem;
+} 

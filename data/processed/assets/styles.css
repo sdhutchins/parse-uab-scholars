@@ -1,0 +1,214 @@
+/* Custom styles for UAB Faculty Mentoring Table */
+
+body {
+    background-color: #f8f9fa;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.header-section {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: white;
+    padding: 3rem 0;
+    margin-bottom: 2rem;
+}
+
+.header-section h1 {
+    font-weight: 300;
+    margin-bottom: 0.5rem;
+}
+
+.header-section p {
+    opacity: 0.9;
+    font-size: 1.1rem;
+    margin-bottom: 0;
+}
+
+.search-section {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+}
+
+.stats-badge {
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+}
+
+.table-container {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.table-responsive {
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+.table th {
+    background: #f8f9fa;
+    border-bottom: 2px solid #dee2e6;
+    font-weight: 600;
+    color: #495057;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.table td {
+    vertical-align: top;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.faculty-name {
+    font-weight: 600;
+    color: #1e3c72;
+    font-size: 1.1rem;
+}
+
+.research-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+}
+
+.research-tag {
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 0.25rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    white-space: nowrap;
+    border: 1px solid #bbdefb;
+}
+
+.student-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.student-item {
+    background: #f8f9fa;
+    border-radius: 6px;
+    padding: 0.75rem;
+    margin-bottom: 0.5rem;
+    border-left: 4px solid #28a745;
+    transition: all 0.2s ease;
+}
+
+.student-item:hover {
+    background: #e9ecef;
+    transform: translateX(2px);
+}
+
+.student-name {
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 0.25rem;
+}
+
+.student-role {
+    font-size: 0.8rem;
+    color: #666;
+    margin-bottom: 0.25rem;
+}
+
+.student-status {
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.status-current {
+    color: #28a745;
+}
+
+.status-completed {
+    color: #6c757d;
+}
+
+.status-unknown {
+    color: #ffc107;
+}
+
+.no-results {
+    text-align: center;
+    padding: 3rem;
+    color: #666;
+    font-style: italic;
+}
+
+.filter-buttons {
+    margin-bottom: 1rem;
+}
+
+.filter-btn {
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.filter-btn.active {
+    background-color: #1e3c72;
+    border-color: #1e3c72;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .header-section {
+        padding: 2rem 0;
+    }
+    
+    .header-section h1 {
+        font-size: 2rem;
+    }
+    
+    .search-section {
+        padding: 1rem;
+    }
+    
+    .stats-badge {
+        margin-right: 0.5rem;
+        font-size: 0.8rem;
+    }
+    
+    .research-tags {
+        flex-direction: column;
+    }
+    
+    .research-tag {
+        text-align: center;
+    }
+}
+
+/* Loading animation */
+.loading {
+    text-align: center;
+    padding: 2rem;
+    color: #666;
+}
+
+.spinner-border-sm {
+    width: 1rem;
+    height: 1rem;
+}
+
+/* Table row hover effect */
+.table tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+/* Search highlight */
+.highlight {
+    background-color: #fff3cd;
+    padding: 0.1rem 0.2rem;
+    border-radius: 3px;
+} 
