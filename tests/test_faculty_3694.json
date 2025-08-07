@@ -1,0 +1,122 @@
+{
+  "discoveryId": "3694",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 409,
+      "favourites": 0
+    }
+  },
+  "lastName": "Worthey",
+  "firstName": "Elizabeth",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3694-elizabeth-worthey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "firstNameLastName": "Elizabeth Worthey",
+  "equipmentLinkTypes": [],
+  "objectId": 3694,
+  "updatedWhen": "2025-05-10T08:09:59.9216092-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lworthey@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Brain Disorders Chronic Liver Disease and Cirrhosis Chronic Pain Clinical Research Congenital Structural Anomalies Cystic Fibrosis Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Human Genome Liver Disease Lung Minority Health Nanotechnology Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Pain Research Pediatric Pediatric Research Initiative Peripheral Neuropathy Rare Diseases Social Determinants of Health",
+  "grant_keywords": "Cancer Cancer Genomics Genetics Health Disparities Hematology Human Genome Minority Health Rare Diseases"
+}

@@ -16,7 +16,7 @@ export CHUNK_TOTAL=128
 export N_THREADS=8
 
 LOGDIR="logs"
-RETRY_REGISTRY="$LOGDIR/retry_registry_enhanced_chunk_${CHUNK_ID}.csv"
+RETRY_REGISTRY="$LOGDIR/retry_registry_chunk_${CHUNK_ID}.csv"
 export RETRY_REGISTRY
 
 ITER=1

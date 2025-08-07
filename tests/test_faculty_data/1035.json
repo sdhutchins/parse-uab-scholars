@@ -1,0 +1,121 @@
+{
+  "lastName": "Cropsey",
+  "overview": "Dr. Cropsey attended undergraduate and her masters degree at the University of Wisconsin-Madison. She attended Indiana State University  for her doctoral training and completed internship in Clinical Psychology at Virginia Commonwealth University in Richmond, Virginia. She completed postdoctoral fellowships in forensics and substance use at University of Mississippi Medical Center and Virginia Commonwealth University. She stayed on as faculty in the Department of Psychiatry at Virginia Commonwealth University after completing her fellowship training. She joined the faculty at University of Alabama at Birmingham in 2007. She is Professor and Vice Chair for Clinical Research in the Department of Psychiatry and Behavioral Neurobiology. She holds the Kathy Ireland Endowed Chair in Psychiatric Research. She has been active in the Faculty Senate since 2017 and served as Chair of the Faculty Senate in 2023/2024. She is the Director of the Center for Addiction and Pain Prevention and Intervention (CAPPI), a University-Wide Interdisciplinary Research Center (UWIRC).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1035-karen-cropsey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      }
+    ]
+  },
+  "discoveryId": "1035",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 54,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 205,
+      "favourites": 0
+    }
+  },
+  "firstName": "Karen",
+  "firstNameLastName": "Karen Cropsey",
+  "equipmentLinkTypes": [],
+  "objectId": 1035,
+  "updatedWhen": "2025-05-10T08:04:33.7105287-05:00",
+  "hasCollaborationData": true,
+  "email": "kcropsey@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dissemination and Implementation Research Drug Abuse (NIDA only) Health Services Infectious Diseases Lung Lung Cancer Mental Health Opioid Misuse and Addiction Opioids Physical Injury - Accidents and Adverse Effects Prevention Sexually Transmitted Infections Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Women's Health",
+  "grant_keywords": ""
+}

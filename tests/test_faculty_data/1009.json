@@ -1,0 +1,99 @@
+{
+  "lastName": "Lane",
+  "overview": "Undergraduate degree at UAH in 1988.  Kirksville College of Osteopathic Medicine graduated in 1994.  Completed Family Medicine residency here at UAB in 1997.  Boarded in Family Medicine 1997 to 2011.  Boarded in Addiction Medicine 2004 to present.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1009-peter-lane",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychiatry - Adult"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1009",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 90,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "firstName": "Peter",
+  "firstNameLastName": "Peter Lane",
+  "equipmentLinkTypes": [],
+  "objectId": 1009,
+  "updatedWhen": "2025-05-10T08:04:33.6915322-05:00",
+  "hasCollaborationData": true,
+  "email": "repeat@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Drug Abuse (NIDA only) Emerging Infectious Diseases Health Services Infectious Diseases Mental Health Opioid Misuse and Addiction Opioids Patient Safety Prescription Drug Abuse Prevention Substance Misuse",
+  "grant_keywords": ""
+}

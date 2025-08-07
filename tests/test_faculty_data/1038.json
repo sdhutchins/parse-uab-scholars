@@ -1,0 +1,82 @@
+{
+  "discoveryId": "1038",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Grant",
+  "firstName": "Merida",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1038-merida-grant",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Merida Grant",
+  "equipmentLinkTypes": [],
+  "objectId": 1038,
+  "updatedWhen": "2025-05-10T08:04:33.7175293-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "grantmm@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Child Abuse and Neglect Research Childhood Injury Clinical Research Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Major Depressive Disorder Mental Health Mental Illness Minority Health Neurosciences Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Serious Mental Illness Social Determinants of Health Violence Research",
+  "grant_keywords": "Behavioral and Social Science Breast Cancer Cancer Chronic Pain Clinical Research Health Disparities Minority Health Pain Research Prevention Rehabilitation Social Determinants of Health Women's Health"
+}

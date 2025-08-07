@@ -1,0 +1,124 @@
+{
+  "lastName": "Fobian",
+  "overview": "Aaron D. Fobian earned her B.A. in Psychology from Samford University in 2008 and her Ph.D. in Clinical/Medical Psychology from the University of Alabama at Birmingham in 2013. She completed her clinical internship at Baylor College of Medicine in 2013, and in 2014 she completed her psychology post-doctoral fellowship in the Leadership Education in Adolescent Medicine (LEAH) program in the Department of Pediatrics at UAB. Currently she is an Assistant Professor in the Department of Psychiatry at UAB. Her research assesses behavioral health interventions for pediatric health issues such as functional neurological disorders, obesity and sleep.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1007-aaron-fobian",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Transportation and Freight Services",
+          "and Freight Services",
+          "Freight Services",
+          "Services"
+        ],
+        "value": "Transportation and Freight Services"
+      }
+    ]
+  },
+  "discoveryId": "1007",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 56,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 42,
+      "favourites": 0
+    }
+  },
+  "firstName": "Aaron",
+  "firstNameLastName": "Aaron Fobian",
+  "equipmentLinkTypes": [],
+  "objectId": 1007,
+  "updatedWhen": "2025-05-10T08:04:33.6885260-05:00",
+  "hasCollaborationData": true,
+  "email": "afobian@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Obesity Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Mental Health Mind and Body Minority Health Neurosciences Nutrition Obesity Pediatric Sleep Research",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Childhood Obesity Clinical Research Clinical Trials and Supportive Activities Health Disparities Heart Disease Minority Health Neurosciences Nutrition Obesity Pediatric Prevention Sleep Research Women's Health"
+}

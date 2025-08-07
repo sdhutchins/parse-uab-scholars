@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""
+Local test version of enhanced data collection
+"""
+
 import os
 import json
 import time
@@ -5,17 +10,17 @@ import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import re
 
-# Parallel config
-chunk_id = int(os.getenv("CHUNK_ID", "0"))
-chunk_total = int(os.getenv("CHUNK_TOTAL", "1"))
-n_threads = int(os.getenv("N_THREADS", "4"))
-retry_registry_file = os.getenv("RETRY_REGISTRY", None)
+# Test config (single chunk, single thread for local testing)
+chunk_id = 0
+chunk_total = 1
+n_threads = 1
+retry_registry_file = None
 
 # Paths
-input_file = "data/uab_scholars_profiles.jsonl"
-output_dir = "data/faculty_data"
-log_file = f"logs/chunk_{chunk_id}_enhanced.log"
-error_file = f"logs/chunk_{chunk_id}_enhanced_errors.log"
+input_file = "../data/uab_scholars_profiles.jsonl"
+output_dir = "test_faculty_data"
+log_file = "test_enhanced.log"
+error_file = "test_enhanced_errors.log"
 
 # API
 base_url = "https://scholars.uab.edu/api"
@@ -23,18 +28,23 @@ headers = {"Content-Type": "application/json"}
 
 # Ensure dirs
 os.makedirs(output_dir, exist_ok=True)
-os.makedirs(os.path.dirname(log_file), exist_ok=True)
 
 # Load profiles
+print("📖 Loading profiles from JSONL...")
 with open(input_file, "r", encoding="utf-8") as f:
     all_profiles = [json.loads(line.strip()) for line in f]
 
-# Load faculty who have students
-with open("faculty_with_students.txt", "r") as f:
+# Load faculty who have students (test file)
+print("📖 Loading test faculty IDs...")
+with open("test_faculty_ids.txt", "r") as f:
     faculty_ids_with_students = set(line.strip() for line in f if line.strip())
+
+print(f"🔍 Found {len(faculty_ids_with_students)} test faculty IDs: {list(faculty_ids_with_students)}")
 
 # Filter to only faculty who have students
 all_profiles = [p for p in all_profiles if str(p.get("discoveryId")) in faculty_ids_with_students]
+
+print(f"✅ Filtered to {len(all_profiles)} profiles")
 
 # Filter to retry list if provided
 if retry_registry_file and os.path.exists(retry_registry_file):
@@ -42,9 +52,11 @@ if retry_registry_file and os.path.exists(retry_registry_file):
         retry_ids = set(line.strip() for line in f if line.strip())
     all_profiles = [p for p in all_profiles if str(p.get("discoveryId")) in retry_ids]
 
-# Partition work
+# Partition work (for single chunk, this is just all profiles)
 chunk_size = len(all_profiles) // chunk_total + 1
 user_profiles = all_profiles[chunk_id * chunk_size:(chunk_id + 1) * chunk_size]
+
+print(f"🎯 Processing {len(user_profiles)} profiles in chunk {chunk_id}")
 
 def extract_keywords(items):
     """Extract keywords from publication/grant labels where schemeDisplayName is 'Research, Condition and Disease Categorization'."""
@@ -142,6 +154,7 @@ def enhance_profile(profile, max_retries=3):
             pass  # corrupted file – will retry
 
     name = profile.get("firstNameLastName", "Unknown")
+    print(f"🔍 Processing: {name} (ID: {discovery_id})")
     
     # Fetch user details for email
     user_details = fetch_user_details(discovery_id)
@@ -166,9 +179,12 @@ def enhance_profile(profile, max_retries=3):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(enhanced_profile, f, indent=2, ensure_ascii=False)
     
+    print(f"✅ Saved: {name} - Email: {enhanced_profile.get('email')} - Pub keywords: {len(pub_keywords.split())} - Grant keywords: {len(grant_keywords.split())}")
+    
     return discovery_id, "ok"
 
 # === Run in Parallel ===
+print("\n🚀 Starting enhanced data collection...")
 results = []
 with ThreadPoolExecutor(max_workers=n_threads) as executor:
     futures = {executor.submit(enhance_profile, profile): profile for profile in user_profiles}
@@ -182,20 +198,18 @@ with ThreadPoolExecutor(max_workers=n_threads) as executor:
         except Exception as e:
             results.append((profile.get("discoveryId"), profile.get("firstNameLastName"), f"fatal_error: {e}"))
 
-# === Write Logs and Retry Registry ===
+# === Write Logs ===
 current_failures = set()
 
-with open(log_file, "a") as log, open(error_file, "a") as err:
+with open(log_file, "w") as log, open(error_file, "w") as err:
     for discovery_id, name, status in results:
         log.write(f"{discovery_id},{name},{status}\n")
         if any(x in status for x in ("fail", "error", "retry", "max_retries")):
             err.write(f"{discovery_id},{name},{status}\n")
             current_failures.add(discovery_id)
 
-# === Always write retry registry ===
-registry_path = retry_registry_file or f"logs/retry_registry_enhanced_chunk_{chunk_id}.csv"
-with open(registry_path, "w") as f:
-    for rid in sorted(current_failures):
-        f.write(f"{rid}\n")
-
-print(f"🎓 Done: chunk {chunk_id}, wrote {len(results)} entries to {output_dir}/") 
+print(f"\n🎓 Done! Processed {len(results)} faculty")
+print(f"📁 Output directory: {output_dir}")
+print(f"📝 Log file: {log_file}")
+print(f"❌ Error file: {error_file}")
+print(f"🔍 Files created: {len([f for f in os.listdir(output_dir) if f.endswith('.json')])}") 

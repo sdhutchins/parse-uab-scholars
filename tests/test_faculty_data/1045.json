@@ -1,0 +1,94 @@
+{
+  "discoveryId": "1045",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 32,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Roberts",
+  "firstName": "Rosalinda",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1045-rosalinda-roberts",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Psychiatry"
+    }
+  ],
+  "firstNameLastName": "Rosalinda Roberts",
+  "equipmentLinkTypes": [],
+  "objectId": 1045,
+  "updatedWhen": "2025-05-10T08:04:33.7246007-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rcusidor@uab.edu",
+  "publication_keywords": "Brain Disorders Clinical Research Mental Health Mental Illness Neurosciences Schizophrenia Serious Mental Illness",
+  "grant_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Genetics Health Disparities Mental Health Mental Illness Minority Health Neurodegenerative Neurosciences Parkinson's Disease Schizophrenia Serious Mental Illness"
+}

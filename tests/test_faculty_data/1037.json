@@ -1,0 +1,118 @@
+{
+  "lastName": "Gamble",
+  "overview": "The overall goal of my research program is to investigate environmental modulation of circadian clock function in mammalian systems and the contribution of clock disruption to pathological disease. One of the most exciting discoveries that has emerged in recent years is that the circadian molecular clock regulates excitability in neurons that are spontaneously active in the absence of synaptic input. Although the intrinsic 24-h rhythm in membrane properties of neurons of the suprachiasmatic nucleus (SCN) has been known for over 30 years, it is surprising that we know very little about how the brain’s circadian clock regulates circadian rhythmicity throughout the body as well as in other brain regions. We are interested in how nutrition (high caloric diets, meal timing) and disease (obesity, neurodegeneration) influence clock-driven changes in physiology and behavior in brain regions such as the SCN, hippocampus and substantia nigra. A second, related interest of the laboratory is translation what we have learned about circadian regulation in animal models to humans, specifically by determining the impact of environmental circadian misalignment (e.g., shift work) or addiction (e.g., smoking) on circadian rhythmicity of behavior and physiology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1037-karen-gamble",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "1037",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 35,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 112,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 103,
+      "favourites": 0
+    }
+  },
+  "firstName": "Karen",
+  "firstNameLastName": "Karen Gamble",
+  "equipmentLinkTypes": [],
+  "objectId": 1037,
+  "updatedWhen": "2025-05-10T08:04:33.7145330-05:00",
+  "hasCollaborationData": true,
+  "email": "klgamble@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Cardiovascular Clinical Research Duchenne/ Becker Muscular Dystrophy Genetics Health Disparities Heart Disease Kidney Disease Mental Health Muscular Dystrophy Neurosciences Nutrition Obesity Pediatric Prevention Rare Diseases Sleep Research",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Dementia Epilepsy Health Disparities Hypertension Mental Health Minority Health Neurodegenerative Neurosciences Obesity Sleep Research Women's Health"
+}
