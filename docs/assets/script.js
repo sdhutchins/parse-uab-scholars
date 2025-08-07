@@ -10,6 +10,10 @@ class FacultyTable {
             search: '',
             researchArea: ''
         };
+        this.selectedFaculty = new Set();
+        this.allResearchAreas = [];
+        this.showingSelectedOnly = false;
+        this.originalFilteredData = [];
         this.init();
     }
 
@@ -138,6 +142,30 @@ class FacultyTable {
         if (clearFiltersBtn) {
             clearFiltersBtn.addEventListener('click', () => {
                 this.clearFilters();
+            });
+        }
+
+        // Select All button
+        const selectAllBtn = document.getElementById('selectAll');
+        if (selectAllBtn) {
+            selectAllBtn.addEventListener('click', () => {
+                this.selectAllFaculty();
+            });
+        }
+
+        // Deselect All button
+        const deselectAllBtn = document.getElementById('deselectAll');
+        if (deselectAllBtn) {
+            deselectAllBtn.addEventListener('click', () => {
+                this.deselectAllFaculty();
+            });
+        }
+
+        // Show Selected button
+        const showSelectedBtn = document.getElementById('showSelected');
+        if (showSelectedBtn) {
+            showSelectedBtn.addEventListener('click', () => {
+                this.showSelectedFaculty();
             });
         }
 
@@ -400,6 +428,7 @@ class FacultyTable {
         }
 
         this.filteredData = filtered;
+        this.originalFilteredData = [...filtered]; // Keep a backup of the filtered data
         this.renderTable();
         this.updateStats();
     }
@@ -429,7 +458,7 @@ class FacultyTable {
         if (pageData.length === 0) {
             tbody.innerHTML = `
                 <tr>
-                    <td colspan="4" class="no-results">
+                    <td colspan="5" class="no-results">
                         <i class="fas fa-search me-2"></i>
                         No faculty found matching your criteria.
                     </td>
@@ -440,6 +469,19 @@ class FacultyTable {
 
         tbody.innerHTML = pageData.map(faculty => this.renderFacultyRow(faculty)).join('');
         this.updatePagination();
+        
+        // Add event listeners for checkboxes
+        const checkboxes = tbody.querySelectorAll('.faculty-checkbox');
+        checkboxes.forEach(checkbox => {
+            checkbox.addEventListener('change', (e) => {
+                const discoveryId = e.target.getAttribute('data-discovery-id');
+                if (e.target.checked) {
+                    this.selectedFaculty.add(discoveryId);
+                } else {
+                    this.selectedFaculty.delete(discoveryId);
+                }
+            });
+        });
     }
 
     renderFacultyRow(faculty) {
@@ -467,14 +509,17 @@ class FacultyTable {
             });
         }
 
-        return `
-            <tr>
-                <td class="faculty-name">${facultyNameHtml}</td>
-                <td class="email">${emailHtml}</td>
-                <td class="research-areas">${this.highlightText(faculty.researchAreas)}</td>
-                <td class="students">${studentsHtml}</td>
-            </tr>
-        `;
+                    return `
+                <tr>
+                    <td class="text-center">
+                        <input type="checkbox" class="faculty-checkbox" data-discovery-id="${faculty.discoveryId}" ${this.selectedFaculty.has(faculty.discoveryId) ? 'checked' : ''}>
+                    </td>
+                    <td class="faculty-name">${facultyNameHtml}</td>
+                    <td class="email">${emailHtml}</td>
+                    <td class="research-areas">${this.highlightText(faculty.researchAreas)}</td>
+                    <td class="students">${studentsHtml}</td>
+                </tr>
+            `;
     }
 
     highlightText(text) {
@@ -534,12 +579,64 @@ class FacultyTable {
         }
     }
 
+    selectAllFaculty() {
+        const checkboxes = document.querySelectorAll('.faculty-checkbox');
+        checkboxes.forEach(checkbox => {
+            checkbox.checked = true;
+            this.selectedFaculty.add(checkbox.getAttribute('data-discovery-id'));
+        });
+    }
+
+    deselectAllFaculty() {
+        const checkboxes = document.querySelectorAll('.faculty-checkbox');
+        checkboxes.forEach(checkbox => {
+            checkbox.checked = false;
+            this.selectedFaculty.delete(checkbox.getAttribute('data-discovery-id'));
+        });
+    }
+
+    showSelectedFaculty() {
+        if (this.selectedFaculty.size === 0) {
+            alert('No faculty selected. Please select faculty members first.');
+            return;
+        }
+
+        if (this.showingSelectedOnly) {
+            // Switch back to showing all filtered results
+            this.showingSelectedOnly = false;
+            this.filteredData = [...this.originalFilteredData];
+            document.getElementById('showSelected').innerHTML = '<i class="fas fa-eye me-1"></i>Show Selected';
+            document.getElementById('showSelected').classList.remove('btn-warning');
+            document.getElementById('showSelected').classList.add('btn-info');
+        } else {
+            // Switch to showing only selected faculty
+            this.showingSelectedOnly = true;
+            this.originalFilteredData = [...this.filteredData];
+            this.filteredData = this.filteredData.filter(faculty => 
+                this.selectedFaculty.has(faculty.discoveryId)
+            );
+            document.getElementById('showSelected').innerHTML = '<i class="fas fa-list me-1"></i>Show All';
+            document.getElementById('showSelected').classList.remove('btn-info');
+            document.getElementById('showSelected').classList.add('btn-warning');
+        }
+
+        this.currentPage = 1;
+        this.renderTable();
+        this.updateStats();
+    }
+
     downloadCSV() {
-        const headers = ['Faculty Name', 'Research Areas', 'Students', 'Profile URL'];
+        // Use selected faculty if any are selected, otherwise use filtered data
+        const data = this.selectedFaculty.size > 0 
+            ? this.filteredData.filter(faculty => this.selectedFaculty.has(faculty.discoveryId))
+            : this.filteredData;
+            
+        const headers = ['Faculty Name', 'Email', 'Research Areas', 'Students', 'Profile URL'];
         const csvContent = [
             headers.join(','),
-            ...this.filteredData.map(faculty => [
+            ...data.map(faculty => [
                 `"${faculty.userName || ''}"`,
+                `"${faculty.email || ''}"`,
                 `"${faculty.researchAreas || ''}"`,
                 `"${faculty.students || ''}"`,
                 `"${faculty.scholarsUrl || ''}"`
@@ -562,7 +659,7 @@ class FacultyTable {
         if (tbody) {
             tbody.innerHTML = `
                 <tr>
-                    <td colspan="3" class="text-center text-danger">
+                    <td colspan="5" class="text-center text-danger">
                         <i class="fas fa-exclamation-triangle me-2"></i>
                         ${message}
                     </td>
