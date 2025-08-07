@@ -349,28 +349,32 @@ def run_pipeline():
     elif pipeline_stage == "enhanced":
         logger.info("🚀 Stage 2: Enhancing profiles with publications/grants")
         
-        # Load profiles
-        with open(profiles_file, "r", encoding="utf-8") as f:
-            all_profiles = [json.loads(line.strip()) for line in f]
-
         # Load faculty who have students from our list
         with open("faculty_with_students.txt", "r") as f:
-            faculty_ids_with_students = set(line.strip() for line in f if line.strip())
-
-        # Filter to only faculty who have students
-        all_profiles = [p for p in all_profiles if str(p.get("discoveryId")) in faculty_ids_with_students]
-
-        logger.info(f"Processing {len(all_profiles)} faculty who have students (out of {len(faculty_ids_with_students)} total)")
+            faculty_ids_with_students = list(line.strip() for line in f if line.strip())
 
         # Filter to retry list if provided
         if retry_registry_file and os.path.exists(retry_registry_file):
             with open(retry_registry_file, "r") as f:
                 retry_ids = set(line.strip() for line in f if line.strip())
-            all_profiles = [p for p in all_profiles if str(p.get("discoveryId")) in retry_ids]
+            faculty_ids_with_students = [fid for fid in faculty_ids_with_students if fid in retry_ids]
+
+        # Partition faculty IDs first
+        chunk_size = len(faculty_ids_with_students) // chunk_total + 1
+        chunk_faculty_ids = faculty_ids_with_students[chunk_id * chunk_size:(chunk_id + 1) * chunk_size]
         
-        # Partition work
-        chunk_size = len(all_profiles) // chunk_total + 1
-        user_profiles = all_profiles[chunk_id * chunk_size:(chunk_id + 1) * chunk_size]
+        logger.info(f"Processing {len(chunk_faculty_ids)} faculty IDs for chunk {chunk_id} (out of {len(faculty_ids_with_students)} total)")
+
+        # Load only the profiles we need
+        faculty_ids_set = set(chunk_faculty_ids)
+        user_profiles = []
+        with open(profiles_file, "r", encoding="utf-8") as f:
+            for line in f:
+                profile = json.loads(line.strip())
+                if str(profile.get("discoveryId")) in faculty_ids_set:
+                    user_profiles.append(profile)
+        
+        logger.info(f"Loaded {len(user_profiles)} profiles for chunk {chunk_id}")
         
         # Process in parallel
         results = []
@@ -403,28 +407,32 @@ def run_pipeline():
     elif pipeline_stage == "committees":
         logger.info("🚀 Stage 3: Fetching graduate committee roles")
         
-        # Load profiles
-        with open(profiles_file, "r", encoding="utf-8") as f:
-            all_profiles = [json.loads(line.strip()) for line in f]
-
         # Load faculty who have students from our list
         with open("faculty_with_students.txt", "r") as f:
-            faculty_ids_with_students = set(line.strip() for line in f if line.strip())
+            faculty_ids_with_students = list(line.strip() for line in f if line.strip())
 
-        # Filter to only faculty who have students
-        all_profiles = [p for p in all_profiles if str(p.get("discoveryId")) in faculty_ids_with_students]
-
-        logger.info(f"Processing {len(all_profiles)} faculty who have students (out of {len(faculty_ids_with_students)} total)")
-        
         # Filter to retry list if provided
         if retry_registry_file and os.path.exists(retry_registry_file):
             with open(retry_registry_file, "r") as f:
                 retry_ids = set(line.strip() for line in f if line.strip())
-            all_profiles = [p for p in all_profiles if str(p.get("discoveryId")) in retry_ids]
+            faculty_ids_with_students = [fid for fid in faculty_ids_with_students if fid in retry_ids]
+
+        # Partition faculty IDs first
+        chunk_size = len(faculty_ids_with_students) // chunk_total + 1
+        chunk_faculty_ids = faculty_ids_with_students[chunk_id * chunk_size:(chunk_id + 1) * chunk_size]
         
-        # Partition work
-        chunk_size = len(all_profiles) // chunk_total + 1
-        user_profiles = all_profiles[chunk_id * chunk_size:(chunk_id + 1) * chunk_size]
+        logger.info(f"Processing {len(chunk_faculty_ids)} faculty IDs for chunk {chunk_id} (out of {len(faculty_ids_with_students)} total)")
+
+        # Load only the profiles we need
+        faculty_ids_set = set(chunk_faculty_ids)
+        user_profiles = []
+        with open(profiles_file, "r", encoding="utf-8") as f:
+            for line in f:
+                profile = json.loads(line.strip())
+                if str(profile.get("discoveryId")) in faculty_ids_set:
+                    user_profiles.append(profile)
+        
+        logger.info(f"Loaded {len(user_profiles)} profiles for chunk {chunk_id}")
         
         # Process in parallel
         results = []
