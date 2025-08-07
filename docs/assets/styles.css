@@ -1,111 +1,127 @@
-/* Custom styles for UAB Faculty Committee Memberships */
+/* Custom styles for UAB Faculty Committee Memberships Table */
 
 body {
     background-color: #f8f9fa;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.container-fluid {
-    max-width: 1400px;
-    margin: 0 auto;
+.header-section {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: white;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
 }
 
-/* Header styling */
-header h1 {
-    color: #2c3e50;
+.header-section h1 {
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
-header .lead {
-    color: #6c757d;
+.header-section p {
     font-size: 1.1rem;
-}
-
-/* Search and filter section */
-.input-group-text {
-    background-color: #e9ecef;
-    border-color: #ced4da;
-}
-
-.form-control:focus {
-    border-color: #80bdff;
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
-}
-
-/* Button styling */
-.btn-sm {
-    font-size: 0.875rem;
-    padding: 0.375rem 0.75rem;
-}
-
-.btn-outline-secondary:hover {
-    background-color: #6c757d;
-    border-color: #6c757d;
-}
-
-.btn-success {
-    background-color: #28a745;
-    border-color: #28a745;
-}
-
-.btn-success:hover {
-    background-color: #218838;
-    border-color: #1e7e34;
-}
-
-/* Table styling */
-.table {
-    background-color: white;
-    border-radius: 0.375rem;
-    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    opacity: 0.9;
     margin-bottom: 0;
 }
 
-.table-dark {
-    background-color: #343a40;
-    color: white;
+.search-section {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
 }
 
-.table-dark th {
-    border-color: #454d55;
-    font-weight: 600;
-}
-
-.table-hover tbody tr:hover {
-    background-color: rgba(0, 123, 255, 0.05);
-}
-
-/* Faculty name column */
-.table td:first-child {
+.stats-badge {
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
     font-weight: 500;
-    min-width: 200px;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    display: inline-block;
 }
 
-/* Research areas column */
-.table td:nth-child(2) {
-    min-width: 250px;
-    max-width: 300px;
+.table-container {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
 }
 
-/* Students column */
-.table td:nth-child(3) {
-    min-width: 300px;
-    max-width: 400px;
+.table {
+    margin-bottom: 0;
 }
 
-/* Profile link column */
-.table td:last-child {
+.table th {
+    background: #f8f9fa;
+    border-bottom: 2px solid #dee2e6;
+    font-weight: 600;
+    color: #495057;
+    padding: 1rem;
+}
+
+.table td {
+    padding: 0.75rem 1rem;
+    vertical-align: top;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.faculty-name {
+    font-weight: 500;
+    color: #2c3e50;
+}
+
+.faculty-link {
+    color: #1976d2;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.faculty-link:hover {
+    color: #1565c0;
+    text-decoration: underline;
+}
+
+.faculty-link .fa-external-link-alt {
+    font-size: 0.8em;
+    margin-left: 0.25rem;
+}
+
+.research-areas {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #666;
+}
+
+.students {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #333;
+}
+
+.no-results {
     text-align: center;
-    width: 100px;
+    padding: 2rem;
+    color: #6c757d;
+    font-style: italic;
 }
 
-/* Highlight search terms */
-mark {
+.filter-buttons {
+    margin-top: 1rem;
+}
+
+.filter-buttons .btn {
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.highlight {
     background-color: #fff3cd;
-    color: #856404;
-    padding: 0.125rem 0.25rem;
-    border-radius: 0.25rem;
+    padding: 0.1rem 0.2rem;
+    border-radius: 3px;
+    font-weight: 500;
 }
 
 /* Pagination styling */
@@ -125,76 +141,82 @@ mark {
     cursor: not-allowed;
 }
 
-/* Stats and info */
-.text-muted {
-    color: #6c757d !important;
-}
-
 /* Responsive adjustments */
 @media (max-width: 768px) {
-    .container-fluid {
-        padding: 0 1rem;
+    .header-section {
+        padding: 1.5rem 0;
     }
     
-    .table-responsive {
-        font-size: 0.875rem;
+    .header-section h1 {
+        font-size: 1.75rem;
     }
     
-    .btn-sm {
-        font-size: 0.75rem;
-        padding: 0.25rem 0.5rem;
+    .search-section {
+        padding: 0.75rem;
     }
     
-    .d-flex.gap-3 {
-        gap: 0.5rem !important;
+    .table th,
+    .table td {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+    
+    .stats-badge {
+        margin-right: 0.5rem;
+        margin-bottom: 0.25rem;
+        font-size: 0.8rem;
     }
 }
 
-/* Loading spinner */
-.spinner-border {
-    width: 2rem;
-    height: 2rem;
+.loading {
+    text-align: center;
+    padding: 2rem;
 }
 
-/* Error and empty states */
-.text-danger {
-    color: #dc3545 !important;
+.loading .spinner-border {
+    margin-bottom: 1rem;
+} 
+
+/* Research area dropdown styling */
+#researchAreasDropdown {
+    max-height: 200px !important;
+    overflow-y: auto !important;
+    width: 100% !important;
+    border: 1px solid #ced4da;
+    border-radius: 0.375rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
 
-.text-center {
-    text-align: center !important;
+#researchAreasDropdown .dropdown-item {
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid #f8f9fa;
+    cursor: pointer;
+    transition: background-color 0.15s ease-in-out;
 }
 
-/* Email styling */
-small.text-muted {
-    font-size: 0.875rem;
-    color: #6c757d !important;
+#researchAreasDropdown .dropdown-item:hover {
+    background-color: #f8f9fa;
 }
 
-/* Profile button */
-.btn-outline-primary {
-    color: #007bff;
-    border-color: #007bff;
+#researchAreasDropdown .dropdown-item:last-child {
+    border-bottom: none;
 }
 
-.btn-outline-primary:hover {
-    background-color: #007bff;
-    border-color: #007bff;
-    color: white;
+/* Custom scrollbar for the dropdown */
+#researchAreasDropdown::-webkit-scrollbar {
+    width: 8px;
 }
 
-/* Page size selector */
-.btn-group-sm > .btn {
-    padding: 0.25rem 0.5rem;
-    font-size: 0.75rem;
+#researchAreasDropdown::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
 }
 
-/* CSV download button */
-#downloadCSV {
-    transition: all 0.2s ease-in-out;
+#researchAreasDropdown::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
 }
 
-#downloadCSV:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.15);
+#researchAreasDropdown::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
 } 

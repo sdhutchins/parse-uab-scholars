@@ -406,6 +406,15 @@ def run_pipeline():
         # Load profiles
         with open(profiles_file, "r", encoding="utf-8") as f:
             all_profiles = [json.loads(line.strip()) for line in f]
+
+        # Load faculty who have students from our list
+        with open("faculty_with_students.txt", "r") as f:
+            faculty_ids_with_students = set(line.strip() for line in f if line.strip())
+
+        # Filter to only faculty who have students
+        all_profiles = [p for p in all_profiles if str(p.get("discoveryId")) in faculty_ids_with_students]
+
+        logger.info(f"Processing {len(all_profiles)} faculty who have students (out of {len(faculty_ids_with_students)} total)")
         
         # Filter to retry list if provided
         if retry_registry_file and os.path.exists(retry_registry_file):

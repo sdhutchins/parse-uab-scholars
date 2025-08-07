@@ -2,7 +2,7 @@
 
 class FacultyTable {
     constructor() {
-        this.data = [];
+        this.facultyData = [];
         this.filteredData = [];
         this.currentPage = 1;
         this.pageSize = 20;
@@ -10,6 +10,7 @@ class FacultyTable {
             search: '',
             researchArea: ''
         };
+        this.init();
     }
 
     async init() {
@@ -18,6 +19,7 @@ class FacultyTable {
             this.setupEventListeners();
             this.populateResearchAreas();
             this.renderTable();
+            this.updateStats();
         } catch (error) {
             console.error('Error initializing table:', error);
             this.showError('Failed to load data. Please refresh the page.');
@@ -25,152 +27,242 @@ class FacultyTable {
     }
 
     async loadData() {
-        const response = await fetch('faculty_students.json');
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+        try {
+            const response = await fetch('faculty_students.json');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            this.facultyData = await response.json();
+            this.filteredData = [...this.facultyData];
+        } catch (error) {
+            console.error('Error loading data:', error);
+            throw error;
         }
-        this.data = await response.json();
-        this.filteredData = [...this.data];
     }
 
     setupEventListeners() {
         // Search input
-        document.getElementById('searchInput').addEventListener('input', (e) => {
-            this.currentFilters.search = e.target.value.toLowerCase();
-            this.currentPage = 1;
-            this.filterData();
-        });
+        const searchInput = document.getElementById('searchInput');
+        if (searchInput) {
+            searchInput.addEventListener('input', (e) => {
+                this.currentFilters.search = e.target.value;
+                this.currentPage = 1;
+                this.filterData();
+            });
+        }
 
         // Research area filter
-        document.getElementById('researchFilter').addEventListener('input', (e) => {
-            this.currentFilters.researchArea = e.target.value.toLowerCase();
-            this.currentPage = 1;
-            this.filterData();
-        });
+        const researchFilter = document.getElementById('researchFilter');
+        if (researchFilter) {
+            researchFilter.addEventListener('input', (e) => {
+                this.currentFilters.researchArea = e.target.value;
+                this.currentPage = 1;
+                this.filterData();
+                this.updateResearchAreasDropdown(e.target.value);
+            });
 
-        // Clear filters
-        document.getElementById('clearFilters').addEventListener('click', () => {
-            this.clearFilters();
-        });
+            // Show dropdown on focus
+            researchFilter.addEventListener('focus', () => {
+                this.showResearchAreasDropdown();
+            });
 
-        // Download CSV
-        document.getElementById('downloadCSV').addEventListener('click', () => {
-            this.downloadCSV();
-        });
+            // Hide dropdown when clicking outside
+            document.addEventListener('click', (e) => {
+                if (!researchFilter.contains(e.target) && !document.getElementById('researchAreasDropdown').contains(e.target)) {
+                    this.hideResearchAreasDropdown();
+                }
+            });
+        }
+
+        // Clear filters button
+        const clearFiltersBtn = document.getElementById('clearFilters');
+        if (clearFiltersBtn) {
+            clearFiltersBtn.addEventListener('click', () => {
+                this.clearFilters();
+            });
+        }
+
+        // Download CSV button
+        const downloadCSVBtn = document.getElementById('downloadCSV');
+        if (downloadCSVBtn) {
+            downloadCSVBtn.addEventListener('click', () => {
+                this.downloadCSV();
+            });
+        }
 
         // Pagination
-        document.getElementById('prevPage').addEventListener('click', () => {
-            if (this.currentPage > 1) {
-                this.currentPage--;
-                this.renderTable();
-            }
-        });
+        const prevPageBtn = document.getElementById('prevPage');
+        if (prevPageBtn) {
+            prevPageBtn.addEventListener('click', () => {
+                if (this.currentPage > 1) {
+                    this.currentPage--;
+                    this.renderTable();
+                }
+            });
+        }
 
-        document.getElementById('nextPage').addEventListener('click', () => {
-            const maxPage = Math.ceil(this.filteredData.length / this.pageSize);
-            if (this.currentPage < maxPage) {
-                this.currentPage++;
-                this.renderTable();
-            }
-        });
+        const nextPageBtn = document.getElementById('nextPage');
+        if (nextPageBtn) {
+            nextPageBtn.addEventListener('click', () => {
+                const maxPage = Math.ceil(this.filteredData.length / this.pageSize);
+                if (this.currentPage < maxPage) {
+                    this.currentPage++;
+                    this.renderTable();
+                }
+            });
+        }
     }
 
     populateResearchAreas() {
-        const researchAreas = new Set();
-        this.data.forEach(faculty => {
+        const dropdown = document.getElementById('researchAreasDropdown');
+        if (!dropdown) return;
+
+        const allResearchAreas = new Set();
+        this.facultyData.forEach(faculty => {
             if (faculty.researchAreas) {
                 faculty.researchAreas.split(', ').forEach(area => {
-                    if (area.trim()) researchAreas.add(area.trim());
+                    if (area.trim()) {
+                        allResearchAreas.add(area.trim());
+                    }
                 });
             }
         });
 
-        const datalist = document.getElementById('researchAreasList');
-        datalist.innerHTML = '';
-        Array.from(researchAreas).sort().forEach(area => {
-            const option = document.createElement('option');
-            option.value = area;
-            datalist.appendChild(option);
+        // Store all areas for filtering
+        this.allResearchAreas = Array.from(allResearchAreas).sort();
+        
+        // Populate dropdown with all areas
+        this.updateResearchAreasDropdown('');
+    }
+
+    updateResearchAreasDropdown(filterText = '') {
+        const dropdown = document.getElementById('researchAreasDropdown');
+        if (!dropdown || !this.allResearchAreas) return;
+
+        const filteredAreas = this.allResearchAreas.filter(area => 
+            area.toLowerCase().includes(filterText.toLowerCase())
+        );
+
+        dropdown.innerHTML = filteredAreas.map(area => `
+            <a class="dropdown-item" href="#" data-value="${area}">${area}</a>
+        `).join('');
+
+        // Add click handlers for dropdown items
+        dropdown.querySelectorAll('.dropdown-item').forEach(item => {
+            item.addEventListener('click', (e) => {
+                e.preventDefault();
+                const researchFilter = document.getElementById('researchFilter');
+                if (researchFilter) {
+                    researchFilter.value = item.dataset.value;
+                    this.currentFilters.researchArea = item.dataset.value;
+                    this.currentPage = 1;
+                    this.filterData();
+                    this.hideResearchAreasDropdown();
+                }
+            });
         });
+    }
+
+    showResearchAreasDropdown() {
+        const dropdown = document.getElementById('researchAreasDropdown');
+        if (dropdown) {
+            dropdown.classList.add('show');
+        }
+    }
+
+    hideResearchAreasDropdown() {
+        const dropdown = document.getElementById('researchAreasDropdown');
+        if (dropdown) {
+            dropdown.classList.remove('show');
+        }
     }
 
     filterData() {
-        this.filteredData = this.data.filter(faculty => {
-            const matchesSearch = !this.currentFilters.search || 
-                faculty.userName.toLowerCase().includes(this.currentFilters.search) ||
-                (faculty.researchAreas && faculty.researchAreas.toLowerCase().includes(this.currentFilters.search)) ||
-                (faculty.students && faculty.students.toLowerCase().includes(this.currentFilters.search));
+        let filtered = [...this.facultyData];
+        const searchTerm = this.currentFilters.search.toLowerCase();
+        const researchAreaFilter = this.currentFilters.researchArea.toLowerCase();
 
-            const matchesResearchArea = !this.currentFilters.researchArea ||
-                (faculty.researchAreas && faculty.researchAreas.toLowerCase().includes(this.currentFilters.researchArea));
+        if (searchTerm) {
+            filtered = filtered.filter(faculty => {
+                return faculty.userName.toLowerCase().includes(searchTerm) ||
+                       faculty.researchAreas.toLowerCase().includes(searchTerm) ||
+                       faculty.students.toLowerCase().includes(searchTerm);
+            });
+        }
 
-            return matchesSearch && matchesResearchArea;
-        });
+        if (researchAreaFilter) {
+            filtered = filtered.filter(faculty => {
+                // Check if the typed research area matches any of the faculty's research areas
+                if (!faculty.researchAreas) return false;
+                const facultyAreas = faculty.researchAreas.toLowerCase().split(', ');
+                return facultyAreas.some(area => area.includes(researchAreaFilter));
+            });
+        }
 
+        this.filteredData = filtered;
         this.renderTable();
+        this.updateStats();
     }
 
     clearFilters() {
-        document.getElementById('searchInput').value = '';
-        document.getElementById('researchFilter').value = '';
+        const searchInput = document.getElementById('searchInput');
+        if (searchInput) searchInput.value = '';
+        
+        const researchFilter = document.getElementById('researchFilter');
+        if (researchFilter) researchFilter.value = '';
+
         this.currentFilters = { search: '', researchArea: '' };
         this.currentPage = 1;
-        this.filterData();
+        this.filteredData = [...this.facultyData];
+        this.renderTable();
+        this.updateStats();
     }
 
     renderTable() {
+        const tbody = document.querySelector('#facultyTable tbody');
+        if (!tbody) return;
+
         const startIndex = (this.currentPage - 1) * this.pageSize;
         const endIndex = startIndex + this.pageSize;
         const pageData = this.filteredData.slice(startIndex, endIndex);
 
-        const tbody = document.getElementById('facultyTableBody');
-        tbody.innerHTML = '';
-
         if (pageData.length === 0) {
             tbody.innerHTML = `
                 <tr>
-                    <td colspan="4" class="text-center text-muted">
-                        <i class="fas fa-search"></i> No faculty found matching your criteria
+                    <td colspan="3" class="no-results">
+                        <i class="fas fa-search me-2"></i>
+                        No faculty found matching your criteria.
                     </td>
                 </tr>
             `;
-        } else {
-            pageData.forEach(faculty => {
-                tbody.appendChild(this.renderFacultyRow(faculty));
-            });
+            return;
         }
 
+        tbody.innerHTML = pageData.map(faculty => this.renderFacultyRow(faculty)).join('');
         this.updatePagination();
-        this.updateStats();
     }
 
     renderFacultyRow(faculty) {
-        const row = document.createElement('tr');
-        
-        const scholarsUrl = faculty.scholarsUrl || `https://scholars.uab.edu/${faculty.discoveryUrlId}`;
-        
-        row.innerHTML = `
-            <td>
-                <strong>${this.highlightText(faculty.userName)}</strong>
-                ${faculty.email ? `<br><small class="text-muted">${faculty.email}</small>` : ''}
-            </td>
-            <td>${faculty.researchAreas ? this.highlightText(faculty.researchAreas) : '<em class="text-muted">Not specified</em>'}</td>
-            <td>${faculty.students ? this.highlightText(faculty.students) : '<em class="text-muted">No students</em>'}</td>
-            <td>
-                <a href="${scholarsUrl}" target="_blank" class="btn btn-outline-primary btn-sm">
-                    <i class="fas fa-external-link-alt"></i> Profile
-                </a>
-            </td>
+        let facultyNameHtml = this.highlightText(faculty.userName);
+        if (faculty.scholarsUrl) {
+            facultyNameHtml = `<a href="${faculty.scholarsUrl}" target="_blank" class="faculty-link">${facultyNameHtml} <i class="fas fa-external-link-alt"></i></a>`;
+        }
+
+        return `
+            <tr>
+                <td class="faculty-name">${facultyNameHtml}</td>
+                <td class="research-areas">${this.highlightText(faculty.researchAreas)}</td>
+                <td class="students">${this.highlightText(faculty.students)}</td>
+            </tr>
         `;
-        
-        return row;
     }
 
     highlightText(text) {
-        if (!this.currentFilters.search) return text;
+        if (!text || !this.currentFilters.search) return text;
         
-        const regex = new RegExp(`(${this.currentFilters.search})`, 'gi');
-        return text.replace(regex, '<mark>$1</mark>');
+        const searchTerm = this.currentFilters.search;
+        const regex = new RegExp(`(${searchTerm})`, 'gi');
+        return text.replace(regex, '<span class="highlight">$1</span>');
     }
 
     updatePagination() {
@@ -179,34 +271,58 @@ class FacultyTable {
         const endIndex = Math.min(this.currentPage * this.pageSize, this.filteredData.length);
 
         // Update page info
-        document.getElementById('pageInfo').textContent = `Page ${this.currentPage} of ${totalPages}`;
-        document.getElementById('showingStart').textContent = startIndex;
-        document.getElementById('showingEnd').textContent = endIndex;
-        document.getElementById('totalResults').textContent = this.filteredData.length;
+        const pageInfo = document.getElementById('pageInfo');
+        if (pageInfo) {
+            pageInfo.textContent = `Page ${this.currentPage} of ${totalPages}`;
+        }
+
+        // Update showing info
+        const showingStart = document.getElementById('showingStart');
+        const showingEnd = document.getElementById('showingEnd');
+        const totalResults = document.getElementById('totalResults');
+        
+        if (showingStart) showingStart.textContent = startIndex;
+        if (showingEnd) showingEnd.textContent = endIndex;
+        if (totalResults) totalResults.textContent = this.filteredData.length;
 
         // Update navigation buttons
-        document.getElementById('prevPage').disabled = this.currentPage <= 1;
-        document.getElementById('nextPage').disabled = this.currentPage >= totalPages;
+        const prevPage = document.getElementById('prevPage');
+        const nextPage = document.getElementById('nextPage');
+        
+        if (prevPage) prevPage.disabled = this.currentPage <= 1;
+        if (nextPage) nextPage.disabled = this.currentPage >= totalPages;
     }
 
     updateStats() {
-        // Update page size buttons
-        document.querySelectorAll('.btn-group .btn').forEach(btn => {
-            btn.classList.remove('active');
-        });
-        document.querySelector(`[onclick="changePageSize(${this.pageSize})"]`).classList.add('active');
+        const totalFaculty = document.getElementById('totalFaculty');
+        const totalStudents = document.getElementById('totalStudents');
+        const showingResults = document.getElementById('showingResults');
+
+        if (totalFaculty) {
+            totalFaculty.textContent = `Total Faculty: ${this.facultyData.length}`;
+        }
+
+        if (totalStudents) {
+            const allStudents = this.facultyData.reduce((sum, faculty) => {
+                return sum + (faculty.students ? faculty.students.split(',').length : 0);
+            }, 0);
+            totalStudents.textContent = `Total Students: ${allStudents}`;
+        }
+
+        if (showingResults) {
+            showingResults.textContent = `Showing: ${this.filteredData.length} faculty`;
+        }
     }
 
     downloadCSV() {
-        const headers = ['Faculty Name', 'Email', 'Research Areas', 'Students', 'Profile URL'];
+        const headers = ['Faculty Name', 'Research Areas', 'Students', 'Profile URL'];
         const csvContent = [
             headers.join(','),
             ...this.filteredData.map(faculty => [
                 `"${faculty.userName || ''}"`,
-                `"${faculty.email || ''}"`,
                 `"${faculty.researchAreas || ''}"`,
                 `"${faculty.students || ''}"`,
-                `"${faculty.scholarsUrl || `https://scholars.uab.edu/${faculty.discoveryUrlId}`}"`
+                `"${faculty.scholarsUrl || ''}"`
             ].join(','))
         ].join('\n');
 
@@ -222,14 +338,17 @@ class FacultyTable {
     }
 
     showError(message) {
-        const tbody = document.getElementById('facultyTableBody');
-        tbody.innerHTML = `
-            <tr>
-                <td colspan="4" class="text-center text-danger">
-                    <i class="fas fa-exclamation-triangle"></i> ${message}
-                </td>
-            </tr>
-        `;
+        const tbody = document.querySelector('#facultyTable tbody');
+        if (tbody) {
+            tbody.innerHTML = `
+                <tr>
+                    <td colspan="3" class="text-center text-danger">
+                        <i class="fas fa-exclamation-triangle me-2"></i>
+                        ${message}
+                    </td>
+                </tr>
+            `;
+        }
     }
 }
 
@@ -245,5 +364,4 @@ function changePageSize(size) {
 // Initialize the table when the page loads
 document.addEventListener('DOMContentLoaded', () => {
     window.facultyTable = new FacultyTable();
-    window.facultyTable.init();
 }); 

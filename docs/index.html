@@ -4,49 +4,85 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UAB Faculty Committee Memberships</title>
+    
+    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
     <link href="assets/styles.css" rel="stylesheet">
 </head>
 <body>
-    <div class="container-fluid">
-        <header class="text-center py-4">
-            <h1><i class="fas fa-graduation-cap"></i> UAB Faculty Committee Memberships</h1>
-            <p class="lead">Explore faculty mentoring relationships and graduate committee memberships at UAB</p>
-        </header>
-
-        <div class="row mb-4">
-            <div class="col-md-8">
-                <div class="input-group">
-                    <span class="input-group-text"><i class="fas fa-search"></i></span>
-                    <input type="text" id="searchInput" class="form-control" placeholder="Search faculty names, research areas, or students...">
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="input-group">
-                    <span class="input-group-text"><i class="fas fa-filter"></i></span>
-                    <input type="text" id="researchFilter" class="form-control" list="researchAreasList" placeholder="Filter by research area...">
-                    <datalist id="researchAreasList"></datalist>
+    <!-- Header Section -->
+    <div class="header-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1><i class="fas fa-graduation-cap me-3"></i>UAB Faculty Committee Memberships</h1>
+                    <p>Easy way to view all students currently or formerly mentored by faculty at UAB through graduate committee memberships</p>
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="row mb-3">
-            <div class="col-md-6">
-                <div class="d-flex gap-2">
-                    <button id="clearFilters" class="btn btn-outline-secondary btn-sm">
-                        <i class="fas fa-times"></i> Clear Filters
-                    </button>
-                    <button id="downloadCSV" class="btn btn-success btn-sm">
-                        <i class="fas fa-download"></i> Download CSV
-                    </button>
+    <div class="container">
+        <!-- Search and Filter Section -->
+        <div class="search-section">
+            <div class="row">
+                <div class="col-12">
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <label for="searchInput" class="form-label">
+                                <i class="fas fa-search me-2"></i>Search
+                            </label>
+                            <input type="text" class="form-control" id="searchInput" 
+                                   placeholder="Faculty, research areas, or students...">
+                        </div>
+                        <div class="col-md-4">
+                            <label for="researchFilter" class="form-label">Research Area</label>
+                            <div class="dropdown">
+                                <input type="text" class="form-control" id="researchFilter" placeholder="Type or select research area...">
+                                <div class="dropdown-menu w-100" id="researchAreasDropdown" style="max-height: 200px; overflow-y: auto;">
+                                    <!-- Research areas will be populated by JavaScript -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-buttons">
+                        <button class="btn btn-outline-secondary btn-sm" id="clearFilters">
+                            <i class="fas fa-times me-1"></i>Clear Filters
+                        </button>
+                        <button class="btn btn-success btn-sm" id="downloadCSV">
+                            <i class="fas fa-download me-1"></i>Download CSV
+                        </button>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-6 text-end">
-                <div class="d-flex align-items-center justify-content-end gap-3">
+            
+            <!-- Statistics -->
+            <div class="row mt-3">
+                <div class="col-12">
+                    <span class="stats-badge" id="totalFaculty">
+                        <i class="fas fa-users me-1"></i>Total Faculty: Loading...
+                    </span>
+                    <span class="stats-badge" id="totalStudents">
+                        <i class="fas fa-user-graduate me-1"></i>Total Students: Loading...
+                    </span>
+                    <span class="stats-badge" id="showingResults">
+                        <i class="fas fa-eye me-1"></i>Showing: Loading...
+                    </span>
+                </div>
+            </div>
+
+            <!-- Pagination Controls -->
+            <div class="row mt-3">
+                <div class="col-md-6">
                     <small class="text-muted">
                         Showing <span id="showingStart">1</span>-<span id="showingEnd">20</span> of <span id="totalResults">0</span> faculty
                     </small>
+                </div>
+                <div class="col-md-6 text-end">
                     <div class="btn-group btn-group-sm">
                         <button id="prevPage" class="btn btn-outline-primary" disabled>
                             <i class="fas fa-chevron-left"></i>
@@ -56,51 +92,73 @@
                             <i class="fas fa-chevron-right"></i>
                         </button>
                     </div>
+                    <div class="btn-group btn-group-sm ms-2">
+                        <button class="btn btn-outline-secondary" onclick="changePageSize(10)">10</button>
+                        <button class="btn btn-outline-secondary active" onclick="changePageSize(20)">20</button>
+                        <button class="btn btn-outline-secondary" onclick="changePageSize(50)">50</button>
+                        <button class="btn btn-outline-secondary" onclick="changePageSize(100)">100</button>
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div class="table-responsive">
-            <table class="table table-striped table-hover">
-                <thead class="table-dark">
-                    <tr>
-                        <th>Faculty Name</th>
-                        <th>Research Areas</th>
-                        <th>Students</th>
-                        <th>Profile</th>
-                    </tr>
-                </thead>
-                <tbody id="facultyTableBody">
-                    <tr>
-                        <td colspan="4" class="text-center">
-                            <div class="spinner-border text-primary" role="status">
-                                <span class="visually-hidden">Loading...</span>
-                            </div>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+        <!-- Table Section -->
+        <div class="table-container">
+            <div class="table-responsive">
+                <table class="table table-hover" id="facultyTable">
+                    <thead>
+                        <tr>
+                            <th style="width: 20%;">
+                                <i class="fas fa-user-tie me-2"></i>Faculty
+                            </th>
+                            <th style="width: 30%;">
+                                <i class="fas fa-flask me-2"></i>Research Areas
+                            </th>
+                            <th style="width: 50%;">
+                                <i class="fas fa-user-graduate me-2"></i>Committee Memberships
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3" class="text-center">
+                                <div class="loading">
+                                    <div class="spinner-border text-primary" role="status">
+                                        <span class="visually-hidden">Loading...</span>
+                                    </div>
+                                    <br>
+                                    <span class="text-muted">Loading faculty data...</span>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
 
-        <div class="row mt-3">
-            <div class="col-md-6">
-                <small class="text-muted">
-                    <i class="fas fa-info-circle"></i> 
-                    Data from UAB Scholars database. Faculty profile links open in new tab.
-                </small>
-            </div>
-            <div class="col-md-6 text-end">
-                <div class="btn-group btn-group-sm">
-                    <button class="btn btn-outline-secondary" onclick="changePageSize(10)">10</button>
-                    <button class="btn btn-outline-secondary active" onclick="changePageSize(20)">20</button>
-                    <button class="btn btn-outline-secondary" onclick="changePageSize(50)">50</button>
-                    <button class="btn btn-outline-secondary" onclick="changePageSize(100)">100</button>
-                </div>
+        <!-- Footer -->
+        <div class="row mt-4 mb-4">
+            <div class="col-12 text-center">
+                <p class="text-muted">
+                    <small>
+                        <i class="fas fa-info-circle me-1"></i>
+                        Data extracted from UAB Scholars profiles and graduate committee records. This data exists on individual UAB Scholars pages but provides an easy way to view all students currently or formerly mentored by faculty at UAB.
+                        <br>
+                        Last updated: <span id="lastUpdated"></span>
+                    </small>
+                </p>
             </div>
         </div>
     </div>
 
+    <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom JS -->
     <script src="assets/script.js"></script>
+    
+    <script>
+        // Set last updated date
+        document.getElementById('lastUpdated').textContent = new Date().toLocaleDateString();
+    </script>
 </body>
 </html> 
