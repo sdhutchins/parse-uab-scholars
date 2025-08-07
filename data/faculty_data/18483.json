@@ -1,0 +1,102 @@
+{
+  "lastName": "Giannouchos",
+  "overview": "Dr. Giannouchos is an Assistant Professor and the Program Director of the MSPH in Outcomes Research in the Department of Health Policy and Organization at UAB. He specializes in quantitative econometric methods and data analysis to conduct health services, health economics and outcomes research, and cost-effectiveness analyses. Dr. Giannouchos’s research interests include health services utilization and patient preferences, health outcomes, policy evaluation, and comparative effectiveness. His ongoing research focuses on frequent use of emergency services, sociodemographic and geographic differences in health outcomes, and the evaluation of policies that affect healthcare services utilization and outcomes. He has already published in leading journals in his field, such as  Health Affairs, JAMA Cardiology, JAMA Network Open, JAMIA, Vaccine, Medical Care, and AJPH, and some of his studies have been covered by regional and national media outlets.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18483-theodoros-giannouchos",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Applied Economics",
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Economics",
+          "Economics"
+        ],
+        "value": "Health Economics"
+      },
+      {
+        "paths": [
+          [
+            "Policy and Administration",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Policy",
+          "Policy"
+        ],
+        "value": "Health Policy"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      }
+    ]
+  },
+  "discoveryId": "18483",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 85,
+      "favourites": 0
+    }
+  },
+  "firstName": "Theodoros",
+  "firstNameLastName": "Theodoros Giannouchos",
+  "equipmentLinkTypes": [],
+  "objectId": 18483,
+  "updatedWhen": "2025-05-10T08:19:33.9583326-05:00",
+  "hasCollaborationData": false,
+  "email": "tgiannou@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biodefense Brain Disorders Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Drug Abuse (NIDA only) Emergency Care Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Infectious Diseases Influenza Networking and Information Technology R&D (NITRD) Opioid Misuse and Addiction Opioids Pneumonia & Influenza Rural Health Social Determinants of Health Substance Misuse Vaccine Related",
+  "grant_keywords": ""
+}

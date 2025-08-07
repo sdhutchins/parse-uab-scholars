@@ -1,0 +1,124 @@
+{
+  "lastName": "Mrug",
+  "overview": "Dr. Mrug is a Professor of Medicine in the Division of Nephrology at the University of Alabama at Birmingham (UAB) where he trains the next generation of physicians and scientists. Dr. Mrug is recognized as one of “Top Doctors” by Castle Connolly Medical Ltd. He co-founded and directs the UAB Polycystic Kidney Disease (PKD) Clinic and oversees clinical PKD research activities at UAB (since 2009). This includes the CRISP study, an NIH-funded collaborative effort between Emory University, University of Kansas, Mayo Clinic, UAB and University of Pittsburgh that has led to many seminal discoveries. He also coordinated the REPRISE clinical trial for UAB; outcomes of this study played a crucial role in the recent FDA approval of tolvaptan as the first treatment for autosomal dominant PKD (ADPKD). Dr. Mrug’s clinical research interests are centered on the development of statistical models for prediction of the decline in the kidney function in patients with ADPKD over time and better identification of those patients that may benefit most from therapeutic interventions. Dr. Mrug’s basic research (funded since 2005) is focused on the identification of molecular pathways that modulate progression of renal cystic diseases, especially those related to inflammation. He also directs the Therapeutics Development and Screening Core, one of four cores within the UAB Hepatorenal Fibrocystic Disease Core Center (HRFD CC). The UAB HRFD CC is one of four NIH-funded P30 centers focused on PKD, with the other three PKD Core Centers being located at University of Kansas, Mayo Clinic and University of Maryland. The mission of these centers is the development of innovative technologies to advance PKD research and providing access to these resources to other scientists to help them promote PKD research in institutions where such resources are not available. The activities of the UAB HRFD CC are centered on Autosomal Recessive PKD (ARPKD) and other recessive fibrocystic disorders affecting the kidney and liver. Dr. Mrug also serves as the Scientific Advisory Committee Chair for the PKD Foundation’s Board of Trustees.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "612-michal-mrug",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "612",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 31,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 101,
+      "favourites": 0
+    }
+  },
+  "firstName": "Michal",
+  "firstNameLastName": "Michal Mrug",
+  "equipmentLinkTypes": [],
+  "objectId": 612,
+  "updatedWhen": "2025-05-10T08:03:37.8533021-05:00",
+  "hasCollaborationData": true,
+  "email": "mmrug@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Congenital Structural Anomalies Dietary Supplements Kidney Disease Nutrition Obesity Organ Transplantation Pediatric Pediatric Research Initiative Polycystic Kidney Disease Prevention Transplantation",
+  "grant_keywords": "Kidney Disease"
+}

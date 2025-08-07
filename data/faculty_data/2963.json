@@ -1,0 +1,123 @@
+{
+  "lastName": "Carter",
+  "overview": "A. Brent Carter received his medical degree at the University of Missouri. His post-graduate training as a resident in internal medicine and as a fellow in pulmonary and critical care medicine was completed at the University of Iowa Carver College of Medicine. Dr. Carter became a faculty member in Internal Medicine at the University of Iowa. He is now a professor in medicine and Scientific Director of the Interstitial Lung Disease Program at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2963-aaron-carter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "2963",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 125,
+      "favourites": 0
+    }
+  },
+  "firstName": "Aaron",
+  "firstNameLastName": "Aaron Carter",
+  "equipmentLinkTypes": [],
+  "objectId": 2963,
+  "updatedWhen": "2025-05-10T08:08:43.2633015-05:00",
+  "hasCollaborationData": true,
+  "email": "bcarter1@uab.edu",
+  "publication_keywords": "Autoimmune Disease Genetics Lung Orphan Drug Rare Diseases",
+  "grant_keywords": "Clinical Research Genetics Lung"
+}

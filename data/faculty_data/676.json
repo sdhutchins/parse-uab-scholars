@@ -1,0 +1,123 @@
+{
+  "lastName": "Edberg",
+  "overview": "Wegener's granulomatosis, an anti-neutrophil cytoplasmic antibody (ANCA)-positive systemic small vessel vasculitide, is characterized by inflammatory lesions with granuloma formation in the upper and lower airways, pauci-immune glomerulonephritis, and anti-proteinase 3 autoantibodies. Although Wegener's granulomatosis is considered idiopathic, there has been substantial interest in environmental factors as either etiologic or accelerating risk factors, with Staphylococcus aureus having attracted substantial attention as one such environmental factor. Although consensus about etiology remains elusive, the nature of the host response has emerged as an important determinant for disease phenotype and severity. Although Wegener's granulomatosis occurs sporadically, and does not show classical familial clustering and transmission characteristic of some autoimmune diseases, the identification of important genetic factors in Wegener's granulomatosis is not only feasible but also potentially very fruitful in providing insights into pathogenesis and potential therapeutic targets. Building on the clinical trial of etanercept in Wegener's granulomatosis, Dr. Edberg, in collaboration with Drs. Kimberly and Kaslow, is developing a renewable genetic repository to explore the relationship between the Wegener's granulomatosis diathesis and genetic polymorphisms in candidate molecules, selected for their role in pathophysiology. These studies also will involve identification of new polymorphisms in such molecules and application of these to this cohort.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "676-jeffrey-edberg",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "676",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 31,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 203,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jeffrey",
+  "firstNameLastName": "Jeffrey Edberg",
+  "equipmentLinkTypes": [],
+  "objectId": 676,
+  "updatedWhen": "2025-05-10T08:03:50.0053080-05:00",
+  "hasCollaborationData": true,
+  "email": "jedberg@uab.edu",
+  "publication_keywords": "Aging Arthritis Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Chronic Pain Clinical Research Data Science Diabetes Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Machine Learning and Artificial Intelligence Mental Health Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Nutrition Osteoarthritis Pain Research Social Determinants of Health",
+  "grant_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Therapeutics and Interventions Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Human Genome Immunization Immunotherapy Minority Health Precision Medicine Prevention Rural Health Social Determinants of Health Vaccine Related Women's Health"
+}

@@ -1,0 +1,125 @@
+{
+  "lastName": "Markert",
+  "overview": "Dr. Markert received an A.B. degree cum laude in Biochemical Sciences from Harvard University, where he also pursued graduate studies in Applied Mathematics. He then obtained his M.D. degree from Columbia University College of Physicians and Surgeons in 1988 with a simultaneous award of a Masters in Public Health, also from Columbia University. He performed his general surgery internship, as well as his neurological surgery residency, at the University of Michigan Medical Center under Dr. Julian \"Buz\" Hoff during the period of 1988 to 1995. During his residency, he spent 18 months in the laboratory of Dr. Robert Martuza at Massachusetts General Hospital studying the potential application of genetically-engineered herpes simplex virus as a treatment approach for malignant glioma. He then returned to the University of Michigan where he completed his Chief Residency in 1995.\n\nUpon completion of his residency, he became a faculty member of the Division of Neurosurgery at the University of Alabama at Birmingham. Immediately after joining the faculty, he completed an additional research program under Dr. Bernard Roizman at the University of Chicago in the area of molecular herpes virology. In April of 1996, he returned to UAB as an Assistant Professor of Neurosurgery. There, under the mentorship of Dr. Richard B. Morawetz, he prospered in the area of clinical neuro-oncologic surgery and rose through the ranks. In 2006, he was appointed Director of the Division of Neurosurgery at the University of Alabama at Birmingham. He has been fortunate to work with an extremely talented and congenial group of faculty and residents.\n\nOn October 1, 2013, the Division of Neurosurgery was granted Departmental status by the University of Alabama School of Medicine, and Dr. Markert was named the inaugural chair of the Department of Neurosurgery.\n\nDr. Markert's research interests center around novel therapies for the treatment of malignant glioma, and translating findings from the laboratory into the clinical arena. His major interest remains the use of herpes simplex virus and other viruses as oncolytic and gene therapy vectors for the treatment of malignant brain tumors and other cancers, including malignant peripheral nerve sheath tumors.\n\nHe has been an active participant in program project grants centered at both the University of Alabama at Birmingham and the University of Chicago under the directorship of Dr. Richard Whitley, which has resulted in several new findings in this arena and he has been Co-Director of the University of Alabama at Birmingham Brain Tumor SPORE along with Dr. Yancey Gillespie.\n\nDr. Markert has been extremely active in organized neurosurgery as well, holding positions in the American Association of Neurological Surgeons, Congress of Neurological Surgeons, American Academy of Neurological Surgery, of which he currently is serving as President (2022), and the Society of Neurological Surgeons. He has served as President of the Southern Neurosurgical Society.\n\nDr. Markert's clinical interests include neurosurgical care of benign and malignant brain and spinal tumors, including open surgery and radiosurgery, as well as other aspects of general neurosurgery. He also maintains an active portfolio of clinical trials aimed at developing new approaches for the care of neurosurgical disease.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "304-james-markert",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Neurosurgery"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "304",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 62,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 72,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 258,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Markert",
+  "equipmentLinkTypes": [],
+  "objectId": 304,
+  "updatedWhen": "2025-05-10T08:02:47.5698746-05:00",
+  "hasCollaborationData": true,
+  "email": "markert@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Brain Cancer Brain Disorders Cancer Gene Therapy Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunization Immunotherapy Infectious Diseases Minority Health Neurosciences Orphan Drug Rare Diseases Sexually Transmitted Infections Vaccine Related",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Xu",
+  "overview": "Dr. Xu is currently an associate professor in the department of MISQ at University of Alabama at Birmingham. Dr. Nuo Xu obtained his PhD in Industrial Engineering from University of Cincinnati (JUN 2007), his MS in Industrial Engineering also from University of Cincinnati (Dec 2003), and his BS in Material Engineering from Shanghai Jiao-Tong University China (AUG 1997).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2314-nuo-xu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Management, Information Systems and Quantitative Methods"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Mathematical Sciences",
+          "Mathematical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Mathematical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Manufacturing Engineering",
+          "Engineering"
+        ],
+        "value": "Manufacturing Engineering"
+      }
+    ]
+  },
+  "discoveryId": "2314",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 107,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 32,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nuo",
+  "firstNameLastName": "Nuo Xu",
+  "equipmentLinkTypes": [],
+  "objectId": 2314,
+  "updatedWhen": "2025-05-10T08:07:17.6584787-05:00",
+  "hasCollaborationData": true,
+  "email": "nuoxu@uab.edu",
+  "publication_keywords": "Aging Biotechnology Cancer Cancer Genomics Cardiovascular Genetics Human Genome Prostate Cancer Urologic Diseases",
+  "grant_keywords": ""
+}

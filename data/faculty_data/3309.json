@@ -1,0 +1,113 @@
+{
+  "discoveryId": "3309",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 62,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wells",
+  "firstName": "Rachel",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3309-rachel-wells",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "firstNameLastName": "Rachel Wells",
+  "equipmentLinkTypes": [],
+  "objectId": 3309,
+  "updatedWhen": "2025-05-10T08:09:27.9573994-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "raduncan@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cancer Cardiovascular Caregiving Research Chronic Pain Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dietary Supplements Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Minority Health Nutrition Pain Research Prevention Rehabilitation",
+  "grant_keywords": "Aging Behavioral and Social Science Brain Disorders Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Depression Health Disparities Health Services Heart Disease Mental Health Mental Illness Minority Health Pain Research Rural Health Social Determinants of Health"
+}

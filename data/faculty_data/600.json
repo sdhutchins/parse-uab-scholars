@@ -1,0 +1,126 @@
+{
+  "lastName": "Gutierrez",
+  "overview": "Dr. Gutiérrez is the Marie S. Ingalls Endowed Chair in Nephrology Leadership, Professor of Medicine and Epidemiology, Director of the Division of Nephrology, Director of the Center for Clinical and Translational Science, Senior Associate Dean for Clinical and Translational Research and Associate Vice President of Medicine and Biomedical Research at the University of Alabama at Birmingham.  Dr. Gutiérrez’s research is focused on understanding pathophysiological mechanisms underlying disorders of phosphorus metabolism in health and in individuals with kidney disease.  He has a special interest in delineating environmental and/or behavioral factors that may modulate these associations, particularly those related to health disparities, poverty and nutrition.  To this end, his group conducts epidemiologic and patient-oriented studies investigating the impact of disturbances in phosphorus metabolism on kidney and cardiovascular health.  He also has interests in the association of biomarkers of kidney tubule function with clinical outcomes, and improving outcomes in individuals with acute kidney injury.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "600-orlando-gutierrez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "600",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 58,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 30,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 304,
+      "favourites": 0
+    }
+  },
+  "firstName": "Orlando",
+  "firstNameLastName": "Orlando Gutierrez",
+  "equipmentLinkTypes": [],
+  "objectId": 600,
+  "updatedWhen": "2025-05-10T08:03:37.8209904-05:00",
+  "hasCollaborationData": true,
+  "email": "ogutierr@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Diabetes Health Disparities Hematology Infectious Diseases Kidney Disease Nutrition Pediatric Prevention Sepsis",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Kidney Disease Minority Health Prevention Rural Health Social Determinants of Health Women's Health"
+}

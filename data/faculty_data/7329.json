@@ -1,0 +1,130 @@
+{
+  "lastName": "Sun",
+  "overview": "Dr Sun is an Assistant Professor with the Department of Health Policy and Organization at UAB. She received her training in health economics and operations research/decision sciences. Dr Sun applies a variety of quantitative methods in her research, including agent-based modeling, econometric methods, social network analysis, mathematical modeling and optimal control, to study health behaviors and evaluate public health interventions. Her main research interests include tobacco control, youth electronic cigarette use, obesity, and infectious disease modeling. She has published in leading journals in her field, such as JAMA Pediatrics, JAMA Network Open, Addiction, Nicotine and Tobacco Research, and Journal of Medical Internet Research. Her studies have been covered by national media outlets such as the Washington Post, the New York Times, and United Press International.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7329-ruoyan-sun",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Numerical and Computational Mathematics",
+          "and Computational Mathematics",
+          "Computational Mathematics",
+          "Mathematics"
+        ],
+        "value": "Numerical and Computational Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "7329",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ruoyan",
+  "firstNameLastName": "Ruoyan Sun",
+  "equipmentLinkTypes": [],
+  "objectId": 7329,
+  "updatedWhen": "2025-05-10T08:14:29.4512975-05:00",
+  "hasCollaborationData": true,
+  "email": "rysun@uab.edu",
+  "publication_keywords": "Aging Alcoholism, Alcohol Use and Health Atherosclerosis Behavioral and Social Science Cancer Cannabinoid Research Cardiovascular Clinical Research Drug Abuse (NIDA only) Electronic Nicotine Delivery Systems Heart Disease Heart Disease - Coronary Heart Disease Lung Pediatric Prevention Substance Misuse Tobacco Tobacco Smoke and Health Underage Drinking",
+  "grant_keywords": ""
+}

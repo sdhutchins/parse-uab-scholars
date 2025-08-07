@@ -1,0 +1,123 @@
+{
+  "lastName": "Gaggar",
+  "overview": "Dr. Gaggar obtained his medical degree from the University of Michigan in 2000 as a member of the prestigious Inteflex program.  He then moved to Birmingham, AL where he completed his internship and residency in internal medicine at the University of Alabama at Birmingham (UAB) in 2003.  Following residency training, he began fellowship training at UAB in pulmonary and critical care medicine. During the research phase of his fellowship training, he worked in the laboratories of Dr. JP Clancy (Chief, Pediatric Pulmonology) and Dr. J. Edwin Blalock (Professor, Department of Medicine).  He completed his fellowship in 2006, with special emphasis in cystic fibrosis and lung transplantation. \n\nThe following year, Dr. Gaggar completed a PhD in Molecular and Cellular Physiology at UAB.  Dr. Gaggar was invited to joined the UAB Division of Pulmonary, Allergy & Critical Care Medicine in 2006 as instructor in medicine. He currently serves as a director of the Pulmonary Biospecimen Repository and the Cystic Fibrosis Inflammation Group at UAB.   He continues to see patients as both an inpatient physician and in the clinic setting.  In addition, his laboratory program continues to investigate the roles of proteases in lung disease.\n\nDr. Gaggar currently sees patients after lung transplantation and individuals with cystic fibrosis at University Hospital.  He also holds a staff position at the Birmingham VA Medical Center (BVAMC) where he sees individuals with chronic obstructive lung disease (COPD).  In addition, he serves as an attending physician at both the UAB and the BVAMC intensive care units.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "642-amit-gaggar",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "642",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 54,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 46,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 226,
+      "favourites": 0
+    }
+  },
+  "firstName": "Amit",
+  "firstNameLastName": "Amit Gaggar",
+  "equipmentLinkTypes": [],
+  "objectId": 642,
+  "updatedWhen": "2025-05-10T08:03:37.9113064-05:00",
+  "hasCollaborationData": true,
+  "email": "agaggar1@uab.edu",
+  "publication_keywords": "Biodefense Emerging Infectious Diseases Genetics Infectious Diseases Lung Rare Diseases Tuberculosis",
+  "grant_keywords": "Biotechnology Cardiovascular Clinical Research Emerging Infectious Diseases Genetics Infant Mortality Infectious Diseases Lung Neonatal Respiratory Distress Orphan Drug Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Prevention Pulmonary Hypertension Rare Diseases Women's Health"
+}

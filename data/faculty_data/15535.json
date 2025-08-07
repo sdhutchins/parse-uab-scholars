@@ -1,0 +1,99 @@
+{
+  "discoveryId": "15535",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 88,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 0
+    }
+  },
+  "lastName": "Washington",
+  "firstName": "Teneasha",
+  "hasThumbnail": true,
+  "discoveryUrlId": "15535-teneasha-washington",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Behavior"
+    }
+  ],
+  "firstNameLastName": "Teneasha Washington",
+  "equipmentLinkTypes": [],
+  "objectId": 15535,
+  "updatedWhen": "2025-05-10T08:15:35.5615307-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communication and Media Studies",
+          "and Media Studies",
+          "Media Studies",
+          "Studies"
+        ],
+        "value": "Communication and Media Studies"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "teneasha@uab.edu",
+  "publication_keywords": "Asthma Behavioral and Social Science Clinical Research HIV/AIDS Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Lung Minority Health Pediatric Physical Activity Prevention",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Prevention"
+}

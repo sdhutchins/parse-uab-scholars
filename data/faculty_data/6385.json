@@ -1,0 +1,100 @@
+{
+  "discoveryId": "6385",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 72,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mirbozorgi",
+  "firstName": "Seyedabdollah",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6385-seyedabdollah-mirbozorgi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Engineering",
+      "department": "Electrical & Computer Engineering"
+    }
+  ],
+  "firstNameLastName": "Seyedabdollah Mirbozorgi",
+  "equipmentLinkTypes": [],
+  "objectId": 6385,
+  "updatedWhen": "2025-05-10T08:13:14.7776854-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nanotechnology"
+        ],
+        "value": "Nanotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Artificial Intelligence and Image Processing",
+          "Intelligence and Image Processing",
+          "and Image Processing",
+          "Image Processing",
+          "Processing"
+        ],
+        "value": "Artificial Intelligence and Image Processing"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "samir@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Bioengineering Complementary and Integrative Health Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": "Asthma Bioengineering Climate-Related Exposures and Conditions Lung"
+}

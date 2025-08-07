@@ -1,0 +1,125 @@
+{
+  "lastName": "Van Meir",
+  "overview": "The Van Meir research team strives to understand the molecular basis for human tumor development and develop new therapeutic agents with the ultimate goal of improving cancer patient treatment.\n\nTo help cancer patients, decoding the molecular puzzle of how tumors develop is imperative. Cells form tumors when oncogenes are activated and tumor suppressors are inactivated, and Dr. Van Meir’s team is seeking ways to block oncogenes and reactivate silenced tumor suppressors to block tumor growth. His laboratory focuses on glioblastoma and medulloblastoma, two malignant brain tumors as well as uveal melanoma – a malignant eye tumor – which causes eye loss and metastasizes to the liver.\n\nDr. Van Meir’s laboratory is located in the Wallace Tumor Institute building, part of the O’Neal Comprehensive Cancer Center (O’Neal) at UAB. The O’Neal is Alabama’s only cancer center designated by the NCI and is a national leader in driving cancer research, advancing new cancer treatments, engaging communities in cancer prevention and early detection initiatives, and training the next generation of cancer physicians and scientists. The laboratory has served as training ground for over 100 students, postdocs, medical fellows and junior faculty and the O’Neal provides a rich and stimulating scientific environment with access to many core facilities that accelerate research progress. \n\nDr. Van Meir’s research has generated over 200 scientific publications in high impact international peer-reviewed journals and represents enormous gains in understanding many cancers and developing new treatments. Clinical trials based on these discoveries hope to shed light on novel cancer treatment options and medications. His laboratory has been continuously supported by the National Institutes of Health (NIH), the Department of Defense and numerous private foundations over the last 20 years. Additional donor support is also critical in helping the Van Meir laboratory test novel high-risk ideas and generates critical proof-of-principle data that can then help leverage larger federal funding.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16275-erwin-g-van-meir",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurosurgery - Laboratory Research"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "16275",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 243,
+      "favourites": 0
+    }
+  },
+  "firstName": "Erwin G.",
+  "firstNameLastName": "Erwin G. Van Meir",
+  "equipmentLinkTypes": [],
+  "objectId": 16275,
+  "updatedWhen": "2025-05-10T08:15:45.2787577-05:00",
+  "hasCollaborationData": true,
+  "email": "evanmeir@uab.edu",
+  "publication_keywords": "Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Genetics Human Genome Mental Health Neurosciences Orphan Drug Precision Medicine Rare Diseases",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Brain Cancer Brain Disorders Cancer Genetics Neurosciences Orphan Drug Pediatric Pediatric Cancer Radiation Oncology Rare Diseases"
+}

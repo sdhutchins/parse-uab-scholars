@@ -1,0 +1,128 @@
+{
+  "lastName": "Graves",
+  "overview": "Following his postdoctoral fellowship at the University of Rochester, Dr. Graves joined the faculty in the Department of Chemistry and Biochemistry at the University of Mississippi in 1984. He rose through the ranks of assistant, associate, and full professor at the University of Mississippi and was awarded the title of Distinguished Faculty Fellow from the University of Mississippi College of Liberal Arts in 2001. In 2003, Dr. Graves was recruited to become the chair of the Department of Chemistry at the University of Alabama at Birmingham. He served as chair of the department from May 2003 to July 2015.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2512-david-graves",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "2512",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 243,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 71,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Graves",
+  "equipmentLinkTypes": [],
+  "objectId": 2512,
+  "updatedWhen": "2025-05-10T08:07:50.4959666-05:00",
+  "hasCollaborationData": true,
+  "email": "dgraves@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Breast Cancer Cancer Genetics Kidney Disease Nanotechnology Orphan Drug Rare Diseases Women's Health",
+  "grant_keywords": "Bioengineering Biotechnology Nanotechnology"
+}

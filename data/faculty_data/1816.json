@@ -1,0 +1,113 @@
+{
+  "lastName": "Lemak",
+  "overview": "Christy Harris Lemak, PhD, FACHE is Professor in the Department of Health Services Administration where she served as Chair from 2014-2022.  Christy teaches and conducts research in the areas of health care management and leadership development, with an emphasis on how leadership and organizational factors are associated with high performance. She has examined a complex pay-for-value program for physicians, social determinants of health for vulnerable populations, interventions to improve population health, and the career trajectories of women leaders in health care. Her current work examines leadership competences for CEOs and CIOs for the digital transformation of the health care system.  \n\nChristy currently serves as a Board Member of Community Hospital Corporation (Plano, TX) and the Alabama Healthcare Hall of Fame. A nationally recognized leader, she was the 2022 recipient of the Gary L. Filerman Prize for Educational Leadership from the Association of University Programs in Health Administration, a recipient of 2021 Leader in Diversity Award from the Birmingham Business Journal, and the 2020 recipient of the Myron Fottler Award for Exceptional Service from the Academy of Management Health Care Management Division.  \n\nPreviously, Christy was a faculty member in Health Management and Policy at the University of Michigan and the Michael O. and Barbara Bice Professor of Health Services Research, Management and Policy at the University of Florida. She holds a PhD in Health Services Organization and Policy from the University of Michigan, MHA and MBA degrees from the University of Missouri-Columbia, and a BS in Health Planning and Administration from the University of Illinois.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1816-christy-lemak",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1816",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 64,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 35,
+      "favourites": 1
+    },
+    "publications": {
+      "all": 185,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christy",
+  "firstNameLastName": "Christy Lemak",
+  "equipmentLinkTypes": [],
+  "objectId": 1816,
+  "updatedWhen": "2025-05-10T08:06:00.8846815-05:00",
+  "hasCollaborationData": true,
+  "email": "lemak@uab.edu",
+  "publication_keywords": "Clinical Research Health Services Machine Learning and Artificial Intelligence",
+  "grant_keywords": ""
+}

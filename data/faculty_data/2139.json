@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2139",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 29,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 94,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 111,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ponnazhagan",
+  "firstName": "Selvarangan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2139-selvarangan-ponnazhagan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "firstNameLastName": "Selvarangan Ponnazhagan",
+  "equipmentLinkTypes": [],
+  "objectId": 2139,
+  "updatedWhen": "2025-05-12T03:19:08.2616257-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pons@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Digestive Diseases Esophageal Cancer Gene Therapy Genetics Hematology Immunization Lung Lung Cancer Orphan Drug Prevention Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Transplantation Vaccine Related",
+  "grant_keywords": "Aging Biotechnology Cancer Dental/Oral and Craniofacial Disease Genetics Infectious Diseases Prevention Prostate Cancer Urologic Diseases"
+}

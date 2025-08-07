@@ -1,0 +1,118 @@
+{
+  "discoveryId": "726",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 18,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 111,
+      "favourites": 0
+    }
+  },
+  "lastName": "King",
+  "firstName": "Peter",
+  "hasThumbnail": true,
+  "discoveryUrlId": "726-peter-king",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Neurology",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Peter King",
+  "equipmentLinkTypes": [],
+  "objectId": 726,
+  "updatedWhen": "2025-05-10T08:03:50.0615750-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pking@uab.edu",
+  "publication_keywords": "ALS Brain Disorders Duchenne/ Becker Muscular Dystrophy Genetics Human Genome Muscular Dystrophy Neurodegenerative Neurosciences Orphan Drug Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Rare Diseases Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "ALS Biotechnology Brain Disorders Cardiovascular Clinical Research Duchenne/ Becker Muscular Dystrophy Genetics Health Disparities Minority Health Muscular Dystrophy Neurodegenerative Neurosciences Orphan Drug Pediatric Rare Diseases Regenerative Medicine"
+}

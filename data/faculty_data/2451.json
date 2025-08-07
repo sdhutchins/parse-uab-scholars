@@ -1,0 +1,43 @@
+{
+  "discoveryId": "2451",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 805,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Burke",
+  "firstName": "Donald",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2451-donald-burke",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Engineering"
+    }
+  ],
+  "firstNameLastName": "Donald Burke",
+  "equipmentLinkTypes": [],
+  "objectId": 2451,
+  "updatedWhen": "2025-05-10T08:07:39.3449242-05:00",
+  "hasCollaborationData": false,
+  "email": "dburke3@uab.edu",
+  "publication_keywords": "Childhood Injury Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Unintentional Childhood Injury",
+  "grant_keywords": ""
+}

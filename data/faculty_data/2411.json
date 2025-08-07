@@ -1,0 +1,126 @@
+{
+  "lastName": "Wick",
+  "overview": "Dr. Wick began his academic career in the School of Chemical Engineering at the Georgia Institute of Technology, where he developed internationally recognized research programs in cell adhesion and tissue engineering. He served as director of the Interdisciplinary Bioengineering Graduate Program from 2004 to 2005. He was recruited to UAB as Chair of the BME Department and co-director of UAB’s BioMatrix Engineering and Regenerative Medicine (BERM) Research Center in 2005. In 2015, he was appointed Senior Associate Dean of Engineering at UAB.\n\nDr. Wick has more than 29 years of experience developing, evaluating, and validating biomedical engineering systems and devices to solve health-related problems and improve healthcare technology to benefit society. He has managed several million dollars of research funds from NIH, other government agencies, industry, and philanthropic foundations to develop physiologically relevant microvascular flow models to study cell adhesion, to develop 3-D human tissue constructs and bioreactors for tissue engineering and to develop novel transdermal drug delivery technologies. He has successfully mentored more than twenty-five master’s and Ph.D. students and more than 30 undergraduate honors students and research scholars. Dr. Wick has received the Lilly Foundation Teaching Fellowship, Outstanding Chemical Engineering Professor, and the UAB Graduate Dean’s Award for Excellence in Mentoring.\n\nDr. Wick provides valuable leadership to develop innovative and interdisciplinary undergraduate and graduate degree programs, certificate programs, and student training. As director of the Interdisciplinary Engineering Ph.D. program, he works with faculty in engineering and across UAB to develop individualized interdisciplinary doctoral training programs to enable students to meet career goals in industry or academia. In summer 2015, Dr. Wick started Project Lab with several colleagues as an organized extracurricular to provide students from engineering, arts, sciences, and business interested in product design and development opportunities to innovate and develop engineering solutions to client problems. In Project Lab, students are trained in product design and development, innovation, teamwork, engineering validation, project documentation and marketing. To date, students have delivered more than 10 devices or apps that improve medical simulation and training, improve access for disabled persons, facilitate hearing loss prevention training, and assist patient rehabilitation.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2411-timothy-wick",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "School of Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2411",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 203,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 101,
+      "favourites": 0
+    }
+  },
+  "firstName": "Timothy",
+  "firstNameLastName": "Timothy Wick",
+  "equipmentLinkTypes": [],
+  "objectId": 2411,
+  "updatedWhen": "2025-05-10T08:07:28.9107178-05:00",
+  "hasCollaborationData": true,
+  "email": "tmwick@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Brain Cancer Brain Disorders Cancer Clinical Research Dental/Oral and Craniofacial Disease Nanotechnology Neurosciences Orphan Drug Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Transplantation",
+  "grant_keywords": "Aging Arthritis Bioengineering Biotechnology Genetics Nanotechnology Osteoarthritis"
+}

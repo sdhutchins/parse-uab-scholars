@@ -1,0 +1,129 @@
+{
+  "discoveryId": "977",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 56,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 50,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gutierrez",
+  "firstName": "Hector",
+  "hasThumbnail": false,
+  "discoveryUrlId": "977-hector-gutierrez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Pulmonary & Sleep Medicine"
+    }
+  ],
+  "firstNameLastName": "Hector Gutierrez",
+  "equipmentLinkTypes": [],
+  "objectId": 977,
+  "updatedWhen": "2025-05-10T08:04:33.6565260-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pulmon@uab.edu",
+  "publication_keywords": "Biodefense Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Cystic Fibrosis Emerging Infectious Diseases Infectious Diseases Lung Nutrition Rare Diseases",
+  "grant_keywords": ""
+}

@@ -1,0 +1,128 @@
+{
+  "discoveryId": "860",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 101,
+      "favourites": 0
+    }
+  },
+  "lastName": "Tofil",
+  "firstName": "Nancy",
+  "hasThumbnail": true,
+  "discoveryUrlId": "860-nancy-tofil",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Critical Care"
+    }
+  ],
+  "firstNameLastName": "Nancy Tofil",
+  "equipmentLinkTypes": [],
+  "objectId": 860,
+  "updatedWhen": "2025-05-10T08:04:12.9732380-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nmt@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Emergency Care Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infant Mortality Lung Neonatal Respiratory Distress Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Rural Health Telehealth",
+  "grant_keywords": ""
+}

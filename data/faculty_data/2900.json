@@ -1,0 +1,124 @@
+{
+  "discoveryId": "2900",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 49,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 241,
+      "favourites": 0
+    }
+  },
+  "lastName": "Morrisey",
+  "firstName": "Michael",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2900-michael-morrisey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "firstNameLastName": "Michael Morrisey",
+  "equipmentLinkTypes": [],
+  "objectId": 2900,
+  "updatedWhen": "2025-05-10T08:08:32.6369012-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Econometrics"
+        ],
+        "value": "Econometrics"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "morrisey@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Dental/Oral and Craniofacial Disease Emergency Care Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hypertension Minority Health Networking and Information Technology R&D (NITRD) Pediatric Pediatric Research Initiative Prevention Primary Health Care Rural Health Social Determinants of Health Telehealth",
+  "grant_keywords": ""
+}

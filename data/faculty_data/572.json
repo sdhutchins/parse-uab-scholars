@@ -1,0 +1,127 @@
+{
+  "lastName": "Overton",
+  "overview": "Dr. Overton joined the UAB faculty in 2011 to assist in the development of the translational research program in the field of vaccinology and to establish a comprehensive hepatitis C program. He serves as the Co-Director of the AVRC and the Clinic Director for the 1917 Hepatitis Clinic.  He is Board-certified in Medicine and Infectious Diseases and is licensed to practice in Alabama. His research interests focus on the chronic inflammation and long-term complications of chronic viral infections, specifically HIV and viral hepatitis, as well as understanding the underlying immune system with regards to vaccines and HIV infection. He has published numerous papers on many aspects of the complications of HIV infection. Specifically, he has evaluated vaccine responses among HIV-infected persons in an effort to better characterize the impact of this immunosuppressive state on the development of both humoral and cellular immune responses.  He has conducted studies of hepatitis A, hepatitis B, HPV, HIV, anthrax, smallpox, zoster, and influenza vaccines.\n\nDr. Overton’s clinical duties include seeing HIV-infected and chronic hepatitis patients in the outpatient setting as well as seeing solid organ and bone marrow transplant patients in the hospital. He has developed strong relationships with the UAB hepatology group as well as the bone marrow transplant unit and can readily identify potential study participants from these high risk populations. In addition, he has considerable experience in performing clinical trials, both randomized controlled trials and observational studies, assessing various parameters related to HIV, HCV, and vaccine responses. He has also served as the lead investigator on several trials within the AIDS Clinical Trial Group.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "572-edgar-overton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "572",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 176,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 229,
+      "favourites": 0
+    }
+  },
+  "firstName": "Edgar",
+  "firstNameLastName": "Edgar Overton",
+  "equipmentLinkTypes": [],
+  "objectId": 572,
+  "updatedWhen": "2025-05-10T08:03:25.3292476-05:00",
+  "hasCollaborationData": true,
+  "email": "toverton@uab.edu",
+  "publication_keywords": "Aging Cardiovascular Clinical Research Clinical Trials and Supportive Activities Coronaviruses Emerging Infectious Diseases Genetics HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hypertension Infectious Diseases Kidney Disease Minority Health Physical Activity Prevention Sexually Transmitted Infections Women's Health",
+  "grant_keywords": "Kidney Disease"
+}

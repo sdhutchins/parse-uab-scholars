@@ -1,0 +1,127 @@
+{
+  "discoveryId": "1447",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 447,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "lastName": "Swanson",
+  "firstName": "Mark",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1447-mark-swanson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Mark Swanson",
+  "equipmentLinkTypes": [],
+  "objectId": 1447,
+  "updatedWhen": "2025-05-10T08:05:25.8369190-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mswanson@uab.edu",
+  "publication_keywords": "Attention Deficit Hyperactivity Disorder (ADHD) Behavioral and Social Science Brain Disorders Childhood Injury Clinical Research Eye Disease and Disorders of Vision Health Services Mental Health Neurosciences Patient Safety Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Rehabilitation Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury Unintentional Childhood Injury",
+  "grant_keywords": "Clinical Research Eye Disease and Disorders of Vision"
+}

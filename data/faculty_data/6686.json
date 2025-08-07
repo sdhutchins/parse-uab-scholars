@@ -1,0 +1,123 @@
+{
+  "discoveryId": "6686",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 53,
+      "favourites": 4
+    }
+  },
+  "lastName": "Goodman",
+  "firstName": "Adam",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6686-adam-goodman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychology"
+    }
+  ],
+  "firstNameLastName": "Adam Goodman",
+  "equipmentLinkTypes": [],
+  "objectId": 6686,
+  "updatedWhen": "2025-05-10T08:13:34.2325752-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "amgood@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Cardiovascular Cerebrovascular Clinical Research Depression Epilepsy Mental Health Mental Illness Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury",
+  "grant_keywords": ""
+}

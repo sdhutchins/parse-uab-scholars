@@ -1,0 +1,73 @@
+{
+  "lastName": "Murray",
+  "overview": "Born in Seattle, Washington, Pam Murray spent much of her youth living with her family abroad (Panama, later France & Germany) and in several parts of the US (northern Virginia, New Mexico), experiences that sparked her interest in history as well as languages and culture. Exposure to New Mexico’s rich Hispanic heritage, along with curiosity about her maternal background—including relatives in Medellin, Colombia—encouraged her to specialize in Latin American history.\n\nIn 2012, Dr. Murray and Professor Carlos Orihuela (Department of Foreign Languages and Literatures) lead a study away trip to Lima, Peru. Students were treated to a crash course in the language, culture, and history of one of the most fascinating countries in the Western hemisphere. Over three weeks students adapted to life with their Peruvian host families; learned new customs and the intricacies of navigating through Lima; improved their Spanish in daily lessons taught by instructors of the Universidad Nacional Mayor de San Marcos (the oldest university in the Americas); and visited numerous historic, archaeological, and cultural sites and events—including the winding catacombs of Lima's famous Franciscan Monastery; the eye-opening Museum of the Inquisition; the delights of traditional Peruvian folk music and dance, e.g. \"La Marinera\"; a trip to Cuzco, ancient capital of the Incas, nestled high in the southern Andes at about 11,000 feet above sea level; the Sacred Valley; and the magical \"Lost City\" of Machu Picchu. Taken by Proffesor Murray, the photos in this slideshow give viewers a glimpse of the variety of places students visited and the odyssey they experienced. Visit flickr to see all of the photos.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2626-pamela-murray",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "History"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Historical Studies",
+          "Studies"
+        ],
+        "value": "Historical Studies"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cultural Studies",
+          "Studies"
+        ],
+        "value": "Cultural Studies"
+      }
+    ]
+  },
+  "discoveryId": "2626",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 74,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "firstName": "Pamela",
+  "firstNameLastName": "Pamela Murray",
+  "equipmentLinkTypes": [],
+  "objectId": 2626,
+  "updatedWhen": "2025-05-10T08:08:00.8906804-05:00",
+  "hasCollaborationData": false,
+  "email": "pmurray@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

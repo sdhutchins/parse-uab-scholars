@@ -1,0 +1,44 @@
+{
+  "discoveryId": "6508",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 200,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "lastName": "Unan",
+  "firstName": "Mahmut",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6508-mahmut-unan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Mahmut Unan",
+  "equipmentLinkTypes": [],
+  "objectId": 6508,
+  "updatedWhen": "2025-05-10T08:13:23.3843536-05:00",
+  "hasCollaborationData": false,
+  "email": "unan@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging",
+  "grant_keywords": ""
+}

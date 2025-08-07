@@ -1,0 +1,127 @@
+{
+  "discoveryId": "2700",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 232,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 98,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kawai",
+  "firstName": "Ryoichi",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2700-ryoichi-kawai",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor Emeritus",
+      "department": "Physics"
+    }
+  ],
+  "firstNameLastName": "Ryoichi Kawai",
+  "equipmentLinkTypes": [],
+  "objectId": 2700,
+  "updatedWhen": "2025-05-10T08:08:11.0894987-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geochemistry"
+        ],
+        "value": "Geochemistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Interdisciplinary Engineering",
+          "Engineering"
+        ],
+        "value": "Interdisciplinary Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kawai@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

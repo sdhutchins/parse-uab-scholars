@@ -1,0 +1,119 @@
+{
+  "discoveryId": "720",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 54,
+      "favourites": 0
+    }
+  },
+  "lastName": "Goldberg",
+  "firstName": "Matthew",
+  "hasThumbnail": false,
+  "discoveryUrlId": "720-matthew-goldberg",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Matthew Goldberg",
+  "equipmentLinkTypes": [],
+  "objectId": 720,
+  "updatedWhen": "2025-05-10T08:03:50.0585226-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mattgoldberg@uab.edu",
+  "publication_keywords": "Aging Brain Disorders Clinical Research Genetic Testing Genetics Human Genome Neurodegenerative Neurosciences Parkinson's Disease Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Cardiovascular Heart Disease Heart Disease - Coronary Heart Disease"
+}

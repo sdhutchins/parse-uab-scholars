@@ -1,0 +1,129 @@
+{
+  "discoveryId": "948",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 71,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 101,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 709,
+      "favourites": 0
+    }
+  },
+  "lastName": "Carlo",
+  "firstName": "Waldemar",
+  "hasThumbnail": false,
+  "discoveryUrlId": "948-waldemar-carlo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Pediatric - Neonatology"
+    }
+  ],
+  "firstNameLastName": "Waldemar Carlo",
+  "equipmentLinkTypes": [],
+  "objectId": 948,
+  "updatedWhen": "2025-05-10T08:04:23.0574937-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "wacarlo@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Infant Mortality Lung Neonatal Respiratory Distress Pediatric Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Women's Health",
+  "grant_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Depression Health Disparities Health Services Infant Mortality Machine Learning and Artificial Intelligence Major Depressive Disorder Maternal Health Maternal Morbidity and Mortality Mental Health Mental Illness Minority Health Networking and Information Technology R&D (NITRD) Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Serious Mental Illness Social Determinants of Health Women's Health"
+}

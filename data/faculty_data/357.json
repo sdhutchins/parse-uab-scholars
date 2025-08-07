@@ -1,0 +1,124 @@
+{
+  "discoveryId": "357",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 83,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 110,
+      "favourites": 0
+    }
+  },
+  "lastName": "McElderry",
+  "firstName": "Tom",
+  "hasThumbnail": true,
+  "discoveryUrlId": "357-tom-mcelderry",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor-Medicine MD",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Tom McElderry",
+  "equipmentLinkTypes": [],
+  "objectId": 357,
+  "updatedWhen": "2025-05-10T08:02:47.6468781-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Coronaviruses Emerging Infectious Diseases Heart Disease Infectious Diseases Lung Patient Safety",
+  "grant_keywords": ""
+}

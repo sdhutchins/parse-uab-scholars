@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2606",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 261,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Haque",
+  "firstName": "Akhlaque",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2606-akhlaque-haque",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Government"
+    }
+  ],
+  "firstNameLastName": "Akhlaque Haque",
+  "equipmentLinkTypes": [],
+  "objectId": 2606,
+  "updatedWhen": "2025-05-10T08:08:00.8706749-05:00",
+  "hasCollaborationData": true,
+  "email": "ahaque@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Social Determinants of Health Substance Misuse",
+  "grant_keywords": "Cancer Cancer Genomics Clinical Research Clinical Trials and Supportive Activities Genetics HIV/AIDS Health Disparities Health Services Human Genome Infectious Diseases Minority Health Prevention Rare Diseases Rural Health Sexually Transmitted Infections Social Determinants of Health Women's Health"
+}

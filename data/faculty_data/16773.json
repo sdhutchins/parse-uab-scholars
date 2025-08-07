@@ -1,0 +1,125 @@
+{
+  "discoveryId": "16773",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 369,
+      "favourites": 0
+    }
+  },
+  "lastName": "Merriman",
+  "firstName": "Tony",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16773-tony-merriman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "firstNameLastName": "Tony Merriman",
+  "equipmentLinkTypes": [],
+  "objectId": 16773,
+  "updatedWhen": "2025-05-10T08:16:32.4602771-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "tmerrima@uab.edu",
+  "publication_keywords": "Arthritis Cardiovascular Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Minority Health Nutrition Obesity Precision Medicine",
+  "grant_keywords": "Clinical Research Genetics Human Genome"
+}

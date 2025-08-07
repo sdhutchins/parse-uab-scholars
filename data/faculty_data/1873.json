@@ -1,0 +1,128 @@
+{
+  "lastName": "Morris",
+  "overview": "David M. Morris, PT, PhD, FAPTA is Professor and Chair of the Department of Physical Therapy at the University of Alabama at Birmingham where, since 1991, he has taught in the entry-level Doctor of Physical Therapy, Doctor of Science in Physical Therapy and PhD in Rehabilitation Science degree programs. Morris earned a BS in physical therapy from the University of North Carolina, Chapel Hill; a MS in physical therapy education and a PhD in health education/promotion from the University of Alabama at Birmingham. He is also a Credentialed Fellowship Graduate from the APTA Education Leadership Institute Fellowship. He has been a member of the UAB Constraint Induced (CI) Therapy Research Group since 1994 and has participated in multiple research projects aimed at developing the approach and examining its influence on extremity use following stroke and other neurologic disorders. He is Training Coordinator for the UAB Training for CI Therapy program and conducts CI therapy training programs for rehabilitation professionals worldwide.  He has held multiple leadership roles in several APTA components including being a member of the founding Executive Committee and serving two terms as President for the APTA Aquatic PT Section. He also served three terms as Vice President and two terms as President for the Alabama Chapter of the APTA. He has authored and/or co-authored numerous peer-reviewed manuscripts and book chapters concerning the topics of aquatic physical therapy, neurologic physical therapy and the PTs role in health promotion, wellness and prevention. He is recipient of multiple awards including the 2009 APTA Lucy Blair Service Award, the 2012 APTA Legislative Commitment Award, the 2012 Marilyn Gossman Award for Professionalism in PT and the 2016 Leadership Award from the Alabama Chapter of the APTA, and the 2017 Joseph F. Volker Outstanding Faculty Award from the UAB School of Health Professions. In 2017, he received the APTA Catherine Worthingham Fellow Award.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1873-david-morris",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor / Chairperson",
+      "department": "Physical Therapy"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "1873",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 229,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 49,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Morris",
+  "equipmentLinkTypes": [],
+  "objectId": 1873,
+  "updatedWhen": "2025-05-10T08:06:12.2934365-05:00",
+  "hasCollaborationData": true,
+  "email": "morrisd@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Neurosciences Nutrition Obesity Physical Activity Physical Rehabilitation Prevention Rehabilitation Stroke",
+  "grant_keywords": ""
+}

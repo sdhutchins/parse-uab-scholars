@@ -1,0 +1,124 @@
+{
+  "lastName": "Saag",
+  "overview": "Kenneth G. Saag, M.D., M.Sc. is Professor of Medicine and holds the Jane Knight Lowe Endowed Chair in the Division and the Department of Medicine.  He became Division Director of Clinical Immunology and Rheumatology in July of 2020.  His research focuses on comparative effectiveness and safety of therapeutics as well methods to improve quality of care in gout and osteoporosis.  He is Vice Chair of Outcomes and Effectiveness Research and is also the Director of the UAB Comprehensive Arthritis, Musculoskeletal, Bone, and Autoimmunity Center.  He has been a practicing physician with UAB Medicine and researcher in the UAB School of Medicine since 1998.\n\nDr. Saag will be President-Elect of the American College of Rheumatology beginning in November of 2020 and he is a past President of the National Osteoporosis Foundation Board of Trustees, the only rheumatologist to hold that positon.  He served UAB as Director, Center for Outcomes, Effectiveness Research and Education (COERE) from 2009 to 2020.  He also directs the Center of Research Translation (CoRT) in Gout and Hyperuricemia, a program supported by the NIH for nearly a decade.  He also founded and directed the UAB AHRQ funded Center for Education and Research on Musculoskeletal Disorders.  An elected member of the American Association of Physicians, he has first-authored 3 original articles in the New England Journal of Medicine on treatment of glucocorticoid-induced osteoporosis and on fracture prevention in women with osteoporosis, as well as over 300 other original articles.  Dr. Saag has been a research mentor, training over 20 post-doctoral fellows and junior faculty as PI of several T32s, a K12, and the KL2 in UAB’s CCTS.\n\nTrained as an engineer at the University of Michigan, he received his M.D. from Northwestern University and the M.Sc. in Epidemiology from the University of Iowa.  As a Medical Resident at Evanston Hospital, he was recognized as Outstanding Intern of the Year and as a Chief Resident.  He completed his fellowship in rheumatology at the University of Iowa.  He served as an Assistant Professor at the University of Iowa under Francois Abboud before joining our Department under the leadership of Bill Koopman as Chair and Bob Kimberly as Division Director.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "698-kenneth-saag",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "698",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 137,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 627,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kenneth",
+  "firstNameLastName": "Kenneth Saag",
+  "equipmentLinkTypes": [],
+  "objectId": 698,
+  "updatedWhen": "2025-05-10T08:03:50.0191373-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Aging Arthritis Behavioral and Social Science Biomedical Imaging Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Kidney Disease Organ Transplantation Osteoporosis Prevention Primary Health Care Transplantation Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Kertesz",
+  "overview": "I am a Professor of Medicine at the University of Alabama at Birmingham Heersink School of Medicine, and an attending physician at the Birmingham, Alabama VA Health Care System.  \n\nFor over two decades I have delivered primary care and addiction care  to persons who experience homelessness, addiction, and pain. I also  lead and collaborate in VA- and NIH-funded research on care for vulnerable populations. \n\nMy homeless-focused research focuses on optimizing primary care service delivery and housing interventions.\n\nI also have a special interest in understanding the care, safety and suicide risk of patients with long-term chronic pain. I co-host the podcast \"On Becoming a Healer\", which focuses on fostering healing relationships in medicine.\n\nI can be followed on Twitter at @StefanKertesz",
+  "hasThumbnail": true,
+  "discoveryUrlId": "457-stefan-kertesz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "457",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 70,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 116,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 222,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stefan",
+  "firstNameLastName": "Stefan Kertesz",
+  "equipmentLinkTypes": [],
+  "objectId": 457,
+  "updatedWhen": "2025-05-10T08:03:12.8367235-05:00",
+  "hasCollaborationData": true,
+  "email": "skertesz@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biomedical Imaging Cancer Chronic Pain Clinical Research Clinical Trials and Supportive Activities Health Services Homelessness Lung Lung Cancer Opioid Misuse and Addiction Opioids Pain Research Patient Safety Social Determinants of Health Substance Misuse",
+  "grant_keywords": "Aging Behavioral and Social Science Brain Disorders Chronic Pain Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Services Infectious Diseases Mental Health Mental Illness Mind and Body Minority Health Neurosciences Pain Research Pediatric Pediatric AIDS Prevention Rehabilitation Sexually Transmitted Infections Social Determinants of Health Substance Misuse Women's Health"
+}

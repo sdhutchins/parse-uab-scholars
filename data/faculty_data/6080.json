@@ -1,0 +1,118 @@
+{
+  "lastName": "Scarduzio",
+  "overview": "I am an Instructor at UAB, Department of Neurology, working on genetic mouse models of isolated dystonia",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6080-mariangela-scarduzio",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "6080",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 19,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mariangela",
+  "firstNameLastName": "Mariangela Scarduzio",
+  "equipmentLinkTypes": [],
+  "objectId": 6080,
+  "updatedWhen": "2025-05-10T08:12:46.7364422-05:00",
+  "hasCollaborationData": true,
+  "email": "scardu@uab.edu",
+  "publication_keywords": "Dystonia Genetics Neurodegenerative Neurosciences Pediatric Research Initiative Rare Diseases Stem Cell Research Stem Cell Research - Embryonic - Non-Human",
+  "grant_keywords": ""
+}

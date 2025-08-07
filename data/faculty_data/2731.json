@@ -1,0 +1,71 @@
+{
+  "lastName": "Kennedy",
+  "overview": "Born and educated on the UAB campus, I bleed Green and Gold. During the summer of 2007, I taught my first course. It was then that I realized that teaching is my true passion. In the classroom I encourage students to express their distinct perspectives while showing respect for and garnering knowledge from others whose backgrounds and views are different from their own. Furthermore, I cultivate a vested interest in learning by using examples that illustrate how the course materials apply to the circumstances of my students’ lives and to their goals. \n\nThough psychology is my first love, I teach music at summer camps and conventions (in the US, Canada, and Europe). I enjoy world travel, immersing myslef in other cultures, and meditation.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2731-bridge-kennedy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "2731",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 555,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "firstName": "Bridge",
+  "firstNameLastName": "Bridge Kennedy",
+  "equipmentLinkTypes": [],
+  "objectId": 2731,
+  "updatedWhen": "2025-05-10T08:08:21.9737585-05:00",
+  "hasCollaborationData": false,
+  "email": "bphill@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Depression Mental Health Mental Illness Neurodegenerative Neurosciences Schizophrenia Serious Mental Illness",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Rural Health Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Women's Health Workforce Diversity and Outreach"
+}

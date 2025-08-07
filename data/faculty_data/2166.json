@@ -1,0 +1,102 @@
+{
+  "discoveryId": "2166",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 100,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "lastName": "Falany",
+  "firstName": "Charles",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2166-charles-falany",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Charles Falany",
+  "equipmentLinkTypes": [],
+  "objectId": 2166,
+  "updatedWhen": "2025-05-10T08:06:50.7525324-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cfalany@uab.edu",
+  "publication_keywords": "Brain Disorders Digestive Diseases Genetics Liver Disease Neurosciences Pediatric Research Initiative",
+  "grant_keywords": "Biotechnology Brain Disorders Cerebrovascular Eye Disease and Disorders of Vision Genetics Mental Health Neurosciences Stroke"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17097",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ravi",
+  "firstName": "Gayathri",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17097-gayathri-ravi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "firstNameLastName": "Gayathri Ravi",
+  "equipmentLinkTypes": [],
+  "objectId": 17097,
+  "updatedWhen": "2025-05-12T03:19:08.2928644-05:00",
+  "hasCollaborationData": false,
+  "email": "gravi@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

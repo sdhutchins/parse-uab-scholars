@@ -1,0 +1,128 @@
+{
+  "discoveryId": "2259",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 166,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 95,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 97,
+      "favourites": 0
+    }
+  },
+  "lastName": "Serra",
+  "firstName": "Rosa",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2259-rosa-serra",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Rosa Serra",
+  "equipmentLinkTypes": [],
+  "objectId": 2259,
+  "updatedWhen": "2025-05-10T08:07:03.7810935-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rserra@uab.edu",
+  "publication_keywords": "Bioengineering Genetics Pediatric Regenerative Medicine",
+  "grant_keywords": "Aging Arthritis Brain Cancer Brain Disorders Breast Cancer Cancer Chronic Pain Dental/Oral and Craniofacial Disease Genetics Human Genome Neurosciences Osteoarthritis Pain Research Pediatric Rare Diseases Regenerative Medicine Women's Health"
+}

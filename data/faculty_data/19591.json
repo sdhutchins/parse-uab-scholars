@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19591",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "lastName": "McCabe",
+  "firstName": "Megan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19591-megan-mccabe",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Megan McCabe",
+  "equipmentLinkTypes": [],
+  "objectId": 19591,
+  "updatedWhen": "2025-05-10T08:22:01.2173385-05:00",
+  "hasCollaborationData": false,
+  "email": "memccabe@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Cardiovascular Cerebrovascular Chronic Pain Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Fibromyalgia Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Infectious Diseases Minority Health Neurosciences Pain Research Pediatric Research Initiative Physical Activity Physical Rehabilitation Prevention Rehabilitation Rural Health Social Determinants of Health Stroke Women's Health",
+  "grant_keywords": ""
+}

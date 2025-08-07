@@ -1,0 +1,122 @@
+{
+  "discoveryId": "6890",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 80,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kobie",
+  "firstName": "James",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6890-james-kobie",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "firstNameLastName": "James Kobie",
+  "equipmentLinkTypes": [],
+  "objectId": 6890,
+  "updatedWhen": "2025-05-10T08:13:51.5145812-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jkobie@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biotechnology Brain Disorders Clinical Research Digestive Diseases Drug Abuse (NIDA only) Emerging Infectious Diseases Food Allergies HIV/AIDS Hepatitis Immunization Infectious Diseases Influenza Liver Disease Networking and Information Technology R&D (NITRD) Nutrition Opioid Misuse and Addiction Opioids Pediatric Research Initiative Pneumonia & Influenza Prevention Substance Misuse Vaccine Related",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Immunization Infectious Diseases Prevention Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS)"
+}

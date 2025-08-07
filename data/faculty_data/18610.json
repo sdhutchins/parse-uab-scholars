@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18610",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 34,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sadid Zadeh",
+  "firstName": "Ramtin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18610-ramtin-sadid-zadeh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Prosthodontics"
+    }
+  ],
+  "firstNameLastName": "Ramtin Sadid Zadeh",
+  "equipmentLinkTypes": [],
+  "objectId": 18610,
+  "updatedWhen": "2025-05-12T03:21:24.6216120-05:00",
+  "hasCollaborationData": false,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

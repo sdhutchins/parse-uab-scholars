@@ -1,0 +1,129 @@
+{
+  "lastName": "Sinkey",
+  "overview": "Rachel Sinkey is an Assistant Professor of Obstetrics and Gynecology in the Division of Maternal-Fetal Medicine at the University of Alabama at Birmingham. Dr. Sinkey attended Asbury University in Wilmore, KY for her undergraduate studies and the University of Kentucky for her medical degree. She pursued obstetrics and gynecology training at TriHealth / Good Samaritan in Cincinnati, OH where her interest in the management of medical diseases in pregnancy was sparked . She subsequently pursued sub-specialty training in Maternal-Fetal medicine at the University of South Florida. Her interests include heart disease in pregnancy, maternal mortality and decision and cost-effectiveness analyses. Outside of work, she enjoys spending time with her husband and their children.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5043-rachel-sinkey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "OB/GYN - Maternal & Fetal Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "5043",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 95,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rachel",
+  "firstNameLastName": "Rachel Sinkey",
+  "equipmentLinkTypes": [],
+  "objectId": 5043,
+  "updatedWhen": "2025-05-10T08:11:53.0362836-05:00",
+  "hasCollaborationData": true,
+  "email": "rsinkey@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Breastfeeding, Lactation and Breast Milk Cardiovascular Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Hypertension Maternal Health Maternal Morbidity and Mortality Minority Health Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Hypertension Maternal Health Maternal Morbidity and Mortality Minority Health Pediatric Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Social Determinants of Health Women's Health"
+}

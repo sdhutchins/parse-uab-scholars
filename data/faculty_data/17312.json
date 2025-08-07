@@ -1,0 +1,124 @@
+{
+  "lastName": "Tamhane",
+  "overview": "An epidemiologist with post-graduate training in clinical medicine and public health. Skilled in data management, analysis and SAS programming with a strong record of published research. Experienced in public health and clinical research with knowledge of epidemiological and statistical issues. Trained in developing study proposals/grants, designing research questionnaire and \noverall conduct of research studies in national and international settings.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17312-ashutosh-tamhane",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "17312",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 81,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ashutosh",
+  "firstNameLastName": "Ashutosh Tamhane",
+  "equipmentLinkTypes": [],
+  "objectId": 17312,
+  "updatedWhen": "2025-05-10T08:17:26.0722558-05:00",
+  "hasCollaborationData": true,
+  "email": "tamhane@uab.edu",
+  "publication_keywords": "Aging Biotechnology Clinical Research Coronaviruses Dental/Oral and Craniofacial Disease Emerging Infectious Diseases Health Disparities Hematology Infectious Diseases Kidney Disease Minority Health Patient Safety Prevention Rare Diseases Sepsis Sexually Transmitted Infections",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Minority Health Rural Health Sexually Transmitted Infections Social Determinants of Health Women's Health"
+}

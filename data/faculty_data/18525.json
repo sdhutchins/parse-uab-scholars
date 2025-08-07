@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18525",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "lastName": "Duran",
+  "firstName": "Elizabeth",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18525-elizabeth-duran",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "firstNameLastName": "Elizabeth Duran",
+  "equipmentLinkTypes": [],
+  "objectId": 18525,
+  "updatedWhen": "2025-05-10T08:19:33.9895757-05:00",
+  "hasCollaborationData": false,
+  "email": "eduran@uab.edu",
+  "publication_keywords": "Biotechnology Genetics",
+  "grant_keywords": "Biotechnology Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Workforce Diversity and Outreach"
+}

@@ -1,0 +1,124 @@
+{
+  "discoveryId": "463",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 77,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 180,
+      "favourites": 20
+    }
+  },
+  "lastName": "Pisu",
+  "firstName": "Maria",
+  "hasThumbnail": true,
+  "discoveryUrlId": "463-maria-pisu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Maria Pisu",
+  "equipmentLinkTypes": [],
+  "objectId": 463,
+  "updatedWhen": "2025-05-10T08:03:12.8724251-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mpisu@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Comparative Effectiveness Research Coronaviruses Digestive Diseases Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Minority Health Ovarian Cancer Pain Research Pancreatic Cancer Patient Safety Prevention Rare Diseases Rehabilitation Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cancer Chronic Pain Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Pain Research Physical Activity Physical Rehabilitation Prevention Rare Diseases Rehabilitation Rural Health Social Determinants of Health"
+}

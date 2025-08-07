@@ -1,0 +1,123 @@
+{
+  "lastName": "Cure",
+  "overview": "Dr. Joel K. Curé did his radiology residency at Dartmouth-Hitchcock Medical Center, New Hampshire and fellowship at Strong Memorial Hospital, Rochester, New York. His research interests include imaging of TMJ dysfunction, imaging of spinal cysts and applications of MRI CSF flow analysis. He has co-authored many peer-reviewed articles and book chapters including the popular Amirsys publications. He is a reviewer for Radiology, AJR and AJNR. He is also popular among residents and has received numerous teaching awards in Radiology and Neurology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "208-joel-cure",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Radiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "208",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 125,
+      "favourites": 0
+    }
+  },
+  "firstName": "Joel",
+  "firstNameLastName": "Joel Cure",
+  "equipmentLinkTypes": [],
+  "objectId": 208,
+  "updatedWhen": "2025-05-10T08:02:35.0147430-05:00",
+  "hasCollaborationData": true,
+  "email": "curej@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Clinical Research Dementia Dental/Oral and Craniofacial Disease Digestive Diseases Infectious Diseases Mental Health Neurodegenerative Neurosciences",
+  "grant_keywords": ""
+}

@@ -1,0 +1,121 @@
+{
+  "discoveryId": "3560",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 61,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 120,
+      "favourites": 0
+    }
+  },
+  "lastName": "Norton",
+  "firstName": "Thomas",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3560-thomas-norton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Thomas Norton",
+  "equipmentLinkTypes": [],
+  "objectId": 3560,
+  "updatedWhen": "2025-05-10T08:09:38.3792140-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "tnorton@uab.edu",
+  "publication_keywords": "Bioengineering Eye Disease and Disorders of Vision Neurosciences",
+  "grant_keywords": "Aging Bioengineering Biomedical Imaging Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities and Racial or Ethnic Minority Health Research Neurodegenerative Neurosciences Pediatric Pediatric Research Initiative Prevention"
+}

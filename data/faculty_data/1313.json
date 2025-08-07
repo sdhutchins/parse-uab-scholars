@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1313",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hill",
+  "firstName": "Jeff",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1313-jeff-hill",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "General Dentistry"
+    }
+  ],
+  "firstNameLastName": "Jeff Hill",
+  "equipmentLinkTypes": [],
+  "objectId": 1313,
+  "updatedWhen": "2025-05-10T08:05:06.5159119-05:00",
+  "hasCollaborationData": true,
+  "email": "jeffhill@uab.edu",
+  "publication_keywords": "Dental/Oral and Craniofacial Disease HIV/AIDS Infectious Diseases",
+  "grant_keywords": "Alcoholism, Alcohol Use and Health Neurosciences Pediatric Substance Misuse"
+}

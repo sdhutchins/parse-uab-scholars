@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3959",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "O'Neil",
+  "firstName": "Peter",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3959-peter-o'neil",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Emeritus",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Peter O'Neil",
+  "equipmentLinkTypes": [],
+  "objectId": 3959,
+  "updatedWhen": "2025-05-10T08:10:17.4777456-05:00",
+  "hasCollaborationData": false,
+  "email": "pvoneil@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

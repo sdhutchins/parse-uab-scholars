@@ -1,0 +1,130 @@
+{
+  "lastName": "Buchsbaum",
+  "overview": "My research is focused on the use of monoclonal antibodies that bind cancer cell surface receptors for cancer therapy in combination with chemotherapy agents, Wnt inhibitors, or radiation. This research involves investigation of the mechanisms of enhanced cytotoxicity produced by combination treatment. It has included the use of unlabeled and radiolabeled antibodies for cancer immunotherapy.  Examples are development of 131-I-labeled anti-B1 (Bexxar™) for treatment of B cell lymphoma, 90-Y-labeled 17-1A and anti-CEA for treatment of colon cancer, pretargeted and alpha-emitter radioimmunotherapy, radiolabeled peptides, Cetuximab anti-EGFR in combination with radiation for the treatment of head and neck cancer (approved by the FDA) and pancreatic cancer, and TRAIL DR5 antibody in combination with chemotherapy for triple negative breast cancer and pancreatic cancer treatment.  Other studies involved the treatment of breast cancer stem cells with TRAIL DR5 antibody and Wnt/β-catenin inhibitor therapy. My current research is focused on cancer immunotherapy with monoclonal antibodies that bind to checkpoint inhibitor receptors in combination with chemotherapy agents, HDAC inhibitors, Wnt/β-catenin inhibitors, or radiation.  Recently, I investigated the use of the HDAC inhibitor entinostat to upregulate MHCII expression in syngeneic breast and ovarian cancer tumor models, in combination with PD1 or CTLA-4 checkpoint inhibitor immunotherapy, and monitored CD8, CD4 and Treg activation and exhaustion in syngeneic breast and ovarian cancer models.  Other recent research involves enhancing anticancer activity of checkpoint immunotherapy by targeting RAS in pancreatic cancer models.  I have also been investigating the use of a HuR inhibitor for the treatment of cervical and pancreatic cancer alone or in combination with chemotherapy or checkpoint immunotherapy.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1078-donald-buchsbaum",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "OB/GYN - Gyn Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1078",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 51,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 414,
+      "favourites": 0
+    }
+  },
+  "firstName": "Donald",
+  "firstNameLastName": "Donald Buchsbaum",
+  "equipmentLinkTypes": [],
+  "objectId": 1078,
+  "updatedWhen": "2025-05-10T08:04:44.6088783-05:00",
+  "hasCollaborationData": true,
+  "email": "djb@uab.edu",
+  "publication_keywords": "Cancer Colo-Rectal Cancer Digestive Diseases Immunotherapy Orphan Drug Pancreatic Cancer Rare Diseases Women's Health",
+  "grant_keywords": "Biotechnology Cancer Cervical Cancer Digestive Diseases Genetics Infectious Diseases Orphan Drug Pancreatic Cancer Rare Diseases Sexually Transmitted Infections Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health"
+}

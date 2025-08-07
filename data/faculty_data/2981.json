@@ -1,0 +1,124 @@
+{
+  "discoveryId": "2981",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 784,
+      "favourites": 5
+    }
+  },
+  "lastName": "Slominski",
+  "firstName": "Andrzej",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2981-andrzej-slominski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dermatology"
+    }
+  ],
+  "firstNameLastName": "Andrzej Slominski",
+  "equipmentLinkTypes": [],
+  "objectId": 2981,
+  "updatedWhen": "2025-05-10T08:08:43.2789171-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "aslomins@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Cancer Climate-Related Exposures and Conditions Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Neurosciences Nutrition Prevention Regenerative Medicine Wound Healing and Care",
+  "grant_keywords": "Biodefense Biotechnology Cancer Climate-Related Exposures and Conditions Clinical Research Emerging Infectious Diseases Genetics Human Genome Immunotherapy Infectious Diseases Nutrition Physical Injury - Accidents and Adverse Effects Prevention Wound Healing and Care"
+}

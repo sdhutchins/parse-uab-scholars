@@ -1,0 +1,62 @@
+{
+  "lastName": "Witherspoon",
+  "overview": "Taajah Felder Witherspoon (taajah@uab.edu) serves as an Assistant Professor at the University of Alabama at Birmingham for pre-service early childhood and elementary educators. She has a passion for teaching with understanding and providing students opportunities to construct knowledge across the curriculum more specifically with African American students in urban settings. Her writing has appeared in the Social Studies and the Young Learner, Teaching Children Mathematics,  as well as School Science and Mathematics Journal. She has developed her beliefs through her current position and previous roles as a classroom teacher and math coach. She also extended her knowledge base with a recent Administrative Certification as well as through her works as she plans and works collaboratively with administrators in underserved urban and affluent districts to address teaching and learning concerns.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3180-taajah-witherspoon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "3180",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 154,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "firstName": "Taajah",
+  "firstNameLastName": "Taajah Witherspoon",
+  "equipmentLinkTypes": [],
+  "objectId": 3180,
+  "updatedWhen": "2025-05-10T08:09:04.9083137-05:00",
+  "hasCollaborationData": false,
+  "email": "taajah@uab.edu",
+  "publication_keywords": "Health Disparities and Racial or Ethnic Minority Health Research Minority Health Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

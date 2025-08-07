@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3571",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 3,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bell",
+  "firstName": "Megan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3571-megan-bell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "UAB Libraries"
+    }
+  ],
+  "firstNameLastName": "Megan Bell",
+  "equipmentLinkTypes": [],
+  "objectId": 3571,
+  "updatedWhen": "2025-05-10T08:09:38.3792140-05:00",
+  "hasCollaborationData": true,
+  "email": "mmbell@uab.edu",
+  "publication_keywords": "Attention Deficit Hyperactivity Disorder (ADHD) Behavioral and Social Science Biomedical Imaging Brain Disorders Cardiovascular Chronic Pain Clinical Research Heart Disease Kidney Disease Mental Health Mental Illness Neurosciences Pain Research Pediatric Physical Rehabilitation Rehabilitation",
+  "grant_keywords": ""
+}

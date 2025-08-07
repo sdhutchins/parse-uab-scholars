@@ -1,0 +1,127 @@
+{
+  "lastName": "Rocque",
+  "overview": "Introduction:\nDr. Gabrielle Rocque is an Associate Professor of Medicine in the Divisions of Hematology & Oncology and Gerontology, Geriatrics, & Palliative Care at the University of Alabama at Birmingham (UAB). She completed her undergraduate degree, medical doctorate, Internal Medicine residency, and fellowship in Hematology & Oncology at the University of Wisconsin- Madison. She also completed a Masters of Science in Public Health from UAB. \n\nClinical interests:\n\nShe currently practices as a medical oncologist, specializing in the care of women with breast cancer. \n\nResearch:\n\nDr. Rocque’s research interests include improving the quality of healthcare delivery for cancer patients with an emphasis on shared decision-making, payment reform, and provision of supportive care services to patients. She served as Medical Director a successful 2012 Center for Medicare and Medicaid Innovation Award, which focused on improving health and healthcare costs by implementing a lay navigator workforce to support cancer patients across from diagnosis through survivorship and end-of-life. She also received an American Cancer Society Mentored Research Scholar Grant to develop treatment plans aimed to enhance shared decision making for patients with metastatic breast cancer and a National Institute of Nursing Research R01 to evaluate the implementation of home symptom monitoring. She is active within UAB’s payment reform initiatives, and serves as the co-Director of UAB’s Oncology Care Model Steering Committee. Dr. Rocque has a strong interest in the interface between community oncology practices and academia. She is a former chair of the American Society of Clinical Oncology (ASCO) Measures Task Force and the ASCO Quality of Care Committee.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "534-gabrielle-rocque",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "534",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 108,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 190,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gabrielle",
+  "firstNameLastName": "Gabrielle Rocque",
+  "equipmentLinkTypes": [],
+  "objectId": 534,
+  "updatedWhen": "2025-05-10T08:03:25.2778771-05:00",
+  "hasCollaborationData": true,
+  "email": "grocque@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Bioengineering Biomedical Imaging Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dissemination and Implementation Research Health Disparities and Racial or Ethnic Minority Health Research Mental Health Patient Safety Pediatric Research Initiative Precision Medicine Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

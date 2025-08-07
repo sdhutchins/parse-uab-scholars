@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2582",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 69,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wells",
+  "firstName": "Jaclyn",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2582-jaclyn-wells",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Jaclyn Wells",
+  "equipmentLinkTypes": [],
+  "objectId": 2582,
+  "updatedWhen": "2025-05-10T08:07:50.5779811-05:00",
+  "hasCollaborationData": false,
+  "email": "wellsj@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

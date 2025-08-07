@@ -1,0 +1,126 @@
+{
+  "discoveryId": "329",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 105,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 55,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 359,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bourge",
+  "firstName": "Robert",
+  "hasThumbnail": true,
+  "discoveryUrlId": "329-robert-bourge",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Robert Bourge",
+  "equipmentLinkTypes": [],
+  "objectId": 329,
+  "updatedWhen": "2025-05-10T08:02:47.6108778-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bbourge@uab.edu",
+  "publication_keywords": "Aging Bioengineering Cardiovascular Clinical Research Heart Disease Lung Orphan Drug Pulmonary Hypertension Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

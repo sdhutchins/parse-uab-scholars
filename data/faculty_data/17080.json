@@ -1,0 +1,122 @@
+{
+  "discoveryId": "17080",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 24,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 19,
+      "favourites": 0
+    }
+  },
+  "lastName": "Becker",
+  "firstName": "Bryan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17080-bryan-becker",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "firstNameLastName": "Bryan Becker",
+  "equipmentLinkTypes": [],
+  "objectId": 17080,
+  "updatedWhen": "2025-05-12T03:30:23.3926048-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bbecker@uab.edu",
+  "publication_keywords": "Cardiovascular Digestive Diseases Genetics Hypertension Kidney Disease Liver Disease Neurosciences Nutrition Obesity Prevention Sleep Research Women's Health",
+  "grant_keywords": "Cardiovascular Hypertension Kidney Disease Minority Health Neurosciences Nutrition Women's Health"
+}

@@ -1,0 +1,139 @@
+{
+  "discoveryId": "2191",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 235,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "lastName": "Visscher",
+  "firstName": "Kristina",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2191-kristina-visscher",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Kristina Visscher",
+  "equipmentLinkTypes": [],
+  "objectId": 2191,
+  "updatedWhen": "2025-05-10T08:07:03.6972358-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Developmental Psychology and Ageing",
+          "Psychology and Ageing",
+          "and Ageing",
+          "Ageing"
+        ],
+        "value": "Developmental Psychology and Ageing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kmv@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Clinical Research Clinical Trials and Supportive Activities Dementia Eye Disease and Disorders of Vision Macular Degeneration Neurodegenerative Neurosciences Prevention Rehabilitation",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Dementia Health Disparities Minority Health Neurodegenerative Neurosciences Rural Health Social Determinants of Health"
+}

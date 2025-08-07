@@ -1,0 +1,131 @@
+{
+  "discoveryId": "4567",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 96,
+      "favourites": 0
+    }
+  },
+  "lastName": "Garber",
+  "firstName": "David",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4567-david-garber",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "firstNameLastName": "David Garber",
+  "equipmentLinkTypes": [],
+  "objectId": 4567,
+  "updatedWhen": "2025-05-10T08:11:25.1467190-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dgarber@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Biotechnology Cardiovascular Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision HIV/AIDS Immunization Infectious Diseases Macular Degeneration Microbiome Neurodegenerative Neurosciences Nutrition Prevention Sexually Transmitted Infections Topical Microbicides Urologic Diseases Vaccine Related Vaccine Related (AIDS) Women's Health",
+  "grant_keywords": "Aging Atherosclerosis Cardiovascular"
+}

@@ -1,0 +1,122 @@
+{
+  "lastName": "Ding",
+  "overview": "Our group studies the molecular mechanisms that control the metabolic processes critical for sustaining cancer cell growth and proliferation, with a focus on the childhood cancer neuroblastoma. We investigate how cancer cells increase the production of building blocks for the synthesis of macromolecules for cell growth and proliferation, which may direct the development of new cancer therapeutics designed to target vulnerabilities of cancer cells.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17234-hanfei-ding",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "17234",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 86,
+      "favourites": 8
+    }
+  },
+  "firstName": "Han-Fei",
+  "firstNameLastName": "Han-Fei Ding",
+  "equipmentLinkTypes": [],
+  "objectId": 17234,
+  "updatedWhen": "2025-05-10T08:17:17.5322608-05:00",
+  "hasCollaborationData": true,
+  "email": "dingh@uab.edu",
+  "publication_keywords": "Cancer Cancer Genomics Genetics Human Genome Kidney Disease Neuroblastoma Neurosciences Nutrition Orphan Drug Pediatric Pediatric Cancer Rare Diseases",
+  "grant_keywords": "Cancer Genetics Neuroblastoma Neurosciences Rare Diseases"
+}

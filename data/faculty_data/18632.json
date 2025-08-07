@@ -1,0 +1,141 @@
+{
+  "lastName": "Cheng",
+  "overview": "I use computational and quantitative methods to investigate disease initiation, progression, and therapeutic resistance as a biologist. I have previously worked as a computational research scientist at St. Jude and conducted postdoctoral research in population and quantitative genetics at the University of Texas, Austin. I have focused on bioinformatics and genomics at Notre Dame, particularly infectious diseases. I also have an ecology and evolutionary biology research background at UCLA and completed my undergraduate studies in cell biology and genetics at Peking University (Beijing University).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18632-changde-cheng",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genomics"
+        ],
+        "value": "Genomics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Population, Ecological and Evolutionary Genetics",
+          "Ecological and Evolutionary Genetics",
+          "and Evolutionary Genetics",
+          "Evolutionary Genetics",
+          "Genetics"
+        ],
+        "value": "Population, Ecological and Evolutionary Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epigenetics (incl. Genome Methylation and Epigenomics)",
+          "(incl. Genome Methylation and Epigenomics)",
+          "Genome Methylation and Epigenomics)",
+          "Methylation and Epigenomics)",
+          "and Epigenomics)",
+          "Epigenomics)"
+        ],
+        "value": "Epigenetics (incl. Genome Methylation and Epigenomics)"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantitative Genetics (incl. Disease and Trait Mapping Genetics)",
+          "Genetics (incl. Disease and Trait Mapping Genetics)",
+          "(incl. Disease and Trait Mapping Genetics)",
+          "Disease and Trait Mapping Genetics)",
+          "and Trait Mapping Genetics)",
+          "Trait Mapping Genetics)",
+          "Mapping Genetics)",
+          "Genetics)"
+        ],
+        "value": "Quantitative Genetics (incl. Disease and Trait Mapping Genetics)"
+      },
+      {
+        "paths": [
+          [
+            "Cognitive Sciences",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Knowledge Representation and Machine Learning",
+          "Representation and Machine Learning",
+          "and Machine Learning",
+          "Machine Learning",
+          "Learning"
+        ],
+        "value": "Knowledge Representation and Machine Learning"
+      }
+    ]
+  },
+  "discoveryId": "18632",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 42,
+      "favourites": 0
+    }
+  },
+  "firstName": "Changde",
+  "firstNameLastName": "Changde Cheng",
+  "equipmentLinkTypes": [],
+  "objectId": 18632,
+  "updatedWhen": "2025-05-10T08:19:51.0432009-05:00",
+  "hasCollaborationData": true,
+  "email": "ccheng3@uab.edu",
+  "publication_keywords": "Cancer Cardiovascular Childhood Leukemia Clinical Research Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Hematology Human Genome Lymphatic Research Lymphoma Pancreatic Cancer Pediatric Pediatric Cancer Pediatric Research Initiative Rare Diseases Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Stem Cell Research - Nonembryonic - Human Transplantation",
+  "grant_keywords": ""
+}

@@ -1,0 +1,123 @@
+{
+  "discoveryId": "16379",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 69,
+      "favourites": 0
+    }
+  },
+  "lastName": "Puga",
+  "firstName": "Frank",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16379-frank-puga",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "firstNameLastName": "Frank Puga",
+  "equipmentLinkTypes": [],
+  "objectId": 16379,
+  "updatedWhen": "2025-05-10T08:15:54.5932258-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mental Health",
+          "Health"
+        ],
+        "value": "Mental Health"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "fpuga@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Cancer Caregiving Research Clinical Research Clinical Trials and Supportive Activities Dementia Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Lewy Body Dementia Mental Health Mental Illness Mind and Body Minority Health Neurodegenerative Neurosciences Social Determinants of Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Dementia Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Neurodegenerative Neurosciences Prevention Rural Health Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Violence Research Women's Health Workforce Diversity and Outreach"
+}

@@ -1,0 +1,126 @@
+{
+  "lastName": "Wende",
+  "overview": "Since 2000, Dr. Wende has explored the regulation of metabolism and mitochondrial function with a specific focus on glucose utilization in heart and muscle. After completing his undergraduate biochemistry degree and an Honors Thesis with Dr. Mark R. Brodl at Knox College in Galesburg, IL he went on to undertake his Ph.D. training in the Cardiology Department as part of the Division of Biology and Biomedical Sciences at Washington University in St. Louis, MO studying transcriptional regulation with Dr. Daniel P. Kelly. After completing his thesis work in the spring of 2006, he joined the University of Utah to pursue his postdoctoral studies with Dr. E. Dale Abel examining upstream regulation by cellular signaling and the resulting changes in mitochondrial physiology. Then in August of 2013, he joined the faculty at The University of Alabama at Birmingham in the Division of Molecular and Cellular Pathology as an Assistant Professor. His work has been funded by the American Heart Association, the JDRF, and most recently by an NIH R01 award. With these training experiences he has expanded his independent research program through use of transgenic and diabetes mouse models to identify molecular and genetic mechanisms of glucose-mediated control of mitochondrial function. His outside interests include time with his wife and two daughters and running marathons.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2146-adam-wende",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "2146",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 108,
+      "favourites": 9
+    }
+  },
+  "firstName": "Adam",
+  "firstNameLastName": "Adam Wende",
+  "equipmentLinkTypes": [],
+  "objectId": 2146,
+  "updatedWhen": "2025-05-10T08:06:50.7368340-05:00",
+  "hasCollaborationData": true,
+  "email": "arwende@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Biotechnology Cardiovascular Clinical Research Diabetes Genetics Heart Disease Heart Disease - Coronary Heart Disease Human Genome Nutrition Women's Health",
+  "grant_keywords": "Aging Autoimmune Disease Biotechnology Cardiovascular Diabetes Genetics Heart Disease Heart Disease - Coronary Heart Disease Human Genome Nutrition Sleep Research"
+}

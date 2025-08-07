@@ -1,0 +1,122 @@
+{
+  "discoveryId": "1935",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 37,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 185,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 18,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 228,
+      "favourites": 0
+    }
+  },
+  "lastName": "Szychowski",
+  "firstName": "Jeff",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1935-jeff-szychowski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Jeff Szychowski",
+  "equipmentLinkTypes": [],
+  "objectId": 1935,
+  "updatedWhen": "2025-05-10T08:06:12.4129967-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Econometrics"
+        ],
+        "value": "Econometrics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jszychow@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Conditions Affecting the Embryonic and Fetal Periods Contraception/Reproduction Diabetes Dissemination and Implementation Research HIV/AIDS Health Services Hematology Hypertension Infectious Diseases Maternal Health Mental Health Pediatric Pediatric AIDS Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Contraception/Reproduction Dissemination and Implementation Research Genetics Health Services Heart Disease Human Genome Hypertension Maternal Health Maternal Morbidity and Mortality Nutrition Pediatric Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Social Determinants of Health Women's Health"
+}

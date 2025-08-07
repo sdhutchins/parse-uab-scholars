@@ -1,0 +1,124 @@
+{
+  "lastName": "Pavela",
+  "overview": "My research examines the determinants and consequences of body weight and weight-related outcomes.  There are two broad lines to my research: (1) examining the effect of early life experiences on the health and obesity of midlife and older adults; and (2) examining the effect of social status on weight-related outcomes, including obesity and dietary behaviors. The objective of my research is to improve causal inferences about the determinants of consequences of body weight and identify factors—such as perceived social status—which complement the design of weight management behavioral interventions.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3203-gregory-pavela",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor & Associate Dean",
+      "department": "Health Behavior"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "3203",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 276,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 60,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 78,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gregory",
+  "firstNameLastName": "Gregory Pavela",
+  "equipmentLinkTypes": [],
+  "objectId": 3203,
+  "updatedWhen": "2025-05-10T08:09:04.9403191-05:00",
+  "hasCollaborationData": true,
+  "email": "pavela@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Prevention Rural Health Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Suicide Suicide Prevention Women's Health",
+  "grant_keywords": "Behavioral and Social Science Nutrition Obesity Prevention"
+}

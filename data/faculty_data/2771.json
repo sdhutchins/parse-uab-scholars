@@ -1,0 +1,100 @@
+{
+  "discoveryId": "2771",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 56,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "lastName": "Stepanikova",
+  "firstName": "Irena",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2771-irena-stepanikova",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Irena Stepanikova",
+  "equipmentLinkTypes": [],
+  "objectId": 2771,
+  "updatedWhen": "2025-05-10T08:08:22.0347711-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "irena@uab.edu",
+  "publication_keywords": "American Indian or Alaska Native Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Caregiving Research Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Major Depressive Disorder Maternal Health Maternal Morbidity and Mortality Mental Health Mental Illness Minority Health Pregnancy Prevention Regenerative Medicine Rehabilitation Serious Mental Illness Social Determinants of Health Transplantation Women's Health",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Services Minority Health"
+}

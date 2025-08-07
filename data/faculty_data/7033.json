@@ -1,0 +1,122 @@
+{
+  "lastName": "Thyme",
+  "overview": "My long-term research goals are to uncover the molecular basis of complex neurodevelopmental and neuropsychiatric diseases and eventually create therapies. I have a broad background in biochemistry, molecular biology, and neurobiology. To gain a fundamental understanding of protein structure and function and the skills to engineer therapeutics, I joined David Baker’s protein modeling lab for my graduate studies (2006-2012). I fused computational and experimental approaches to redesign biomolecular interactions, mastering a wide range of techniques including enzymology, directed protein evolution, multiple coding languages, and high-throughput computing.\n\nAs a Damon Runyon Postdoctoral Research Fellow and K99 recipient in Dr. Alexander Schier’s lab (2012-2019), I established expertise with zebrafish and laid the groundwork for my proposed research on the pathways regulated by genes associated with psychiatric disorders. Zebrafish is an ideal model vertebrate for large-scale genetic and neurodevelopmental studies, as well as high-throughput drug screens. I generated over a hundred zebrafish mutants for schizophrenia-associated genes and assessed their brain activity, brain structure, and behavior. In preparing for this screen, I optimized the efficiency of Cas9-mediated mutagenesis in zebrafish, uncovered rules for Cas9 gRNA design, and made an unexpected discovery about embryonic DNA repair. From the study of over a hundred mutants, I uncovered shared phenotypes and phenotypes that relate to patient physiology, including altered forebrain development and decreased prepulse inhibition. These findings highlighted the most likely candidates in multi-gene loci and prioritized genes for further study. This screen provided the foundation for my independent lab, as I will now decipher the detailed molecular and developmental functions of the most interesting candidates.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7033-summer-thyme",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "7033",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 27,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 2
+    }
+  },
+  "firstName": "Summer",
+  "firstNameLastName": "Summer Thyme",
+  "equipmentLinkTypes": [],
+  "objectId": 7033,
+  "updatedWhen": "2025-05-10T08:14:00.1791135-05:00",
+  "hasCollaborationData": true,
+  "email": "sthyme@uab.edu",
+  "publication_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Down Syndrome Genetics Human Genome Intellectual and Developmental Disabilities (IDD) Mental Health Neurosciences Pediatric",
+  "grant_keywords": "Clinical Research Genetics Human Genome"
+}

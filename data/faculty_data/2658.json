@@ -1,0 +1,125 @@
+{
+  "lastName": "Simanyi",
+  "overview": "I am a professor of mathematics at the University of Alabama at Birmingham.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2658-nandor-simanyi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pure Mathematics",
+          "Mathematics"
+        ],
+        "value": "Pure Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mathematical Physics",
+          "Physics"
+        ],
+        "value": "Mathematical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Numerical and Computational Mathematics",
+          "and Computational Mathematics",
+          "Computational Mathematics",
+          "Mathematics"
+        ],
+        "value": "Numerical and Computational Mathematics"
+      }
+    ]
+  },
+  "discoveryId": "2658",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 165,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 51,
+      "favourites": 30
+    }
+  },
+  "firstName": "Nandor",
+  "firstNameLastName": "Nandor Simanyi",
+  "equipmentLinkTypes": [],
+  "objectId": 2658,
+  "updatedWhen": "2025-05-10T08:08:00.9889992-05:00",
+  "hasCollaborationData": false,
+  "email": "simanyi@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

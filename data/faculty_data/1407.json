@@ -1,0 +1,59 @@
+{
+  "discoveryId": "1407",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 69,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kaur",
+  "firstName": "Maninder",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1407-maninder-kaur",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Periodontology"
+    }
+  ],
+  "firstNameLastName": "Maninder Kaur",
+  "equipmentLinkTypes": [],
+  "objectId": 1407,
+  "updatedWhen": "2025-05-10T08:05:25.8102411-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "maninder@uab.edu",
+  "publication_keywords": "Bioengineering Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Infant Mortality Infectious Diseases Maternal Health Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Prevention Transplantation Women's Health",
+  "grant_keywords": "Bioengineering Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dental/Oral and Craniofacial Disease Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Patient Safety Primary Health Care Rehabilitation"
+}

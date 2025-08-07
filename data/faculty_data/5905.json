@@ -1,0 +1,129 @@
+{
+  "discoveryId": "5905",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 53,
+      "favourites": 0
+    }
+  },
+  "lastName": "Verma",
+  "firstName": "Suresh",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5905-suresh-verma",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Suresh Verma",
+  "equipmentLinkTypes": [],
+  "objectId": 5905,
+  "updatedWhen": "2025-05-10T08:12:38.7070458-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sverma@uab.edu",
+  "publication_keywords": "Atherosclerosis Autoimmune Disease Biotechnology Cancer Cardiovascular Digestive Diseases Genetics Heart Disease Heart Disease - Coronary Heart Disease Microbiome Prevention Stem Cell Research",
+  "grant_keywords": "Biotechnology Cardiovascular Diabetes Heart Disease Heart Disease - Coronary Heart Disease Hematology Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human"
+}

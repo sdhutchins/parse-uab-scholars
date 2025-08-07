@@ -1,0 +1,123 @@
+{
+  "lastName": "Bell",
+  "overview": "Dr. Camilla (Margaroli) Bell received her master degree in Medical Biology at the University of Lausanne (Switzerland) in 2015, and her PhD in Immunology and Molecular Pathogenesis in 2019 from the Graduate Division of Biological and Biomedical Sciences at Emory University (Atlanta, GA). During her thesis in Dr. Tirouvanziam’s group, Dr. Bell studied the mechanisms leading to neutrophil plasticity in chronic diseases, with a primary focus on lung inflammation in infants and adults affected by cystic fibrosis. She continued working on mechanisms regulating airway inflammation upon infection (including SARS-CoV-2) during her postdoctoral training in Dr. Amit Gaggar’s group at the University of Alabama at Birmingham (UAB). \n\nCurrently, Dr. Bell is an assistant professor in the Department of Pathology at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "9234-camilla-bell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "9234",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 52,
+      "favourites": 0
+    }
+  },
+  "firstName": "Camilla",
+  "firstNameLastName": "Camilla Bell",
+  "equipmentLinkTypes": [],
+  "objectId": 9234,
+  "updatedWhen": "2025-05-10T08:14:46.2103192-05:00",
+  "hasCollaborationData": true,
+  "email": "cmarga@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Genetics Heart Disease Heart Disease - Coronary Heart Disease Human Genome Infant Mortality Lung Neonatal Respiratory Distress Orphan Drug Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases Tobacco Tobacco Smoke and Health",
+  "grant_keywords": ""
+}

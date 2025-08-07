@@ -1,0 +1,122 @@
+{
+  "discoveryId": "956",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sims",
+  "firstName": "Brian",
+  "hasThumbnail": false,
+  "discoveryUrlId": "956-brian-sims",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Neonatology"
+    }
+  ],
+  "firstNameLastName": "Brian Sims",
+  "equipmentLinkTypes": [],
+  "objectId": 956,
+  "updatedWhen": "2025-05-10T08:04:23.0585538-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nanotechnology"
+        ],
+        "value": "Nanotechnology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bsimsmd@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Breastfeeding, Lactation and Breast Milk Cancer Clinical Research Congenital Structural Anomalies Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infant Mortality Infectious Diseases Kidney Disease Lung Minority Health Neonatal Respiratory Distress Neurosciences Organ Transplantation Orphan Drug Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases Transplantation",
+  "grant_keywords": ""
+}

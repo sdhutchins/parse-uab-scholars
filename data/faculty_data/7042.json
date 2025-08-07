@@ -1,0 +1,117 @@
+{
+  "lastName": "Wadhwa",
+  "overview": "Aman Wadhwa, MD MSPH is a pediatric hematologist and oncologist whose research interests are rooted in understanding factors that increase morbidity and mortality among survivors of cancer as well as blood and marrow transplantation (BMT).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7042-aman-wadhwa",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pediatric - Hematology-Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "7042",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 48,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "firstName": "Aman",
+  "firstNameLastName": "Aman Wadhwa",
+  "equipmentLinkTypes": [],
+  "objectId": 7042,
+  "updatedWhen": "2025-05-10T08:14:00.1851155-05:00",
+  "hasCollaborationData": true,
+  "email": "awadhwa@uab.edu",
+  "publication_keywords": "Cancer Childhood Leukemia Childhood Obesity Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Lymphatic Research Lymphoma Nutrition Obesity Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Transplantation",
+  "grant_keywords": ""
+}

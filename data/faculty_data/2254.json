@@ -1,0 +1,128 @@
+{
+  "discoveryId": "2254",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 81,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 101,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 212,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ramanadham",
+  "firstName": "Sasanka",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2254-sasanka-ramanadham",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Sasanka Ramanadham",
+  "equipmentLinkTypes": [],
+  "objectId": 2254,
+  "updatedWhen": "2025-05-10T08:07:03.7810935-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sramvem@uab.edu",
+  "publication_keywords": "Autoimmune Disease Brain Cancer Brain Disorders Cancer Diabetes Genetics Health Disparities Immunotherapy Minority Health Neurosciences Nutrition Obesity Orphan Drug Pediatric Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": "Autoimmune Disease Diabetes Pediatric Prevention Transplantation"
+}

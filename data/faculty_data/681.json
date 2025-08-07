@@ -1,0 +1,126 @@
+{
+  "lastName": "Gaffo",
+  "overview": "Angelo L. Gaffo is the section chief of Rheumatology at the Birmingham VA Medical Center and Associate Professor of Medicine in the Division of Rheumatology at the University of Alabama at Birmingham (UAB). He graduated from Medical School in 1999 in his native Lima, Peru and moved to the United States to complete training in Internal Medicine (UAB), Rheumatology (UAB), Public Health (earning a master’s degree at the UAB School of Public Health), and Quality Improvement science (Birmingham VA) in 2009. After joining the Birmingham VA and UAB he has developed his research interest in genetics, pathogenesis, clinical, and therapeutic aspects of gout and hyperuricemia. He was been in charge of the effort to develop a definition for flares in patients with gout, which was validated and published in 2017. He continues to be active in the research of how gout flares are reported and analyzed in clinical research. He has been the leading investigator in a R01-level grant as part of a NIAMS funded P50 program and UAB Center of Research Translation in gout and hyperuricemia. He maintains a busy gout clinical practice at the Birmingham VA Medical Center and a second clinical practice focused on complex autoimmunity at UAB. In addition, he has a long-standing interest in rheumatology education. As the associate director for UAB Rheumatology fellowship program, he collaborates and mentors rheumatology fellows and internal medicine residents to conduct quality improvement projects and pursue a variety of research clinical interests at the Birmingham VA and UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "681-angelo-gaffo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "681",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 7
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 92,
+      "favourites": 0
+    }
+  },
+  "firstName": "Angelo",
+  "firstNameLastName": "Angelo Gaffo",
+  "equipmentLinkTypes": [],
+  "objectId": 681,
+  "updatedWhen": "2025-05-10T08:03:50.0180813-05:00",
+  "hasCollaborationData": true,
+  "email": "agaffo@uab.edu",
+  "publication_keywords": "Aging Arthritis Autoimmune Disease Cardiovascular Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dietary Supplements Health Disparities Heart Disease Heart Disease - Coronary Heart Disease Minority Health Nutrition Rare Diseases Rheumatoid Arthritis Women's Health",
+  "grant_keywords": ""
+}

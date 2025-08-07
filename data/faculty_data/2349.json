@@ -1,0 +1,124 @@
+{
+  "lastName": "Kilgo",
+  "overview": "Dr. Jennifer Kilgo is a professor of Early Childhood Special Education (ECSE), and has been employed at UAB since 1995. She holds a B.S. in Psychology from Auburn University, teacher certification in Early Childhood/Elementary Education, an M.A. in Special Education, and certification in Administration from UAB; and a doctoral degree in Early Intervention/Early Childhood Special Education from the University of Alabama. Prior to her appointment to the faculty at UAB, she taught at Virginia Commonwealth University (VCU) and the University of Hawaii. As a professor at UAB and the director of the Project TransTeam grants, she enjoys teaching graduate students representing a variety of disciplines (e.g., ECSE, physical therapy, occupational therapy) that are passionate about learning to provide team-based services to young children with special needs and their families. \n\nDr. Kilgo has been involved in Early Intervention/Early Childhood Special Education for close to 40 years. Before becoming a higher education faculty member, she provided direct services to young children with disabilities and their families in various community agencies and school settings. Also, Dr. Kilgo worked as the lead teacher for an early intervention/education program at the University of Alabama, the RISE Program of the Stallings Center. In this role, she was responsible for coordinating assessment, intervention, and transdisciplinary team functions, as well as supervising interns representing multiple disciplines. Her experience in providing direct services to young children and their families informed her ability to teach others, as well as her interest in various scholarly activities.\n\nDr. Kilgo has had the opportunity to be involved on the state, national, and international levels in service, scholarship, and personnel preparation activities. For example, she has held leadership positions including serving as the President of the Division for Early Childhood (DEC) of the international Council for Exceptional Children (CEC). She is engaged in numerous DEC activities and serves in a variety of capacities. Additionally, she has been a member of the editorial review board for leading national journals, served as the principal investigator of numerous federally funded grants, and delivered many presentations at conferences throughout the country. Additionally, Dr. Kilgo conducts ongoing research and continues to write journal articles, chapters, and books, with the major focus of her work being on interprofessional education, recommended practices in ECSE, transdisciplinary teaming, and family-centered services. Dr. Kilgo was honored to be designated as a University Professor in 2013. The criteria for this honor includes \"numerous achievements and extensive recognition in the individual's chosen professional field, and academic competence to enable her to undertake cross-departmental, cross-disciplinary activities in research and teaching and community service.\" Other honors include receiving the UAB Sam Brown Bridge Builder Award in 2013 and the UAB President’s Excellence in Teaching Award in 2016.\n\nDr. Kilgo has a daughter and a large extended family. She enjoys spending time with family and friends. Her favorite time of year is Christmas when she entertains the entire family and numerous friends at her home. She also has a variety of personal interests: traveling (to the beach, large cities, and internationally), cooking (is a member of a cooking club), entertaining, decorating, dancing, exercising, reading, and shopping. Dr. Kilgo is passionate about her work and personal interests; thus, she never has to worry about being bored!",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2349-jennifer-kilgo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "University Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Studies in Human Society",
+          "Studies in Human Society",
+          "in Human Society",
+          "Human Society",
+          "Society"
+        ],
+        "value": "Other Studies in Human Society"
+      }
+    ]
+  },
+  "discoveryId": "2349",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 290,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jennifer",
+  "firstNameLastName": "Jennifer Kilgo",
+  "equipmentLinkTypes": [],
+  "objectId": 2349,
+  "updatedWhen": "2025-05-10T08:07:28.8350188-05:00",
+  "hasCollaborationData": false,
+  "email": "jkilgo@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Health Disparities and Racial or Ethnic Minority Health Research Minority Health Pediatric Pediatric Research Initiative Prevention",
+  "grant_keywords": ""
+}

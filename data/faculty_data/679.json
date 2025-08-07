@@ -1,0 +1,44 @@
+{
+  "discoveryId": "679",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Fine",
+  "firstName": "Philip",
+  "hasThumbnail": false,
+  "discoveryUrlId": "679-philip-fine",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "firstNameLastName": "Philip Fine",
+  "equipmentLinkTypes": [],
+  "objectId": 679,
+  "updatedWhen": "2025-05-10T08:03:50.0180813-05:00",
+  "hasCollaborationData": false,
+  "email": "rfine@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

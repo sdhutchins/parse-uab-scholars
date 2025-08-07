@@ -1,0 +1,127 @@
+{
+  "lastName": "Peterson",
+  "overview": "Dr. Peterson is an internationally recognized researcher in the field of intermittent fasting. Her research focuses on daily intermittent fasting, which is also known as time-restricted eating (TRE). She is the PI of several clinical trials on TRE and serves as a co-investigator or consultant on a handful of other studies on intermittent fasting.. She was the first to test early time-restricted eating (early TRE or eTRE) in humans--a version of TRE that involves eating early in the day to be in alignment with circadian rhythms in metabolism.  Moreover, she is currently is the PI of the largest randomized controlled trial of intermittent fasting in humans—a 344-person study in adults with type 2 diabetes. Having trained in metabolism and nutrition at Pennington Biomedical Research Center and in chronobiology at Brigham and Women’s Hospital, the goal of her research is to develop novel dietary interventions involving intermittent fasting, chronobiology, and diet quality to treat cardiometabolic diseases such as type 2 diabetes and obesity. As secondary interests, she also performs mathematical modeling of body composition and metabolic data. Her research has been featured in more than 50 media outlets, including NBC Nightly News, The New York Times, The Washington Post, Wall Street Journal, Good Morning America, the BBC, and Scientific American, and has reached a circulation of more than 104 million people around the world.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3393-courtney-peterson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "3393",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 62,
+      "favourites": 0
+    }
+  },
+  "firstName": "Courtney",
+  "firstNameLastName": "Courtney Peterson",
+  "equipmentLinkTypes": [],
+  "objectId": 3393,
+  "updatedWhen": "2025-05-10T08:09:28.0155034-05:00",
+  "hasCollaborationData": true,
+  "email": "cpeterso@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Digestive Diseases Health Disparities Minority Health Nutrition Obesity Physical Activity Prevention Sleep Research",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Health Disparities Heart Disease Minority Health Nutrition Obesity Prevention Women's Health"
+}

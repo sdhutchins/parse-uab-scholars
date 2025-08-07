@@ -1,0 +1,61 @@
+{
+  "lastName": "Causey",
+  "overview": "Cora Brasfield Causey is an assistant professor in the School of Education at the University of Alabama at Birmingham. She designs and delivers professional early literacy, math, and science learning for practicing and preservice early childhood educators.  Her research is focused on the development of logical reasoning and how such reasoning can be facilitated as a foundation for learning.   As a former kindergarten and first-grade teacher, she is the site director for an urban summer enrichment program.  She is the founder and current director of the undergraduate Honors program, leading pre-service students in classroom research. As an Early Childhood leader, she serves various local, state, and national groups.  She enjoys serving on the national level as a Peer Reviewer for the NAEYC Accreditation of Early Childhood Higher Education Programs and the NAEYC National Recognition and Council for the Accreditation of Educator Preparation.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2337-cora-causey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      }
+    ]
+  },
+  "discoveryId": "2337",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 196,
+      "favourites": 1
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 24,
+      "favourites": 0
+    }
+  },
+  "firstName": "Cora",
+  "firstNameLastName": "Cora Causey",
+  "equipmentLinkTypes": [],
+  "objectId": 2337,
+  "updatedWhen": "2025-05-10T08:07:17.6994855-05:00",
+  "hasCollaborationData": true,
+  "email": "ccausey@uab.edu",
+  "publication_keywords": "Clinical Research Pediatric Research Initiative",
+  "grant_keywords": ""
+}

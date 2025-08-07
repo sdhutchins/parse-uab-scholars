@@ -1,0 +1,126 @@
+{
+  "discoveryId": "2438",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 395,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 16,
+      "favourites": 0
+    }
+  },
+  "lastName": "Foley",
+  "firstName": "Robin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2438-robin-foley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Engineering"
+    }
+  ],
+  "firstNameLastName": "Robin Foley",
+  "equipmentLinkTypes": [],
+  "objectId": 2438,
+  "updatedWhen": "2025-05-10T08:07:39.3299244-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Manufacturing Engineering",
+          "Engineering"
+        ],
+        "value": "Manufacturing Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rfoley@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

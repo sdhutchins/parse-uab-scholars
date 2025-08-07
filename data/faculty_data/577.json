@@ -1,0 +1,129 @@
+{
+  "lastName": "Saag",
+  "overview": "I am Associate Dean for Global Health in the School of Medicine, Director of the UAB Center for AIDS Research and a Professor of Medicine in the Division of Infectious Diseases. I am also the principal investigator of the CFAR Network of Integrated Clinical Systems (CNICS), an NIAID-funded National Network of EMR-collected clinical data at 8 CFAR centers that are merged for the purposes of clinical research. I am the founding director of the UAB 1917 HIV Clinic, which has pioneered treatment programs based on real world clinical trials and studies focused on quality improvement in the area of HIV. I serve as Co-PI of the NA-ACCORD, an international collaboration of more than 30 sites that merge data for comparative effectiveness research, and also serve on the Executive Steering Committee of the ART-CC, an international cohort research group. I have served on the Board of Directors of the American Board of Internal Medicine (and as Chair of the Infectious Disease Subspecialty Board) and the NIH Office of AIDS Research Advisory Council. I am past President of the HIV Medical Association, a member and current Chair of the IAS-USA Guidelines Panel on Antiretroviral Therapy, a Co-Chair of the AASLD/IDSA/IAS-USA HCV Treatment Guidelines group, and serve on numerous state, local, and national committees. I am Co-Editor of the Sanford Guide for Antimicrobial Therapy and the Sanford HIV Guide and the Sanford Hepatitis Guide.  I have had over 25 trainees who have gone on to successful academic careers and I have published over 450 manuscripts during the course of my career. In 1996, I was listed as one of the top ten cited HIV researchers by Science (1996) and received seven Argus Awards for Best Lectures to the 1st year medical student at UAB (2009-10,2013,2015-17). In 2014 I was selected as the Castle-Connelly Physician of the year and was inducted into the Alabama Healthcare Hall of Fame. In 2014, I published a memoir “Positive: One Doctors encounters with Death, Life, and the US Healthcare System.”  (http://www.positivethebook.com)",
+  "hasThumbnail": true,
+  "discoveryUrlId": "577-michael-saag",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mathematical Physics",
+          "Physics"
+        ],
+        "value": "Mathematical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "577",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 182,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 36,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 688,
+      "favourites": 87
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Saag",
+  "equipmentLinkTypes": [],
+  "objectId": 577,
+  "updatedWhen": "2025-05-10T08:03:25.3432484-05:00",
+  "hasCollaborationData": true,
+  "email": "msaag@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Infectious Diseases Nutrition Obesity Physical Activity Prevention Sexually Transmitted Infections Social Determinants of Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Immunization Infectious Diseases Prevention Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS)"
+}

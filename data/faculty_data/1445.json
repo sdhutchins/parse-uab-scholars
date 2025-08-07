@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1445",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 328,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Steele",
+  "firstName": "Elizabeth",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1445-elizabeth-steele",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Elizabeth Steele",
+  "equipmentLinkTypes": [],
+  "objectId": 1445,
+  "updatedWhen": "2025-05-10T08:05:25.8369190-05:00",
+  "hasCollaborationData": false,
+  "email": "bsteele@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

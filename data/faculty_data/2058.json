@@ -1,0 +1,109 @@
+{
+  "lastName": "Lefkowitz",
+  "overview": "As a Professor of Microbiology at the University of Alabama at Birmingham (UAB), my research interests include deriving a better understanding of the processes and consequences of microbial evolution and how microbial  sequence variation impacts that evolution. I am also interested in the role that microbes play in human health and disease. To pursue these interests my lab focuses on bioinformatics analysis – the development and use of computational tools to analyze biological data. My interests in bioinformatics also impacts my educational activities since I serve as Co-Director of the UAB Undergraduate Bioinformatics Program. Bioinformatics also guides my service responsibilities that include serving as Director of Bioinformatics for the UAB Center for Clinical and Translational Sciences (CCTS), an NIH/NCATS Clinical and Translational Science Award site and as Director of the Bioinformatics Core for the UAB Microbiome Facility. Previously, I have also served as Director of the UAB AIDS Center (CFAR) Bioinformatics Facility enabled the formation of the CCTS and Microbiome facilities. As Director of these Informatics facilities, I oversee a team of Bioinformaticians and Systems Analysts who work and collaborate with UAB investigators to provide them with the broad range of tools and expertise necessary to support all of their informatics needs. These responsibilities extend to the development of UAB’s overall informatics programs, including oversight and support of activities related to research, service and education. We assist investigators in the analysis of a wide range of data types including those derived from the use of next generation sequencing, including whole genome, exome, transcriptome, microbiome, and metagenomic sequence data. Since 2011 our work serving as the analytical component of the UAB Microbiome Facility has included development of an automated analytical pipeline for the processing and visualization of 16S rRNA sequencing data, as well as a similar pipeline for the processing of shotgun metagenomic data. These pipelines provide an initial report detailing the microbial population present in investigator samples and are followed by customized, more detailed analyses investigating the significance of differences identified between samples. Our provision of bioinformatics support helps to ensure that each individual and laboratory can maximize their ability to publish and obtain funding, and especially to derive biological knowledge and meaning from their data. \n\nMy own personal research interests are directed at contributing to the understanding of microbial genomics and evolution by developing and utilizing computational tools and bioinformatics techniques to mine sequence and other data for significant patterns characteristic of function and/or evolution. This includes research on the genomics and evolutionary history of many virus species, as well as the complete genomic sequencing and annotation of various bacterial species. I have been part of the teams that have sequenced the complete genomes of ectromelia virus, monkeypox virus, rabbitpox virus, Ureaplasma urealyticum, Streptococcus pneumoniae strain R6, and Mycoplasma hyopneumoniae. My work on basic bioinformatics tool development has included the development of new algorithms for the detection of viral regulatory motifs; tools for the identification of viral genes; the development and utilization of High-Performance Computing tools for bioinformatics analysis; and the development and use of tools for analyzing patterns of viral evolution. I was the first Principal Investigator of the Viral Bioinformatics Resource Center, an NIH-sponsored effort to develop Bioinformatics Resource Centers (BRCs) for Biodefense and Emerging or Re-Emerging Infectious Diseases. I also serve as Data Secretary for the International Committee on Taxonomy of Viruses (ICTV). In this role, I provide support to the ICTV for handling of viral taxonomy proposals; communicate the results of ICTV deliberations to the scientific community; and interact with various international agencies such as the NIH National Center for Biotechnology Information to incorporate the official, ICTV virus taxonomy into their own taxonomic databases.\n\nMore recently, my research interests have included a focus on the role that populations of microorganisms (the microbiota) play in health and disease by looking for associations between the populations of microbial genomes present in an environment or host (the microbiome) and phenotypic data describing that environment or host. Our work in this area encompasses both laboratory and clinical studies as well as the development of bioinformatics tools to support the analysis of the collected data.\n\nIn addition to my research and service activities, I am also responsible for providing educational opportunities to campus investigators to enhance their knowledge, understanding, and application of informatics data and analytical tools in support of their own research interests. These opportunities include the organization and participation in for-credit courses covering various aspects of informatics education; organization of seminars and workshops targeted to specific informatics problems; providing informatics training opportunities to students, fellows, and staff from across campus; and supporting the integration of informatics training opportunities into campus NIH training (T) and development (K) award programs. I have personally mentored graduate students and postgraduate fellows throughout my research career. This includes students obtaining their degree in my own lab; serving on student dissertation committees; mentoring students on training grants; and mentoring fellows seeking and working on development awards. I am currently a mentor for four K-award scholars. I also serve as Co-Director of the UAB Undergraduate Bioinformatics Bachelor’s-degree Program. This program provides undergraduate students with the opportunity to take classes from and perform research with faculty in the UAB School of Medicine and faculty in the UAB College of Arts and Sciences who have expertise in Bioinformatics, Computational Biology, Data Science, and Computer Science.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2058-elliot-lefkowitz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      },
+      {
+        "paths": [
+          [
+            "Microbiology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbial Genetics",
+          "Genetics"
+        ],
+        "value": "Microbial Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Microbiology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Virology"
+        ],
+        "value": "Virology"
+      }
+    ]
+  },
+  "discoveryId": "2058",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 43,
+      "favourites": 4
+    },
+    "teachingActivities": {
+      "all": 102,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 36,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 225,
+      "favourites": 0
+    }
+  },
+  "firstName": "Elliot",
+  "firstNameLastName": "Elliot Lefkowitz",
+  "equipmentLinkTypes": [],
+  "objectId": 2058,
+  "updatedWhen": "2025-05-10T08:06:35.9540180-05:00",
+  "hasCollaborationData": true,
+  "email": "elliotl@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Cancer Cancer Genomics Clinical Research Colo-Rectal Cancer Digestive Diseases Emerging Infectious Diseases Genetics Health Disparities Human Genome Immunotherapy Infectious Diseases Microbiome Minority Health Nutrition Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

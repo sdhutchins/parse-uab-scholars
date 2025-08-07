@@ -1,0 +1,126 @@
+{
+  "lastName": "Beck",
+  "overview": "Dr. Beck earned his medical degree from the UAB School of Medicine, and then completed his general surgery residency training and a surgical oncology research fellowship at the University of Texas-Southwestern Medical Center. He trained in vascular surgery at the Dartmouth-Hitchcock Medical Center and then completed a fellowship in advanced endovascular techniques, including branched and fenestrated endografts for aortic aneurysmal disease, at the University Medical Center of Groningen in The Netherlands.\n\nPrior to joining UAB, Dr. Beck was on faculty at University of Florida. His clinical interests span the field of vascular surgery, including open surgery and endovascular therapy for aortic, cerebrovascular, mesenteric and peripheral artery disease, with a specific interest in complex aortic disease, including aortic dissection, suprarenal and thoracoabdominal aortic aneurysms. Dr. Beck is actively involved in clinical research and is specifically working to develop new medical devices that are tailored to individual patients. He is also interested in surgical outcomes research.\n\nDr. Beck serves as a member of the Southeastern Vascular Study Group, which is a part of the Vascular Quality Initiative. The SEVSG is a cooperative group of clinicians, hospital administrators and research personnel organized to improve the care of patients with vascular disease in the states of Florida, Georgia, Alabama and Mississippi.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3573-adam-beck",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Vascular Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "3573",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 478,
+      "favourites": 0
+    }
+  },
+  "firstName": "Adam",
+  "firstNameLastName": "Adam Beck",
+  "equipmentLinkTypes": [],
+  "objectId": 3573,
+  "updatedWhen": "2025-05-10T08:09:49.3140675-05:00",
+  "hasCollaborationData": true,
+  "email": "abeck@uab.edu",
+  "publication_keywords": "Aging Biomedical Imaging Cardiovascular Chronic Pain Clinical Research Neurosciences Pain Research Patient Safety Physical Injury - Accidents and Adverse Effects Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "discoveryId": "5326",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 126,
+      "favourites": 0
+    }
+  },
+  "lastName": "Galli",
+  "firstName": "Aurelio",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5326-aurelio-galli",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Gastrointestinal Section"
+    }
+  ],
+  "firstNameLastName": "Aurelio Galli",
+  "equipmentLinkTypes": [],
+  "objectId": 5326,
+  "updatedWhen": "2025-05-10T08:12:12.0943440-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "agalli@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cocaine Complementary and Integrative Health Dietary Supplements Digestive Diseases Drug Abuse (NIDA only) Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Liver Disease Mental Health Methamphetamine Microbiome Minority Health Neurosciences Nutrition Prescription Drug Abuse Stimulant Use and Misuse Substance Misuse",
+  "grant_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Digestive Diseases Drug Abuse (NIDA only) Genetics Intellectual and Developmental Disabilities (IDD) Liver Disease Mental Health Neurosciences Nutrition Obesity Pediatric Prescription Drug Abuse Prevention Substance Misuse"
+}

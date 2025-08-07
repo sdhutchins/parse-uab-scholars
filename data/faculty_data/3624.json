@@ -1,0 +1,125 @@
+{
+  "lastName": "Shorten",
+  "overview": "Dr. Allison Shorten, Professor in Nursing, serves as Director of UAB Office of Interprofessional Curriculum. An Australian registered nurse and midwife, Dr. Shorten is internationally recognized for her trailblazing Birth Choices decision aid research. A fellow of the Australian College of Midwives, she has made significant contributions to the midwifery profession and international research supporting shared decision making in pregnancy. Dr. Shorten, an expert in evidence based curriculum design, is known for her dynamic and innovative approaches to support student learning, and dedication to teaching excellence and mentorship.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3624-allison-shorten",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "3624",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 44,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 234,
+      "favourites": 0
+    }
+  },
+  "firstName": "Allison",
+  "firstNameLastName": "Allison Shorten",
+  "equipmentLinkTypes": [],
+  "objectId": 3624,
+  "updatedWhen": "2025-05-10T08:09:49.3530704-05:00",
+  "hasCollaborationData": true,
+  "email": "ashorten@uab.edu",
+  "publication_keywords": "Clinical Research Health Services Infant Mortality Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period",
+  "grant_keywords": ""
+}

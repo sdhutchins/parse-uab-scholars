@@ -1,0 +1,121 @@
+{
+  "lastName": "Ghanta",
+  "overview": "I am originally from Southern part of India and came to Duke University to study for my Ph.D. in Biochemistry. I was very lonely at Duke and went through a major cultural shock — my English was not fluent and also, because I am a vegetarian, I didn’t know what or where to eat. I transferred to Southern Illinois University and worked with an outstanding scientist and very friendly group of graduate students. I received my Ph.D. in Biochemistry there; my project dealt with organisms and mechanisms responsible for corn stalk rotting.\n\nAfter completion of my Ph.D., I moved to Birmingham to apply my carbohydrate knowledge to immunoglobulins. My postdoctoral advisor was an accomplished immunologist and an outstanding advisor. Since coming to UAB I have developed several methods to purify antibodies and quantitate cancer burden in mice. I have enjoyed my stay in Birmingham so much so that I never want to leave. Now, after many years of research, I enjoy teaching immunology, the biology of aging, and evolutionary medicine.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2492-vithal-ghanta",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2492",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 206,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 135,
+      "favourites": 0
+    }
+  },
+  "firstName": "Vithal",
+  "firstNameLastName": "Vithal Ghanta",
+  "equipmentLinkTypes": [],
+  "objectId": 2492,
+  "updatedWhen": "2025-05-10T08:07:39.3809268-05:00",
+  "hasCollaborationData": true,
+  "email": "vghanta@uab.edu",
+  "publication_keywords": "Brain Disorders Cancer Cerebrovascular Complementary and Integrative Health Dietary Supplements Lung Lung Cancer Neurosciences Nutrition Obesity Prevention Stroke Women's Health",
+  "grant_keywords": ""
+}

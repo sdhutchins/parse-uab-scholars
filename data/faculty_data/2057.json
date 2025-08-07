@@ -1,0 +1,128 @@
+{
+  "lastName": "Klug",
+  "overview": "Over the last 25 years at UAB, I have dedicated a significant effort toward project leadership and mentoring. I have served as the Ph.D. thesis mentor for 14 graduate students in my own laboratory and have served on 71 other graduate student Ph.D. thesis committees. I have been the K-award mentor of two fellows and have trained other hematology/oncology fellows (2) and postdocs (7), the vast majority of whom continue to work in science-related careers. I have also served as the Co-Director of the Experimental Therapeutics Program within the Comprehensive Cancer Center between 2005-2018, as Associate Director of the Immunology Graduate Program, and as project Leader for the Personalized Medicine signature initiative in acute myeloid leukemia. Collectively, these efforts highlight my sincere and longstanding commitment to mentoring the next generation of scientists and leadership efforts to advance discovery science at UAB.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2057-christopher-klug",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2057",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 91,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 61,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christopher",
+  "firstNameLastName": "Christopher Klug",
+  "equipmentLinkTypes": [],
+  "objectId": 2057,
+  "updatedWhen": "2025-05-10T08:06:35.9530162-05:00",
+  "hasCollaborationData": true,
+  "email": "chrisk@uab.edu",
+  "publication_keywords": "Cancer Childhood Leukemia Digestive Diseases Genetics Hematology Orphan Drug Pancreatic Cancer Pediatric Cancer Pediatric Research Initiative Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Biotechnology Cancer Childhood Leukemia Cooley's Anemia Digestive Diseases Gene Therapy Genetics Hematology Human Genome Orphan Drug Pancreatic Cancer Pediatric Pediatric Cancer Pediatric Research Initiative Rare Diseases Regenerative Medicine Sickle Cell Disease Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Transplantation"
+}

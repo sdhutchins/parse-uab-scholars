@@ -1,0 +1,122 @@
+{
+  "lastName": "Leavenworth",
+  "overview": "Dr. Leavenworth joined UAB Neurosurgery as an Assistant Professor on Oct. 1, 2016. Previously, Dr. Leavenworth was at the Dana-Farber Cancer Institute at Harvard University.  Dr. Leavenworth completed medical school at Nantong University (NTU) School of Medicine, Nantong, Jiangsu, China. She then finished her PhD training in molecular biology, microbiology and biochemistry with a focus on immunology at Southern Illinois University School of Medicine. She was at Harvard Medical School since 2009 serving as a research fellow (Postdoc) and then as an instructor.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3660-jianmei-leavenworth",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurosurgery - Laboratory Research"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "3660",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 35,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 71,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jianmei",
+  "firstNameLastName": "Jianmei Leavenworth",
+  "equipmentLinkTypes": [],
+  "objectId": 3660,
+  "updatedWhen": "2025-05-10T08:09:49.3780747-05:00",
+  "hasCollaborationData": true,
+  "email": "jwleaven@uab.edu",
+  "publication_keywords": "Autism Biotechnology Brain Cancer Brain Disorders Cancer Clinical Research Gene Therapy Genetics HIV/AIDS Immunization Immunotherapy Infectious Diseases Intellectual and Developmental Disabilities (IDD) Mental Health Neuroblastoma Neurosciences Orphan Drug Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases Sexually Transmitted Infections Vaccine Related",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

@@ -1,0 +1,125 @@
+{
+  "discoveryId": "1982",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 206,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 119,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 356,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jolly",
+  "firstName": "Pauline",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1982-pauline-jolly",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Epidemiology"
+    }
+  ],
+  "firstNameLastName": "Pauline Jolly",
+  "equipmentLinkTypes": [],
+  "objectId": 1982,
+  "updatedWhen": "2025-05-10T08:06:24.5032802-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jollyp@uab.edu",
+  "publication_keywords": "Breastfeeding, Lactation and Breast Milk Cancer Cervical Cancer Clinical Research Emerging Infectious Diseases HPV and/or Cervical Cancer Vaccines Health Services Immunization Infectious Diseases Nutrition Pediatric Prevention Sexually Transmitted Infections Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

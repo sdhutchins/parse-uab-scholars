@@ -1,0 +1,121 @@
+{
+  "lastName": "Mirman",
+  "overview": "Dr. Mirman received a Bachelor’s degree in Chemistry and Psychology from Cornell University in 2000 and his PhD in 2005 from Carnegie Mellon University and the interdisciplinary cognitive neuroscience program in the Center for the Neural Basis of Cognition. His doctoral work combined behavioral experiments and computational modeling to study how auditory perception and language knowledge interact during speech perception. He then completed a post-doctoral fellowship at University of Connecticut where he learned eye-tracking methods for on-line measurement of speech comprehension and began to study how knowledge of concepts is organized in the mind. In 2009 he joined the Moss Rehabilitation Research Institute (MRRI) where he began his research on the neural organization of spoken language processing in individuals with language deficits following stroke (aphasia). From 2013 to 2016 he was on the faculty of the Department of Psychology at Drexel University while continuing his work at MRRI. He joined the faculty of Department of Psychology at University of Alabama at Birmingham in 2016.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3583-daniel-mirman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Artificial Intelligence and Image Processing",
+          "Intelligence and Image Processing",
+          "and Image Processing",
+          "Image Processing",
+          "Processing"
+        ],
+        "value": "Artificial Intelligence and Image Processing"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Linguistics"
+        ],
+        "value": "Linguistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "3583",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 108,
+      "favourites": 0
+    }
+  },
+  "firstName": "Daniel",
+  "firstNameLastName": "Daniel Mirman",
+  "equipmentLinkTypes": [],
+  "objectId": 3583,
+  "updatedWhen": "2025-05-10T08:09:49.3230707-05:00",
+  "hasCollaborationData": true,
+  "email": "dmirman@uab.edu",
+  "publication_keywords": "Aging Aphasia Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cerebrovascular Clinical Research Intellectual and Developmental Disabilities (IDD) Mental Health Neurosciences Rehabilitation Stroke",
+  "grant_keywords": ""
+}

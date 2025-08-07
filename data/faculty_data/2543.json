@@ -1,0 +1,74 @@
+{
+  "discoveryId": "2543",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 59,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pirkelbauer",
+  "firstName": "Peter",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2543-peter-pirkelbauer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Peter Pirkelbauer",
+  "equipmentLinkTypes": [],
+  "objectId": 2543,
+  "updatedWhen": "2025-05-10T08:07:50.5563119-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "pirkelbauer@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

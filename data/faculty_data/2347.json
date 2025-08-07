@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2347",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 245,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Komol",
+  "overview": "Presently, I am Assistant Professor of Early Childhood and Elementary Education. I hold a B. Ed from Egerton University (Kenya), M.Phil. in Educational Psychology from Moi University (Kenya) and a Ph.D. in Early Childhood and Elementary Education from the University of Alabama at Birmingham.\n\nI currently teach Child development and Family Relations and Expressive arts (p-6). Other courses I taught in the past are: Introduction to Education, Current issues in Education, and International education and social work, an interdisciplinary service learning course with a proposed study away in Kenya component. I have served as a UAB Liaison for the Expert Mentor Teacher program, an alternative student teaching Model at the UAB school of Education. Currently I am an advisor for the P-6 Education Specialist Program.\n\nMy research is Interdisciplinary and international oriented. The first area of my research is Comparative and International Teacher Education. The second is on Well-being of Children living with HIV/AIDS and those affected by parental AIDS in Sub Saharan African. I was the first ever UAB recipient of AAUW international research scholarship to pursue this research. Currently, I partner with schools, orphanages and other group care institutions in Kenya to address the needs of children whose parent(s) are either terminally ill or deceased due to AIDS. I have done presentation pertaining to this topic at the United Nations in New York, and in several International, National and Regional Conferences. I also serve as a patron for the UAB OMEP Chapter, to be launched in Spring 2013 to engage students at the school of education and college wide to participate in service learning and child advocacy.",
+  "firstName": "Grace",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2347-grace-komol",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Grace Komol",
+  "equipmentLinkTypes": [],
+  "objectId": 2347,
+  "updatedWhen": "2025-05-10T08:07:28.8350188-05:00",
+  "hasCollaborationData": false,
+  "email": "memoi@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

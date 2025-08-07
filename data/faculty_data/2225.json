@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2225",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 39,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 158,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 96,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 122,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bellis",
+  "firstName": "Susan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2225-susan-bellis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Susan Bellis",
+  "equipmentLinkTypes": [],
+  "objectId": 2225,
+  "updatedWhen": "2025-05-10T08:07:03.7214455-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bellis@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Clinical Research Colo-Rectal Cancer Digestive Diseases Genetics Health Disparities Hematology Immunotherapy Orphan Drug Pancreatic Cancer Radiation Oncology Rare Diseases",
+  "grant_keywords": "Autoimmune Disease Cancer Clinical Research Colo-Rectal Cancer Crohn's Disease Digestive Diseases Emerging Infectious Diseases Genetics Human Genome Immunotherapy Infectious Diseases Inflammatory Bowel Disease Microbiome Orphan Drug Pancreatic Cancer Precision Medicine Radiation Oncology Rare Diseases Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Non-Human Stem Cell Research - Nonembryonic - Non-Human Women's Health"
+}

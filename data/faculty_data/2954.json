@@ -1,0 +1,117 @@
+{
+  "lastName": "Bhatia",
+  "overview": "Smita Bhatia, MD, MPH joined UAB in 2015 to establish the Institute for Cancer Outcomes and Survivorship. She is the Gay and Bew White Endowed Professor in Pediatric Oncology and serves as Vice Chair for Outcomes in the Dept. of Pediatrics. Dr. Bhatia completed her training in Blood Banking, Hematology/ Oncology and BMT from the University of Minnesota, where she also received her MPH in Epidemiology. She joined the Dept. of Pediatric Oncology at the City of Hope in 1996. In 2006, she established a new Dept. of Population Sciences at City of Hope, and served as founding chair of the department until 2014. With over 430 peer-reviewed publications and 32,025 citations, an H-INDEX is 99, she is an internationally renowned leader in cancer survivorship and outcomes research and has been continually funded by the NIH and by the Leukemia Lymphoma Society since 2000. She has also received funding from the Dept. of Defense, St. Baldrick’s Foundation, V Foundation and ASCO. Dr. Bhatia continues to serve on several Study Sections for the NCI. She serves on the scientific advisory board for several cancer centers as well as several T32 Training grants. She is Associate Editor for the Journal of Clinical Oncology and Senior Editor for CEBP. She is a past scholar of the Leukemia Lymphoma Society. She was elected to membership to the American Society for Clinical Investigation and to the Association of American Physicians. She is the recipient of the Frank H Oski Lectureship Award from the American Society of Pediatric Hematology Oncology. She received the Outstanding Investigator Award from the NCI. She has served on the Pediatric Cancer Working Group for the NCI Cancer “Moonshot” initiative and is currently serving on the the National Cancer Policy Forum, and the NCI Clinical Trials Advisory Committee. As director of the Institute for Cancer Outcomes and Survivorship, she has recruited 17 faculty members over the past 8 years, with varied clinical backgrounds (pediatric and adult hematology/oncology, surgical oncology, radiation oncology, nursing, neuropsychology, and molecular biology) but with a common research theme (cancer outcomes) to the Institute and has developed the necessary infrastructure to ensure that they succeed. She is passionate about mentoring junior investigators.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2954-smita-bhatia",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Pediatric - Hematology-Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "2954",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 122,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 609,
+      "favourites": 0
+    }
+  },
+  "firstName": "Smita",
+  "firstNameLastName": "Smita Bhatia",
+  "equipmentLinkTypes": [],
+  "objectId": 2954,
+  "updatedWhen": "2025-05-10T08:08:43.2633015-05:00",
+  "hasCollaborationData": true,
+  "email": "sbhatia@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cancer Cardiovascular Caregiving Research Childhood Leukemia Clinical Research Colo-Rectal Cancer Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Hematology Human Genome Minority Health Orphan Drug Patient Safety Pediatric Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,127 @@
+{
+  "discoveryId": "1904",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 175,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 15,
+      "favourites": 0
+    }
+  },
+  "lastName": "Navarrete",
+  "firstName": "Liliana",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1904-liliana-navarrete",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Clinical & Diagnostic Sciences"
+    }
+  ],
+  "firstNameLastName": "Liliana Navarrete",
+  "equipmentLinkTypes": [],
+  "objectId": 1904,
+  "updatedWhen": "2025-05-10T08:06:12.3559963-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Technology",
+          "Technology"
+        ],
+        "value": "Other Technology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lilinav@uab.edu",
+  "publication_keywords": "Cancer Radiation Oncology",
+  "grant_keywords": ""
+}

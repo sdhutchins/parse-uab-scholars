@@ -1,0 +1,123 @@
+{
+  "lastName": "Shi",
+  "overview": "Lewis Shi received his MD in preventive medicine, MS in toxicology, and PhD in neurotoxicology. Upon graduation, he worked as a postdoctoral scholar at University of Wisconsin-Madison where he identified a novel role of the aryl hydrocarbon receptor (AhR) signaling in innate immune response against Listeria monocytogenes infection. He then joined St. Jude Children’s Research Hospital where he was among the first to show that the HIF-1a-glycolysis pathway functions as a metabolic checkpoint in reciprocal regulation of TH17 and iTreg, contributing to the establishment of the immune-metabolism field. While at St. Jude, he also demonstrated that the Gfi1-Foxo1 axis maintains the fidelity of genetic program of maturing T cells via a cell-autonomous mechanism and the Gfi1-IL-2 axis regulates the generation of nTreg cells by a non-cell autonomous mechanism.\nPrior to joining UAB, he served as an Assistant Professor at Case Western Reserve University and a non-tenure track faculty member at MD Anderson Cancer Center (MDACC). His previous work revealed the tumor cell-intrinsic resistance mechanism (loss of IFN-g signaling genes) as well as tumor cell-extrinsic resistance mechanism (upregulation of inhibitory molecules PD-L1 and VISTA in the tumor microenvironment) to anti-CTLA-4 therapy, the first immune checkpoint blockade (ICB) approved by FDA to treat cancer patients. Further, he uncovered a pivotal role of the interactive loop of IFN-g signaling and IL-7 signaling in T cells in dictating the therapeutic benefits of combined anti-CTLA-4 and anti-PD-1 therapy, a highly-pursued combination modality in cancer patients.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6643-lewis-zhichang-shi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiation Oncology - Preclinical Research"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "6643",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lewis Zhichang",
+  "firstNameLastName": "Lewis Zhichang Shi",
+  "equipmentLinkTypes": [],
+  "objectId": 6643,
+  "updatedWhen": "2025-05-10T08:13:34.1919095-05:00",
+  "hasCollaborationData": true,
+  "email": "lshi@uab.edu",
+  "publication_keywords": "Cancer Clinical Research Clinical Trials and Supportive Activities Genetics Immunotherapy Infectious Diseases Radiation Oncology",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Immunotherapy Radiation Oncology"
+}

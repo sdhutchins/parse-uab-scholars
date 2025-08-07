@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19488",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mohamed",
+  "firstName": "Omar",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19488-omar-mohamed",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Prosthodontics"
+    }
+  ],
+  "firstNameLastName": "Omar Mohamed",
+  "equipmentLinkTypes": [],
+  "objectId": 19488,
+  "updatedWhen": "2025-05-12T03:21:24.5918229-05:00",
+  "hasCollaborationData": false,
+  "email": "omohamed@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

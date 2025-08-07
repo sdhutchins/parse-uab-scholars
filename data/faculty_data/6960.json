@@ -1,0 +1,113 @@
+{
+  "discoveryId": "6960",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "lastName": "Larimer",
+  "firstName": "Benjamin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6960-benjamin-larimer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Benjamin Larimer",
+  "equipmentLinkTypes": [],
+  "objectId": 6960,
+  "updatedWhen": "2025-05-10T08:14:00.1411146-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Theoretical and Computational Chemistry",
+          "and Computational Chemistry",
+          "Computational Chemistry",
+          "Chemistry"
+        ],
+        "value": "Theoretical and Computational Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "blarimer@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Breast Cancer Cancer Colo-Rectal Cancer Digestive Diseases Gene Therapy Genetics Immunization Immunotherapy Lung Lung Cancer Orphan Drug Pancreatic Cancer Precision Medicine Radiation Oncology Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Clinical Research Clinical Trials and Supportive Activities Immunization Immunotherapy Precision Medicine Radiation Oncology Vaccine Related"
+}

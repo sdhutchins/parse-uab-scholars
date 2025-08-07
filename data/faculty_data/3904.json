@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3904",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 32,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Franklin",
+  "firstName": "Frank",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3904-frank-franklin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Health Behavior"
+    }
+  ],
+  "firstNameLastName": "Frank Franklin",
+  "equipmentLinkTypes": [],
+  "objectId": 3904,
+  "updatedWhen": "2025-05-10T08:10:17.4621265-05:00",
+  "hasCollaborationData": false,
+  "email": "frankln@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

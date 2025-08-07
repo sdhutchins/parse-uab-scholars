@@ -1,0 +1,95 @@
+{
+  "lastName": "Ver Hoef",
+  "overview": "Dr. Ver Hoef completed his undergraduate degree in mechanical engineering at Virginia Tech and attended medical school at the Wake Forest University School of Medicine. He completed neurology residency and epilepsy fellowship at the University of Alabama at Birmingham, where he then became a faculty member at the UAB Epilepsy Center. He is board certified in Neurology (ABPN), Neuroimaging (UCNS), and Epilepsy (ABPN). He has a secondary appointment in Biomedical Engineering. He collaborates with the Auburn University MRI Research Center and is active in the Alabama Advanced Imaging Consortium and the Civitan International Neuroimaging Laboratory.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "753-lawrence-ver-hoef",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Neurology",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "753",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 29,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lawrence",
+  "firstNameLastName": "Lawrence Ver Hoef",
+  "equipmentLinkTypes": [],
+  "objectId": 753,
+  "updatedWhen": "2025-05-10T08:04:02.4917419-05:00",
+  "hasCollaborationData": true,
+  "email": "lverhoef@uab.edu",
+  "publication_keywords": "Biomedical Imaging Brain Disorders Cannabidiol Research Cannabinoid Research Clinical Research Complementary and Integrative Health Congenital Structural Anomalies Epilepsy Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Patient Safety Pediatric Research Initiative Social Determinants of Health Therapeutic Cannabinoid Research",
+  "grant_keywords": "Bioengineering Biomedical Imaging Brain Disorders Clinical Research Epilepsy Genetics Health Disparities Minority Health Neurodegenerative Neurosciences Women's Health"
+}

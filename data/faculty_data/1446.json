@@ -1,0 +1,126 @@
+{
+  "discoveryId": "1446",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 89,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sthanam",
+  "firstName": "Narayana",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1446-narayana-sthanam",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Narayana Sthanam",
+  "equipmentLinkTypes": [],
+  "objectId": 1446,
+  "updatedWhen": "2025-05-10T08:05:25.8369190-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "narayana@uab.edu",
+  "publication_keywords": "Emerging Infectious Diseases Infectious Diseases Lung Pneumonia Pneumonia & Influenza",
+  "grant_keywords": "Emerging Infectious Diseases Infectious Diseases"
+}

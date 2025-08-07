@@ -1,0 +1,130 @@
+{
+  "discoveryId": "2713",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 255,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 130,
+      "favourites": 0
+    }
+  },
+  "lastName": "Zvanut",
+  "firstName": "Mary",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2713-mary-zvanut",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Physics"
+    }
+  ],
+  "firstNameLastName": "Mary Zvanut",
+  "equipmentLinkTypes": [],
+  "objectId": 2713,
+  "updatedWhen": "2025-05-10T08:08:11.1161628-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Technology",
+          "Technology"
+        ],
+        "value": "Other Technology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mezvanut@uab.edu",
+  "publication_keywords": "Climate-Related Exposures and Conditions",
+  "grant_keywords": ""
+}

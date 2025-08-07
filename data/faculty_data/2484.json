@@ -1,0 +1,79 @@
+{
+  "discoveryId": "2484",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 97,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Turel",
+  "firstName": "Noa",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2484-noa-turel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Art and Art History"
+    }
+  ],
+  "firstNameLastName": "Noa Turel",
+  "equipmentLinkTypes": [],
+  "objectId": 2484,
+  "updatedWhen": "2025-05-10T08:07:39.3719365-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Creative Arts and Writing"
+          ]
+        ],
+        "valueAnalysed": [
+          "Performing Arts and Creative Writing",
+          "Arts and Creative Writing",
+          "and Creative Writing",
+          "Creative Writing",
+          "Writing"
+        ],
+        "value": "Performing Arts and Creative Writing"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "History and Philosophy of Specific Fields",
+          "and Philosophy of Specific Fields",
+          "Philosophy of Specific Fields",
+          "of Specific Fields",
+          "Specific Fields",
+          "Fields"
+        ],
+        "value": "History and Philosophy of Specific Fields"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "nturel@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

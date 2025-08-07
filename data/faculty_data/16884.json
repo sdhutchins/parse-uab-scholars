@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16884",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Che",
+  "firstName": "Pulin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16884-pulin-che",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Anesthesiology"
+    }
+  ],
+  "firstNameLastName": "Pulin Che",
+  "equipmentLinkTypes": [],
+  "objectId": 16884,
+  "updatedWhen": "2025-05-10T08:16:42.3816574-05:00",
+  "hasCollaborationData": false,
+  "email": "pche@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Autoimmune Disease Genetics Infectious Diseases Lung Pneumonia Pneumonia & Influenza Rare Diseases"
+}

@@ -1,0 +1,127 @@
+{
+  "lastName": "McCleskey",
+  "overview": "I am an Associate Professor in the Division of Forensics. My clinical duties are primarily fulfilled as an Associate Coroner/Medical Examiner for Jefferson County. I am also the Pathology Residency Program Director.  In addition to resident education, I am active in the education and training of fellows and medical students.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4979-brandi-mccleskey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Forensic Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "4979",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 64,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 65,
+      "favourites": 0
+    }
+  },
+  "firstName": "Brandi",
+  "firstNameLastName": "Brandi McCleskey",
+  "equipmentLinkTypes": [],
+  "objectId": 4979,
+  "updatedWhen": "2025-05-10T08:11:43.7618828-05:00",
+  "hasCollaborationData": true,
+  "email": "bcmpath@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Services Infectious Diseases Opioid Misuse and Addiction Opioids Physical Injury - Accidents and Adverse Effects Prescription Drug Abuse Prevention Rural Health Social Determinants of Health Substance Misuse",
+  "grant_keywords": ""
+}

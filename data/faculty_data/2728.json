@@ -1,0 +1,86 @@
+{
+  "lastName": "Guest",
+  "overview": "Dr. Kristi Carter Guest is the Disabilities Services Coordinator for the UAB Early Head Start Program, Research Coordinator for the UAB Civitan-Sparks Clinics and the UAB Leadership Education in Neurodevelopmental and Related Disabilities (LEND) and is an Assistant Professor in the Department of Psychology. She serves on the Executive Board for the Central Alabama Early Intervention Council and is on the planning committee for the statewide Alabama Early Intervention Conference. \n\nDr. Guest received clinical training at the UAB Civitan-Sparks Clinics performing hundreds of developmental assessments with children who were at-risk for developmental delay. Currently she participates in the interdisciplinary diagnostic observations of children suspected of having Autism Spectrum Disorders in the UAB Civitan-Sparks ASD Clinic. With the UAB Early Head Start Program, Dr. Guest provides clinical services for children with disabilities and their families to initiate and facilitate early intervention and school based services. With the UAB Early Head Start program, she coordinates all of the developmental screenings for children in the program.\n\nDr. Guest serves on numerous graduate student committees in the Lifespan Developmental Psychology Program and the School of Public Health Department of Health Behavior. She mentors undergraduate students in the UAB Science and Technology Honors Program, the University Honors Program, and the Psychology Honors Program. She also clinically supervises Medical Psychology Graduate students, Lifespan Developmental Psychology Graduate students, trainees, and interns at the UAB Civitan-Sparks Clinics",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2728-kristi-guest",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Research Associate Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      }
+    ]
+  },
+  "discoveryId": "2728",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 75,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kristi",
+  "firstNameLastName": "Kristi Guest",
+  "equipmentLinkTypes": [],
+  "objectId": 2728,
+  "updatedWhen": "2025-05-10T08:08:21.9737585-05:00",
+  "hasCollaborationData": true,
+  "email": "kguest@uab.edu",
+  "publication_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Injury Clinical Research Genetics Health Services Intellectual and Developmental Disabilities (IDD) Mental Health Pediatric Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Rare Diseases Unintentional Childhood Injury",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Mobley",
+  "overview": "Dr. Mobley is considered an expert in proteomics by his peers, and as director of the Mass Spectrometry/Proteomics Shared Facility, continues to focus on clinical and translational proteomics applications, which include statistical analysis of high density 'omics driven data sets, and the use of systems biology applications to uncover biologically relevant pathways. He has nearly 30 years experience in academia and industry, and mass spectrometry has been a intricate part of his work experience and studies from the beginning.\n\nDr. Mobley obtained his B.S. in Chemistry at Oregon State University. He obtained a Ph.D. in Medicinal Chemistry and Pharmacology from The Ohio State University with an emphasis on hormonal induced carcinogesis. Prior to joining the faculty at UAB in 2006, Dr. Mobley worked as a faculty member at UMass Medical School and also at Vanderbilt.\n\nIn 2007, Dr. Mobley became Director of the newly formed UAB Comprehensive Cancer Center Clinical Proteomics Shared Facility, and due to the success of that facility he was asked to expand in 2009 to encompass a single campus wide MS/ Proteomics Shared Facility (MSP-SF).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1100-james-mobley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Anesthesiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "1100",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 40,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 131,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Mobley",
+  "equipmentLinkTypes": [],
+  "objectId": 1100,
+  "updatedWhen": "2025-05-10T08:04:44.6317278-05:00",
+  "hasCollaborationData": true,
+  "email": "mobleyja@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Biotechnology Cardiovascular Contraception/Reproduction Diabetes Eye Disease and Disorders of Vision Genetics Hypertension Lung Maternal Health Neurodegenerative Neurofibromatosis Neurosciences Pediatric Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Rare Diseases Women's Health",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Biodefense Clinical Research Emerging Infectious Diseases Genetics HIV/AIDS Health Disparities Immunization Infectious Diseases Lung Minority Health Neurodegenerative Neurosciences Pediatric Prevention Rare Diseases Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS) Women's Health"
+}

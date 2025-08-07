@@ -1,0 +1,127 @@
+{
+  "lastName": "Arend",
+  "overview": "Dr. Rebecca Arend is an Associate Professor of Gynecology Oncology within the department of Obstetrics and Gynecology at the University of Alabama at Birmingham as a surgeon-scientist providing oncologic care for patients with gynecologic cancer. She is a Scientist at the O’Neal Comprehensive Cancer Center holding several key roles including Chair of the Data Safety and Monitoring Committee, Co-Chair of the Precision Oncology Working Group, and was recently appointed as Associate Director of the Clinical Trials. She has held previous roles as the Medical Director of Clinical Trials and the Co-leader of the Experimental Therapeutics Program at the O’Neal Comprehensive Cancer Center. \n\nDr. Arend’s clinical interests include translational research, targeted therapy, chemoresistance, immunotherapy, and personalized medicine. She has been awarded funding for over six Investigator Initiated trials and has served as both the local and national Principal Investigator on multiple Phase II and III clinical trials. Dr. Arend was awarded a DOD Early Career Investigator Grant (W81XWH-18-1-0231) assessing the relationship between Wnt pathway and the expression signature of immune genes in clinical specimens from this study. She was also awarded the NCCN Young Investigator Award to study the role of TGF-b in immune suppression for ovarian cancer patients.\n\nIn addition to her service and awards as faculty at UAB she also serves on several committees and collaborates extensively with investigators at other institutions and within UAB. Dr. Arend is also the Co-Investigator at UAB for directing the Tissue CORE for the Cervical SPORE award where she works extensively with our Pathology department and Tissue Biorepository team to ensure that a portion of cervical cancer tissue and at least a vial of a patient’s blood is to be collected and banked for future research collaborations. She sits on multiple NCCN guidelines committees, which serve to ensure that all patients receive preventive, diagnostic, treatment, and supportive services that are most likely to lead to optimal outcomes. She supports the cervical, vulvar, vaginal, endometrial, and gestational trophoblastic disease panels. She is a translational research representative on the Ovarian Cancer Subcommittee for the NRG.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3067-rebecca-arend",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "OB/GYN - Gyn Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "3067",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 121,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 195,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rebecca",
+  "firstNameLastName": "Rebecca Arend",
+  "equipmentLinkTypes": [],
+  "objectId": 3067,
+  "updatedWhen": "2025-05-10T20:11:01.5594351-05:00",
+  "hasCollaborationData": true,
+  "email": "rarend@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Breast Cancer Cancer Cancer Genomics Cervical Cancer Clinical Research Gene Therapy Genetics Human Genome Immunization Immunotherapy Orphan Drug Ovarian Cancer Precision Medicine Prevention Rare Diseases Uterine Cancer Women's Health",
+  "grant_keywords": ""
+}

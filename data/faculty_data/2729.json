@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2729",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 132,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hopkins",
+  "overview": "A native of Stockholm, Sweden, Professor Hopkins studies social and emotional development in children. She also serves as the Director of Undergraduate Studies in Psychology at UAB. \n\nDr. Hopkins teaches courses in developmental psychology, social development, research methods and the Psychology Capstone. She is the faculty advisor for the UAB Chapter of Psi Chi, the Psychology Honor Society, which aims to get psychology students connected on campus and in the community.",
+  "firstName": "Ingrid",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2729-ingrid-hopkins",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "firstNameLastName": "Ingrid Hopkins",
+  "equipmentLinkTypes": [],
+  "objectId": 2729,
+  "updatedWhen": "2025-05-10T08:08:21.9737585-05:00",
+  "hasCollaborationData": false,
+  "email": "mhopkins@uab.edu",
+  "publication_keywords": "Autism Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Intellectual and Developmental Disabilities (IDD) Mental Health Pediatric Research Initiative Prevention",
+  "grant_keywords": ""
+}

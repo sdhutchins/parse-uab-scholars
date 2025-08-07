@@ -1,0 +1,116 @@
+{
+  "lastName": "Hwang",
+  "overview": "Dr. Hwang completed his residency in general surgery at State University of New York at Buffalo, followed by fellowship training in burn surgery at the University of South Florida and a surgical critical care fellowship at the University of Florida in Jacksonville. He served on faculty at the University of North Carolina Jaycee Burn Center from 2010-2017. He was then recruited to UAB to become the director of the UAB Burn Program.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5016-james-hwang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Surgery - General Surgery Trauma Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "5016",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 24,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Hwang",
+  "equipmentLinkTypes": [],
+  "objectId": 5016,
+  "updatedWhen": "2025-05-10T08:11:53.0206666-05:00",
+  "hasCollaborationData": true,
+  "email": "hwangj@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biomedical Imaging Cancer Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Diagnostics and Prognostics Coronaviruses Disparities and At-Risk Populations Emergency Care Emerging Infectious Diseases Health Services Infectious Diseases Lung Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Patient Safety Pediatric Cancer Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Rare Diseases Rehabilitation Wound Healing and Care",
+  "grant_keywords": ""
+}

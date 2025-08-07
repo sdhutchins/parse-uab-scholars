@@ -1,0 +1,113 @@
+{
+  "lastName": "Gartin",
+  "overview": "Dr. Meredith Gartin is an Assistant Professor of Global Health in the Department of Health Policy and Organization at the UAB School of Public Health.  Dr. Gartin also holds a position as the Board President for the Alabama Interfaith Refugee Partnership, a non-profit 501(c)(3) based here in Birmingham.  Dr. Gartin’s main area of expertise focuses on global environmental health and urbanization, with a particular focus on migration and on vulnerabilities related to food and water. Dr. Gartin is especially interested in how global and local processes of climate change converge on human health and development issues,.  For over 10 years, Dr. Gartin has conducted cross-cultural, climate-related health research in Central and South America, the South Pacific, and the US.  \n\nGiven her focus on general global health education and training, Dr. Gartin consults and evaluates the global health curriculum and programming in institutions of higher education. As the co-chair of the Sub-Committee on Master’s and Undergraduate Degrees in Global Health with the Consortium of Universities for Global Health, Education Committee, Dr. Gartin and fellow colleagues have published a series of peer-reviewed journal articles mapping global health programs in US institutions with CEPH and ASPPH competencies. She also leads and directs global health curriculum at UAB as well.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7316-meredith-gartin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      }
+    ]
+  },
+  "discoveryId": "7316",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 73,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "firstName": "Meredith",
+  "firstNameLastName": "Meredith Gartin",
+  "equipmentLinkTypes": [],
+  "objectId": 7316,
+  "updatedWhen": "2025-05-10T08:14:29.4347518-05:00",
+  "hasCollaborationData": true,
+  "email": "gartin@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Social Determinants of Health",
+  "grant_keywords": ""
+}

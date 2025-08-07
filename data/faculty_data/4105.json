@@ -1,0 +1,126 @@
+{
+  "discoveryId": "4105",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 252,
+      "favourites": 0
+    }
+  },
+  "lastName": "Allman",
+  "firstName": "Richard",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4105-richard-allman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "firstNameLastName": "Richard Allman",
+  "equipmentLinkTypes": [],
+  "objectId": 4105,
+  "updatedWhen": "2025-05-10T08:10:34.4800741-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rallman@uab.edu",
+  "publication_keywords": "Aging Arthritis Cardiovascular Clinical Research Clinical Trials and Supportive Activities Heart Disease Kidney Disease Osteoarthritis Patient Safety",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Services Infectious Diseases Sexually Transmitted Infections"
+}

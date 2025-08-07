@@ -1,0 +1,121 @@
+{
+  "discoveryId": "4993",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "lastName": "Osborne",
+  "firstName": "John",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4993-john-osborne",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Dept Of Biomedical Informatics & Data Science"
+    }
+  ],
+  "firstNameLastName": "John Osborne",
+  "equipmentLinkTypes": [],
+  "objectId": 4993,
+  "updatedWhen": "2025-05-10T08:11:43.7694119-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Artificial Intelligence and Image Processing",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Natural Language Processing",
+          "Language Processing",
+          "Processing"
+        ],
+        "value": "Natural Language Processing"
+      },
+      {
+        "paths": [
+          [
+            "Cognitive Sciences",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Knowledge Representation and Machine Learning",
+          "Representation and Machine Learning",
+          "and Machine Learning",
+          "Machine Learning",
+          "Learning"
+        ],
+        "value": "Knowledge Representation and Machine Learning"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Genetics (excl. Cancer Genetics)",
+          "Genetics (excl. Cancer Genetics)",
+          "(excl. Cancer Genetics)",
+          "Cancer Genetics)",
+          "Genetics)"
+        ],
+        "value": "Medical Genetics (excl. Cancer Genetics)"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ozborn@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Brain Disorders Cancer Clinical Research Data Science Health Disparities and Racial or Ethnic Minority Health Research Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Opioid Misuse and Addiction Opioids Substance Misuse",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Precision Medicine Rural Health Social Determinants of Health Women's Health"
+}

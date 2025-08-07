@@ -1,0 +1,127 @@
+{
+  "lastName": "Schwebke",
+  "overview": "Dr. Jane Schwebke is a Professor of Medicine who also has a joint appointment in Epidemiology in the UAB School of Public Health and serves as Medical Director of the Jefferson County Department of Health STD Clinic.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "579-jane-schwebke",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "579",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 103,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 213,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jane",
+  "firstNameLastName": "Jane Schwebke",
+  "equipmentLinkTypes": [],
+  "objectId": 579,
+  "updatedWhen": "2025-05-10T08:03:25.3532493-05:00",
+  "hasCollaborationData": true,
+  "email": "schwebke@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease HIV/AIDS Infectious Diseases Microbiome Orphan Drug Patient Safety Prevention Rare Diseases Sexually Transmitted Infections Urologic Diseases Women's Health",
+  "grant_keywords": "Antimicrobial Resistance Biodefense Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Emerging Infectious Diseases HIV/AIDS Hepatitis Hepatitis - C Infectious Diseases Liver Disease Sexually Transmitted Infections"
+}

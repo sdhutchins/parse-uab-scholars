@@ -1,0 +1,121 @@
+{
+  "discoveryId": "2129",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 34,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 81,
+      "favourites": 0
+    }
+  },
+  "lastName": "Feng",
+  "firstName": "Xu",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2129-xu-feng",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "firstNameLastName": "Xu Feng",
+  "equipmentLinkTypes": [],
+  "objectId": 2129,
+  "updatedWhen": "2025-05-10T08:06:50.7131653-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "xufeng@uab.edu",
+  "publication_keywords": "Dental/Oral and Craniofacial Disease Digestive Diseases Genetics Human Genome Infectious Diseases Liver Disease Osteoporosis Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Aging Arthritis Autoimmune Disease Biotechnology Breast Cancer Cancer Dental/Oral and Craniofacial Disease Genetics Infectious Diseases Osteoporosis Prevention Rheumatoid Arthritis Women's Health"
+}

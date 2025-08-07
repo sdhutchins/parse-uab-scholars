@@ -1,0 +1,60 @@
+{
+  "discoveryId": "4574",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kurata",
+  "firstName": "Marilyn",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4574-marilyn-kurata",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor Emeritus",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Marilyn Kurata",
+  "equipmentLinkTypes": [],
+  "objectId": 4574,
+  "updatedWhen": "2025-05-10T08:11:25.1517148-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Literary Studies",
+          "Studies"
+        ],
+        "value": "Literary Studies"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "mkurata@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

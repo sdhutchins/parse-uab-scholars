@@ -1,0 +1,71 @@
+{
+  "discoveryId": "2854",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 0
+    }
+  },
+  "lastName": "Leisch",
+  "firstName": "Leah",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2854-leah-leisch",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Medicine",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Leah Leisch",
+  "equipmentLinkTypes": [],
+  "objectId": 2854,
+  "updatedWhen": "2025-05-10T08:08:32.6009005-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ljleisch@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Cancer Clinical Research Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunotherapy Infectious Diseases Lung Lung Cancer Opioid Misuse and Addiction Opioids Physical Injury - Accidents and Adverse Effects Precision Medicine Prevention Social Determinants of Health Substance Misuse Women's Health",
+  "grant_keywords": ""
+}

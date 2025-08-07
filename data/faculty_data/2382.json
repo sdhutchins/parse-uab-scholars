@@ -1,0 +1,112 @@
+{
+  "lastName": "LaChenaye",
+  "overview": "Scholarship\n\nAs a qualitative and mixed methods methodologist, I have the opportunity to participate in a wide variety of research pursuits across the Department of Human Studies and School of Education through colleagues and student dissertation work. My personal scholarship work stems from my background in sociocultural and international education development and evaluation and focuses on the cultural elements of the research process, specifically collaborative research strategies, deconstruction of the researcher-researched dichotomy, cultural competency and value hierarchies in research and evaluation, epistemologies of place, socialization, and indigenous research methods.\n\nService\n\nI have enjoyed contributing to a variety of initiatives across UAB and my field. In my field, I work with the American Evaluation Association to promote cultural competency in research and responsible mixed methods practices.\n\nPersonal\n\nI'm a sucker for animals and bread-winner for my doggos, addicted to snoballs with cream, former art student with a bad art supplies habit, aspiring Creole cooking master, farmer's child trying desperately to grow Louisiana food in Alabama, wants to drive cross country, cheeseburger connoisseur, minimalist-ish, and tiny house enthusiast.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2382-jenna-lachenaye",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Education",
+          "Education"
+        ],
+        "value": "Other Education"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      }
+    ]
+  },
+  "discoveryId": "2382",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 158,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 21,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jenna",
+  "firstNameLastName": "Jenna LaChenaye",
+  "equipmentLinkTypes": [],
+  "objectId": 2382,
+  "updatedWhen": "2025-05-10T08:07:28.8787240-05:00",
+  "hasCollaborationData": true,
+  "email": "jmlach@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research",
+  "grant_keywords": ""
+}

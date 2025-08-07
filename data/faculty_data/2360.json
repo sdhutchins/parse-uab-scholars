@@ -1,0 +1,87 @@
+{
+  "discoveryId": "2360",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 213,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sims",
+  "firstName": "Michele",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2360-michele-sims",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Michele Sims",
+  "equipmentLinkTypes": [],
+  "objectId": 2360,
+  "updatedWhen": "2025-05-10T08:07:28.8587119-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "mjsims@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

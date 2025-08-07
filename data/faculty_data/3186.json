@@ -1,0 +1,87 @@
+{
+  "discoveryId": "3186",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 147,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 16,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ponder",
+  "firstName": "Jennifer",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3186-jennifer-ponder",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Jennifer Ponder",
+  "equipmentLinkTypes": [],
+  "objectId": 3186,
+  "updatedWhen": "2025-05-10T08:09:04.9103131-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "jponder@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

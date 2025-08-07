@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2345",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 120,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Evans",
+  "firstName": "Paulette",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2345-paulette-evans",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Instructor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Paulette Evans",
+  "equipmentLinkTypes": [],
+  "objectId": 2345,
+  "updatedWhen": "2025-05-10T08:07:28.8350188-05:00",
+  "hasCollaborationData": false,
+  "email": "pgevans@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

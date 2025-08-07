@@ -1,0 +1,74 @@
+{
+  "discoveryId": "2615",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 66,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 0
+    }
+  },
+  "lastName": "Conley",
+  "firstName": "Carolyn",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2615-carolyn-conley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Carolyn Conley",
+  "equipmentLinkTypes": [],
+  "objectId": 2615,
+  "updatedWhen": "2025-05-10T08:08:00.8806750-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Historical Studies",
+          "Studies"
+        ],
+        "value": "Historical Studies"
+      },
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other History and Archaeology",
+          "History and Archaeology",
+          "and Archaeology",
+          "Archaeology"
+        ],
+        "value": "Other History and Archaeology"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "cconley@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,106 @@
+{
+  "discoveryId": "2218",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "lastName": "Schoeb",
+  "firstName": "Trenton",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2218-trenton-schoeb",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "firstNameLastName": "Trenton Schoeb",
+  "equipmentLinkTypes": [],
+  "objectId": 2218,
+  "updatedWhen": "2025-05-10T08:07:03.7214455-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "trs@uab.edu",
+  "publication_keywords": "Biotechnology Brain Disorders Cancer Genetics Hematology Infectious Diseases Intellectual and Developmental Disabilities (IDD) Lung Lymphatic Research Lymphoma Mucopolysaccharidoses (MPS) Neurosciences Orphan Drug Pneumonia Pneumonia & Influenza Prevention Rare Diseases",
+  "grant_keywords": "Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Chronic Obstructive Pulmonary Disease Clinical Research Coronaviruses Cystic Fibrosis Genetics Human Genome Immunotherapy Infectious Diseases Lung Microbiome Neonatal Respiratory Distress Neurosciences Orphan Drug Pediatric Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Prevention Rare Diseases Tobacco Tobacco Smoke and Health"
+}

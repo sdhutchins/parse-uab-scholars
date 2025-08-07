@@ -1,0 +1,128 @@
+{
+  "lastName": "Morgan",
+  "overview": "Desiree E. Morgan, MD is the Vice Chair of Faculty Affairs at the University of Alabama at Birmingham. She is a former Vice Chair of Education and program director of the UAB Diagnostic Radiology residency program. In her tenure as PD she led the residency through a formal strategic planning process in 2015 that is bearing fruit in the dynamic program you will find in the department today. Prior to 2015 Dr. Morgan served as the UAB Department of Radiology Vice Chair of Clinical Research, where her duties centered on facilitating scholarly achievement and fostering collaborative research involving state of the art clinical imaging for physicians at all levels of training. She is a member of the Abdominal Imaging section and her clinical subspecialty focus in general is gastrointestinal radiology and in particular imaging of the pancreas and hepatobiliary system. Dr. Morgan’s departmental role as Director of MRI from 2005- 2015 enabled her to introduce new MR imaging techniques to UAB, including physiologic MR image acquisition and MR biomarker evaluation of intra-abdominal tumors. She is a tireless champion of abdominal and oncologic dual energy and spectral CT at UAB.\nSince joining the faculty in 1993, Dr. Morgan has mentored numerous medical students, residents, and junior faculty in a variety of preclinical and clinical research endeavors. Her research interests include abdominal dual energy CT, physiologic abdominal MR imaging, and neoplastic and inflammatory conditions of the pancreas. Dr. Morgan is a Senior Scientist in the Experimental Therapeutics Program and served as the inaugural Director of the Human Imaging Shared Facility of the UAB Comprehensive Cancer Center, where she continues to apply her expertise in Oncologic imaging to create a systematic approach to tumor imaging surveillance and the development and utilization of imaging biomarkers in patients participating in therapeutic clinical trials.\nDr. Morgan has won numerous teaching awards including the HSOM Dean’s Excellence Award for Teaching and the Argus Award, multiple Outstanding Faculty Lecturer Medical Student Radiology Elective Awards, multiple UAB Department of Radiology Teacher of the Year Distinguished Faculty Awards, and Multiple Louisville Slugger (senior radiology resident) Awards. She is a seventeen time recipient of the “Top Ten” Faculty Award for Excellence in Resident Education; in 2021 the Desiree E. Morgan Faculty Award for Continual Excellence in Teaching was named in her honor and is bestowed on faculty who also achieve greater than 15 “Top Ten” awards.  In 2013 she served as the Society of Abdominal Radiology Igor Laufer Traveling Professor, an honor reserved for outstanding physician educators. In 2016 Dr. Morgan was awarded the UAB Brewer-Heslin Award for Professionalism in Medicine, an honor reserved for the UAB Heersink School of Medicine faculty member who upholds the highest ideals of integrity, honesty, and concern for their patients. She is a 2017 graduate and grateful supporter of Momentum, a 2022 Heersink Innovation Fellow, and participant of the UAB Medicine Innovation Academy.\nDr. Morgan is a Fellow and current Vice President of the Society of Advanced Body Imaging and is both a Fellow and former member of the Board of Directors of the Society of Abdominal Radiology, serving as President in 2020. She is a Governor of the American Board of Radiology and previously served as an Abdominal Trustee and Vice Chair for Diagnostic Radiology for the ABR. She serves on multiple national committees for the American Roentgen Ray Society, The Association of University Radiologists, and the Radiological Society of North America. She developed a national patient centered care curriculum for Radiology trainees for the RSNA in July 2018, and created the Clinician Educator Pathway for UAB Radiology residents in 2019. She served on the steering committee and continues to contribute as a mentor for the UAB Healthcare Educators Academy. Dr. Morgan has served the Heersink School of Medicine as Lead Mentor for the Barfield Carter Learning Community for the past three years and looks forward to many more. In her new role as the inaugural Vice Chair for Faculty Affairs in the Department of Radiology she looks forward to increasing opportunity for development and mentoring for faculty at all levels of service and engagement.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "231-desiree-morgan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "231",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 35,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 184,
+      "favourites": 0
+    }
+  },
+  "firstName": "Desiree",
+  "firstNameLastName": "Desiree Morgan",
+  "equipmentLinkTypes": [],
+  "objectId": 231,
+  "updatedWhen": "2025-05-10T08:02:35.0158044-05:00",
+  "hasCollaborationData": true,
+  "email": "demorgan@uab.edu",
+  "publication_keywords": "Biomedical Imaging Cancer Chronic Pain Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Pain Research Pancreatic Cancer Rare Diseases",
+  "grant_keywords": "Bioengineering Biomedical Imaging Cancer Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Health Disparities Minority Health Orphan Drug Pancreatic Cancer Precision Medicine Rare Diseases"
+}

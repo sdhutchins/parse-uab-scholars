@@ -1,0 +1,123 @@
+{
+  "discoveryId": "1353",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 50,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 45,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hassan",
+  "firstName": "Quamarul",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1353-quamarul-hassan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "firstNameLastName": "Quamarul Hassan",
+  "equipmentLinkTypes": [],
+  "objectId": 1353,
+  "updatedWhen": "2025-05-10T08:05:15.7722252-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "hassank@uab.edu",
+  "publication_keywords": "Arthritis Autoimmune Disease Biotechnology Cancer Congenital Structural Anomalies Dental/Oral and Craniofacial Disease Genetics Hematology Human Genome Osteoporosis Pediatric Research Initiative Rare Diseases Rheumatoid Arthritis Women's Health",
+  "grant_keywords": "Aging Diabetes Genetics Nutrition Obesity Osteoporosis Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health"
+}

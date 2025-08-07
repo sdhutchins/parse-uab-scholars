@@ -1,0 +1,87 @@
+{
+  "discoveryId": "2548",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 139,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bach",
+  "firstName": "Rebecca",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2548-rebecca-bach",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Rebecca Bach",
+  "equipmentLinkTypes": [],
+  "objectId": 2548,
+  "updatedWhen": "2025-05-10T08:07:50.5613086-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Literary Studies",
+          "Studies"
+        ],
+        "value": "Literary Studies"
+      },
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Historical Studies",
+          "Studies"
+        ],
+        "value": "Historical Studies"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Creative Arts and Writing"
+          ]
+        ],
+        "valueAnalysed": [
+          "Performing Arts and Creative Writing",
+          "Arts and Creative Writing",
+          "and Creative Writing",
+          "Creative Writing",
+          "Writing"
+        ],
+        "value": "Performing Arts and Creative Writing"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "rbach@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

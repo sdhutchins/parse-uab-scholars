@@ -1,0 +1,131 @@
+{
+  "lastName": "Chu",
+  "overview": "Dr. Daniel Chu joined the UAB Department of Surgery in July 2014 as an assistant professor in the Division of Gastrointestinal Surgery. Born in Michigan and raised in North Carolina, Dr. Chu completed his undergraduate studies at Yale in 2002 and obtained his medical degree from The Johns Hopkins School of Medicine in 2006. He completed his general surgery residency at Boston University Medical Center in 2013, which included a two-year research fellowship. Dr. Chu then completed a fellowship in colon and rectal surgery at the Mayo Clinic in 2014. Dr. Chu is double board-certified by the American Board of Surgery and the American Board of Colon and Rectal Surgery. In addition to his clinical interests in colorectal diseases, Dr. Chu is a dedicated researcher and educator. He is the associate director for the medical student clerkship in surgery at UAB and serves on national committees, including the Association for Academic Surgery (AAS) and the American Society of Colon and Rectal Surgeons (ASCRS).",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1151-daniel-chu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Gastrointestinal Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Artificial Intelligence and Image Processing",
+          "Intelligence and Image Processing",
+          "and Image Processing",
+          "Image Processing",
+          "Processing"
+        ],
+        "value": "Artificial Intelligence and Image Processing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1151",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 221,
+      "favourites": 0
+    }
+  },
+  "firstName": "Daniel",
+  "firstNameLastName": "Daniel Chu",
+  "equipmentLinkTypes": [],
+  "objectId": 1151,
+  "updatedWhen": "2025-05-10T08:04:55.6993413-05:00",
+  "hasCollaborationData": true,
+  "email": "dchu@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cancer Clinical Research Colo-Rectal Cancer Digestive Diseases Health Services Machine Learning and Artificial Intelligence Patient Safety Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

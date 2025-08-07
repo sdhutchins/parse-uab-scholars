@@ -1,0 +1,76 @@
+{
+  "discoveryId": "3409",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 111,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 226,
+      "favourites": 0
+    }
+  },
+  "lastName": "Montgomery",
+  "firstName": "Ann Elizabeth",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3409-ann-elizabeth-montgomery",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Behavior"
+    }
+  ],
+  "firstNameLastName": "Ann Elizabeth Montgomery",
+  "equipmentLinkTypes": [],
+  "objectId": 3409,
+  "updatedWhen": "2025-05-10T08:09:28.0311199-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "aemontgo@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Homelessness Mental Health Neurodegenerative Neurosciences Social Determinants of Health",
+  "grant_keywords": ""
+}

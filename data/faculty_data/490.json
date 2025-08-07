@@ -1,0 +1,125 @@
+{
+  "lastName": "Kennedy",
+  "overview": "My primary research interest is in the intersection between cognitive disorders and medical illness, particularly applied to the aging process. My fascination with cognition and its disorders began with my neuroanatomy class in the first year of medical school, where I first began to understand brain-behavior relationships. This also led to my first research experience, where my mentor, Dr. Jim Hutchins, instilled in the view of the brain as the “great unknown” and a contagious eagerness to solve its mysteries. This continued into my clinical training in medical school and psychiatry residency and fellowship, where I truly began to appreciate the relationship of the brain with complex behavior through such illnesses as dementia and delirium. After completing my fellowship, I began to work with Dr. Paula Trzepacz, a nationally known expert in delirium, who helped solidify my disparate training experiences into a cohesive interest studying the clinical consequences of cognitive disorders that has continued throughout my career.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "490-richard-kennedy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "490",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 42,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 232,
+      "favourites": 0
+    }
+  },
+  "firstName": "Richard",
+  "firstNameLastName": "Richard Kennedy",
+  "equipmentLinkTypes": [],
+  "objectId": 490,
+  "updatedWhen": "2025-05-12T03:19:08.2515606-05:00",
+  "hasCollaborationData": true,
+  "email": "rekenned@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Cancer Caregiving Research Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Dementia Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Lewy Body Dementia Mental Health Minority Health Neurodegenerative Neurosciences Pain Research Parkinson's Disease Prevention Rehabilitation Rural Health Social Determinants of Health Vascular Cognitive Impairment/Dementia",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Dementia Neurodegenerative Neurosciences Rehabilitation"
+}

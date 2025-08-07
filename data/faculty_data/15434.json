@@ -1,0 +1,123 @@
+{
+  "lastName": "Smith",
+  "overview": "I am an Assistant Professor in the Department of Health Behavior in the School of Public Health (SOPH) at the University of Alabama at Birmingham (UAB). I am also the Project Director for the core research project of UAB SOPH's Center for the Study of Community Heath, a CDC-funded Prevention Research Center.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "15434-tamika-smith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Behavior"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Linguistics"
+        ],
+        "value": "Linguistics"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Complementary and Alternative Medicine",
+          "and Alternative Medicine",
+          "Alternative Medicine",
+          "Medicine"
+        ],
+        "value": "Complementary and Alternative Medicine"
+      }
+    ]
+  },
+  "discoveryId": "15434",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 58,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tamika",
+  "firstNameLastName": "Tamika Smith",
+  "equipmentLinkTypes": [],
+  "objectId": 15434,
+  "updatedWhen": "2025-05-12T03:21:24.6476087-05:00",
+  "hasCollaborationData": true,
+  "email": "tamsmith@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Behavioral and Social Science Biodefense Biotechnology Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Emerging Infectious Diseases HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunization Infectious Diseases Minority Health Pediatric Research Initiative Prevention Social Determinants of Health Vaccine Related Women's Health",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Prevention"
+}

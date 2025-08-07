@@ -1,0 +1,129 @@
+{
+  "lastName": "Polancich",
+  "overview": "Shea Polancich, PhD, RN has been practicing in quality and patient safety for more than a decade. The primary focus of her work is understanding errors in the clinical environment Her work focuses on using the best evidence to redesign the workflow and improve processes in order to prevent patient harm and improve the quality of care.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1597-shea-polancich",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1597",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 38,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 78,
+      "favourites": 0
+    }
+  },
+  "firstName": "Shea",
+  "firstNameLastName": "Shea Polancich",
+  "equipmentLinkTypes": [],
+  "objectId": 1597,
+  "updatedWhen": "2025-05-10T08:05:50.0642161-05:00",
+  "hasCollaborationData": true,
+  "email": "polancs@uab.edu",
+  "publication_keywords": "Coronaviruses Emerging Infectious Diseases Infectious Diseases Mental Health",
+  "grant_keywords": ""
+}

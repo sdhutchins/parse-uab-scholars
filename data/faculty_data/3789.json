@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3789",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 35,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jolly",
+  "firstName": "Peggy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3789-peggy-jolly",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "College of Arts and Sciences  (Retired Org)"
+    }
+  ],
+  "firstNameLastName": "Peggy Jolly",
+  "equipmentLinkTypes": [],
+  "objectId": 3789,
+  "updatedWhen": "2025-05-10T08:10:09.0348548-05:00",
+  "hasCollaborationData": false,
+  "email": "jolly@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

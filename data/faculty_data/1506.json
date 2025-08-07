@@ -1,0 +1,123 @@
+{
+  "lastName": "Jablonski",
+  "overview": "Dr. Rita Jablonski’s internationally-renowned program of research is focused on improving the lives of older adults, especially those with dementia who reside in nursing homes. Her most recent studies have tested interventions that improve oral hygiene for persons with dementia who resist care. The strategies for reducing threat perception using dementia-centric communication strategies are congruent with the principles of person-centered care and nursing home culture change initiatives.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1506-rita-jablonski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      }
+    ]
+  },
+  "discoveryId": "1506",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 102,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 201,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 208,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rita",
+  "firstNameLastName": "Rita Jablonski",
+  "equipmentLinkTypes": [],
+  "objectId": 1506,
+  "updatedWhen": "2025-05-10T08:05:38.5151025-05:00",
+  "hasCollaborationData": true,
+  "email": "rajablon@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Dementia Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Lewy Body Dementia Minority Health Neurodegenerative Neurosciences Prevention Social Determinants of Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Dementia Health Disparities Minority Health Neurodegenerative Neurosciences Rural Health Social Determinants of Health"
+}

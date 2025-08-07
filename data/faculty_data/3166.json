@@ -1,0 +1,125 @@
+{
+  "discoveryId": "3166",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 30,
+      "favourites": 0
+    }
+  },
+  "lastName": "Lamani",
+  "firstName": "Ejvis",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3166-ejvis-lamani",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Orthodontics"
+    }
+  ],
+  "firstNameLastName": "Ejvis Lamani",
+  "equipmentLinkTypes": [],
+  "objectId": 3166,
+  "updatedWhen": "2025-05-10T08:09:04.9013131-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ejvis@uab.edu",
+  "publication_keywords": "Clinical Research Congenital Structural Anomalies Data Science Dental/Oral and Craniofacial Disease Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Pediatric Research Initiative Precision Medicine Sleep Research",
+  "grant_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Genetics"
+}

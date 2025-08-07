@@ -1,0 +1,176 @@
+{
+  "discoveryId": "5158",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 140,
+      "favourites": 0
+    }
+  },
+  "lastName": "Edwards",
+  "firstName": "Lloyd",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5158-lloyd-edwards",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Lloyd Edwards",
+  "equipmentLinkTypes": [],
+  "objectId": 5158,
+  "updatedWhen": "2025-05-12T03:19:08.2616257-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiology (incl. Cardiovascular Diseases)",
+          "(incl. Cardiovascular Diseases)",
+          "Cardiovascular Diseases)",
+          "Diseases)"
+        ],
+        "value": "Cardiology (incl. Cardiovascular Diseases)"
+      },
+      {
+        "paths": [
+          [
+            "Statistics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biostatistics"
+        ],
+        "value": "Biostatistics"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aged Health Care",
+          "Health Care",
+          "Care"
+        ],
+        "value": "Aged Health Care"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Statistics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Statistics",
+          "Statistics"
+        ],
+        "value": "Applied Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Statistics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistical Theory",
+          "Theory"
+        ],
+        "value": "Statistical Theory"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ljedward@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Neurosciences Patient Safety Stroke Tobacco Tobacco Smoke and Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,125 @@
+{
+  "discoveryId": "393",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 81,
+      "favourites": 0
+    }
+  },
+  "lastName": "Shalev",
+  "firstName": "Anath",
+  "hasThumbnail": true,
+  "discoveryUrlId": "393-anath-shalev",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "firstNameLastName": "Anath Shalev",
+  "equipmentLinkTypes": [],
+  "objectId": 393,
+  "updatedWhen": "2025-05-10T08:03:00.8214788-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "shalev@uab.edu",
+  "publication_keywords": "Autoimmune Disease Diabetes Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Nutrition Obesity Pediatric Prevention",
+  "grant_keywords": "Autoimmune Disease Biotechnology Diabetes Genetics Pediatric Precision Medicine"
+}

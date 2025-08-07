@@ -1,0 +1,75 @@
+{
+  "discoveryId": "16677",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 61,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 4
+    }
+  },
+  "lastName": "McMurtry",
+  "firstName": "Teaira",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16677-teaira-mcmurtry",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Teaira McMurtry",
+  "equipmentLinkTypes": [],
+  "objectId": 16677,
+  "updatedWhen": "2025-05-10T08:16:22.8963774-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "mcmurtry@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Pediatric Research Initiative Social Determinants of Health Workforce Diversity and Outreach",
+  "grant_keywords": ""
+}

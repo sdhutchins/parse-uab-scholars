@@ -1,0 +1,129 @@
+{
+  "lastName": "Fifolt",
+  "overview": "Matthew Fifolt, PhD is an Associate Professor in the Department of Health Care Organization and Policy at the University of Alabama at Birmingham School of Public Health. Additionally, Dr. Fifolt serves as the Co-Director of the Survey Research Unit and Assistant Director of the Applied Evaluation and Assessment Collaborative. Dr. Fifolt is Principal Investigator of numerous state and federal grants and cooperative agreements including the Alabama Behavioral Risk Factor Surveillance System (BRFSS); Consumer Assessment of Healthcare Providers and Systems (CAHPS) for Alabama Medicaid and ALLKids; National Core Indicators – Aging and Disabilities (NCI-AD); Alabama Pregnancy Risk Assessment Monitoring Systems (PRAMS); the Alabama Child Health Improvement Alliance (ACHIA). \n\nAdditionally, Dr. Fifolt serves as the CQI state lead for the Maternal, Infant, and Early Childhood Home Visiting (MIECHV) program, and lead evaluator of the Alabama Regional Center for Infection Prevention and Control; Nurse, Education, Practice, Quality, and Retention Program – Behavioral Health Integration II; Advanced Nursing Education Workforce; Alabama Statewide Area Health Education Center (AHEC) Program; and Nurse Education, Practice, Quality and Retention Program – RNs in Primary Care. Dr. Fifolt's research interests include program and quality improvement \n\nDr. Fifolt holds a PhD in educational leadership from the University of Alabama at Birmingham (UAB) and the University of Alabama (2006); a master’s degree in education from the University of South Carolina (1995); and bachelor’s degree from Valparaiso University (1993).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3365-matthew-fifolt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "3365",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 82,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 147,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 194,
+      "favourites": 1
+    }
+  },
+  "firstName": "Matthew",
+  "firstNameLastName": "Matthew Fifolt",
+  "equipmentLinkTypes": [],
+  "objectId": 3365,
+  "updatedWhen": "2025-05-10T08:09:28.0074183-05:00",
+  "hasCollaborationData": true,
+  "email": "mfifolt@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Clinical Research Eye Disease and Disorders of Vision Health Services Neurodegenerative Neurosciences",
+  "grant_keywords": ""
+}

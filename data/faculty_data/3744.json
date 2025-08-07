@@ -1,0 +1,129 @@
+{
+  "discoveryId": "3744",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 80,
+      "favourites": 0
+    }
+  },
+  "lastName": "Brouillette",
+  "firstName": "Wayne",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3744-wayne-brouillette",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Chemistry"
+    }
+  ],
+  "firstNameLastName": "Wayne Brouillette",
+  "equipmentLinkTypes": [],
+  "objectId": 3744,
+  "updatedWhen": "2025-05-10T08:09:59.9386112-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "wbrou@uab.edu",
+  "publication_keywords": "Aging Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Estrogen Prevention Women's Health",
+  "grant_keywords": "Anthrax Antimicrobial Resistance Biodefense Emerging Infectious Diseases Infectious Diseases Influenza Orphan Drug Pneumonia & Influenza Rare Diseases Vector-Borne Diseases"
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Bridges",
+  "overview": "S. Louis Bridges, Jr., MD, PhD is Anna Lois Waters Endowed Professor of Medicine at the University of Alabama at Birmingham and has served as Director of the UAB Division of Clinical Immunology and Rheumatology since 2009.  He is also the Director of the UAB Comprehensive Arthritis, Musculoskeletal, Bone, and Autoimmunity Center. and Vice President of the Rheumatology Research Foundation.   \nHis research has been continuously funded by NIH and is focused largely on rheumatoid arthritis susceptibility, severity, and treatment response.  He has authored more than 130 manuscripts, 20 book chapters, and served as Editor of Vasculitis, published by Oxford University Press.  He serves as Director of the UAB T32 Training Program in Rheumatic and Musculoskeletal Diseases Research, PI of a Department of Defense research grant on the role of the interferon-gamma pathway in RA, and Associate Director of the UAB Investigations in Gout, Hyperuricemia, and Comorbidities (INSIGHT) Center of Research Translation (CORT).  In addition, he serves as investigator on multiple research grants focused on arthritis and musculoskeletal diseases.  \nHe has been named to the Best Doctors in America list yearly since 2003, as well as to Castle Connolly Top Doctors.  He was previously Co-Editor of Arthritis & Rheumatology (2010-17) and Chair of the NIH Arthritis, Musculoskeletal, and Skin Study Section (2013-16).  In addition to membership on several committees of the American College of Rheumatology (ACR), Dr. Bridges served as Chair of the ACR Committee on Research and as a member of the Scientific Advisory Council and Board of Directors of the Rheumatology Research Foundation.  He was named recipient of the 2008 Max Cooper Award for Research Excellence by the UAB Department of Medicine, and the 2012 Sam Brown Bridge Builder Award, UAB School of Public Health.  \nAs the Director of the UAB Comprehensive Arthritis, Musculoskeletal, Bone, and Autoimmunity Center, I work with the Executive Committee to lead strategic planning, training and research activities, outreach, and symposia, visiting professorships, and workshops.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "672-s-louis-bridges",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "suffix": "Jr",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "672",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 67,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 214,
+      "favourites": 0
+    }
+  },
+  "firstName": "S. Louis",
+  "firstNameLastName": "S. Louis Bridges",
+  "equipmentLinkTypes": [],
+  "objectId": 672,
+  "updatedWhen": "2025-05-10T08:03:49.9896808-05:00",
+  "hasCollaborationData": true,
+  "email": "lbridges@uab.edu",
+  "publication_keywords": "Genetics Human Genome",
+  "grant_keywords": "Arthritis Autoimmune Disease Biotechnology Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Genetics Health Disparities Human Genome Lupus Minority Health Precision Medicine Prevention Rheumatoid Arthritis Women's Health"
+}

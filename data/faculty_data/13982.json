@@ -1,0 +1,62 @@
+{
+  "discoveryId": "13982",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 30,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cendoma",
+  "firstName": "Philip",
+  "hasThumbnail": true,
+  "discoveryUrlId": "13982-philip-cendoma",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "firstNameLastName": "Philip Cendoma",
+  "equipmentLinkTypes": [],
+  "objectId": 13982,
+  "updatedWhen": "2025-05-10T08:15:26.8919964-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Accounting, Auditing and Accountability",
+          "Auditing and Accountability",
+          "and Accountability",
+          "Accountability"
+        ],
+        "value": "Accounting, Auditing and Accountability"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pcendoma@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cancer Cervical Cancer Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Digestive Diseases Health Disparities Health Services Prevention Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

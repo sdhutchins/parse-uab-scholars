@@ -1,0 +1,122 @@
+{
+  "lastName": "Kappes",
+  "overview": "John C. Kappes (b. 1957), Associate Professor of Medicine and Microbiology, completed his undergraduate studies in biology at Thomas More College (B.A. in Biology, 1981) and received his Ph.D. in Microbiology and Experimental Medicine from St. Thomas Institute in 1986. Dr. Kappes completed his postdoctoral fellowship studying the molecular pathogenesis of human immunodeficiency viruses and joined the UAB faculty in 1989.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "523-john-kappes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "523",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 41,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 194,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Kappes",
+  "equipmentLinkTypes": [],
+  "objectId": 523,
+  "updatedWhen": "2025-05-10T08:03:25.2591320-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

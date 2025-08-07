@@ -1,0 +1,45 @@
+{
+  "discoveryId": "3418",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Clarkson",
+  "overview": "Dr. Clarkson received a BA degree in History from the University of South Carolina and his MD degree from the University of South Carolina School of Medicine in Columbia, SC. He did both an internal medicine residency, cardiology fellowship, and post-doctoral fellowship at the University of Alabama Hospital before joining on September 1, 2021.  Dr. Clarkson is a general cardiologist with special interest in general cardiology.  He is a member of the American Heart Association (2017 – present), the American College of Cardiology (2017 – present), the Alabama Chief Residents Society (2016 – present) and the American Medical Association (2009 – present). \n\nHis research interest is in understanding and developing innovative outpatient care models for rural and underserved populations in the Deep South; with the ultimate goal of reducing disparities and improving equity in cardiovascular disease outcomes.",
+  "firstName": "Stephen",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3418-stephen-clarkson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Stephen Clarkson",
+  "equipmentLinkTypes": [],
+  "objectId": 3418,
+  "updatedWhen": "2025-05-10T08:09:28.0311199-05:00",
+  "hasCollaborationData": false,
+  "email": "sclarkso@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

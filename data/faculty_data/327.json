@@ -1,0 +1,129 @@
+{
+  "lastName": "Bittner",
+  "overview": "Vera A. Bittner, Professor of Medicine and Section Head of General Cardiology, Prevention, and Imaging, has been on faculty at UAB since 1987. She currently serves as Quality Officer for UAB Hospital, is a member of the Provider Integration Network, and serves as Medical Director of the Coronary Care Unit and the Cardiopulmonary Rehabilitation Program. She has been listed in Best Doctors of America since 2009.\n\nDr. Bittner’s research has focused on secondary prevention of cardiovascular disease with a focus on lipid-lowering therapies, cardiac rehabilitation, and heart disease in women. She has conducted federally funded and industry-funded clinical trials for over 25 years with leadership roles in several multi-center clinical trials. She has published more than 200 original research articles. Her research in cardiac rehabilitation was recognized with the 2014 Michael L. Pollock Established Investigator Award from the American Association of Cardiovascular and Pulmonary Rehabilitation (AACVPR) and she was named Master of AACVPR in 2017. \n\nAn alumna of Executive Leadership in Academic Medicine, Dr. Bittner has served in leadership roles in national professional societies including as President of the National Lipid Association, Chair of the Section of Prevention of the American College of Cardiology, and Board Member for AACVPR. She sits on multiple editorial boards and serves as a Senior Guest editor for Circulation.\n\nDr. Bittner directed the UAB Cardiology Fellowship Program for 13 years. She participated in the last two writing committees that define fellowship training requirements for cardiology fellows (COCATS) and served on the ABIM Cardiology Question Writing Committee. She has received the Department of Medicine Outstanding Teacher Award in the Division of Cardiovascular Disease in 2014, 2016, 2018. \n\nDr. Bittner earned her medical degree from the South Alabama College of Medicine and her MSPH in Epidemiology from UAB. She completed her internal medicine training at Bowman Gray School of Medicine and her cardiology training at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "327-vera-bittner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "327",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 55,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 421,
+      "favourites": 0
+    }
+  },
+  "firstName": "Vera",
+  "firstNameLastName": "Vera Bittner",
+  "equipmentLinkTypes": [],
+  "objectId": 327,
+  "updatedWhen": "2025-05-10T08:02:47.6068766-05:00",
+  "hasCollaborationData": true,
+  "email": "vbittner@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Heart Disease Heart Disease - Coronary Heart Disease Hypertension Minority Health Nutrition Obesity Patient Safety Prevention Women's Health",
+  "grant_keywords": ""
+}

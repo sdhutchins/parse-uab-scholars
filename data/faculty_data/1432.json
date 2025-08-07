@@ -1,0 +1,115 @@
+{
+  "lastName": "Nichols",
+  "overview": "Dr. Jason Nichols is a Professor and Senior Associate Vice President for Research in the UAB Office of Research. He has more than 20 years of experience working at the cross-roads of translational research, entrepreneurial initiatives, and research administration in academic medical settings. As Senior Associate Vice President for Research in the UAB's Office of Research, he helps oversee 26 university-wide institutional research centers (UWIRCs) and the Research Development Office. Dr. Nichols has also been instrumental in developing clinical trials initiatives at the university level, more than doubling university-wide clinical trials expenditures. He has also helped build a southeast partner regional network for multisite studies through the NIH/NCATs supported Center for Clinical and Translational Science. He is responsible for strategy development and implementation of UAB's research and entrepreneurial initiatives including administration and business development with a focus on large/center grants, institutional training grants, industry-academia partnerships, startups, joint-ventures, and SBIR/STTR activity. He has strong analytical, leadership and management skills, but also understands the importance of alliance building and the cultivation of shared governance. He actively collaborates with other university functions such as research risk, post-award, legal, procurement, and safety in addition to upholding and implementing policies and procedures related to research administration.\n\nDr. Nichols is also an internationally recognized clinician-scientist with long-standing track record of research development, oversight, and scientific discovery. He has over 175 publications and an h-index approaching 50. He maintains an ocular surface research group with full scale capabilities for conducting clinical and basic research receiving funding from the National Eye Institute (NEI) and National Center for Advancing Translational Sciences (NCATs). His research unit employs state-of-the art facilities and equipment for the study of dry eye, meibomian gland disease, and pharmaceutical and medical device development and testing. He has served on numerous medical/advisory boards and boards of directors. His awards include three Ezell Fellowships, the Borish Award from the AAO and he is a Distinguished Scholar and Fellow of the National Academies of Practice. Lastly, he is editor-in-chief of Contact Lens Spectrum, the world's leading journal on contact lenses and chairs the Global Specialty Lens and Global Myopia Symposia continuing education meetings.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1432-jason-nichols",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Senior Associate VP-Research Administration",
+      "department": "Department of Optometry  (Retired Org)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "1432",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 216,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jason",
+  "firstNameLastName": "Jason Nichols",
+  "equipmentLinkTypes": [],
+  "objectId": 1432,
+  "updatedWhen": "2025-05-10T08:05:25.8202246-05:00",
+  "hasCollaborationData": true,
+  "email": "jjn@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Bioengineering Clinical Research Eye Disease and Disorders of Vision Pediatric",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

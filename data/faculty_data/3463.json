@@ -1,0 +1,102 @@
+{
+  "lastName": "Vice",
+  "overview": "Jason Vice is an Assistant Professor in the Department of Occupational Therapy. He is certified in gerontology education through the UAB Comprehensive Center for Healthy Aging and low vision through the UAB Low Vision Rehabilitation Graduate program. Dr. Vice teaches foundational coursework in the entry-level Doctorate in Occupational Therapy program related to gross anatomy, low vision rehabilitation , and neuroscience. He is a member of the American Association of Anatomists, American Congress of Rehabilitation Medicine, and the American Occupational Therapy Association.\n\nDr. Vice's clinical practice centers on patient care at the UAB Center for Low Vision Rehabilitation. Treatment is focused on assisting patients with vision loss from eye disease and/or brain injury to maintain and increase independence and participation in activities of daily living. He holds Specialty Certification in Low Vision from the American Occupational Therapy Association.\n\nHis research focuses on neuroplasticty in older adults and functional impairment of neurodegenerative diseases on vision-dependent occupations.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3463-jason-vice",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Occupational Therapy"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "3463",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jason",
+  "firstNameLastName": "Jason Vice",
+  "equipmentLinkTypes": [],
+  "objectId": 3463,
+  "updatedWhen": "2025-05-10T08:09:38.3555355-05:00",
+  "hasCollaborationData": true,
+  "email": "jvice02@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Macular Degeneration Neurodegenerative Neurosciences Primary Health Care Rehabilitation",
+  "grant_keywords": "Behavioral and Social Science Physical Activity Physical Rehabilitation Prevention Rehabilitation"
+}

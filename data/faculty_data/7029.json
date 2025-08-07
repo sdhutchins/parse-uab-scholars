@@ -1,0 +1,125 @@
+{
+  "lastName": "Hardiman",
+  "overview": "Karin Hardiman, M.D., Ph.D., is an Associate Professor of Surgery in the UAB Division of Gastrointestinal Surgery. She was recruited from the University of Michigan in 2019 where she was in academic practice for eight years. Dr. Hardiman practices at the Birmingham VA and University Hospital. Her clinical interests are in colorectal cancer, anal cancer, inflammatory bowel disease and anorectal disease. She utilizes minimally invasive surgery where possible.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7029-karin-hardiman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Gastrointestinal Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "7029",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 87,
+      "favourites": 0
+    }
+  },
+  "firstName": "Karin",
+  "firstNameLastName": "Karin Hardiman",
+  "equipmentLinkTypes": [],
+  "objectId": 7029,
+  "updatedWhen": "2025-05-10T08:14:00.1781131-05:00",
+  "hasCollaborationData": true,
+  "email": "karin@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Cancer Genomics Clinical Research Colo-Rectal Cancer Digestive Diseases Genetics Human Genome Orphan Drug Precision Medicine Radiation Oncology Rare Diseases Women's Health",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Clinical Research Colo-Rectal Cancer Digestive Diseases Genetics Human Genome Orphan Drug Precision Medicine Radiation Oncology Rare Diseases Women's Health"
+}

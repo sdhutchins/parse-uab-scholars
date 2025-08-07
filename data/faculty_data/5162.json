@@ -1,0 +1,122 @@
+{
+  "discoveryId": "5162",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "lastName": "De Miguel",
+  "firstName": "Carmen",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5162-carmen-de-miguel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "firstNameLastName": "Carmen De Miguel",
+  "equipmentLinkTypes": [],
+  "objectId": 5162,
+  "updatedWhen": "2025-05-10T08:12:02.7372471-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cdemigue@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Heart Disease Hypertension Kidney Disease Nutrition Obesity Prevention Sleep Research Women's Health",
+  "grant_keywords": "Cardiovascular Health Disparities Heart Disease Hypertension Kidney Disease Minority Health Nutrition"
+}

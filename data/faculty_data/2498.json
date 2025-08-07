@@ -1,0 +1,122 @@
+{
+  "lastName": "Mukhtar",
+  "overview": "Dr. Karolina Mukhtar is a broadly trained molecular plant biologist with twenty years of experience studying various aspects of plant genetics and stress biology using genetic and biochemical approaches. After obtaining her Biology degree she worked as a teaching assistant for Cell Biology and then became an IMPRS doctoral student at the Max Planck Institute. Her dissertation described the quantitative basis of plant resistance to two deadly phytopathogens. She graduated summa cum laude and was nominated for the Otto Hahn Medal, the highest academic honor for young scientists awarded by the Max-Planck Society.\n\nSubsequently Dr. Mukhtar conducted post-doc research in the laboratory of Dr. Xinnian Dong (a Howard Hughes Medical Investigator) at Duke University, where she studied the molecular basis of plant immunity to a bacterial phytopathogen Pseudomonas syringae. Her projects were focused on transcriptional and post-transcriptional regulation of plant immunity as well as pathogen-triggered manipulation of plant hormone signaling. This work uncovered the existence of a previously unknown transcriptional growth-to-defense molecular switch in plants; the research resulted in a number of publications in high impact journals including Science, Current Biology, the EMBO Journal, Genes and Development and Communications Biology.\n\nResearch in Dr. Mukhtar's lab at UAB focuses on the model plant Arabidopsis thaliana and Endoplasmic Reticulum (ER) stress caused by abiotic and biotic stresses, such as heat and pathogen infection. At the center of her research program is the Unfolded Protein Response, IRE1 ER stress receptors and GCN2-mediated translational regulation (see her Research Interests below). Dr. Mukhtar was awarded the 2019 Presidential Early Career Award for Scientists and Engineers (PECASE) for her study to uncover how plants recognize an important signature of infection – toxic unfolded proteins – and mount appropriate responses with potential in crop improvement, and her deeply involved in outreach, notably a citizen-science based community garden.\n\nDr. Mukhtar has been recognized with a number of teaching awards, including the 2019 UAB President's Award for Excellence in Teaching, the 2019 CAS Dean's Award for Excellence in Teaching, and the 2015 Outstanding Faculty Mentor by the Office of Disability Support Services for development and implementation of instructional strategies for teaching students with learning disabilities.\n\nDr. Mukhtar is also highly committed to teaching at K-12, undergraduate, and graduate levels. She has completed UAB Faculty Fellowship in Service Learning, through which she developed a Service Learning CURE summer course in Plant Pathology “OUTPACE”. Dr. Mukhtar is also implementing sustainability in her classroom curricula through her participation in the UAB Red Mountain Project. In addition, she pursues a very active educational outreach program directed to K-12 science teachers as well as minority students from local community colleges, funded through her NSF-CAREER award and in the framework of the UAB-CORD and ASIM/AMSTI programs.\n\nDr. Mukhtar is the immediate past Chair of UAB’s Graduate Curriculum Committee and former member of UAB Faculty Senate’s Executive Committee.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2498-karolina-mukhtar",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Crop and Pasture Production",
+          "and Pasture Production",
+          "Pasture Production",
+          "Production"
+        ],
+        "value": "Crop and Pasture Production"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "2498",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 168,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 45,
+      "favourites": 0
+    }
+  },
+  "firstName": "Karolina",
+  "firstNameLastName": "Karolina Mukhtar",
+  "equipmentLinkTypes": [],
+  "objectId": 2498,
+  "updatedWhen": "2025-05-10T08:07:39.3859266-05:00",
+  "hasCollaborationData": true,
+  "email": "kmukhtar@uab.edu",
+  "publication_keywords": "Biodefense Emerging Infectious Diseases Genetics Infectious Diseases Microbiome Pediatric",
+  "grant_keywords": "Bioengineering Biotechnology Data Science Genetics Health Disparities Human Genome Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)"
+}

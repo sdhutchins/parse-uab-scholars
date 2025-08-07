@@ -1,0 +1,92 @@
+{
+  "discoveryId": "2707",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 109,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 19,
+      "favourites": 0
+    }
+  },
+  "lastName": "Simien",
+  "firstName": "Clayton",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2707-clayton-simien",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physics"
+    }
+  ],
+  "firstNameLastName": "Clayton Simien",
+  "equipmentLinkTypes": [],
+  "objectId": 2707,
+  "updatedWhen": "2025-05-10T08:08:11.1121625-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "cesimien@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,43 @@
+{
+  "discoveryId": "4074",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Williams",
+  "firstName": "John",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4074-john-williams",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "department": "Pathology"
+    }
+  ],
+  "firstNameLastName": "John Williams",
+  "equipmentLinkTypes": [],
+  "objectId": 4074,
+  "updatedWhen": "2025-05-10T08:10:34.4634127-05:00",
+  "hasCollaborationData": false,
+  "email": "jwilli@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

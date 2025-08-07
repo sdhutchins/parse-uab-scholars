@@ -1,0 +1,126 @@
+{
+  "lastName": "Beasley",
+  "overview": "I have published over 40 articles in the area of statistical methodology. I have served as a standing member of the Scientific Advisory Committee to the Experimental Gerontology Laboratory of the National Institutes on Aging. As a statistician I have many collaborations with researchers in the fields of obesity, caloric restriction, aging, experimental gerontology, radiology, and many other fields in the biological sciences. I have co-authored over 50 applied research articles in a variety of disciplines including education, psychology, medicine, genetics, and gerontology, pharmacology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1923-timothy-beasley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "1923",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 40,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 107,
+      "favourites": 3
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 6,
+      "favourites": 1
+    },
+    "publications": {
+      "all": 169,
+      "favourites": 0
+    }
+  },
+  "firstName": "Timothy",
+  "firstNameLastName": "Timothy Beasley",
+  "equipmentLinkTypes": [],
+  "objectId": 1923,
+  "updatedWhen": "2025-05-10T08:06:12.3689900-05:00",
+  "hasCollaborationData": true,
+  "email": "mbeasley@uab.edu",
+  "publication_keywords": "Cancer Chronic Liver Disease and Cirrhosis Clinical Research Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Liver Disease Minority Health Prevention Rare Diseases Stomach Cancer Women's Health",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Aging Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Cerebrovascular Child Abuse and Neglect Research Childhood Injury Clinical Research Clinical Trials and Supportive Activities Depression Dissemination and Implementation Research Emergency Care Genetics Health Disparities Health Services Hematology Human Genome Infectious Diseases Kidney Disease Lung Major Depressive Disorder Mental Health Mental Illness Microbiome Minority Health Neurosciences Nutrition Patient Safety Pediatric Precision Medicine Prevention Rare Diseases Sepsis Serious Mental Illness Social Determinants of Health Stroke Suicide Violence Research"
+}

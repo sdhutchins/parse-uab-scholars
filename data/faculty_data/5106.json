@@ -1,0 +1,45 @@
+{
+  "discoveryId": "5106",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "lastName": "Poore",
+  "overview": "T. Spencer Poore MD, MSCS is an assistant professor and pediatric pulmonologist at the University of Alabama at Birmingham. He specializes in the clinical care of children with CF, non-CF bronchiectasis, and rare lung disease. His research is focused on the host airway response to Aspergillus fumigatus in CF, airway mucin alterations in Th2 inflammation, and defining airway disease in CF animal models.",
+  "firstName": "Spencer",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5106-spencer-poore",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pediatric - Pulmonary & Sleep Medicine"
+    }
+  ],
+  "firstNameLastName": "Spencer Poore",
+  "equipmentLinkTypes": [],
+  "objectId": 5106,
+  "updatedWhen": "2025-05-10T08:12:02.6925593-05:00",
+  "hasCollaborationData": true,
+  "email": "tspoore@uab.edu",
+  "publication_keywords": "Clinical Research Cystic Fibrosis Emerging Infectious Diseases Infectious Diseases Lung Orphan Drug Pediatric Rare Diseases",
+  "grant_keywords": ""
+}

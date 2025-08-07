@@ -1,0 +1,119 @@
+{
+  "lastName": "Austad",
+  "overview": "I am originally from Southern California, but my family moved a lot, so I lived in every part of the United States before heading to college. After gaining an English Literature degree, I had a variety of jobs — newspaper reporter, taxi driver, wild animal trainer.... Training lions for the movie business awakened my interest in biology, so I went back to school, eventually getting my Ph.D. in biology.\n\nMy early research was field-based. I have done field research in several parts of the United States, Venezuela, East Africa, Micronesia, and Papua New Guinea. Once I became interested in the biology of aging, my research became more laboratory oriented. Perhaps because of my background in English, I have always been eager to communicate the excitement of science to the public at large. In that capacity I have written popular books, planned museum exhibits, and produced a regular newspaper column on science.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2487-steven-austad",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2487",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 108,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 223,
+      "favourites": 0
+    }
+  },
+  "firstName": "Steven",
+  "firstNameLastName": "Steven Austad",
+  "equipmentLinkTypes": [],
+  "objectId": 2487,
+  "updatedWhen": "2025-05-10T08:07:39.3739306-05:00",
+  "hasCollaborationData": true,
+  "email": "austad@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Microbiome Nutrition Social Determinants of Health Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Dementia Health Disparities Microbiome Minority Health Neurodegenerative Neurosciences Nutrition Organ Transplantation Prevention Rural Health Social Determinants of Health Transplantation"
+}

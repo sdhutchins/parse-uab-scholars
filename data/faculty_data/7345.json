@@ -1,0 +1,44 @@
+{
+  "discoveryId": "7345",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "lastName": "Overstreet",
+  "firstName": "Demario",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7345-demario-overstreet",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Surgery - General Surgery Gastrointestinal Section"
+    }
+  ],
+  "firstNameLastName": "Demario Overstreet",
+  "equipmentLinkTypes": [],
+  "objectId": 7345,
+  "updatedWhen": "2025-05-10T08:14:37.7560251-05:00",
+  "hasCollaborationData": true,
+  "email": "overstreet@uab.edu",
+  "publication_keywords": "Aging Back Pain Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Chronic Pain Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Neurosciences Opioid Misuse and Addiction Opioids Pain Research Prevention Social Determinants of Health Substance Misuse",
+  "grant_keywords": ""
+}

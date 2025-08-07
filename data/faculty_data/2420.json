@@ -1,0 +1,126 @@
+{
+  "discoveryId": "2420",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 30,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 935,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 65,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sisiopiku",
+  "firstName": "Virginia",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2420-virginia-sisiopiku",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Engineering",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Virginia Sisiopiku",
+  "equipmentLinkTypes": [],
+  "objectId": 2420,
+  "updatedWhen": "2025-05-10T08:07:28.9197193-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Transportation and Freight Services",
+          "and Freight Services",
+          "Freight Services",
+          "Services"
+        ],
+        "value": "Transportation and Freight Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Urban and Regional Planning",
+          "and Regional Planning",
+          "Regional Planning",
+          "Planning"
+        ],
+        "value": "Urban and Regional Planning"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "vsisiopi@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Eye Disease and Disorders of Vision",
+  "grant_keywords": ""
+}

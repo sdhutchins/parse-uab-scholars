@@ -1,0 +1,45 @@
+{
+  "discoveryId": "17953",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "lastName": "Richter",
+  "overview": "Education and Experience\n\nDr. Richter earned her bachelor's degree in Psychology from the Universidade Federal de Minas Gerais (Federal University of Minas Gerais) in Brazil and her master's degree in Developmental Psychology at the same university. She worked as a Cognitive Behavior Therapist in Brazil and with early intervention for children with neurodevelopmental disorders before going on to earn her doctoral degree in Experimental Psychology at the University of Louisville, KY. Before joining the faculty at UAB, Dr. Richter was a Postdoctoral Research Associate at the University of Connecticut.\n\nI am available to work with graduate students in our the Developmental Psychology program in the Department of Psychology, as well as undergraduate students with shared research interests.",
+  "firstName": "Caroline",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17953-caroline-richter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychology"
+    }
+  ],
+  "firstNameLastName": "Caroline Richter",
+  "equipmentLinkTypes": [],
+  "objectId": 17953,
+  "updatedWhen": "2025-05-10T08:18:27.5083428-05:00",
+  "hasCollaborationData": true,
+  "email": "carolinerichter@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Mental Health Pediatric Pediatric Research Initiative",
+  "grant_keywords": ""
+}

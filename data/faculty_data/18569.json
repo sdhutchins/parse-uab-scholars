@@ -1,0 +1,100 @@
+{
+  "discoveryId": "18569",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "lastName": "Zhang",
+  "firstName": "Yanfeng",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18569-yanfeng-zhang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "firstNameLastName": "Yanfeng Zhang",
+  "equipmentLinkTypes": [],
+  "objectId": 18569,
+  "updatedWhen": "2025-05-10T08:19:42.5125621-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genomics"
+        ],
+        "value": "Genomics"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epigenetics (incl. Genome Methylation and Epigenomics)",
+          "(incl. Genome Methylation and Epigenomics)",
+          "Genome Methylation and Epigenomics)",
+          "Methylation and Epigenomics)",
+          "and Epigenomics)",
+          "Epigenomics)"
+        ],
+        "value": "Epigenetics (incl. Genome Methylation and Epigenomics)"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "yzhang6@uab.edu",
+  "publication_keywords": "Ataxia Telangiectasia Biotechnology Breast Cancer Cancer Cancer Genomics Childhood Leukemia Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Human Genome Minority Health Neurodegenerative Neurosciences Orphan Drug Pediatric Cancer Pediatric Research Initiative Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

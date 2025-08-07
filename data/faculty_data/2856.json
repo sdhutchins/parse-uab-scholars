@@ -1,0 +1,131 @@
+{
+  "lastName": "Bhatia",
+  "overview": "Introduction:\n\nI was appointed as Director of the Division of Hematopoietic Stem Cell and Leukemia Research and co-Director of the Hematological Malignancies Program in the Comprehensive Cancer Center in 2006 to develop a basic and translational program in hematological malignancies and hematopoietic stem cells at our center. \nSince taking over this position, I have recruited and mentored an outstanding group of young faculty with a common interest in investigating mechanisms of regulation of normal stem cell growth; cellular and molecular mechanisms underlying hematopoietic cell transformation in patients with hematological malignancies; identification of critical therapeutic targets; and preclinical and clinical development of innovative, mechanism-based therapeutic interventions.\n\nResearch:\n\n\nMy research goals are to develop an improved understanding of abnormal regulation of malignant stem and progenitor cells in hematologic malignancies and to develop effective approaches to eliminate these cells to enhance outcomes for these cancers. In addition to being a practicing clinical Hematologist-Oncologist and Hematopoietic Cell Transplant physician, I have extensive experience in studying normal and malignant hematopoietic stem cell regulation in the translational laboratory setting. \nDuring my fellowship at the University of Minnesota, under the mentorship of Dr. Catherine Verfaillie and Dr. Philip McGlave, I studied mechanisms of microenvironmental regulation of normal and malignant hematopoiesis, and mechanisms of response and resistance of leukemia stem cells to therapy. \nAfter establishing my independent research program at City of Hope, I have continued to investigate mechanisms of regulation of normal and leukemia stem cell growth and therapeutic targeting of leukemia stem cells. My research goals are to develop an improved understanding of abnormal regulation of malignant stem and progenitor cells in hematologic malignancies and to develop effective approaches to eliminate these cells to enhance outcomes for these cancers.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2856-ravi-bhatia",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2856",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 64,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 265,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ravi",
+  "firstNameLastName": "Ravi Bhatia",
+  "equipmentLinkTypes": [],
+  "objectId": 2856,
+  "updatedWhen": "2025-05-10T08:08:32.6019000-05:00",
+  "hasCollaborationData": true,
+  "email": "rbhatia1@uab.edu",
+  "publication_keywords": "Cancer Cervical Cancer Childhood Leukemia Clinical Research Dental/Oral and Craniofacial Disease Digestive Diseases HIV/AIDS Hematology Infectious Diseases Orphan Drug Patient Safety Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases Regenerative Medicine Sexually Transmitted Infections Stem Cell Research Stem Cell Research - Nonembryonic - Human Transplantation Women's Health",
+  "grant_keywords": "Cancer Hematology Lymphatic Research Lymphoma Prevention Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Transplantation"
+}

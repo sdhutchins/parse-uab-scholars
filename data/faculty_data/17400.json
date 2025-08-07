@@ -1,0 +1,115 @@
+{
+  "lastName": "Arthur",
+  "overview": "Dr. Edmund Arthur is an optometrist, a vision scientist, and currently a tenure track assistant professor of optometry at the University of Alabama at Birmingham School of Optometry (UABSO). He received his Doctor of Optometry (OD) degree from Kwame Nkrumah University of Science and Technology (Ghana) in 2014 followed in 2018 by a PhD in vision science with a biostatistics minor from Indiana University School of Optometry, Bloomington, IN. His PhD dissertation focused on detecting preclinical retinal changes in diabetic patients using advanced retinal imaging. Following his PhD, Arthur was a postdoctoral researcher (2018 – 2019) at the Quantitative Imaging and Eye-Brain Research Lab, located at the world-renowned Bascom Palmer Eye Institute, University of Miami, where he researched retinal biomarkers for early diagnosis of cognitive impairment. He then joined the Snyder/Alber Lab and the Butler Hospital Memory and Aging Program of University of Rhode Island and Brown University as a postdoctoral research fellow (2019 – 2021) under the supervision of Drs. Peter Snyder, Jessica Alber, and Stephen Salloway. Here, he worked on a five-year longitudinal study termed the Atlas of Retinal Imaging in Alzheimer’s Study (ARIAS) which investigated retinal structural, vascular, and proteinopathy changes as they relate to cognitive, functional, proteomic, and biomarker changes across the cognitive aging spectrum. Arthur’s current research at UABSO is focused on early detection, referral, monitoring of disease progression, and management of diabetic retinopathy, diabetic macular edema, and Alzheimer’s disease using advanced retinal imaging modalities such as Spectral Domain Optical Coherence Tomography (SD-OCT), OCT Angiography, Blue Autofluorescence imaging, and Dual Wavelength (Blue-Green) Autofluorescence imaging. Research in Arthur’s lab during his first two years at UABSO is currently funded by 5 grants including: NIH/NIA R21, Genentech Career Development Award via ARVO, McKnight Brain Research Foundation, and two pilot grants from UAB. He is a Fellow of the American Academy of Optometry (FAAO).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17400-edmund-arthur",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "17400",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 25,
+      "favourites": 0
+    }
+  },
+  "firstName": "Edmund",
+  "firstNameLastName": "Edmund Arthur",
+  "equipmentLinkTypes": [],
+  "objectId": 17400,
+  "updatedWhen": "2025-05-10T08:17:34.4214011-05:00",
+  "hasCollaborationData": true,
+  "email": "earthur@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Cardiovascular Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Dementia Diabetes Eye Disease and Disorders of Vision Genetics Heart Disease Neurodegenerative Neurosciences Nutrition Physical Activity Physical Rehabilitation Prevention Rehabilitation Vascular Cognitive Impairment/Dementia",
+  "grant_keywords": ""
+}

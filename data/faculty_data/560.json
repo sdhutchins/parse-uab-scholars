@@ -1,0 +1,124 @@
+{
+  "lastName": "Heath",
+  "overview": "Dr. Heath is an Associate Professor of Medicine at the University of Alabama at Birmingham. She is Board-certified in Internal Medicine and Infectious Diseases. She also received a Master’s Degree in Microbiology and Immunology. Her translational laboratory is focused on investigating T and B cell biology in HIV infection and vaccine development, with external funding through NIH and CDC.  Her research program has focused on understanding 1) HIV specific CD8 T cell responses and how exhaustion, senescence, and inflammation impair immunity; 2) use of cell death and survival biomarkers to elucidate the generation and maintenance of robust anti-viral immune responses in HIV infection and vaccination; 3) accelerated aging and immunosenescence in HIV infection and the extent that mitochondrial dysfunction drives this; and 4) preservation of immune function and benefit of rapid detection and treatment of acute HIV. Dr. Heath has also developed primary HIV infection laboratories with nucleic acid amplification testing and subsequently fourth generation HIV testing for the detection of acute HIV. She also serves as the PI on the CDC funded program implementing Universal HIV Screening and linkage to care at the UAB Emergency Department with expansion to community health centers serving populations disproportionately affected by HIV. Dr. Heath is a Co-Investigator of the Alabama Vaccine Research Clinic (AVRC) and serves as PI for ongoing clinical trials for early HIV treatment and therapeutic vaccination for immune preservation. She is also active in the AIDS Clinical Trials Group (ACTG) and the HIV Vaccine Trials Network (HVTN)",
+  "hasThumbnail": true,
+  "discoveryUrlId": "560-sonya-heath",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "560",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 129,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 103,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sonya",
+  "firstNameLastName": "Sonya Heath",
+  "equipmentLinkTypes": [],
+  "objectId": 560,
+  "updatedWhen": "2025-05-10T08:03:25.3132492-05:00",
+  "hasCollaborationData": true,
+  "email": "heaths@uab.edu",
+  "publication_keywords": "Biotechnology Cardiovascular Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Coronaviruses Digestive Diseases Emergency Care Emerging Infectious Diseases HIV/AIDS Health Services Hepatitis Hypertension Infectious Diseases Liver Disease Prevention Primary Health Care Sexually Transmitted Infections Women's Health",
+  "grant_keywords": ""
+}

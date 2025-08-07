@@ -1,0 +1,75 @@
+{
+  "discoveryId": "17722",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Aguilar Calvo",
+  "firstName": "Patricia",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17722-patricia-aguilar-calvo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Patricia Aguilar Calvo",
+  "equipmentLinkTypes": [],
+  "objectId": 17722,
+  "updatedWhen": "2025-05-10T08:18:11.1816125-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical Microbiology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Infection Agents (incl. Prions)",
+          "Infection Agents (incl. Prions)",
+          "Agents (incl. Prions)",
+          "(incl. Prions)",
+          "Prions)"
+        ],
+        "value": "Medical Infection Agents (incl. Prions)"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "paguilar@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Dementia Emerging Infectious Diseases Infectious Diseases Neurodegenerative Neurosciences Rare Diseases Transmissible Spongiform Encephalopathy (TSE)"
+}

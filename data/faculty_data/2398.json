@@ -1,0 +1,130 @@
+{
+  "lastName": "Wilkinson",
+  "overview": "Scholarship\n\nIn research and information dissemination, my role is to address the areas of health promotion and health services. My research interests include: health disparities, health communication, and health and human services utilization. In this work, I examine pathways to building health equity in communities, the process to disseminating health information and behavior change within segments of the population, and work to mediate factors that influence access and quality of health and human services.\n\nService\n\nAs a public servant, it is important to utilize my training and skills in order to promote the well-being of individuals and the public at the local, state, national, and international level. It is imperative that I am engaged in communities and working with stakeholders to provide designated change. My service involvement also includes advocacy, in order to promote causes that benefit the public\n\nPersonal\n\nI really enjoy my family time. I am married to my lovely wife (Khalia) and cherish the time I am able to spend with my daughter (Kayla). I work hard to stay physically active by playing soccer (and other team based sports), working out in my yard, and participating in projects that keep me moving.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2398-larrell-wilkinson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "2398",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 379,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 25,
+      "favourites": 0
+    }
+  },
+  "firstName": "Larrell",
+  "firstNameLastName": "Larrell Wilkinson",
+  "equipmentLinkTypes": [],
+  "objectId": 2398,
+  "updatedWhen": "2025-05-12T03:21:24.6296077-05:00",
+  "hasCollaborationData": true,
+  "email": "larrellw@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biodefense Brain Disorders Childhood Obesity Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Depression Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Infectious Diseases Machine Learning and Artificial Intelligence Mental Health Mental Illness Nutrition Obesity Pediatric Pediatric Research Initiative Prevention Rural Health Social Determinants of Health Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

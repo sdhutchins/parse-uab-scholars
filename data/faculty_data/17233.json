@@ -1,0 +1,45 @@
+{
+  "discoveryId": "17233",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Newbrough",
+  "overview": "Dr. Mark Newbrough joins UAB from the Medical University of South Carolina. Dr. Newbrough received his Doctor of Medicine degree from West Virginia University (WVU). He completed residency and fellowship training in West Virginia and is board certified in both Internal Medicine and Geriatric Medicine. He has focused on the care of older adults in a variety of settings, including in the clinic, hospital, nursing home, and in a rural community health center where he served as the medical director.",
+  "firstName": "Mark",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17233-mark-newbrough",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "firstNameLastName": "Mark Newbrough",
+  "equipmentLinkTypes": [],
+  "objectId": 17233,
+  "updatedWhen": "2025-05-10T08:17:17.5312577-05:00",
+  "hasCollaborationData": false,
+  "email": "mnewbrou@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

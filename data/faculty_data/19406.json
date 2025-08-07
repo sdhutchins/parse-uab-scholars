@@ -1,0 +1,45 @@
+{
+  "discoveryId": "19406",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "lastName": "Zhou",
+  "overview": "Hi, I’m Xiaoxiao Zhou (周筱筱), an Assistant Professor in the Department of Biostatistics at the University of Alabama at Birmingham (UAB), starting in August 2024. I earned my Ph.D. in Statistics from The Chinese University of Hong Kong, where I was mentored by Dr. Xinyuan Song. During my Ph.D., I had the opportunity to visit the University of California, Berkeley, to work with Dr. Peng Ding on causal inference. Following my Ph.D., I completed a postdoctoral fellowship at Duke University in the Department of Statistical Science under the mentorship of Dr. Fan Li. \n\nMy research focuses on developing and applying statistical methods to address real-world challenges, with a particular emphasis on causal inference. I specialize in handling intercurrent events, such as treatment discontinuation or switching, to improve the interpretation of clinical trials, and in causal mediation analysis to explore underlying causal mechanisms. My work also spans longitudinal data analysis, survival analysis, and latent variable models, with additional interests in Bayesian methods, missing data, and neuroimaging analysis.\n\nThe applications of my research are diverse, ranging from clinical trials to psychological and behavioral studies. I actively collaborate with researchers across disciplines, including biostatisticians and clinicians, to bring statistical insights into a wide array of fields.\n\nOutside of academia, you'll find me immersed in activities like weight lifting, mountain hiking, wall climbing, and running—always up for a new adventure!\n\nYou can reach me best via email at zhoux@uab.edu. Feel free to connect for discussions or collaborations.\n\nPronouns: She/her/hers",
+  "firstName": "Xiaoxiao",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19406-xiaoxiao-zhou",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Public Health",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Xiaoxiao Zhou",
+  "equipmentLinkTypes": [],
+  "objectId": 19406,
+  "updatedWhen": "2025-05-11T21:32:42.8116506-05:00",
+  "hasCollaborationData": false,
+  "email": "zhoux@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Dementia Genetics Human Genome Machine Learning and Artificial Intelligence Microbiome Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences",
+  "grant_keywords": ""
+}

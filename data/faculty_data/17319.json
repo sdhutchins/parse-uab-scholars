@@ -1,0 +1,127 @@
+{
+  "discoveryId": "17319",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 34,
+      "favourites": 0
+    }
+  },
+  "lastName": "Godwin",
+  "firstName": "Ryan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17319-ryan-godwin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Anesthesiology"
+    }
+  ],
+  "firstNameLastName": "Ryan Godwin",
+  "equipmentLinkTypes": [],
+  "objectId": 17319,
+  "updatedWhen": "2025-05-10T08:17:26.0878807-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Information and Computing Sciences",
+          "Information and Computing Sciences",
+          "and Computing Sciences",
+          "Computing Sciences",
+          "Sciences"
+        ],
+        "value": "Other Information and Computing Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rcg2@uab.edu",
+  "publication_keywords": "Bioengineering Brain Disorders Cardiovascular Cerebrovascular Clinical Research Heart Disease Hypertension Kidney Disease Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Patient Safety Physical Injury - Accidents and Adverse Effects Precision Medicine",
+  "grant_keywords": ""
+}

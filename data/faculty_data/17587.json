@@ -1,0 +1,89 @@
+{
+  "discoveryId": "17587",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "lastName": "Smith",
+  "firstName": "Melissa",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17587-melissa-smith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Melissa Smith",
+  "equipmentLinkTypes": [],
+  "objectId": 17587,
+  "updatedWhen": "2025-05-12T03:19:08.2772395-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

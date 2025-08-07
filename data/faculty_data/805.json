@@ -1,0 +1,126 @@
+{
+  "lastName": "Curcio",
+  "overview": "Christine A. Curcio PhD is the White-McKee Endowed Professor in Ophthalmology at the University of Alabama at Birmingham Heersink School of Medicine. She trained at Brown University (BS), University of Wisconsin-Madison, University of Rochester (PhD 1982, Neurobiology and Anatomy), Boston University and University of Washington (post-doctoral) before joining UAB in 1990.  Using laboratory and clinical approaches, she researches human retinal neuroscience, aging, and age-related macular degeneration (AMD), a prevalent cause of irreversible vision loss in older adults. Maps of human photoreceptors showing rod loss in aging and AMD stimulated development of rod-mediated dark adaptation as a functional indicator for AMD onset. Contributions in AMD anatomic and molecular pathobiology include drusen and characteristic extracellular deposits, outer retinal neurodegeneration and gliosis, transdifferentiation of retinal pigment epithelium, and microarchitecture of neovascularization and atrophy. Histologic studies support clinical retinal imaging (optical coherence tomography, fundus autofluorescence, adaptive optics-assisted scanning laser ophthalmoscopy) including the Classification of Atrophy Meeting, an international consensus group seeking OCT-based imaging endpoints for AMD clinical trials. Peer-reviewed publications (>230) garnered 28,591 citations with an H-index of 83 (Google Scholar, October 2022). She serves on editorial boards of Investigative Ophthalmology & Visual Science and Retina. She has served on the NEI Board of Scientific Counsellors, NIH study section, and currently reviews for vision funding agencies in Europe and UK. She was awarded the 2002 (inaugural) Roger H. Johnson Prize for Macular Degeneration research, 2014 Ludwig von Sallmann Prize, 2020 Research to Prevent Blindness – David F. Weeks Award, the 2022 Lawrence A. Yannuzzi Lectureship of the International Retinal Imaging Society. She is 2022 Laureate of the Future Vision Foundation https://futurevisionfound.org/2022-films.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "805-christine-curcio",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emerita",
+      "department": "Ophthalmology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "805",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 38,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 323,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christine",
+  "firstNameLastName": "Christine Curcio",
+  "equipmentLinkTypes": [],
+  "objectId": 805,
+  "updatedWhen": "2025-05-10T08:04:02.5557460-05:00",
+  "hasCollaborationData": true,
+  "email": "curcio@uab.edu",
+  "publication_keywords": "Aging Bioengineering Biomedical Imaging Clinical Research Eye Disease and Disorders of Vision Machine Learning and Artificial Intelligence Macular Degeneration Neurodegenerative Neurosciences Prevention",
+  "grant_keywords": ""
+}

@@ -1,0 +1,123 @@
+{
+  "lastName": "Bodduluri",
+  "overview": "Dr. Bodduluri is an Assistant Professor of Medicine in Pulmonary, Allergy, and Critical Care and Director of AI research at UAB's Center for Lung Analytics and Imaging Research (CLAIR). He also serves as Director of AI programs at Marnix E. Heersink Institute for Biomedical Innovation (MHIBI) overseeing Graduate Certificate and MS AI in Medicine degree programs at Heersink School of Medicine. He also holds teaching appointments in Electrical and Computer Engineering. He obtained his MS and PhD in Biomedical Engineering from University of Iowa.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4971-sandeep-bodduluri",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "4971",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 110,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sandeep",
+  "firstNameLastName": "Sandeep Bodduluri",
+  "equipmentLinkTypes": [],
+  "objectId": 4971,
+  "updatedWhen": "2025-05-10T08:11:43.7462557-05:00",
+  "hasCollaborationData": true,
+  "email": "sboddulu@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Biomedical Imaging Chronic Obstructive Pulmonary Disease Clinical Research Data Science Emphysema Lung Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Patient Safety Prevention",
+  "grant_keywords": "Bioengineering Biomedical Imaging Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Emphysema Lung Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Orphan Drug Precision Medicine Rare Diseases Tobacco Tobacco Smoke and Health"
+}

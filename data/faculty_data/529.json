@@ -1,0 +1,124 @@
+{
+  "lastName": "Ochsenbauer",
+  "overview": "Introduction & Research:\n\nDr. Ochsenbauer pursued HIV research since her doctoral thesis at the German Cancer Research Center, Heidelberg. She came to UAB for postdoctoral training in molecular retrovirology with Dr. Eric Hunter. Over the last decade, she focused on questions pertinent to HIV-1 transmission She contributed several novel, highly relevant virologic reagents to the HIV prevention field, including the first infectious molecular clones that represent nucleotide exact copies of transmitted/founder (T/F) viruses, developed to link genetic analyses of T/F HIV-1 genomes with their biologic characteristics; and implementation of innovative, broadly applicable HIV-1/SIV reporter virus approaches to facilitate studies of HIV-1 transmission and prevention. In part through her work directing the Molecular Virology Core of the CAVD Comprehensive Antibody Vaccine Immunomonitoring Consortium, these technologies underpin development of next-generation HIV immunomonitoring assays, including neutralization, (primary) cell- and tissue explant-based virus inhibition (e.g. CD8 VIA, ADCC) assays, as well as various transmission-related research activities, including those of mucosal HIV-1 transmission in the female reproductive tract. Dr. Ochsenbauer also served as co-director of the UAB CFAR Virology Core. Her work is funded by CAVD, IAVI, and NIH (through R21, R01, CHAVI, P01 mechanisms).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "529-christina-ochsenbauer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "529",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 110,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christina",
+  "firstNameLastName": "Christina Ochsenbauer",
+  "equipmentLinkTypes": [],
+  "objectId": 529,
+  "updatedWhen": "2025-05-10T08:03:25.2778771-05:00",
+  "hasCollaborationData": true,
+  "email": "ochsenba@uab.edu",
+  "publication_keywords": "Biotechnology Clinical Research HIV/AIDS Immunization Infectious Diseases Pediatric Perinatal Period - Conditions Originating in Perinatal Period Sexually Transmitted Infections Vaccine Related Women's Health",
+  "grant_keywords": "Antimicrobial Resistance Clinical Research Genetics HIV/AIDS Health Disparities Immunization Infectious Diseases Minority Health Prevention Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS) Women's Health"
+}

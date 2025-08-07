@@ -1,0 +1,86 @@
+{
+  "lastName": "Sayer",
+  "overview": "I am intervention scientist with training in nutrition, exercise, and behavioral sciences. My lab focuses on developing, optimizing, and evaluating lifestyle interventions for preventing or managing cardiometabolic conditions including obesity, type 2 diabetes, and hypertension. We are particularly interested in developing intervention strategies that can be delivered in partnership with primary care.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6763-richard-sayer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Family & Community Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Food Sciences",
+          "Sciences"
+        ],
+        "value": "Food Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "6763",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "firstName": "Richard",
+  "firstNameLastName": "Richard Sayer",
+  "equipmentLinkTypes": [],
+  "objectId": 6763,
+  "updatedWhen": "2025-05-10T08:13:42.6823037-05:00",
+  "hasCollaborationData": true,
+  "email": "sayerd@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Mental Health Mind and Body Minority Health Nutrition Obesity Physical Activity Prevention Rehabilitation",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Prevention Rural Health Social Determinants of Health"
+}

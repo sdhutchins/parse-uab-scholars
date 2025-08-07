@@ -1,0 +1,123 @@
+{
+  "lastName": "Powell",
+  "overview": "Powell earned both his Ph.D. in Neuroscience and M.D. with Honor at Baylor College of Medicine in 1994 and 1997 respectively. His graduate work was among the first to measure lasting biochemical changes during long-lasting synaptic plasticity in the hippocampus. After his medical internship year at Baylor College of Medicine, Dr. Powell trained at the University of California San Francisco Neurology Residency Program. In his final year, he was selected as Chief Resident at UCSF. From there, he returned to UT Southwestern Medical Center as a professor and served in several roles before holding his current leadership positions.\n\n“With my laboratory’s longstanding focus on autism, intellectual disability, and cognitive dysfunction in general, the opportunity to lead the UAB Civitan International Research Center is a great honor,” said Powell. “As a physician and a scientist, I am uniquely poised to leverage the existing clinical research strengths at UAB and Children’s of Alabama to move our neurobiology discoveries out of the laboratory and into the clinics to help patients and their families.”",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6528-craig-powell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "6528",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 2
+    },
+    "teachingActivities": {
+      "all": 163,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 35
+    }
+  },
+  "firstName": "Craig",
+  "firstNameLastName": "Craig Powell",
+  "equipmentLinkTypes": [],
+  "objectId": 6528,
+  "updatedWhen": "2025-05-10T08:13:23.4003529-05:00",
+  "hasCollaborationData": true,
+  "email": "craigpow@uab.edu",
+  "publication_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Depression Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Mental Illness Neurosciences Pediatric Research Initiative Serious Mental Illness",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Autism Autoimmune Disease Biotechnology Brain Disorders Dementia Genetics Health Disparities Intellectual and Developmental Disabilities (IDD) Mental Health Minority Health Multiple Sclerosis Neurodegenerative Neurosciences Organ Transplantation Pediatric Prevention Rural Health Social Determinants of Health Transplantation"
+}

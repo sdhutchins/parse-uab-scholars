@@ -1,0 +1,44 @@
+{
+  "discoveryId": "7059",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Skains",
+  "firstName": "Rachel",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7059-rachel-skains",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Emergency Medicine"
+    }
+  ],
+  "firstNameLastName": "Rachel Skains",
+  "equipmentLinkTypes": [],
+  "objectId": 7059,
+  "updatedWhen": "2025-05-10T08:14:10.2848140-05:00",
+  "hasCollaborationData": false,
+  "email": "rskains@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

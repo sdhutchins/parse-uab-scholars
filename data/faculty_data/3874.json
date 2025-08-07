@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3874",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ryan",
+  "firstName": "Sarah",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3874-sarah-ryan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Psychologist",
+      "department": "Health Services Administration"
+    }
+  ],
+  "firstNameLastName": "Sarah Ryan",
+  "equipmentLinkTypes": [],
+  "objectId": 3874,
+  "updatedWhen": "2025-05-10T08:10:09.0772445-05:00",
+  "hasCollaborationData": false,
+  "email": "ryan029@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

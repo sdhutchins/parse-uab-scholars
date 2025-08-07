@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1420",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 415,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 16,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gordon",
+  "firstName": "Adam",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1420-adam-gordon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Adam Gordon",
+  "equipmentLinkTypes": [],
+  "objectId": 1420,
+  "updatedWhen": "2025-05-10T08:05:25.8162248-05:00",
+  "hasCollaborationData": true,
+  "email": "agordon@uab.edu",
+  "publication_keywords": "Aging Clinical Research Eye Disease and Disorders of Vision Neurosciences",
+  "grant_keywords": ""
+}

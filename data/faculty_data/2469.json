@@ -1,0 +1,122 @@
+{
+  "discoveryId": "2469",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 772,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 30,
+      "favourites": 0
+    }
+  },
+  "lastName": "Callahan",
+  "firstName": "Dale",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2469-dale-callahan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor-Engineering 9 Mo",
+      "department": "Information Engineering Management"
+    }
+  ],
+  "firstNameLastName": "Dale Callahan",
+  "equipmentLinkTypes": [],
+  "objectId": 2469,
+  "updatedWhen": "2025-05-10T08:07:39.3529261-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dcallahan@uab.edu",
+  "publication_keywords": "Bioengineering Clinical Research Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

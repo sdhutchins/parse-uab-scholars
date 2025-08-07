@@ -1,0 +1,44 @@
+{
+  "discoveryId": "373",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 44,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Walcott",
+  "firstName": "Gregory",
+  "hasThumbnail": true,
+  "discoveryUrlId": "373-gregory-walcott",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor-Medicine MD",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Gregory Walcott",
+  "equipmentLinkTypes": [],
+  "objectId": 373,
+  "updatedWhen": "2025-05-10T08:03:00.7947257-05:00",
+  "hasCollaborationData": false,
+  "email": "gpw@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Bioengineering Cardiovascular Congenital Heart Disease Digestive Diseases Genetics Heart Disease Heart Disease - Coronary Heart Disease Pediatric Rare Diseases Regenerative Medicine"
+}

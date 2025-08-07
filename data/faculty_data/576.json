@@ -1,0 +1,113 @@
+{
+  "lastName": "Rodriguez",
+  "overview": "J. Martin Rodriguez, MD, FACP, FIPSA, the Paul W. Burleson, MD, Endowed Professor of Medicine, is known and loved at UAB as an esteemed physician, teacher, and leader. He has served as its Director of Clinical Activities since 2016. Recently, he has led research-intensive faculty with the largest research program in the department while also developing new clinical programs to meet the needs of UAB Medicine.\n\nA graduate of Universidad Peruana Cayetano Heredia in Lima, Rodriguez trained in Internal Medicine and served as Chief Medical Resident at UAB before training in Infectious Diseases and HIV Medicine at the Massachusetts General Hospital. He joined our faculty in 2005 and subsequently directed the Tinsley Harrison Clinical Scholars (teaching) Service, the Travel Clinic, and the Infectious Diseases Clinic. He is also the Physician for Adults in the UAB Undiagnosed Diseases Program.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "576-martin-rodriguez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "576",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 42,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 102,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "firstName": "Martin",
+  "firstNameLastName": "Martin Rodriguez",
+  "equipmentLinkTypes": [],
+  "objectId": 576,
+  "updatedWhen": "2025-05-10T08:03:25.3362505-05:00",
+  "hasCollaborationData": true,
+  "email": "mrodri2@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Clinical Research Emerging Infectious Diseases Genetic Testing Genetics Hematology Infant Mortality Infectious Diseases Kidney Disease Maternal Health Microbiome Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Sepsis Women's Health",
+  "grant_keywords": ""
+}

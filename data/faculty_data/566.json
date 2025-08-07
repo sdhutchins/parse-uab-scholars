@@ -1,0 +1,125 @@
+{
+  "lastName": "Kutsch",
+  "overview": "1989-1991\tPrediploma Fellow, Institute for Biotechnology, University of Würzburg, Germany 1992-1997\tPredoctoral Fellow, Institute for Immunobiology, University of Würzburg, Germany 1998-2001\tPostdoctoral Fellow, University of Alabama at Birmingham 2001-2003\tResearch Instructor, University of Alabama at Birmingham 2003-2005\tResearch Assistant Professor, University of Alabama at Birmingham 2005- 2008\tAssistant Professor, University of Alabama at Birmingham 2005-present Associate Scientist, UAB CFAR 2007-present\tDirector UAB CFAR Flow Cytometry Core Facility 2008-present\tAssociate Professor, University of Alabama at Birmingham",
+  "hasThumbnail": true,
+  "discoveryUrlId": "566-olaf-kutsch",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      }
+    ]
+  },
+  "discoveryId": "566",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 35,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 72,
+      "favourites": 0
+    }
+  },
+  "firstName": "Olaf",
+  "firstNameLastName": "Olaf Kutsch",
+  "equipmentLinkTypes": [],
+  "objectId": 566,
+  "updatedWhen": "2025-05-10T08:03:25.3212502-05:00",
+  "hasCollaborationData": true,
+  "email": "okutsch@uab.edu",
+  "publication_keywords": "Aging Biotechnology Brain Disorders Breast Cancer Breastfeeding, Lactation and Breast Milk Cancer Clinical Research Digestive Diseases Drug Abuse (NIDA only) Emerging Infectious Diseases HIV/AIDS Hepatitis Immunization Infectious Diseases Liver Disease Opioid Misuse and Addiction Opioids Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Prevention Sexually Transmitted Infections Substance Misuse Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

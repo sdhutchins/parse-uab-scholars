@@ -1,0 +1,124 @@
+{
+  "lastName": "Eaton",
+  "overview": "Ellen Eaton, MD, MSPH is an Associate Professor in the Department of Medicine and Division of Infectious Diseases at the University of Alabama at Birmingham (UAB). A native of Dothan, AL, she completed her Internal Medicine residency and Chief Residency at Stanford Hospital and Clinics in 2011 before returning to UAB for her Infectious Diseases Fellowship and faculty. \n\nHer patient care and research centers on infectious consequences of substance use and mental illness. Her lab is developing and testing interventions to link patients to addiction and infection prevention and treatment in both acute care and community-based settings. Dr. Eaton's team uses mixed methods, implementation science, and clinical trials to identify treatment gaps and health care delivery innovations in rural and poor regions in the Deep South.  \n\nDr. Eaton serves as Director of the Office Based Addiction Treatment Clinic at the 1917 HIV Clinic, Director of the NIH-funded HIV and Addiction Training (HEAT) Program, and the UAB Addiction, Infection, Clinical Care and Research Training (ART) Program. She is a National Academy of Medicine (NAM) Emerging Leader and serves on the NAM Opioid Collaborative Working Group and the Learning Health System subgroup. In 2024, she was elected to the HIVMA Board of Directors.  \n\nIn addition to her patient care and research, she has held public health roles with the Jefferson County Department of Public Health and City of Birmingham COVID Incident Command Centers.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3462-ellen-eaton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "3462",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 37,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 106,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ellen",
+  "firstNameLastName": "Ellen Eaton",
+  "equipmentLinkTypes": [],
+  "objectId": 3462,
+  "updatedWhen": "2025-05-10T08:09:38.3545365-05:00",
+  "hasCollaborationData": true,
+  "email": "eeaton@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Disparities and At-Risk Populations Dissemination and Implementation Research Drug Abuse (NIDA only) Fentanyl Misuse and Addiction HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Mental Health Networking and Information Technology R&D (NITRD) Opioid Misuse and Addiction Opioids Physical Injury - Accidents and Adverse Effects Prevention Rural Health Sexually Transmitted Infections Social Determinants of Health Substance Misuse Telehealth Women's Health",
+  "grant_keywords": ""
+}

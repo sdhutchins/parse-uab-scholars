@@ -1,0 +1,120 @@
+{
+  "lastName": "Chaplin",
+  "overview": "Dr. Chaplin completed his undergraduate education at Harvard University in 1973, then undertook graduate training in the MD/PhD program at Washington University, graduating in 1980. He completed two years of Internal Medicine Residency at U of Texas/Southwestern Medical School, Parkland Memorial Hospital. His post-doctoral research training was with Dr. J.G. Seidman in the Department of Genetics at Harvard Medical School, studying the genetics of the murine major histocompatibility complex. In 1984, he accepted a position as Associate Investigator of the Howard Hughes Medical Institute and Assistant Professor of Medicine, Molecular Microbiology, and Genetics at Washington University in St. Louis. He was promoted to Associate Professor in 1992, and Professor in 1995. He was Director of the Division of Allergy and Immunology from 1994-2001. In July 2001, he joined the faculty of UAB as Charles H. McCauley Professor and Chairman of the Department of Microbiology.  In 2012, he stepped down from his position as Department Chair and assumed the position of Associate Dean for Faculty Development in the School of Medicine.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2044-david-chaplin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "2044",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 215,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Chaplin",
+  "equipmentLinkTypes": [],
+  "objectId": 2044,
+  "updatedWhen": "2025-05-10T08:06:35.9320113-05:00",
+  "hasCollaborationData": true,
+  "email": "dchaplin@uab.edu",
+  "publication_keywords": "Asthma Clinical Research Digestive Diseases Genetics Infectious Diseases Lung Microbiome Rare Diseases",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Disparities Health Services Infectious Diseases Minority Health Sexually Transmitted Infections"
+}

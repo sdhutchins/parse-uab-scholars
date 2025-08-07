@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19401",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Acharyya",
+  "firstName": "Satwik",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19401-satwik-acharyya",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Satwik Acharyya",
+  "equipmentLinkTypes": [],
+  "objectId": 19401,
+  "updatedWhen": "2025-05-10T08:21:37.4805897-05:00",
+  "hasCollaborationData": false,
+  "email": "acharyya@uab.edu",
+  "publication_keywords": "Aging Bioengineering Biotechnology Breast Cancer Cancer Cancer Genomics Data Science Genetics Human Genome Immunotherapy Kidney Disease Networking and Information Technology R&D (NITRD) Prostate Cancer Rare Diseases Urologic Diseases Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,130 @@
+{
+  "lastName": "Morris",
+  "overview": "My academic background is in health and kinesiology, more specifically exercise physiology as a primary focus. As a graduate student, my secondary focus was in biomechanics and since then have conducted several research projects related to this topic as well. I believe this additional exposure allows me to explore research questions that integrate connections between different disciplines and contribute to a wide range of research collaborations. My main line of research and expertise includes the impact of tactical occupations in different environmental conditions; ergonomics and physical fitness; and improvement of cardiovascular disease risk factors through methods of exercise programming. For my collaborators and I, our aim is to evaluate (and potentially improve) the safety of workplaces in hazardous occupations. Our research questions are geared towards understanding the role that physical fitness plays in the ability of a person to perform their job safely and efficiently to reduce the risk of injury.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6344-cody-morris",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "6344",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 97,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 40,
+      "favourites": 0
+    }
+  },
+  "firstName": "Cody",
+  "firstNameLastName": "Cody Morris",
+  "equipmentLinkTypes": [],
+  "objectId": 6344,
+  "updatedWhen": "2025-05-10T08:13:14.7620640-05:00",
+  "hasCollaborationData": true,
+  "email": "cemorris@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Physical Activity Prevention",
+  "grant_keywords": ""
+}

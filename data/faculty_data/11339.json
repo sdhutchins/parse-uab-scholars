@@ -1,0 +1,44 @@
+{
+  "discoveryId": "11339",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 88,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wise",
+  "firstName": "Jenni",
+  "hasThumbnail": true,
+  "discoveryUrlId": "11339-jenni-wise",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "firstNameLastName": "Jenni Wise",
+  "equipmentLinkTypes": [],
+  "objectId": 11339,
+  "updatedWhen": "2025-05-10T08:15:02.2867756-05:00",
+  "hasCollaborationData": true,
+  "email": "jmwise@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Behavioral and Social Science Brain Disorders Clinical Research Depression HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Mental Health Mental Illness Pediatric Prevention Rural Health Sexual and Gender Minorities (SGM/LGBT*) Sexually Transmitted Infections Substance Misuse",
+  "grant_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cancer Clinical Research Coronaviruses Drug Abuse (NIDA only) HIV/AIDS Health Disparities Infectious Diseases Minority Health Prevention Rural Health Sexually Transmitted Infections Social Determinants of Health Substance Misuse Women's Health"
+}

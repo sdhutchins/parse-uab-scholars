@@ -1,0 +1,124 @@
+{
+  "discoveryId": "881",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 453,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 20,
+      "favourites": 0
+    }
+  },
+  "lastName": "Abdullatif",
+  "firstName": "Hussein",
+  "hasThumbnail": false,
+  "discoveryUrlId": "881-hussein-abdullatif",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Pediatrics",
+      "department": "Ped - Endocrinology"
+    }
+  ],
+  "firstNameLastName": "Hussein Abdullatif",
+  "equipmentLinkTypes": [],
+  "objectId": 881,
+  "updatedWhen": "2025-05-10T08:04:12.9888634-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "hlatif@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Biotechnology Clinical Research Nutrition Pediatric Pediatric Research Initiative Rare Diseases Sexual and Gender Minorities (SGM/LGBT*)",
+  "grant_keywords": ""
+}

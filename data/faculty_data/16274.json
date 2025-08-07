@@ -1,0 +1,122 @@
+{
+  "lastName": "Cortes Rodriguez",
+  "overview": "Our lab is interested in understanding how our brain ages, and in particular, how it ages as an integrated part of a physiological system. We take a cutting edge approach to understanding brain plasticity and brain aging, examining how distant tissues such as skeletal muscle may be fundamentally influencing the rate at which our brain ages. Importantly, as these conversations may be disrupted in age-associated neurodegenerative diseases such as Alzheimer’s disease, we aim to uncover and develop novel diagnostics and therapeutics for these disorders",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16274-constanza-cortes-rodriguez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "16274",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 92,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 0
+    }
+  },
+  "firstName": "Constanza",
+  "firstNameLastName": "Constanza Cortes Rodriguez",
+  "equipmentLinkTypes": [],
+  "objectId": 16274,
+  "updatedWhen": "2025-05-10T08:15:45.2787577-05:00",
+  "hasCollaborationData": true,
+  "email": "cjcortes@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Biotechnology Brain Disorders Dementia Dental/Oral and Craniofacial Disease Gene Therapy Genetics Neurodegenerative Neurosciences Nutrition Pediatric Research Initiative Physical Activity Prevention Rare Diseases",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Biotechnology Brain Disorders Data Science Dementia Genetics Human Genome Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Physical Activity"
+}

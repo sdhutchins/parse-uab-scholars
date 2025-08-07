@@ -1,0 +1,71 @@
+{
+  "discoveryId": "1362",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 24,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sittitavornwong",
+  "firstName": "Somsak",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1362-somsak-sittitavornwong",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "firstNameLastName": "Somsak Sittitavornwong",
+  "equipmentLinkTypes": [],
+  "objectId": 1362,
+  "updatedWhen": "2025-05-10T08:05:15.7878404-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sjade@uab.edu",
+  "publication_keywords": "Congenital Structural Anomalies Dental/Oral and Craniofacial Disease Genetics Neurosciences Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": ""
+}

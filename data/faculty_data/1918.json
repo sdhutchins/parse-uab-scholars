@@ -1,0 +1,74 @@
+{
+  "discoveryId": "1918",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 84,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "lastName": "Swatzell",
+  "firstName": "Kelley",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1918-kelley-swatzell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "School of Public Health"
+    }
+  ],
+  "firstNameLastName": "Kelley Swatzell",
+  "equipmentLinkTypes": [],
+  "objectId": 1918,
+  "updatedWhen": "2025-05-10T08:06:12.3589855-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ksw@uab.edu",
+  "publication_keywords": "Behavioral and Social Science",
+  "grant_keywords": ""
+}

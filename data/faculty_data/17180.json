@@ -1,0 +1,129 @@
+{
+  "lastName": "Burns",
+  "overview": "The Burns lab works at the intersection of radiochemistry, inorganic chemistry, materials science and nanotechnology. We are interested in taking advantage of the nuclear property of radioactive decay to help address problems spanning from radiopharmaceuticals to nuclear power. In particular, our focus is on 1) the investigation into emerging radioisotopes for medical applications, 2) the design of nanomaterials for radiopharmaceuticals, and 3) the development of new technologies for used nuclear fuel recycling. \n\nOur lab utilizes a variety of radiochemical techniques, including alpha, beta, and gamma spectroscopy, to develop and understand chemical systems aimed at the separation, purification, and encapsulation of radioisotopes of interest. Other general techniques such as inorganic materials synthesis and characterization are also heavily employed. The multidisciplinary nature of radiochemistry allows students and postdoctoral researchers to have the opportunity to be involved in a diverse and collaborative research program.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17180-jonathan-burns",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Inorganic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Inorganic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      }
+    ]
+  },
+  "discoveryId": "17180",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jonathan",
+  "firstNameLastName": "Jonathan Burns",
+  "equipmentLinkTypes": [],
+  "objectId": 17180,
+  "updatedWhen": "2025-05-10T08:17:17.5052548-05:00",
+  "hasCollaborationData": false,
+  "email": "burnsjon@uab.edu",
+  "publication_keywords": "Bioengineering",
+  "grant_keywords": ""
+}

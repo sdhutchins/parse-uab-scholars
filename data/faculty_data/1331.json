@@ -1,0 +1,71 @@
+{
+  "discoveryId": "1331",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 109,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "lastName": "Chavali",
+  "firstName": "Ramakiran",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1331-ramakiran-chavali",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Prosthodontics"
+    }
+  ],
+  "firstNameLastName": "Ramakiran Chavali",
+  "equipmentLinkTypes": [],
+  "objectId": 1331,
+  "updatedWhen": "2025-05-10T08:05:15.7671662-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "chavali@uab.edu",
+  "publication_keywords": "Dental/Oral and Craniofacial Disease",
+  "grant_keywords": ""
+}

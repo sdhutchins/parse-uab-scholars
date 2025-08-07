@@ -1,0 +1,62 @@
+{
+  "discoveryId": "903",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Peralta-Carcelen",
+  "firstName": "Ada",
+  "hasThumbnail": true,
+  "discoveryUrlId": "903-ada-peraltacarcelen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Neonatology"
+    }
+  ],
+  "firstNameLastName": "Ada Peralta-Carcelen",
+  "equipmentLinkTypes": [],
+  "objectId": 903,
+  "updatedWhen": "2025-05-10T08:04:23.0109564-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "peralta@uab.edu",
+  "publication_keywords": "Brain Disorders Cerebral Palsy Clinical Research Conditions Affecting the Embryonic and Fetal Periods Infant Mortality Intellectual and Developmental Disabilities (IDD) Maternal Health Neurosciences Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Prevention Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dissemination and Implementation Research Health Services Maternal Health Nutrition Pediatric Prevention Social Determinants of Health Women's Health"
+}

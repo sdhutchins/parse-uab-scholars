@@ -1,0 +1,127 @@
+{
+  "lastName": "Kharlampieva",
+  "overview": "Eugenia Kharlampieva is a polymer and materials chemist with research interests in the design and synthesis of polymeric materials for biomedical applications. She received her PhD in Polymer Science from the Stevens Institute of Technology and postdoctoral training in Materials Science and Engineering at the Georgia Institute of Technology. She joined UAB in 2010. \n\nDr. Kharlampieva has authored more than 80 peer-reviewed publications, four book chapters, and six patents. She was awarded funding through the NSF CAREER program in 2014, which supports junior faculty who exemplify the role of teacher-scholars through outstanding research, excellent education, and the integration of education and research. She is an Executive Committee member at Oak Ridge National Laboratory, SHUG (SNS and HFIR User Group). She also serves on an Advisory Committee in Neutron Scattering at Oak Ridge National lab, UT/ORNL DOE EPSCoR, and at the Editorial Board of Journal of Analytical & Bioanalytical Techniques.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2516-eugenia-kharlampieva",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biotechnology",
+          "Biotechnology"
+        ],
+        "value": "Medical Biotechnology"
+      }
+    ]
+  },
+  "discoveryId": "2516",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 226,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 151,
+      "favourites": 0
+    }
+  },
+  "firstName": "Eugenia",
+  "firstNameLastName": "Eugenia Kharlampieva",
+  "equipmentLinkTypes": [],
+  "objectId": 2516,
+  "updatedWhen": "2025-05-10T08:07:50.5079648-05:00",
+  "hasCollaborationData": true,
+  "email": "ekharlam@uab.edu",
+  "publication_keywords": "Bioengineering Dental/Oral and Craniofacial Disease Infectious Diseases Microbiome Nanotechnology Prevention",
+  "grant_keywords": "Autoimmune Disease Bioengineering Biotechnology Diabetes Immunotherapy Pediatric Prevention"
+}

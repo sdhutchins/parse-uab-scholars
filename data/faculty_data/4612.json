@@ -1,0 +1,122 @@
+{
+  "discoveryId": "4612",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 71,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 116,
+      "favourites": 0
+    }
+  },
+  "lastName": "Duncan",
+  "firstName": "W",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4612-w-duncan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus / University Scholar",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "firstNameLastName": "W Duncan",
+  "equipmentLinkTypes": [],
+  "objectId": 4612,
+  "updatedWhen": "2025-05-10T08:11:25.1677159-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jduncan@uab.edu",
+  "publication_keywords": "Clinical Research",
+  "grant_keywords": ""
+}

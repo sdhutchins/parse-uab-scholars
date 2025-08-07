@@ -1,0 +1,130 @@
+{
+  "lastName": "Russell",
+  "overview": "Dr. Russell received his initial medical training (MD) at the University of Texas Medical Branch with his internal medicine internship and residency completed at Vanderbilt University. Dr. Russell began a clinical and research fellowship in pulmonary and critical care medicine at UAB in 2014. Following his fellowship, he joined the UAB faculty in July 2017. His research and clinical interests relate to the role of neutrophils and extracellular vesicles in pulmonary diseases characterized by neutrophilic inflammation and parenchymal damage such as COPD and ARDS, as well as pragmatic clinical trials on the management of critically ill patients. Dr. Russell has published and presented work on endotracheal intubation, management of respiratory failure, pragmatic clinical trials in the MICU, neutrophils in COPD, matrikines in COPD, exhaled breath biomarkers in ARDS and extracellular vesicles in neutrophilic inflammation. His ongoing work explores the role of neutrophil-derived exosomes in matrix destruction and lung disease.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5219-derek-russell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "5219",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 66,
+      "favourites": 0
+    }
+  },
+  "firstName": "Derek",
+  "firstNameLastName": "Derek Russell",
+  "equipmentLinkTypes": [],
+  "objectId": 5219,
+  "updatedWhen": "2025-05-10T08:12:12.0363080-05:00",
+  "hasCollaborationData": true,
+  "email": "russelld@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Cardiovascular Clinical Research Clinical Trials and Supportive Activities Coronaviruses Diabetes Emergency Care Emerging Infectious Diseases Heart Disease Infectious Diseases Lung Patient Safety Rare Diseases",
+  "grant_keywords": ""
+}

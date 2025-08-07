@@ -1,0 +1,128 @@
+{
+  "lastName": "Padilla",
+  "overview": "Luz A. Padilla earned her MD from the Universidad de Guadalajara and an MSPH in Applied Epidemiology from the University of Alabama at Birmingham. She currently holds the position of Associate Professor in the Department of Epidemiology, where she serves as the course master for undergraduate and graduate level courses. Dr. Padilla also serves as Vice-chair and board member on the UAB Institutional Review Board (IRB) and participates in various committees across campus. In addition to her primary appointment, she holds a secondary position in the Department of Surgery, specifically the Division of Cardiothoracic Surgery. In this role, she serves as the Director of Surgical Research for the Joseph S. Bruno Pediatric Heart Center of Alabama. Her research focuses on congenital heart disease, pediatric cardiology, and xenotransplantation.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3368-luz-padilla",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "3368",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 82,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 98,
+      "favourites": 3
+    }
+  },
+  "firstName": "Luz",
+  "firstNameLastName": "Luz Padilla",
+  "equipmentLinkTypes": [],
+  "objectId": 3368,
+  "updatedWhen": "2025-05-10T08:09:28.0094151-05:00",
+  "hasCollaborationData": true,
+  "email": "apadilla@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biotechnology Cardiovascular Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Diabetes Heart Disease Maternal Health Pediatric Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Stem Cell Research Stem Cell Research - Nonembryonic - Human Transplantation Women's Health",
+  "grant_keywords": ""
+}

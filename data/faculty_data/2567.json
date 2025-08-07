@@ -1,0 +1,75 @@
+{
+  "discoveryId": "2567",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 133,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 3,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jessee",
+  "firstName": "Margaret",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2567-margaret-jessee",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Margaret Jessee",
+  "equipmentLinkTypes": [],
+  "objectId": 2567,
+  "updatedWhen": "2025-05-10T08:07:50.5623651-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Studies in Human Society",
+          "Studies in Human Society",
+          "in Human Society",
+          "Human Society",
+          "Society"
+        ],
+        "value": "Other Studies in Human Society"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Literary Studies",
+          "Studies"
+        ],
+        "value": "Literary Studies"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "mjjessee@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,119 @@
+{
+  "discoveryId": "973",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 33,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 269,
+      "favourites": 0
+    }
+  },
+  "lastName": "Percy",
+  "firstName": "Alan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "973-alan-percy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Professor",
+      "department": "Pediatric - Neurology"
+    }
+  ],
+  "firstNameLastName": "Alan Percy",
+  "equipmentLinkTypes": [],
+  "objectId": 973,
+  "updatedWhen": "2025-05-10T08:04:33.6555403-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "apercy@uab.edu",
+  "publication_keywords": "Brain Disorders Clinical Research Clinical Trials and Supportive Activities Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Neurodegenerative Neurosciences Orphan Drug Pediatric Rare Diseases Rett Syndrome Women's Health",
+  "grant_keywords": ""
+}

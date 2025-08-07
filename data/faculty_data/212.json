@@ -1,0 +1,44 @@
+{
+  "discoveryId": "212",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Deutsch",
+  "firstName": "Georg",
+  "hasThumbnail": false,
+  "discoveryUrlId": "212-georg-deutsch",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Georg Deutsch",
+  "equipmentLinkTypes": [],
+  "objectId": 212,
+  "updatedWhen": "2025-05-10T08:02:35.0158044-05:00",
+  "hasCollaborationData": false,
+  "email": "gdeutsch@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Rehabilitation Spinal Cord Injury Traumatic Head and Spine Injury"
+}

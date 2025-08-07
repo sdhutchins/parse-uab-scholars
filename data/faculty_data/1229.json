@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1229",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 55,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 373,
+      "favourites": 0
+    }
+  },
+  "lastName": "Locke",
+  "firstName": "Jayme",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1229-jayme-locke",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - Transplantation"
+    }
+  ],
+  "firstNameLastName": "Jayme Locke",
+  "equipmentLinkTypes": [],
+  "objectId": 1229,
+  "updatedWhen": "2025-05-10T08:04:55.7417158-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Comparative Effectiveness Research Cost Effectiveness Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Kidney Disease Minority Health Organ Transplantation Social Determinants of Health Transplantation",
+  "grant_keywords": "Kidney Disease"
+}

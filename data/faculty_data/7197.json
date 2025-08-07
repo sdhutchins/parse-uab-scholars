@@ -1,0 +1,111 @@
+{
+  "lastName": "Thomas",
+  "overview": "Dr. Thomas joins our faculty after a fellowship in Head and Neck Surgical Oncology at the University of Toronto. She received both her medical degree and PhD in Cell and Molecular Biology at Baylor College of Medicine, and then completed her residency at the University of Colorado. Dr. Thomas specializes in head and neck oncology and microvascular reconstruction. Her research interest includes the interaction between the microbiome and head and neck squamous cell carcinoma. Dr. Thomas is currently accepting new patients and her clinic opens mid-September 2019.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7197-carissa-thomas",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Otolaryngology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "7197",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 58,
+      "favourites": 0
+    }
+  },
+  "firstName": "Carissa",
+  "firstNameLastName": "Carissa Thomas",
+  "equipmentLinkTypes": [],
+  "objectId": 7197,
+  "updatedWhen": "2025-05-10T08:14:20.0512731-05:00",
+  "hasCollaborationData": true,
+  "email": "thomascm@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Cancer Cancer Genomics Clinical Research Coronaviruses Dental/Oral and Craniofacial Disease Digestive Diseases Emerging Infectious Diseases Genetics Human Genome Infectious Diseases Microbiome Minority Health Orphan Drug Patient Safety Rare Diseases",
+  "grant_keywords": ""
+}

@@ -1,0 +1,125 @@
+{
+  "discoveryId": "415",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 135,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 227,
+      "favourites": 0
+    }
+  },
+  "lastName": "Smith",
+  "firstName": "Phillip",
+  "hasThumbnail": true,
+  "discoveryUrlId": "415-phillip-smith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Gastroenterology"
+    }
+  ],
+  "firstNameLastName": "Phillip Smith",
+  "equipmentLinkTypes": [],
+  "objectId": 415,
+  "updatedWhen": "2025-05-10T08:03:00.8537700-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pdsmith@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Cancer Clinical Research Crohn's Disease Digestive Diseases Digestive Diseases - (Peptic Ulcer) Emerging Infectious Diseases HIV/AIDS Infectious Diseases Inflammatory Bowel Disease",
+  "grant_keywords": "Autoimmune Disease Biodefense Clinical Research Crohn's Disease Digestive Diseases Emerging Infectious Diseases Infectious Diseases Inflammatory Bowel Disease Kidney Disease Women's Health"
+}

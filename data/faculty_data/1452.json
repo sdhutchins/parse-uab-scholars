@@ -1,0 +1,104 @@
+{
+  "lastName": "Weise",
+  "overview": "Dr. Kathy Weise is from Denver, Iowa where her mom was a beloved first-grade teacher and her dad was a high school math teacher and IHSAA hall-of-fame high school football coach. She went on to earn her undergraduate degree from Iowa State University and followed in the footsteps of her uncle, Robert Niemann, OD, to the Illinois College of Optometry in Chicago, IL. Immediately after graduating from ICO in 1995, Dr. Weise began her residency in family practice with emphasis in pediatrics at the University of Alabama at Birmingham. She joined the UAB Optometry faculty the following year and became a Professor of Optometry in 2015. In 2004, Dr. Weise earned her MBA from the UAB School of Business and also became the UAB Pediatric Optometry Service Director that same year. Notable awards include the UAB President’s Award for Excellence in Teaching for the School of Optometry in June 2019, and the Sight Savers America Hall W. Thompson Hero for Sight Award to honor individuals or organizations whose impact on children’s eye care in the state of Alabama has been both lasting and profound in March 2019. Following in her mom’s footsteps with her love of helping children, Dr. Weise has spent her career serving kids of all abilities locally while researching myopia, strabismus and amblyopia, and concussion nationally. She served as the Pediatric Eye Disease Investigator Group Vice Chair from 2019-2020 and was elected to serve as Network Co-Chair from 2024 to 2028. She was also elected to serve on the National Academies of Sciences, Engineering, and Medicine “Focus on Myopia-Pathogenesis and Rising Incidence” consensus study committee in 2023, the AOA Sports Vision and Performance committee in 2020, and the Peer Review Panel for the Department of Defense Congressionally Directed Medical Research Programs for Traumatic Brain Injury in 2020 and 2021.  Locally, Dr. Weise helped optometry, physical therapy, and pediatric neurosurgery earn the 2013 UAB HSF-GEF grant to study the vestibular ocular reflex in pediatric concussion. This helped her create the mTBEye Concussion Clinic in conjunction with Children’s of Alabama in 2014. Since then, Kathy has also followed in her dad’s and her uncle’s footsteps by creating BlazerVision, a deliberately collaborative effort between optometry and ophthalmology to proudly support UAB athletes. She is often seen at UAB athletic events with her husband, Lance, and three children, Ella, Blake, and Luke shouting, “Go Blazers!”\n\n\nRepresentative Care-Related Online Stories\n\n\nNovel contact lenses enhance high school athlete’s vision. N. Anderson. (May 25, 2024)\nhttps://www.uab.edu/optometry/home/about/news/focus-on-patient-care/novel-contact-lenses-enhance-high-school-athlete-s-vision \n\nScleral lenses help UAB athlete regain sight. N. Anderson (January 5, 2024)\nhttps://www.uab.edu/optometry/home/about/news/focus-on-patient-care/uab-athlete-regains-sight-through-blazervision-program \n\nEight-year-old uses myopia diagnosis to help others like him. Khan T. (June 29, 2022)\nhttps://www.uab.edu/news/health/item/12945-eight-year-old-uses-myopia-diagnosis-to-help-others-like-him \n\nVeteran finds open arms, family at UAB Eye Care. Richardson S. (November 11, 2021)\nhttps://www.uab.edu/optometry/home/about/news/focus-on-patient-care/veteran-finds-open-arms-family-at-uab-eye-care \n\nA mother’s journey: Diagnosed as blind, baby received thorough care from UAB Eye Care. Richardson S. (October 8, 2021)\nhttps://www.uab.edu/news/health/item/12350-a-mother-s-journey-diagnosed-as-blind-baby-received-thorough-care-from-uab-eye-care \n\nNew UAB research laboratory to study concussion biomarkers, recovery. Bakken J. (April 10, 2015)\nhttps://www.uab.edu/news/research/item/5945-new-uab-research-laboratory-to-study-concussion-biomarkers-recovery",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1452-katherine-weise",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1452",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 32,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 387,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 71,
+      "favourites": 0
+    }
+  },
+  "firstName": "Katherine",
+  "firstNameLastName": "Katherine Weise",
+  "equipmentLinkTypes": [],
+  "objectId": 1452,
+  "updatedWhen": "2025-05-10T08:05:25.8369190-05:00",
+  "hasCollaborationData": true,
+  "email": "kweise@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Neurosciences Patient Safety Pediatric Pediatric Research Initiative",
+  "grant_keywords": "Bioengineering Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities and Racial or Ethnic Minority Health Research Neurosciences Pediatric Research Initiative"
+}

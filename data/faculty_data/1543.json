@@ -1,0 +1,100 @@
+{
+  "lastName": "Hallman",
+  "overview": "Dr. Melanie Gibbons Hallman is a leader in emergency services. Over four decades, she has served in multiple roles in the emergency services arena. Early in her career, she was a paramedic/firefighter; and later served as an emergency registered nurse, emergency-trauma clinical nurse specialist, the assistant director of a Level-1 academic trauma center ED and as an active emergency nurse practitioner (ENP) for the past 28 years. She was Director and lead-NP provider for the City of Birmingham’s nurse-managed occupational health / urgent care clinic for 15 years. She championed development of the ENP subspecialty at The University of Alabama at Birmingham (UAB) School of Nursing, where she is an Assistant Professor teaching in masters and doctoral education, and serves as ENP subspecialty co-coordinator. Dr. Hallman holds certifications in three nurse practitioner specialties. She holds a BSN, two MSN’s, four certificates, and a DNP degree from UAB.\n Dr. Hallman is a founding member of AAENP, served as Alabama State Representative for four years and currently serves on the board of directors with election to president of the organization beginning in 2022. She is a Fellow of the Academy of Emergency Nursing (2017) and has served in multiple leadership roles at local, state and national levels of the Emergency Nurses Association since 1988. She was inducted as a Fellow of the American Academy of Nursing (2021).\nDr. Hallman has a long-standing professional commitment to the prehospital EMS community. She served as content expert for Birmingham Fire and Rescue Services for their community wellness initiatives, an appointed member of the City of Birmingham Mayor’s EMS Advisory Committee and is Chair of the Jefferson State Community College EMS Education Advisory Committee. She was the first appointed Chief Nurse for the federally coordinated National Disaster Medical System in Alabama. Dr. Hallman has a heart for medically underserved populations and has served as a provider with international medical mission teams totaling seven tours in Guyana, South America, and Sudan, Africa.\nDr. Hallman’s extensive experience and long-term commitment to the emergency services field greatly benefits patients, students, emergency services providers and professional organizations. She is committed to educating safe, compassionate, high-quality prehospital providers, advanced practice nursing professionals and DNP leaders.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1543-melanie-hallman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "1543",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 393,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 152,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 98,
+      "favourites": 0
+    }
+  },
+  "firstName": "Melanie",
+  "firstNameLastName": "Melanie Hallman",
+  "equipmentLinkTypes": [],
+  "objectId": 1543,
+  "updatedWhen": "2025-05-10T08:05:38.5625712-05:00",
+  "hasCollaborationData": true,
+  "email": "melanieghallman@uab.edu",
+  "publication_keywords": "Clinical Research Emergency Care Health Services",
+  "grant_keywords": ""
+}

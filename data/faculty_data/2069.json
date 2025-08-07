@@ -1,0 +1,123 @@
+{
+  "lastName": "Steyn",
+  "overview": "The main goal of Dr Adrie JC Steyn’s research group is to understand the mechanisms whereby Mycobacterium tuberculosis (M. tuberculosis) persist for decades without causing disease, to then suddenly explode.\n\nThe Steyn Group is currently working on several projects centered on host gasotransmitters such as nitric oxide (NO), carbon monoxide (CO) and hydrogen sulphide (H2S), and M. tuberculosis redox homeostasis and bioenergetics, the role it plays in latency and persistence of the mycobacterium inside the human host, and how this information can be translated into clinical uses.  The mouse model for TB, as well as freshly resected human TB lung tissue, are routinely used by the Steyn group.  The research group also uses extracellular metabolic flux analysis technology to measure the change in oxygen consumption rate of mycobacteria and infected host cells under different extracellular conditions (pH, carbon source, etc.).  Understanding the immunometabolism of TB and how M. tuberculosis reprograms host energy metabolism are also areas of interest in the Steyn laboratory.  Lastly, the Steyn lab is interested in pulmonary TB, specifically the 3D structure of the human TB granuloma using micro-and nano computed tomography (CT).",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2069-andries-steyn",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2069",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 144,
+      "favourites": 11
+    }
+  },
+  "firstName": "Andries",
+  "firstNameLastName": "Andries Steyn",
+  "equipmentLinkTypes": [],
+  "objectId": 2069,
+  "updatedWhen": "2025-05-10T08:06:35.9590917-05:00",
+  "hasCollaborationData": true,
+  "email": "asteyn@uab.edu",
+  "publication_keywords": "Biodefense Emerging Infectious Diseases Genetics Infectious Diseases Lung Orphan Drug Rare Diseases Tuberculosis",
+  "grant_keywords": "Biodefense Biotechnology Clinical Research Emerging Infectious Diseases HIV/AIDS Immunization Immunotherapy Infectious Diseases Lung Orphan Drug Prevention Rare Diseases Sexually Transmitted Infections Tuberculosis Vaccine Related"
+}

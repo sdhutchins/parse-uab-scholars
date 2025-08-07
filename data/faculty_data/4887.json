@@ -1,0 +1,126 @@
+{
+  "lastName": "Faul",
+  "overview": "Dr. Christian Faul received his undergraduate training in cell and molecular biology at the Ruprecht Karls University Heidelberg in Germany from 1993-1999.  He earned his PhD title at the Albert Einstein College of Medicine in the Bronx in 2005, and he conducted his postdoctoral research training at the Mount Sinai School of Medicine in New York City.  In 2008, Dr. Faul became a faculty member in the Department of Medicine and in the Department of Cell Biology & Anatomy at the University of Miami Leonard M. Miller School of Medicine.  In 2017, he joined the University of Alabama at Birmingham where he currently holds the rank of Associate Professor in the Division of Nephrology within the Department of Medicine and in the Department of Cell, Developmental and Integrative Biology (CDIB). He is also a member of the Section of Cardio-Renal Physiology and Medicine and the Comprehensive Diabetes Center.\n\nDr. Faul is a cell biologist who has a strong interest in translational medicine, especially in pathomechanisms underlying diseases of the kidney and the heart.  He has formed a versatile team of collaborators, ranging from basic to clinical scientists, nephrologists to cardiologist, physiologists to geneticists.  Dr. Faul’s laboratory studies signal transduction pathways in cardiac myocytes that regulate cardiac remodeling with the goal to identify novel drug targets for cardiac hypertrophy and heart failure.  He focuses on circulating fibroblast growth factors and their pathological effects on the heart in the context of chronic kidney disease and diabetes.  In collaborations with pharma industry, Dr. Faul analyzes beneficial cardiac effects of pharmacological blockers for fibroblast growth factor receptors in animal models with kidney injury and diabetes.\n\nDr. Faul received research funding from the American Heart Association (AHA), the American Diabetes Association (ADA), the American Society of Nephrology (ASN), and the NephCure Foundation, as well as support from pharma industry.  In summer of 2015, he received his first R01 grant from the NIH/NHLBI.\n\nDr. Faul is extremely dedicated to the training of graduate students and postdoctoral research fellows, and his laboratory provides a diverse environment in which cell biological, cardiovascular and renal researchers can be trained.  Five of his graduate students have received NRSA fellowships from the NIH, and his PostDocs have received fellowships from international funding organizations, such as the AHA and the DFG from Germany, as well as support from industry.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4887-christian-faul",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "4887",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 123,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christian",
+  "firstNameLastName": "Christian Faul",
+  "equipmentLinkTypes": [],
+  "objectId": 4887,
+  "updatedWhen": "2025-05-10T08:11:33.9732638-05:00",
+  "hasCollaborationData": true,
+  "email": "cfaul@uab.edu",
+  "publication_keywords": "Cardiovascular Heart Disease Heart Disease - Coronary Heart Disease Kidney Disease Lung",
+  "grant_keywords": "Clinical Research Digestive Diseases Hematology Kidney Disease Liver Disease Nutrition"
+}

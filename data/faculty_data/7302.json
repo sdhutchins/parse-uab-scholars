@@ -1,0 +1,126 @@
+{
+  "lastName": "Fang",
+  "overview": "Yu-Hua Dean Fang, PhD is currently an Associate Professor of Radiology and adjunct faculty of Neurology in University of Alabama at Birmingham. His research is focused on image quantification and analysis. A major field of application is on the kinetic modeling analysis for PET imaging. He has also been extensively involved in image processing of CT, MR and SPECT while the clinical areas include Neurology, Oncology and Cardiology. He recently joined UAB Radiology in September, 2019 and aims to establish a strong image analysis group here.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7302-yuhua-fang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Radiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biotechnology",
+          "Biotechnology"
+        ],
+        "value": "Medical Biotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "7302",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "firstName": "Yu-Hua",
+  "firstNameLastName": "Yu-Hua Fang",
+  "equipmentLinkTypes": [],
+  "objectId": 7302,
+  "updatedWhen": "2025-05-10T08:14:29.4347518-05:00",
+  "hasCollaborationData": true,
+  "email": "yfang@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Bioengineering Biomedical Imaging Brain Disorders Cancer Chronic Pain Clinical Research Dementia Digestive Diseases Fibromyalgia Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Orphan Drug Pain Research Pancreatic Cancer Rare Diseases",
+  "grant_keywords": ""
+}

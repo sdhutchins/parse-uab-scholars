@@ -1,0 +1,102 @@
+{
+  "lastName": "Wolfe",
+  "overview": "Broadly speaking, I'm a medical sociologist that examines issues related to social stratification, the life course, and health in the U.S.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2774-joseph-wolfe",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Sociology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Demography"
+        ],
+        "value": "Demography"
+      },
+      {
+        "paths": [
+          [
+            "Sociology",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociological Methodology and Research Methods",
+          "Methodology and Research Methods",
+          "and Research Methods",
+          "Research Methods",
+          "Methods"
+        ],
+        "value": "Sociological Methodology and Research Methods"
+      }
+    ]
+  },
+  "discoveryId": "2774",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 73,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "firstName": "Joseph",
+  "firstNameLastName": "Joseph Wolfe",
+  "equipmentLinkTypes": [],
+  "objectId": 2774,
+  "updatedWhen": "2025-05-10T08:08:22.0347711-05:00",
+  "hasCollaborationData": true,
+  "email": "jdwolfe@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Health Disparities Neurosciences Nutrition Obesity Pediatric Pediatric Research Initiative Social Determinants of Health Women's Health",
+  "grant_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Health Disparities Minority Health Pediatric Social Determinants of Health Women's Health"
+}

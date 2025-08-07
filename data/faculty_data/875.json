@@ -1,0 +1,111 @@
+{
+  "discoveryId": "875",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "lastName": "Monroe",
+  "firstName": "Kathy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "875-kathy-monroe",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Emergency Medicine"
+    }
+  ],
+  "firstNameLastName": "Kathy Monroe",
+  "equipmentLinkTypes": [],
+  "objectId": 875,
+  "updatedWhen": "2025-05-10T08:04:12.9888634-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dmon1@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Childhood Injury Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Disparities and At-Risk Populations Emergency Care Firearms Research Infectious Diseases Patient Safety Pediatric Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Social Determinants of Health Unintentional Childhood Injury",
+  "grant_keywords": ""
+}

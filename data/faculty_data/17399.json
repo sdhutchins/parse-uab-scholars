@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17399",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Tanaka",
+  "firstName": "Stacy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17399-stacy-tanaka",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Urology"
+    }
+  ],
+  "firstNameLastName": "Stacy Tanaka",
+  "equipmentLinkTypes": [],
+  "objectId": 17399,
+  "updatedWhen": "2025-05-10T08:17:34.4203343-05:00",
+  "hasCollaborationData": false,
+  "email": "tanakas@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

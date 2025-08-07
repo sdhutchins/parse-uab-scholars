@@ -1,0 +1,124 @@
+{
+  "discoveryId": "718",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 63,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 89,
+      "favourites": 0
+    }
+  },
+  "lastName": "Fathallah-Shaykh",
+  "firstName": "Hassan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "718-hassan-fathallahshaykh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Neurology",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Hassan Fathallah-Shaykh",
+  "equipmentLinkTypes": [],
+  "objectId": 718,
+  "updatedWhen": "2025-05-10T08:03:50.0565138-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "hfathall@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Brain Cancer Brain Disorders Cancer Cancer Genomics Clinical Research Clinical Trials and Supportive Activities Data Science Genetics Human Genome Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurosciences Orphan Drug Precision Medicine Rare Diseases",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2793",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 140,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kyle",
+  "firstName": "Chris",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2793-chris-kyle",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Anthropology"
+    }
+  ],
+  "firstNameLastName": "Chris Kyle",
+  "equipmentLinkTypes": [],
+  "objectId": 2793,
+  "updatedWhen": "2025-05-10T08:08:22.0347711-05:00",
+  "hasCollaborationData": false,
+  "email": "kyle@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,115 @@
+{
+  "discoveryId": "17756",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 79,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dooley",
+  "firstName": "Erin",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17756-erin-dooley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "firstNameLastName": "Erin Dooley",
+  "equipmentLinkTypes": [],
+  "objectId": 17756,
+  "updatedWhen": "2025-05-10T08:18:11.2026134-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "edooley@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Childhood Injury Childhood Obesity Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Hematology Minority Health Neurosciences Obesity Pediatric Pediatric Research Initiative Physical Activity Prevention Sleep Research Social Determinants of Health Women's Health",
+  "grant_keywords": "Aging Behavioral and Social Science Cardiovascular Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Physical Activity Prevention Sleep Research"
+}

@@ -1,0 +1,123 @@
+{
+  "lastName": "Elson",
+  "overview": "Dr. Elson received his M.D. from Washington University in St. Louis, trained in Internal Medicine at New York Hospital/Cornell, then did his Gastroenterology fellowship at the University of Chicago.  After doing full-time research in immunology at N.I.H., he joined the Faculty of the Division of Gastroenterology at the Medical College of Virginia.  He moved to the University of Alabama at Birmingham to become Director of the Division of Gastroenterology and Hepatology,  and subsequently served as Vice-Chair for Research in the Department of  Medicine.  He holds the Basil I. Hirschowitz Chair in Gastroenterology and is an active consultant in immune-mediated intestinal disorders. Additionally, Dr. Elson has received the \"Best Doctors in America\" recognition from 1998 to current. The author of numerous peer-reviewed manuscripts, reviews, and book chapters, Dr. Elson as held major positions in national organizations, and has served on a number of advisory boards, including the Advisory Council of the National Institute of Diabetes and Digestive and Kidney Diseases.  He has been elected to many of the most outstanding professional societies in the field of academic medicine and has a long history of service to the Society for Mucosal Immunology for which he is a co-founder and past president. Dr.Elson is a collaborative investigator in the Mucosal HIV and Immunobiology Center (MHIC) at UAB. The central focus of the Elson laboratory is on the regulation of mucosal immune responses, particularly the mucosal immune response to the microbiota, which represent the largest mass of antigen encountered by the immune system. The cellular and molecular mechanisms that maintain mucosal immune homeostasis are being defined. When these mechanisms fail, pathogenic effector T cells are generated that result in colitis. Dr. Elson and co-workers have cloned a set of immunodominant antigens of the microbiota that stimulate such pathogenic T cells and result in inflammatory bowel disease. Among these cloned antigens, previously unknown bacterial flagellins have emerged as a major cluster. Seroreactivity to these flagellins is found in multiple experimental models of colitis in mice and in half of patients with Crohn’s disease. These antigens drive a newly described CD4 T cell effector subset making IL-17 (Th17) which appears to be responsible for disease progression. A T cell receptor transgenic mouse reactive to the flagellins has been generated and is being used to study the innate and adaptive immune response to microbiota antigens. A second major effort is in the identification of T reg cells in the intestine that recognize microbial antigens and maintain homeostasis. The mechanisms whereby such cells are induced are being defined and the application of these cells to prevent or treat intestinal inflammation is being tested.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "402-charles-elson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Gastroenterology"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "402",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 48,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 50,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 201,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 351,
+      "favourites": 0
+    }
+  },
+  "firstName": "Charles",
+  "firstNameLastName": "Charles Elson",
+  "equipmentLinkTypes": [],
+  "objectId": 402,
+  "updatedWhen": "2025-05-10T08:03:00.8370908-05:00",
+  "hasCollaborationData": true,
+  "email": "coelson@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Biotechnology Cancer Cancer Genomics Clinical Research Colo-Rectal Cancer Crohn's Disease Digestive Diseases Emerging Infectious Diseases Genetics Human Genome Immunotherapy Infectious Diseases Inflammatory Bowel Disease Microbiome Nutrition Pediatric Research Initiative",
+  "grant_keywords": "Autoimmune Disease Biotechnology Clinical Research Crohn's Disease Digestive Diseases Emerging Infectious Diseases Immunization Immunotherapy Infectious Diseases Inflammatory Bowel Disease Microbiome Prevention"
+}

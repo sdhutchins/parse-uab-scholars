@@ -1,0 +1,124 @@
+{
+  "lastName": "Standaert",
+  "overview": "Dr. Standaert graduated from Harvard College and received M.D. and Ph.D. degrees from Washington University in St. Louis. Following Neurology residency at the University of Pennsylvania, he was appointed a Howard Hughes Fellow and completed a three-year research and clinical fellowship in Movement Disorders at Massachusetts General Hospital. He was a member of the faculty at Harvard Medical School from 1995 to 2006 and then relocated to the University of Alabama at Birmingham (UAB). Currently he is the John N. Whitaker Professor and Chair of the UAB Department of Neurology and a senior member of the faculty of the Division of Movement Disorders. He directs the NIH-funded Alabama Morris K. Udall Center of Excellence in Parkinson’s Disease Research. He is Chairman of the Scientific Advisory Board of the American Parkinson Disease Association, a Deputy Editor of the journal Movement Disorders, a Fellow of both the American Academy of Neurology and the American Neurological Association, and First Vice President of the Association of University Professors of Neurology. He has previously served as a Director and Vice President of the American Neurological Association, and currently is the Vice Chair of the AON/ACTN Oversight Committee. He has also served on the NINDS Board of Scientific Counselors.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "745-david-standaert",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "745",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 128,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 59,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 102,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 415,
+      "favourites": 3
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Standaert",
+  "equipmentLinkTypes": [],
+  "objectId": 745,
+  "updatedWhen": "2025-05-10T08:04:02.4767412-05:00",
+  "hasCollaborationData": true,
+  "email": "dstandaert@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Clinical Research Clinical Trials and Supportive Activities Dementia Genetics Health Disparities and Racial or Ethnic Minority Health Research Lewy Body Dementia Microbiome Minority Health Neurodegenerative Neurosciences Parkinson's Disease Women's Health",
+  "grant_keywords": ""
+}

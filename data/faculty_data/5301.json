@@ -1,0 +1,126 @@
+{
+  "lastName": "Oh",
+  "overview": "Dr. Jonghwa Oh received a MS (2008) in Environmental Engineering from Yonsei University in Korea, with a focus on noise and vibration. She earned a MPH (2012) and PhD (2016) in Environmental Health Sciences (Industrial Hygiene track) from UAB. She is currently an assistant professor in the Department of Environmental Health Sciences at UAB and the  director of the Industrial Hygiene program in the NIOSH funded Deep South Center for Occupational Health and Safety.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "5301-jonghwa-oh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Environmental Health Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nanotechnology"
+        ],
+        "value": "Nanotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "5301",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 112,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 53,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jonghwa",
+  "firstNameLastName": "Jonghwa Oh",
+  "equipmentLinkTypes": [],
+  "objectId": 5301,
+  "updatedWhen": "2025-05-10T08:12:12.0787168-05:00",
+  "hasCollaborationData": true,
+  "email": "jonghwa@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Emergency Care",
+  "grant_keywords": ""
+}

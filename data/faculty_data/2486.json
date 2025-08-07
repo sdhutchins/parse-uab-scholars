@@ -1,0 +1,120 @@
+{
+  "lastName": "Amsler",
+  "overview": "I grew up along the south shore of Lake Erie with annual trips to the Atlantic coast in South Carolina and developed a life-long love of aquatic environments in general and the marine environment in particular. From a fairly early age I knew that I wanted to be a biologist working in marine ecosystems. I developed a strong interest in marine macroalgae working with my undergraduate advisor at Duke University and further developed that interest into a career focus during graduate work at UNC-Wilmington and UC-Santa Barbara.\n\nI had my first two opportunities to do research in Antarctica as a grad student at UCSB. While I did not anticipate it at the time, a major emphasis of my research since coming to UAB in 1994 has become the chemical ecology of macroalgae and other organisms in Antarctic marine communities. My postdoctoral work at the University of Illinois at Chicago took me into studies of how bacteria behaviorally respond to information about their chemical environments where I learned methods and perspectives that were very important in developing my subsequent UAB-based studies of marine chemical ecology and behavior.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2486-charles-amsler",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oceanography"
+        ],
+        "value": "Oceanography"
+      }
+    ]
+  },
+  "discoveryId": "2486",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 145,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 205,
+      "favourites": 0
+    }
+  },
+  "firstName": "Charles",
+  "firstNameLastName": "Charles Amsler",
+  "equipmentLinkTypes": [],
+  "objectId": 2486,
+  "updatedWhen": "2025-05-10T08:07:39.3719365-05:00",
+  "hasCollaborationData": true,
+  "email": "amsler@uab.edu",
+  "publication_keywords": "Genetics",
+  "grant_keywords": ""
+}

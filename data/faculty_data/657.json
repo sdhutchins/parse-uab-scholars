@@ -1,0 +1,127 @@
+{
+  "lastName": "Raju",
+  "overview": "S. Vamsee Raju, B.Pharm, PhD. is an Assistant Professor in the School of Medicine, University of Alabama at Birmingham. He received his Pharmacy degree from Rajiv Gandhi University of Health Sciences in 2005. In 2011, he graduated with a PhD in Genetics from Louisiana State University Health Sciences Center in New Orleans.\n\nHis graduate research identified two entirely new mechanisms by which alcohol affects innate airway defenses to cause lung infections. Dr. Raju then went on to complete a 2-year postdoctoral training in the laboratory of Steven Rowe investigating acquired CFTR dysfunction in COPD pathogenesis, followed by an Instructor faculty position in the Department of Medicine in 2013. His work is published in several prestigious journals and has received recognition through awards from the European Respiratory Society, the American Thoracic Society and the American Federation of Medical Research.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "657-svamsee-raju",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "657",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "firstName": "S.Vamsee",
+  "firstNameLastName": "S.Vamsee Raju",
+  "equipmentLinkTypes": [],
+  "objectId": 657,
+  "updatedWhen": "2025-05-12T03:19:08.2616257-05:00",
+  "hasCollaborationData": true,
+  "email": "svraju@uab.edu",
+  "publication_keywords": "Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Cystic Fibrosis Emerging Infectious Diseases Genetics Infectious Diseases Lung Orphan Drug Pediatric Rare Diseases",
+  "grant_keywords": "Infectious Diseases Otitis Media Pediatric"
+}

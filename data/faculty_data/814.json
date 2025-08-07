@@ -1,0 +1,121 @@
+{
+  "lastName": "Grytz",
+  "overview": "Our eyes are composed of living tissues, which are constantly remodeling in response to mechanical, chemical, and visual stimuli. In particular, the loadbearing collagenous structures of the eye can undergo substantial growth and remodeling during physiological and pathophysiological conditions. I seek to elucidate the biomechanical mechanisms that underlie growth and remodeling in ocular diseases. My laboratory focuses on establishing experimental methods and predictive computational simulation tools for elucidating growth and remodeling mechanisms in glaucoma, keratoconus and myopia. My laboratory’s goal is to provide predictive computational simulation tools that support the development of new diagnostics and therapeutics in ocular diseases and conditions.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "814-rafael-grytz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Ophthalmology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      }
+    ]
+  },
+  "discoveryId": "814",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 47,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rafael",
+  "firstNameLastName": "Rafael Grytz",
+  "equipmentLinkTypes": [],
+  "objectId": 814,
+  "updatedWhen": "2025-05-10T08:04:12.9555687-05:00",
+  "hasCollaborationData": true,
+  "email": "grytz@uab.edu",
+  "publication_keywords": "Aging Bioengineering Clinical Research Eye Disease and Disorders of Vision Kidney Disease Machine Learning and Artificial Intelligence Neurodegenerative Neurosciences Pediatric Research Initiative",
+  "grant_keywords": "Aging Bioengineering Biomedical Imaging Eye Disease and Disorders of Vision Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences"
+}

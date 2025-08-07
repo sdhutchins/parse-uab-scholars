@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19067",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 26,
+      "favourites": 0
+    }
+  },
+  "lastName": "Liu",
+  "firstName": "Zhiyong",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19067-zhiyong-liu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Zhiyong Liu",
+  "equipmentLinkTypes": [],
+  "objectId": 19067,
+  "updatedWhen": "2025-05-10T08:20:49.0310839-05:00",
+  "hasCollaborationData": true,
+  "email": "zyliu@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Clinical Research Dementia Genetic Testing Genetics Human Genome Neurodegenerative Neurosciences Parkinson's Disease",
+  "grant_keywords": ""
+}

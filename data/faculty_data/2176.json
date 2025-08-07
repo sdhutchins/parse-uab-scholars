@@ -1,0 +1,126 @@
+{
+  "discoveryId": "2176",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 50,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 38,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 246,
+      "favourites": 0
+    }
+  },
+  "lastName": "Acosta",
+  "firstName": "Edward",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2176-edward-acosta",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Infectious Disease"
+    }
+  ],
+  "firstNameLastName": "Edward Acosta",
+  "equipmentLinkTypes": [],
+  "objectId": 2176,
+  "updatedWhen": "2025-05-10T08:06:50.7635653-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "eacosta@uab.edu",
+  "publication_keywords": "Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Cystic Fibrosis HIV/AIDS Infectious Diseases Lung Organ Transplantation Orphan Drug Patient Safety Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases Sexually Transmitted Infections Transplantation",
+  "grant_keywords": ""
+}

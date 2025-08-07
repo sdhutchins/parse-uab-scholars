@@ -1,0 +1,125 @@
+{
+  "lastName": "Sims",
+  "overview": "Dr. Gwendolyn Childs’ research focuses on approaches for reducing the risks of sexually transmitted infections in adolescent African American girls with an emphasis on sexual decision-making and risk-taking among African American girls ages 12 to 14 years living in the Deep South region of the U.S. Using community-based participatory and qualitative research methods, Dr. Childs’ work has documented the age of onset of sexual activity in this population of young adolescents, as well as common cognitive representations of adolescent pregnancy, virginity, romantic relationships, adolescent sexual norms, sexual behavior of peers, and peer pressure to be sexually active, all of which informed the next stage of her program of research aimed at relationship decision-making. Dr. Childs has served as a national board member of the Association of Nurses in AIDS Care, which sets the agenda for HIV/AIDS nursing nationally and internationally for research, education, practice, and public policy efforts. She is also a member of the editorial board for the Journal of the Association of Nurses in AIDS Care.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1540-gwendolyn-sims",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1540",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 242,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 121,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 95,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gwendolyn",
+  "firstNameLastName": "Gwendolyn Sims",
+  "equipmentLinkTypes": [],
+  "objectId": 1540,
+  "updatedWhen": "2025-05-10T08:05:38.5625712-05:00",
+  "hasCollaborationData": true,
+  "email": "gchilds@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Contraception/Reproduction Drug Abuse (NIDA only) Health Services Huntington's Disease Infectious Diseases Mental Health Neurodegenerative Neurosciences Pediatric Pediatric Research Initiative Prevention Rare Diseases Sexually Transmitted Infections Social Determinants of Health Substance Misuse Teenage Pregnancy Women's Health",
+  "grant_keywords": "Adolescent Sexual Activity Behavioral and Social Science Clinical Research HIV/AIDS Health Disparities Infectious Diseases Pediatric Pediatric AIDS Prevention Rural Health Sexually Transmitted Infections"
+}

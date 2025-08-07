@@ -1,0 +1,130 @@
+{
+  "lastName": "Saad",
+  "overview": "Obtained his B.S degree in Chemistry at Birzeit University in Palestine (1996), M.S degree in Bioinorganic Chemistry at Bergen University in Norway (1998; advisor: Dr. Einar Sletten), and a Ph.D degree in Bioinorganic Chemistry at Emory University in Atlanta (2002; advisor: Dr. Luigi Marzilli). His M.S. and Ph.D studies focused on studying the interactions of cisplatin, a leading anticancer drug, with DNA by using Nuclear Magnetic Resonance (NMR) and other biophysical methods. Dr. Saad's postdoctoral work in Dr. Michael Summers' lab (HHMI, UMBC) focused on the mechanism by which retroviruses are directed to specific cellular membranes for assembly. Dr. Saad joined the UAB faculty in 2007.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2068-jamil-saad",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Microbiology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Virology"
+        ],
+        "value": "Virology"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Structural Biology (incl. Macromolecular Modelling)",
+          "Biology (incl. Macromolecular Modelling)",
+          "(incl. Macromolecular Modelling)",
+          "Macromolecular Modelling)",
+          "Modelling)"
+        ],
+        "value": "Structural Biology (incl. Macromolecular Modelling)"
+      }
+    ]
+  },
+  "discoveryId": "2068",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 51,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 67,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jamil",
+  "firstNameLastName": "Jamil Saad",
+  "equipmentLinkTypes": [],
+  "objectId": 2068,
+  "updatedWhen": "2025-05-10T08:06:35.9590917-05:00",
+  "hasCollaborationData": true,
+  "email": "saad@uab.edu",
+  "publication_keywords": "Biotechnology Cancer HIV/AIDS Immunization Infectious Diseases Lung Pneumonia Pneumonia & Influenza Prevention Vaccine Related",
+  "grant_keywords": "Bioengineering Biotechnology HIV/AIDS Infectious Diseases Nanotechnology Sexually Transmitted Infections"
+}

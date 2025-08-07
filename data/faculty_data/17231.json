@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17231",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Geng",
+  "firstName": "Baocheng",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17231-baocheng-geng",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Baocheng Geng",
+  "equipmentLinkTypes": [],
+  "objectId": 17231,
+  "updatedWhen": "2025-05-10T08:17:17.5312577-05:00",
+  "hasCollaborationData": false,
+  "email": "bgeng@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

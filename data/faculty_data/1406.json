@@ -1,0 +1,100 @@
+{
+  "discoveryId": "1406",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 111,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 84,
+      "favourites": 0
+    }
+  },
+  "lastName": "Geurs",
+  "firstName": "Nicolaas",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1406-nicolaas-geurs",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Dean-Dentistry",
+      "department": "Periodontology"
+    }
+  ],
+  "firstNameLastName": "Nicolaas Geurs",
+  "equipmentLinkTypes": [],
+  "objectId": 1406,
+  "updatedWhen": "2025-05-10T08:05:25.7944465-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ngeurs@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Dementia Dental/Oral and Craniofacial Disease Depression Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Infectious Diseases Maternal Health Mental Health Mental Illness Microbiome Minority Health Neurodegenerative Neurosciences Patient Safety Pediatric Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Prevention Women's Health",
+  "grant_keywords": "Aging Bioengineering Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dental/Oral and Craniofacial Disease Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Minority Health Patient Safety Primary Health Care Rehabilitation"
+}

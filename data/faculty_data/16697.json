@@ -1,0 +1,85 @@
+{
+  "discoveryId": "16697",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 85,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ejem",
+  "firstName": "Deborah",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16697-deborah-ejem",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "firstNameLastName": "Deborah Ejem",
+  "equipmentLinkTypes": [],
+  "objectId": 16697,
+  "updatedWhen": "2025-05-10T08:16:22.9014070-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "tejem@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Coronaviruses Coronaviruses Disparities and At-Risk Populations Dietary Supplements Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Infectious Diseases Minority Health Nutrition Pain Research Prevention Social Determinants of Health",
+  "grant_keywords": "Aging Behavioral and Social Science Brain Disorders Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Depression Health Disparities Health Services Heart Disease Mental Health Mental Illness Minority Health Rural Health"
+}

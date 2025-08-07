@@ -1,0 +1,115 @@
+{
+  "lastName": "Saxena",
+  "overview": "Neurogenesis in the context of embryonic development, pediatric cancer, and Alzheimer's disease.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18992-ankur-saxena",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Developmental Genetics (incl. Sex Determination)",
+          "Genetics (incl. Sex Determination)",
+          "(incl. Sex Determination)",
+          "Sex Determination)",
+          "Determination)"
+        ],
+        "value": "Developmental Genetics (incl. Sex Determination)"
+      },
+      {
+        "paths": [
+          [
+            "Zoology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Neurobiology",
+          "Neurobiology"
+        ],
+        "value": "Animal Neurobiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Cancer Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurogenetics"
+        ],
+        "value": "Neurogenetics"
+      }
+    ]
+  },
+  "discoveryId": "18992",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 25,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ankur",
+  "firstNameLastName": "Ankur Saxena",
+  "equipmentLinkTypes": [],
+  "objectId": 18992,
+  "updatedWhen": "2025-05-10T08:20:33.9888037-05:00",
+  "hasCollaborationData": false,
+  "email": "asaxena1@uab.edu",
+  "publication_keywords": "Cancer Cardiovascular Genetics Heart Disease Neuroblastoma Neurosciences Pediatric Cancer Pediatric Research Initiative Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": ""
+}

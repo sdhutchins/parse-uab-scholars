@@ -1,0 +1,73 @@
+{
+  "discoveryId": "8517",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 26,
+      "favourites": 0
+    }
+  },
+  "lastName": "Willoughby",
+  "firstName": "Ryan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "8517-ryan-willoughby",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Instructor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Ryan Willoughby",
+  "equipmentLinkTypes": [],
+  "objectId": 8517,
+  "updatedWhen": "2025-05-10T08:14:46.1843194-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "wwilloughby@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Brain Disorders Cancer Cerebrovascular Chronic Liver Disease and Cirrhosis Chronic Pain Clinical Research Clinical Trials and Supportive Activities Depression Digestive Diseases Epilepsy Liver Disease Mental Health Mental Illness Neurodegenerative Neurosciences Pain Research Peripheral Neuropathy Physical Injury - Accidents and Adverse Effects Radiation Oncology Rehabilitation Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": ""
+}

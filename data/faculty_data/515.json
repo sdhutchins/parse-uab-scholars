@@ -1,0 +1,129 @@
+{
+  "lastName": "Di Stasi",
+  "overview": "Introduction:\n\nI received my M.D. degree from the University of Modena in Italy, and received internal medicine and medical oncology training at the university of Milan, in Italy, where I focused on the management of hematologic malignancies and hematopoietic stem cell transplantation. Following my fellowship, I joined the Center for Cell and Gene Therapy (Baylor College of Medicine, Houston, TX) for post-doctoral studies, where I completed the pre-clinical validation of an immunotherapy protocol for the treatment of relapsed Hodgkin lymphoma, and the clinical validation of a novel suicide gene safety switch for graft-versus-host-disease occurring after donor lymphocyte infusion. Afterwards, I underwent ECFMG certification and moved to the University of Texas MD Anderson Cancer Center for Bone Marrow Transplantation fellowship and clinical research, especially regarding myelodysplastic syndromes, acute myeloid leukemia, and haploidentical hematopoietic stem cell transplantation. \n\nClinical Interests:\n\nMy interest is to provide clinical care to patients with hematological malignancies, myelodysplastic syndromes, acute leukemias and lymphomas while being directly involved in laboratory research as well. My passion is to dedicate myself to the discovery of novel immunotherapy strategies for disease eradication and conditioning to a hematopoietic stem cell transplantation, as well as strategies to control the toxicities of those novel forms of treatment.\n\nResearch:\n\n-T-cell Immunotherapy for leukemias and lymphomas\n-Hematopoietic stem cell transplantation\n-Suicide gene strategies for the safety of cellular therapies",
+  "hasThumbnail": true,
+  "discoveryUrlId": "515-antonio-di-stasi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "515",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 41,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 45,
+      "favourites": 0
+    }
+  },
+  "firstName": "Antonio",
+  "firstNameLastName": "Antonio Di Stasi",
+  "equipmentLinkTypes": [],
+  "objectId": 515,
+  "updatedWhen": "2025-05-10T08:03:25.2353917-05:00",
+  "hasCollaborationData": true,
+  "email": "adistasi@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Childhood Leukemia Clinical Research Clinical Trials and Supportive Activities Gene Therapy Genetics Hematology Orphan Drug Pediatric Pediatric Cancer Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Transplantation",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1355",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 469,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 180,
+      "favourites": 0
+    }
+  },
+  "lastName": "Javed",
+  "firstName": "Amjad",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1355-amjad-javed",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "firstNameLastName": "Amjad Javed",
+  "equipmentLinkTypes": [],
+  "objectId": 1355,
+  "updatedWhen": "2025-05-12T03:21:24.6256078-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "javeda@uab.edu",
+  "publication_keywords": "Aging Cancer Genetics Hematology Orphan Drug Osteoporosis Pediatric Pediatric Research Initiative Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Aging Biotechnology Dental/Oral and Craniofacial Disease Diabetes Genetics Nutrition Obesity Osteoporosis Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health"
+}

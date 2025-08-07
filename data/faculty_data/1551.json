@@ -1,0 +1,113 @@
+{
+  "lastName": "Knight",
+  "overview": "Dr. Candace Knight teaches obstetric nursing in the undergraduate and accelerated master's programs. Her qualitative doctoral research focused on adolescent prenatal stress and she continues research activities as part of a team exploring adolescent sexual decision making.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1551-candace-knight",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "1551",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 281,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 31,
+      "favourites": 0
+    }
+  },
+  "firstName": "Candace",
+  "firstNameLastName": "Candace Knight",
+  "equipmentLinkTypes": [],
+  "objectId": 1551,
+  "updatedWhen": "2025-05-10T08:05:38.5781975-05:00",
+  "hasCollaborationData": true,
+  "email": "knightc@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Maternal Health Maternal Morbidity and Mortality Mental Health Mental Illness Minority Health Pediatric Pediatric Research Initiative Pregnancy Prevention Rural Health Serious Mental Illness Sexually Transmitted Infections Social Determinants of Health Teenage Pregnancy Women's Health",
+  "grant_keywords": ""
+}

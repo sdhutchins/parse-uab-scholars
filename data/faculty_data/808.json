@@ -1,0 +1,128 @@
+{
+  "lastName": "Dreer",
+  "overview": "Dr. Laura Dreer is a tenured, Associate Professor with dual specialty as a medical rehabilitation psychologist and neuropsychologist at the University of Alabama at Birmingham (UAB). Her primary appointment is within the UAB Department Ophthalmology and Visual Sciences, yet she also holds secondary appointments in the Departments of Physical Medicine and Rehabilitation, Psychology, and Neurology. She has extensive expertise in developing, evaluating, delivering, and assessing the impact of medical psychological rehabilitation interventions, neuropsychological assessments, health behaviors, and cognitive behavioral therapy (CBT) based health promotion programs. She completed dual fellowships in medical rehabilitation psychology (UAB) and in neuropsychology (Duke University Medical Center). In these positions and now as a tenured faculty member her clinical research efforts address complex issues confronting people with various chronic health conditions and injuries, neurological medical illnesses, along with issues facing their family caregivers. \n\nAs a result of Dr. Dreer's expertise and leadership, Dr. Dreer developed and now serves as the Director of the UAB Behavioral Health Clinical Research Services that focuses on both clinical and research efforts across disabilities and age groups. She has conducted a successful, independently funded program of research on personal and familial adjustment to a variety of chronic medical conditions (traumatic brain injury: TBI; vision impairment). Her research program has also focused on the development and evaluation of evidence-based CBT-based health promotion and behavioral health approaches for patients and/or their family caregivers (e.g. to minimize depression; enhance knowledge; promote skills leading to healthy lifestyle behaviors; increase adherence to medications; foster resilience; promote healthy weight management, etc.). \n\nDr. Dreer has independently secured extramural funding through various national and foundation-based organizations (e.g., the National Institute on Disability and Independent Living Rehabilitation Research [NIDILRR]; National Institutes of Health [NIH]; the EyeSight Foundation of Alabama (ESFA); the International Retinal Research Foundation [IRRF]; Research to Prevent Blindness [RPB], and the Brain Tumor Network [BTN] etc.). \n\nDr. Dreer is well recognized for her national reputation in medical rehabilitation, neuropsychology, TBI, low vision rehabilitation, and other disability-related research. She is heavily involved as a PI and Co-Investigator on several RCT studies examining aspects related to health and disability and health outcomes. She has an excellent track record of adjustment to injury and disability related-research, clinical work, advocacy, and service, particularly among patients and families living with a TBI or vision-related impairment. Finally, Dr. Dreer has an independently funded patient-oriented research program and is heavily involved in team science based multidisciplinary research.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "808-dr-laura-e-dreer",
+  "customFilterThree": [
+    "Collaborative projects",
+    "Join a web conference as a panellist or speaker",
+    "Masters Research or PhD student supervision",
+    "Career advice",
+    "Media enquiries",
+    "Membership of an advisory committee"
+  ],
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Ophthalmology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mental Health",
+          "Health"
+        ],
+        "value": "Mental Health"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Rehabilitation and Therapy (excl. Physiotherapy)",
+          "and Therapy (excl. Physiotherapy)",
+          "Therapy (excl. Physiotherapy)",
+          "(excl. Physiotherapy)",
+          "Physiotherapy)"
+        ],
+        "value": "Rehabilitation and Therapy (excl. Physiotherapy)"
+      },
+      {
+        "paths": [
+          [
+            "Psychology",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "(Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "Psychopharmacology, Physiological Psychology)",
+          "Physiological Psychology)",
+          "Psychology)"
+        ],
+        "value": "Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Promotion",
+          "Promotion"
+        ],
+        "value": "Health Promotion"
+      }
+    ]
+  },
+  "discoveryId": "808",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 141,
+      "favourites": 0
+    }
+  },
+  "firstName": "Dr. Laura E.",
+  "firstNameLastName": "Dr. Laura E. Dreer",
+  "equipmentLinkTypes": [],
+  "objectId": 808,
+  "updatedWhen": "2025-05-10T08:04:02.5597414-05:00",
+  "hasCollaborationData": true,
+  "email": "dreer@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Cancer Caregiving Research Clinical Research Dental/Oral and Craniofacial Disease Eye Disease and Disorders of Vision Health Services Neurosciences Obesity Physical Injury - Accidents and Adverse Effects Rare Diseases Rehabilitation Sleep Research Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury",
+  "grant_keywords": "Aging Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities Minority Health Neurodegenerative Neurosciences Patient Safety Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Prevention Rehabilitation Social Determinants of Health Spinal Cord Injury Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury"
+}

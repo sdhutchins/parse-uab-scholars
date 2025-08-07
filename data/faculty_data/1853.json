@@ -1,0 +1,132 @@
+{
+  "lastName": "Garvey",
+  "overview": "Dr. Garvey is Professor of Medicine in the Department of Nutrition Sciences at the University of Alabama at Birmingham. He obtained his MD degree, cum laude, from St. Louis University in 1978, and completed residency training in Internal Medicine at Barnes Hospital, Washington University, in 1981. He then was a clinical fellow in Endocrinology and Metabolism at the University of Colorado Health Sciences Center and University of California, San Diego School of Medicine. He subsequently held faculty posts at the University of California, School of Medicine (Assistant Professor), Indiana University School of Medicine (Associate and full Professor), and from 1994 to 2003 was the Director of the Division of Endocrinology, Diabetes, and Medical Genetics at the Medical University of South Carolina. Dr. Garvey moved to UAB on June 1, 2004.\n\nDr. Garvey has achieved international recognition for his research in the metabolic, molecular, and genetic pathogenesis of insulin resistance, Type 2 Diabetes, and obesity. His studies have involved the cellular and molecular biology of cell and animal models, metabolic investigations of human subjects on metabolic research wards, and the genetic basis of diseases in Gullah-speaking African Americans, Pima Indians, and national cohorts of diabetes patients. He has brought basic technology directly to the study of human patients, and the combined approach of human physiology, genetics, and basic cell and molecular biology has provided the laboratory with a flexible capability for hypothesis testing relevant to human disease. By studying molecular parameters and differential gene expression in muscle and fat tissue from metabolically characterized individuals, the Garvey laboratory has made important observations regarding the pathogenesis of human insulin resistance. He has been a principle contributor to our understanding of the role of the glucose transport system and glucose transporter proteins in human insulin resistance. The laboratory has also identified a polymorphisms in the uncoupling protein 3 gene as a \"thrifty gene\" and susceptibility gene for severe obesity in African Americans. He also served as the PI of an NIH-funded Program Project to study markers and mechanisms of diabetes vascular complications in collaboration with two national trial cohorts. Dr. Garvey has directed an independent laboratory since 1987 supported by the National Institutes of Health (NIDDK, NHLBI), the Department of Veterans Affairs, the AHA, JDFI, the ADA, and other agencies. Dr. Garvey also has a track record of community based research and outreach in the context of two initiatives, Project Sugar (a genetics study among Gullah-speaking African Americans) and MUSC/HBCU Partners in Wellness (a program in community health at 6 historically black colleges and universities in SC intended to challenge minority students towards careers in the health professions).\n\nHe has provided service as a member of national research review committees for the Juvenile Diabetes Research Foundation, the American Diabetes Association, the VA Merit Review Program, and the National Institutes of Health. He was a standing member of the Metabolism Study Section at NIH from 1998-2002, and has chaired several ad hoc NIH study sections. Dr. Garvey currently serves on the editorial boards of Diabetes, and has previously served in this capacity for the Journal of Clinical Endocrinology and Metabolism and Diabetes Reviews. He is a member of the American Society for Clinical Investigation, the Association of American Physicians, the Endocrine Society, and the American Diabetes Association, and the North American Association for the Study of Obesity.\n\nDr Garvey is the founding PI of the UAB Diabetes Research Center from 2008 to present (P30 DH079626) and a program project funded by the American Heart Association entitled \"Intergenerational Transmission of Obesity and Cardiometabolic Disease\" from 2017-2020.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1853-w-timothy-garvey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "1853",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 94,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 100,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 495,
+      "favourites": 0
+    }
+  },
+  "firstName": "W. Timothy",
+  "firstNameLastName": "W. Timothy Garvey",
+  "equipmentLinkTypes": [],
+  "objectId": 1853,
+  "updatedWhen": "2025-05-10T08:06:12.2778178-05:00",
+  "hasCollaborationData": true,
+  "email": "garveyt@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biomedical Imaging Brain Disorders Cardiovascular Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Complementary and Integrative Health Depression Diabetes Digestive Diseases Kidney Disease Liver Disease Mental Health Mental Illness Mind and Body Nutrition Obesity Prevention Women's Health",
+  "grant_keywords": ""
+}

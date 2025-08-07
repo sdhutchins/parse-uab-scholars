@@ -1,0 +1,44 @@
+{
+  "discoveryId": "4661",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "McWilliams",
+  "firstName": "Tennant",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4661-tennant-mcwilliams",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Dean Emeritus",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Tennant McWilliams",
+  "equipmentLinkTypes": [],
+  "objectId": 4661,
+  "updatedWhen": "2025-05-10T08:11:25.1787199-05:00",
+  "hasCollaborationData": false,
+  "email": "tsm@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

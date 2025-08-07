@@ -1,0 +1,124 @@
+{
+  "lastName": "Leal",
+  "overview": "I have a broad background in microbiology, immunology, and medicine with residency training in clinical pathology and fellowship training in medical microbiology. I am the Director of the UAB Clinical Microbiology Laboratory, Fungal Reference Lab, and UAB’s High Containment Research Facility (SEBLAB) with significant expertise in the diagnosis of infectious diseases, medical mycology, and SARS-CoV-2 biology. My research interests are 4-fold and include 1. Expert laboratory support for a variety of Infectious Disease (ID) clinical trials,2. Evaluation of new commercial diagnostic tests seeking FDA approval, 3. Development of novel ID diagnostics, and 4. The mechanistic evaluation of host and microbial factors mediating the outcome of invasive mold infections in otherwise healthy hosts including: COVID-Associated 2° mold infections (CAPA/CAM), fungal keratitis, phaeohyphyomycosis, and dimorphic fungal infections.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6209-sixto-leal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Laboratory Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "6209",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 113,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sixto",
+  "firstNameLastName": "Sixto Leal",
+  "equipmentLinkTypes": [],
+  "objectId": 6209,
+  "updatedWhen": "2025-05-10T08:12:55.3580666-05:00",
+  "hasCollaborationData": true,
+  "email": "sleal@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Clinical Research Coronaviruses Cystic Fibrosis Emerging Infectious Diseases Genetics Infectious Diseases Lung Orphan Drug Rare Diseases",
+  "grant_keywords": "Emerging Infectious Diseases Infectious Diseases Lung"
+}

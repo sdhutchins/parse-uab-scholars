@@ -1,0 +1,130 @@
+{
+  "lastName": "Lee",
+  "overview": "Timmy Lee, M.D., M.S.P.H is a Professor of Medicine in the Department of Medicine and Division of Nephrology with a secondary appointment in the Department of Biomedical Engineering at the University of Alabama at Birmingham.  Dr. Lee received his medical degree at the Louisiana State University Health Sciences Center in Shreveport and completed his Internal medicine residency and Nephrology fellowship at the University of Alabama at Birmingham, Nephrology research fellowship at the University of Alabama at Birmingham, and Master of Science in Public Health at the University of Alabama at Birmingham. Dr. Lee is the Vice Chair for Research in the Department of Medicine at the University of Alabama at Birmingham and Section Chief of Nephrology at the Birmingham Veterans Affairs Medical Center. He also serves as the Associate Director of Interventional Nephrology, Associate Nephrology Fellowship Director, Associate Director of the Nephrology Research Training Center in the Division of Nephrology at the University of Alabama at Birmingham, and Director of the Hemodialysis Program at the Birmingham Veterans Affairs Medical Center.  Dr. Lee has been involved in hemodialysis vascular access research since 2002 and has over 80 publications in vascular access research.  He has active research programs in clinical trials and large epidemiologic studies in dialysis vascular access and a laboratory-based translational research program in dialysis vascular access studying human vascular access blood vessel tissue biorepositories and mechanisms of arteriovenous fistula dysfunction using animal models (mouse, rat, and pig).  The goal of his research program is to develop novel therapeutics to prevent and treat complications of hemodialysis vascular access dysfunction and improve the delivery and processes of care for patients requiring a hemodialysis vascular access. Dr. Lee’s research program is currently funded by the National Institutes of Health, Veterans Affairs Medical Center, and foundation grants.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "607-timmy-lee",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "607",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 105,
+      "favourites": 0
+    }
+  },
+  "firstName": "Timmy",
+  "firstNameLastName": "Timmy Lee",
+  "equipmentLinkTypes": [],
+  "objectId": 607,
+  "updatedWhen": "2025-05-10T08:03:37.8366082-05:00",
+  "hasCollaborationData": true,
+  "email": "txlee@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Biomedical Imaging Cardiovascular Kidney Disease",
+  "grant_keywords": "Bioengineering Hematology Kidney Disease Prevention Rural Health"
+}

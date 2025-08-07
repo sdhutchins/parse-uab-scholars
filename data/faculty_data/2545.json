@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2545",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 124,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sloan",
+  "firstName": "Kenneth",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2545-kenneth-sloan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor Emeritus",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Kenneth Sloan",
+  "equipmentLinkTypes": [],
+  "objectId": 2545,
+  "updatedWhen": "2025-05-10T08:07:50.5583127-05:00",
+  "hasCollaborationData": false,
+  "email": "sloan@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

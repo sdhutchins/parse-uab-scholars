@@ -1,0 +1,84 @@
+{
+  "discoveryId": "4001",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 14,
+      "favourites": 0
+    }
+  },
+  "lastName": "O'Neal",
+  "firstName": "Sandra",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4001-sandra-o'neal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Prosthodontics"
+    }
+  ],
+  "firstNameLastName": "Sandra O'Neal",
+  "equipmentLinkTypes": [],
+  "objectId": 4001,
+  "updatedWhen": "2025-05-10T08:10:25.5721082-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "joneal@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Bioengineering Biomedical Imaging Dental/Oral and Craniofacial Disease Rehabilitation",
+  "grant_keywords": "Bioengineering Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dental/Oral and Craniofacial Disease Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Patient Safety Primary Health Care Rehabilitation"
+}

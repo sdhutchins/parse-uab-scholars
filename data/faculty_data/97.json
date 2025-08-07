@@ -1,0 +1,127 @@
+{
+  "discoveryId": "97",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 59,
+      "favourites": 1
+    }
+  },
+  "lastName": "Lazrak",
+  "firstName": "Ahmed",
+  "hasThumbnail": true,
+  "discoveryUrlId": "97-ahmed-lazrak",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Anesthesiology"
+    }
+  ],
+  "firstNameLastName": "Ahmed Lazrak",
+  "equipmentLinkTypes": [],
+  "objectId": 97,
+  "updatedWhen": "2025-05-10T08:02:22.2360488-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lazrak@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Biotechnology Clinical Research Cystic Fibrosis Genetics Infectious Diseases Lung Pediatric Physical Injury - Accidents and Adverse Effects Rare Diseases",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Biodefense Clinical Research Clinical Trials and Supportive Activities Cystic Fibrosis Dental/Oral and Craniofacial Disease Emerging Infectious Diseases Genetics Health Disparities Infectious Diseases Lung Minority Health Rare Diseases Women's Health"
+}

@@ -1,0 +1,59 @@
+{
+  "discoveryId": "2574",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 244,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ryan",
+  "firstName": "Cynthia",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2574-cynthia-ryan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Cynthia Ryan",
+  "equipmentLinkTypes": [],
+  "objectId": 2574,
+  "updatedWhen": "2025-05-10T08:07:50.5623651-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Philosophy"
+        ],
+        "value": "Philosophy"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "cynryan@uab.edu",
+  "publication_keywords": "Breast Cancer Cancer Women's Health",
+  "grant_keywords": ""
+}

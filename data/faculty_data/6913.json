@@ -1,0 +1,128 @@
+{
+  "lastName": "Miller",
+  "overview": "My clinical, translational, and basic research focuses on the most common and malignant primary brain tumors, gliomas. We use cutting-edge mouse models, human models and tissues, and molecular, genetic, neurobiological, genomic, and proteomic approaches to dissect the effect of cellular origin, intracellular signaling networks, and tumor microenvironment on glioma biology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6913-c-ryan-miller",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Director",
+      "department": "Neuropathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "6913",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 127,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 139,
+      "favourites": 0
+    }
+  },
+  "firstName": "C. Ryan",
+  "firstNameLastName": "C. Ryan Miller",
+  "equipmentLinkTypes": [],
+  "objectId": 6913,
+  "updatedWhen": "2025-05-10T08:13:51.5156292-05:00",
+  "hasCollaborationData": true,
+  "email": "rmiller@uab.edu",
+  "publication_keywords": "Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Genetics Human Genome Immunotherapy Neurosciences Orphan Drug Precision Medicine Rare Diseases",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

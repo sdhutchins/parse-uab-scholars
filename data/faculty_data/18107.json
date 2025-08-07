@@ -1,0 +1,134 @@
+{
+  "lastName": "Czaja",
+  "overview": "Dr. Wioletta Czaja (pronounced: chaya) is an Assistant Professor in the Department of Genetics, director of the Genetic and Genomic Sciences (GGSC) Undergraduate Program and associate scientist of the O’Neal Comprehensive Cancer Center. Dr. Czaja’s research investigates epigenetic and chromatin-based regulation of DNA repair and genome maintenance pathways in the context of cancer, inflammation and immune regulation. The long-term goal of our research is to uncover novel mechanisms of genome maintenance, and identify new targets for preventive and therapeutic strategies relevant to many types and stages of cancer and other diseases.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18107-wioletta-czaja",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Zoology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Cell and Molecular Biology",
+          "Cell and Molecular Biology",
+          "and Molecular Biology",
+          "Molecular Biology",
+          "Biology"
+        ],
+        "value": "Animal Cell and Molecular Biology"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epigenetics (incl. Genome Methylation and Epigenomics)",
+          "(incl. Genome Methylation and Epigenomics)",
+          "Genome Methylation and Epigenomics)",
+          "Methylation and Epigenomics)",
+          "and Epigenomics)",
+          "Epigenomics)"
+        ],
+        "value": "Epigenetics (incl. Genome Methylation and Epigenomics)"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Cancer Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "18107",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "firstName": "Wioletta",
+  "firstNameLastName": "Wioletta Czaja",
+  "equipmentLinkTypes": [],
+  "objectId": 18107,
+  "updatedWhen": "2025-05-10T08:18:44.1721422-05:00",
+  "hasCollaborationData": true,
+  "email": "wczaja@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Cancer Genomics Genetics Human Genome Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": ""
+}

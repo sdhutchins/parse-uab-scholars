@@ -1,0 +1,121 @@
+{
+  "lastName": "Deluca",
+  "overview": "Dr. Maria De Luca obtained her Ph.D. from the University of Calabria (Italy) working on the study of human genetic variation using high variable DNA markers. During that time she was awarded a European Union Mobility Program fellowship to work in the laboratory of Dr. Julia Bodmer at the Imperial Cancer Research Fund in London. The goal of the project was to develop a DNA method to discriminate among HLA alleles and apply it to the study of the genetic history of European populations. Dr. De Luca continued her academic training as a postdoctoral fellow at the Italian National Center on Aging working on the identification of genes involved in human longevity by a population genetic approach. She later joined the laboratory of Dr. Trudy Mackay at North Carolina State University where she expanded her research experience in the genetics and analysis of quantitative traits using D. melanogaster as model organism. Dr. De Luca joined UAB in November 2002 initially as a research-track fellow in the Department of Environmental Health Sciences in the School of Public Health and has held her current position in the Department of Nutrition Sciences since July 2005.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1848-maria-deluca",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "1848",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 2
+    },
+    "teachingActivities": {
+      "all": 56,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 67,
+      "favourites": 1
+    },
+    "publications": {
+      "all": 67,
+      "favourites": 1
+    }
+  },
+  "firstName": "Maria",
+  "firstNameLastName": "Maria Deluca",
+  "equipmentLinkTypes": [],
+  "objectId": 1848,
+  "updatedWhen": "2025-05-10T08:06:00.9463998-05:00",
+  "hasCollaborationData": true,
+  "email": "mdeluca2@uab.edu",
+  "publication_keywords": "Aging Cardiovascular Clinical Research Diabetes Digestive Diseases Emerging Infectious Diseases Genetics Human Genome Infectious Diseases Neurosciences Nutrition Obesity Prevention Women's Health",
+  "grant_keywords": "Clinical Research Genetics Human Genome Nutrition Obesity"
+}

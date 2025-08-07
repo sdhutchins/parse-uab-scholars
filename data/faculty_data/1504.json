@@ -1,0 +1,105 @@
+{
+  "lastName": "Holland",
+  "overview": "Dr. Aimee Holland is a professor and serves as the Associate Dean for Graduate Clinical Education at the University of Alabama at Birmingham School of Nursing (UABSON), overseeing the MSN and DNP programs. \n\nRaised in rural Alabama, she was the first person in her family to earn a college degree. Growing up involved in 4-H initiatives, she developed a strong sense of innovation, collaboration, and leadership. These early experiences, shaped by limited resources and a commitment to hard work, fueled her passion for improving healthcare access, especially in rural and underserved communities. As a nurse practitioner with the National Health Service Corps (NHSC), she worked directly in underserved communities in Alabama, furthering her commitment to improving healthcare access. She is recognized as a clinical expert in women's health and primary care, with professional scholarship focus on publishing and presenting in these areas. \n\nDr. Holland's work with national nursing organizations, including serving as Treasurer for the National Organization of Nurse Practitioner Faculties (NONPF) and President of the National Association of Nurse Practitioners in Women's Health (NPWH), has further honed her skills in advocacy, strategic planning, and financial stewardship. Recognized as a Fellow of the American Academy of Nursing (FAAN) and the American Association of Nurse Practitioners (FAANP), she remains dedicated to advancing nursing education.\n\nDr. Holland's leadership experience includes serving as Program Director for the HRSA Advanced Nursing Education Workforce (ANEW) grant, the HRSA Nurse Faculty Loan Program (NFLP), the American Association of Nurse Practitioners Pilot grant, and the Daniel Foundation of Alabama grant. In these roles, she has led efforts that resulted in over $9 million in awarded funding to enhance nursing education, expand healthcare access, and support the growth of the nursing workforce in Alabama and beyond.\n\nDr. Holland's expertise in women’s health extends beyond education, as she has received global recognition through invitational appointments, extramural grants, publications and presentations, industry awards, and editorial board service. She has also served on nursing educational policy boards. Notable awards received include the Top Twenty Outstanding Professors of Women’s Health Nursing Award, the Nurse Practitioner Alliance of Alabama’s Outstanding Educator Award, the Vanderbilt University Alumni Award for Healthcare Innovation, the American Association of Nurse Practitioner's State Award for Excellence, The Association of Women's Health, Obstetrics, and Neonatal Nursing's Award of Excellence in Community Service, The National Organization of Nurse Practitioners in Women's Health Inspiration Award for Policy, and recognized as one of 70 Visionary Leaders by The University of Alabama at Birmingham School of Nursing.  \n\nDr. Holland is deeply committed to fostering teamwork, mentorship, and service through her servant leadership style, which empowers others and drives meaningful change. Her unwavering dedication to education and nursing practice has shaped her career, where she continually strives to improve healthcare access, advance nursing practice, and mentor future generations of innovative leaders.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1504-aimee-holland",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Paediatrics and Reproductive Medicine",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Obstetrics and Gynaecology",
+          "and Gynaecology",
+          "Gynaecology"
+        ],
+        "value": "Obstetrics and Gynaecology"
+      },
+      {
+        "paths": [
+          [
+            "Specialist Studies in Education",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Educational Administration, Management and Leadership",
+          "Administration, Management and Leadership",
+          "Management and Leadership",
+          "and Leadership",
+          "Leadership"
+        ],
+        "value": "Educational Administration, Management and Leadership"
+      }
+    ]
+  },
+  "discoveryId": "1504",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 589,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 276,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 133,
+      "favourites": 0
+    }
+  },
+  "firstName": "Aimee",
+  "firstNameLastName": "Aimee Holland",
+  "equipmentLinkTypes": [],
+  "objectId": 1504,
+  "updatedWhen": "2025-05-10T08:05:38.5121058-05:00",
+  "hasCollaborationData": true,
+  "email": "aimeeholland@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Depression Health Services Major Depressive Disorder Mental Health Mental Illness Pediatric Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Prevention Serious Mental Illness",
+  "grant_keywords": ""
+}

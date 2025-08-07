@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16627",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Tong",
+  "firstName": "Ching Man Carmen",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16627-ching-man-carmen-tong",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Urology"
+    }
+  ],
+  "firstNameLastName": "Ching Man Carmen Tong",
+  "equipmentLinkTypes": [],
+  "objectId": 16627,
+  "updatedWhen": "2025-05-10T08:16:22.8673710-05:00",
+  "hasCollaborationData": false,
+  "email": "ctong@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

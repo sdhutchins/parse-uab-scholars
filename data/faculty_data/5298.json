@@ -1,0 +1,147 @@
+{
+  "lastName": "Grusenmeyer",
+  "overview": "Patrick Grusenmeyer, ScD, FACHE, is an Associate Professor in the Department of Health Services Administration, School of Health Professions at the University of Alabama at Birmingham. His primary areas of interest in teaching and research are healthcare policy, strategy and finance. He teaches in the health services administration undergraduate, masters and doctoral programs.\nPrior to joining UAB in 2017, Dr. Grusenmeyer served as the president of Christiana Care Health Initiatives, Inc., the Health System’s home for joint ventures including ambulatory surgery centers, urgent care centers, sleep labs, etc. and one of the system's Medicare Shared Saving Programs. He was also senior vice president for Strategic Business Development and SVP of Cancer and Imaging Services. Prior to joining Christiana Care in 2001, he served as administrator of the Ochsner Cancer Institute at the Ochsner Clinic Foundation in New Orleans and as instructor and director at the Louisiana State University School of Medicine.\nDr. Grusenmeyer served on the editorial boards of the Journal of Oncology Practice, Journal of Clinical Oncology, Community Oncology, and Oncology Issues, and serves as an ad hoc reviewer for several journals including the American Journal of Managed Care. He has published articles on cost and cost-effectiveness of cancer care, and cancer program development and management.\nPatrick Grusenmeyer earned a Doctor of Science in health systems management from Tulane University. He is a fellow in the American College of Healthcare Executives. He served as a commissioner and university program reviewer for the Accreditation Council of the Commission on Accreditation of Healthcare Management Education. He served as a member of the Medicare Advisory Panel on Ambulatory Payment Classification Groups. Dr. Grusenmeyer served as Treasurer and Finance Committee Chair and on the Executive Committee and Corporate Board of Directors for Boys & Girls Clubs of Delaware. He served on the Board of Directors of the New Castle County Delaware Chamber of Commerce.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5298-patrick-grusenmeyer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Care Administration",
+          "Care Administration",
+          "Administration"
+        ],
+        "value": "Health Care Administration"
+      },
+      {
+        "paths": [
+          [
+            "Banking, Finance and Investment",
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Finance"
+        ],
+        "value": "Finance"
+      },
+      {
+        "paths": [
+          [
+            "Marketing",
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing Management (incl. Strategy and Customer Relations)",
+          "Management (incl. Strategy and Customer Relations)",
+          "(incl. Strategy and Customer Relations)",
+          "Strategy and Customer Relations)",
+          "and Customer Relations)",
+          "Customer Relations)",
+          "Relations)"
+        ],
+        "value": "Marketing Management (incl. Strategy and Customer Relations)"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Policy and Administration",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Policy",
+          "Policy"
+        ],
+        "value": "Health Policy"
+      }
+    ]
+  },
+  "discoveryId": "5298",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 29,
+      "favourites": 0
+    }
+  },
+  "firstName": "Patrick",
+  "firstNameLastName": "Patrick Grusenmeyer",
+  "equipmentLinkTypes": [],
+  "objectId": 5298,
+  "updatedWhen": "2025-05-10T08:12:12.0787168-05:00",
+  "hasCollaborationData": false,
+  "email": "pgrusen@uab.edu",
+  "publication_keywords": "Cancer Clinical Research Clinical Trials and Supportive Activities Health Services Prevention",
+  "grant_keywords": ""
+}

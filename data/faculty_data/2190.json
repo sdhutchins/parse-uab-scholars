@@ -1,0 +1,123 @@
+{
+  "lastName": "Theibert",
+  "overview": "Anne Theibert received her Ph.D. from The Johns Hopkins University School of Medicine in 1985. She is an Professor of Neurobiology, and Adjunct Assistant Professor of Cell Biology and Physiology and Biophysics.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2190-anne-theibert",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "2190",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 488,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 46,
+      "favourites": 0
+    }
+  },
+  "firstName": "Anne",
+  "firstNameLastName": "Anne Theibert",
+  "equipmentLinkTypes": [],
+  "objectId": 2190,
+  "updatedWhen": "2025-05-10T08:07:03.6942328-05:00",
+  "hasCollaborationData": true,
+  "email": "theibert@uab.edu",
+  "publication_keywords": "Autism Brain Disorders Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Neurodegenerative Neurosciences Pediatric Research Initiative Rare Diseases Rett Syndrome Schizophrenia Stem Cell Research Stem Cell Research - Embryonic - Human Women's Health",
+  "grant_keywords": "Health Disparities Mental Health Minority Health Neurosciences"
+}

@@ -1,0 +1,123 @@
+{
+  "lastName": "Burgio",
+  "overview": "Kathryn L. Burgio, PhD, is a behavioral psychologist, Professor in the School of Medicine, Director of the UAB Continence Program, and Research Director of the UAB Genitourinary Disorders Center. She directs the Behavioral Sciences Section and the Behavioral Medicine Program in the Division of Gerontology and Geriatric Medicine. She is also Associate Director for Research at the Birmingham/Atlanta Geriatric Research, Education, and Clinical Center (GRECC), Birmingham VA Medical Center.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "477-kathryn-burgio",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "477",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 29,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 295,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kathryn",
+  "firstNameLastName": "Kathryn Burgio",
+  "equipmentLinkTypes": [],
+  "objectId": 477,
+  "updatedWhen": "2025-05-10T08:03:12.8894297-05:00",
+  "hasCollaborationData": true,
+  "email": "kburgio@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Disparities Pediatric Prevention Sleep Research Social Determinants of Health Urologic Diseases Women's Health",
+  "grant_keywords": "Aging Behavioral and Social Science Clinical Research Health Disparities Minority Health Prevention Urologic Diseases Women's Health"
+}

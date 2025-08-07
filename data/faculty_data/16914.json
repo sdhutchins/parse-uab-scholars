@@ -1,0 +1,124 @@
+{
+  "discoveryId": "16914",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 18,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gazaway",
+  "firstName": "Shena",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16914-shena-gazaway",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "firstNameLastName": "Shena Gazaway",
+  "equipmentLinkTypes": [],
+  "objectId": 16914,
+  "updatedWhen": "2025-05-10T08:16:51.0570637-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Law and Legal Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Law"
+        ],
+        "value": "Law"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Ethics",
+          "Ethics"
+        ],
+        "value": "Applied Ethics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "gazaways@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Brain Disorders Cancer Caregiving Research Chronic Pain Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Kidney Disease Liver Disease Mental Health Minority Health Pain Research Rural Health Social Determinants of Health Telehealth Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Heart Disease Minority Health Pain Research Social Determinants of Health"
+}

@@ -1,0 +1,124 @@
+{
+  "discoveryId": "17141",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 105,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cunha-Cruz",
+  "firstName": "Joana",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17141-joana-cunhacruz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Behavioral & Population Sciences"
+    }
+  ],
+  "firstNameLastName": "Joana Cunha-Cruz",
+  "equipmentLinkTypes": [],
+  "objectId": 17141,
+  "updatedWhen": "2025-05-10T08:17:09.0323202-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "joanaccruz@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Minority Health Prevention Primary Health Care",
+  "grant_keywords": "Bioengineering Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dental/Oral and Craniofacial Disease Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Patient Safety Primary Health Care Rehabilitation"
+}

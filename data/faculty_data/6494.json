@@ -1,0 +1,45 @@
+{
+  "discoveryId": "6494",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 65,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "lastName": "Paul-Flannery",
+  "overview": "Dr. Flannery is currently serving as Assistant Professor of Early Childhood Education and Grant Coordinator for Project IMPACT-PD in the English as a Second Language Department. This grant has served hundreds of multilingual families and students in the surrounding community. This grant work has also prepared many teachers through coursework and workshops in facilitating the success of multilingual children. Before working at UAB, she served as an EL and Spanish teacher with Birmingham City Schools in the PK-12 setting where she had the privilege of serving as instructor of the school's Spanish Club. She was a Teacher Consultant of the National Writing Project affiliate, Red Mountain Writing Project. She initially began her teaching career in Madrid, Spain where she taught English to native Spanish speakers in the adult and elementary setting.",
+  "firstName": "Julie",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6494-julie-paulflannery",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Julie Paul-Flannery",
+  "equipmentLinkTypes": [],
+  "objectId": 6494,
+  "updatedWhen": "2025-05-10T08:13:23.3643477-05:00",
+  "hasCollaborationData": false,
+  "email": "jipaul7@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

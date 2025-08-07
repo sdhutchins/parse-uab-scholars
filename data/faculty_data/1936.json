@@ -1,0 +1,243 @@
+{
+  "lastName": "Tiwari",
+  "overview": "Dr. Tiwari received his Ph.D. in mathematics from the University of Notre Dame, South Bend, Indiana. While being a faculty at the University of Maine, he got interested in statistical genetics and completed a post-doctoral fellowship in Statistical Genetics under Prof. Robert C. Elston in the Department of Biometry and Genetics at Louisiana State University Medical Center, New Orleans, and at the Case Western Reserve University in Cleveland. Subsequently, he worked as a faculty member in the Department of Epidemiology and Biostatistics at Case Western Reserve University. In January 2002, he joined as a faculty in the Department of Biostatistics (Section on Statistical Genetics) at UAB. Currently, he is William “Student: Sealy Gosset Professor in Biostatistics in the School of Public Health at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1936-hemant-tiwari",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      },
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiology (incl. Cardiovascular Diseases)",
+          "(incl. Cardiovascular Diseases)",
+          "Cardiovascular Diseases)",
+          "Diseases)"
+        ],
+        "value": "Cardiology (incl. Cardiovascular Diseases)"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Infectious Diseases",
+          "Diseases"
+        ],
+        "value": "Infectious Diseases"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epigenetics (incl. Genome Methylation and Epigenomics)",
+          "(incl. Genome Methylation and Epigenomics)",
+          "Genome Methylation and Epigenomics)",
+          "Methylation and Epigenomics)",
+          "and Epigenomics)",
+          "Epigenomics)"
+        ],
+        "value": "Epigenetics (incl. Genome Methylation and Epigenomics)"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genomics"
+        ],
+        "value": "Genomics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Gene Expression (incl. Microarray and other genome-wide approaches)",
+          "Expression (incl. Microarray and other genome-wide approaches)",
+          "(incl. Microarray and other genome-wide approaches)",
+          "Microarray and other genome-wide approaches)",
+          "and other genome-wide approaches)",
+          "other genome-wide approaches)",
+          "genome-wide approaches)",
+          "approaches)"
+        ],
+        "value": "Gene Expression (incl. Microarray and other genome-wide approaches)"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantitative Genetics (incl. Disease and Trait Mapping Genetics)",
+          "Genetics (incl. Disease and Trait Mapping Genetics)",
+          "(incl. Disease and Trait Mapping Genetics)",
+          "Disease and Trait Mapping Genetics)",
+          "and Trait Mapping Genetics)",
+          "Trait Mapping Genetics)",
+          "Mapping Genetics)",
+          "Genetics)"
+        ],
+        "value": "Quantitative Genetics (incl. Disease and Trait Mapping Genetics)"
+      }
+    ]
+  },
+  "discoveryId": "1936",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 65,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 135,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 390,
+      "favourites": 0
+    }
+  },
+  "firstName": "Hemant",
+  "firstNameLastName": "Hemant Tiwari",
+  "equipmentLinkTypes": [],
+  "objectId": 1936,
+  "updatedWhen": "2025-05-10T08:06:24.4209434-05:00",
+  "hasCollaborationData": true,
+  "email": "htiwari@uab.edu",
+  "publication_keywords": "Aging Antimicrobial Resistance Bioengineering Brain Disorders Cardiovascular Cerebrovascular Clinical Research Data Science Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Infectious Diseases Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Prevention Sexually Transmitted Infections Stroke Women's Health",
+  "grant_keywords": "Aging Biotechnology Cachexia Cardiovascular Cerebrovascular Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Dietary Supplements Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Human Genome Hypertension Kidney Disease Lung Maternal Health Maternal Morbidity and Mortality Minority Health Nutrition Patient Safety Pediatric Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Social Determinants of Health Women's Health"
+}

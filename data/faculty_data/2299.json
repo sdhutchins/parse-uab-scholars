@@ -1,0 +1,123 @@
+{
+  "lastName": "Huang",
+  "overview": "Dr. Xuan Huang received a PhD degree in Management Science, a Masters degree in Statistics, and an undergraduate degree in Electrical Engineering. She is currently an Associate Professor in Quantitative Methods. She takes an keen interest in applying Statistics, Optimization, and Machine Learning algorithms to solve real world problems. She is particularly interested in Public Health and Health Care applications. She has published in top Quality Management journals. In the classroom, Dr. Huang has been teaching the core Business Statistics courses. She is interested in helping students relate class learning with real world applications.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2299-xuan-huang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Management, Information Systems and Quantitative Methods"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Mathematical Sciences",
+          "Mathematical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Mathematical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      }
+    ]
+  },
+  "discoveryId": "2299",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 122,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 22,
+      "favourites": 0
+    }
+  },
+  "firstName": "Xuan",
+  "firstNameLastName": "Xuan Huang",
+  "equipmentLinkTypes": [],
+  "objectId": 2299,
+  "updatedWhen": "2025-05-10T08:07:17.6374769-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

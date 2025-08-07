@@ -1,0 +1,130 @@
+{
+  "lastName": "Tucker",
+  "overview": "Rodney O. Tucker, MD, MMM, FAAHPM, was born in Gadsden, Alabama and attended Litchfield High School graduating in 1980. He then attended UAB and received his undergraduate degree in Biology with a minor in Chemistry and Social Work in 1984. After a year of graduate work at UAB, he entered the University of Alabama School of Medicine and graduated in 1989. Dr. Tucker served an internship and residency in Internal Medicine at Carraway Methodist Medical Center from 1989-1992 and then served as Chief Resident from 1992-1993. At that time he entered private practice in Internal Medicine at Medical Center East in Birmingham where he practiced until December of 2001.\n\nDr. Tucker joined the Center for Palliative and Supportive Care at UAB in January of 2002. Dr. Tucker is currently serving as Director for the Center for Palliative and Supportive Care since 2013, the Ritchie Endowed Chair since 2016 and the Chief Experience Officer for UAB Medicine since 2013.  Over the 6 years prior to joining the Center, Dr. Tucker also served as the Medical Director for Alacare Home Health and Hospice. He is board certified in Internal Medicine as well as Hospice and Palliative Medicine and his interests include palliative care in chronic illnesses such as heart failure and HIV. Dr. Tucker is also interested in the delivery of healthcare and the systems involved in providing comprehensive palliative care across settings.\nDr. Tucker likes to travel to warm climates and is an avid collector of American art, pottery and works by local artists.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "503-rodney-tucker",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "503",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 32,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rodney",
+  "firstNameLastName": "Rodney Tucker",
+  "equipmentLinkTypes": [],
+  "objectId": 503,
+  "updatedWhen": "2025-05-12T17:24:19.6070605-05:00",
+  "hasCollaborationData": true,
+  "email": "rtucker@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cancer Cardiovascular Cervical Cancer Chronic Pain Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Mental Health Minority Health Pain Research Rare Diseases Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": "Aging Behavioral and Social Science Caregiving Research Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Minority Health Rural Health Social Determinants of Health Telehealth"
+}

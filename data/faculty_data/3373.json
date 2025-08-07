@@ -1,0 +1,122 @@
+{
+  "lastName": "Chen",
+  "overview": "Dr. Jake Y. Chen is the Triton Endowed Professor of Biomedical Informatics and Data Science and an adjunct professor of Genetics, Computer Science, and Biomedical Engineering. He is the founding director of Systems Pharmacology AI Research Center (SPARC) at UAB. Before joining UAB, he was a tenured faculty at the Indiana University - Purdue University Indianapolis and the founding director of Indiana Center for Systems Biology and Personalized Medicine. He has over 25 years of R&D experience in biological data mining, systems biology, and AI in medicine, with over 200 peer-reviewed publications. He was the past President the Midsouth Computational Biology and Bioinformatics Society and serves on the board of directors of Association for Computing Machinery (ACM) Special Interest Group on Computational Biology and Bioinformatics (ACM-SIGBIO). He is an elected fellow of the American College of Medical Informatics (ACMI), the American Institute of Medical and Biological Engineering (AIMBE), and American Medical Informatics Association (AMIA), and a distinguished member of ACM. He also serves on the editorial boards of BMC Bioinformatics, Journal of American Medical Informatics Association (JAMIA), and Frontiers in Artificial Intelligence and Big Data. In the past twenty years, he has participated in nearly $100M research projects as co-investigators or principle investigators, in projects ranging from biocomputing, data mining, to precision medicine and translational informatics. In 2019, he was recognized by Deep Knowledge Analytics as one of the “Top 100 AI Leaders in Drug Discovery and Healthcare” for his entrepreneurial activities in systems biology software. In 2023, he was awarded the Pioneer Award by the Chinese Association of Science and Technology USA Chapter (CAST-USA) for his contributions in AI in drug discovery leadership in academic institutions.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3373-jake-chen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dept Of Biomedical Informatics & Data Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "3373",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 196,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jake",
+  "firstNameLastName": "Jake Chen",
+  "equipmentLinkTypes": [],
+  "objectId": 3373,
+  "updatedWhen": "2025-05-10T08:09:28.0104177-05:00",
+  "hasCollaborationData": true,
+  "email": "jakechen@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biotechnology Cancer Coronaviruses Diabetes Digestive Diseases Emerging Infectious Diseases Genetics Health Disparities Immunization Immunotherapy Infectious Diseases Machine Learning and Artificial Intelligence Minority Health Nanotechnology Networking and Information Technology R&D (NITRD) Nutrition Obesity Orphan Drug Pancreatic Cancer Rare Diseases",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

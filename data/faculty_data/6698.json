@@ -1,0 +1,130 @@
+{
+  "lastName": "Hill",
+  "overview": "Dr. Hill is Professor in the Department of Nutrition Sciences in the UAB School of Health Professions. He is one of the world's foremost experts in obesity. For over 40 years he has been conducting research to understand how obesity develops, health consequences of obesity, and strategies to prevent and treat obesity. He has published over 650 peer reviewed papers and multiple reviews and chapters in the area.  Dr. Hill has been continuously funded by NIH since 1981 and currently serves as director and PI for the UAB Nutrition Obesity Research Center (NORC).  He previously served as director of the Colorado NORC and was the founding Executive Director of the University of Colorado Anschutz Health and Wellness Center.\n\nDr. Hill was a co-founder of the National Weight Control Registry (NWCR), a registry of individuals who have been successful in long-term weight loss.  The NWCR is arguable the foremost source of information about weight loss maintenance. He recently co-founded the International Weight Control Registry (IWCR) as a project to continue to identify barriers to obesity treatment and factors that impact success in different populations.\n\nDr. Hill was an investigator in the Diabetes Prevention Program (DPP) and a site PI for the Action for Heath in Diabetes (Look AHEAD) study.  He is leading UAB efforts in precision nutrition.  His work in precision nutrition aims to identify why individuals differ in how diets impact health.\n\nDr. Hill is author of two weight management books for the public - The Step Diet Book and The State of Slim. He has developed several behavioral weight loss programs to treat obesity. He was a pioneer in promoting a small changes approach to weight gain prevention helped found a non-profit program - America On the Move - to promote a small changes approach to weight management.\n\nDr. Hill is a past recipient of a NIH MERIT Award. He was elected to the National Institute of Medicine in 2018. He is a past president of The Obesity Society and The American Society for Nutrition. \n\nHis current research continues to focus on lifestyle factors that impact obesity.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6698-james-hill",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "6698",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 699,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Hill",
+  "equipmentLinkTypes": [],
+  "objectId": 6698,
+  "updatedWhen": "2025-05-10T08:13:34.2325752-05:00",
+  "hasCollaborationData": true,
+  "email": "hillj@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Mental Health Neurodegenerative Neurosciences Nutrition Obesity Physical Injury - Accidents and Adverse Effects Prevention Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": ""
+}

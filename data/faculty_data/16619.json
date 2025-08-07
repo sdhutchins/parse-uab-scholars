@@ -1,0 +1,124 @@
+{
+  "discoveryId": "16619",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 21,
+      "favourites": 0
+    }
+  },
+  "lastName": "Moody",
+  "firstName": "Myles",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16619-myles-moody",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Myles Moody",
+  "equipmentLinkTypes": [],
+  "objectId": 16619,
+  "updatedWhen": "2025-05-12T03:21:24.6206071-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mdmoody@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Clinical Research Depression Health Disparities Mental Health Mental Illness Minority Health Pediatric Prevention Social Determinants of Health Suicide Violence Research Women's Health",
+  "grant_keywords": "Aging Clinical Research Health Disparities Minority Health Rural Health Social Determinants of Health"
+}

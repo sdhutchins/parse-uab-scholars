@@ -1,0 +1,120 @@
+{
+  "lastName": "Wilson",
+  "overview": "Scott M Wilson  PhD\nAssociated Professor\nDepartment of Neurobiology",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2194-scott-wilson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2194",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 223,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "firstName": "Scott",
+  "firstNameLastName": "Scott Wilson",
+  "equipmentLinkTypes": [],
+  "objectId": 2194,
+  "updatedWhen": "2025-05-10T08:07:03.7052377-05:00",
+  "hasCollaborationData": true,
+  "email": "livvy01@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Charcot-Marie-Tooth Disease Genetics Mental Health Neurodegenerative Neurosciences Peripheral Neuropathy Rare Diseases",
+  "grant_keywords": "Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Mental Health Mental Illness Neurodegenerative Neurosciences Pediatric Post-Traumatic Stress Disorder (PTSD) Rare Diseases Spinal Muscular Atrophy"
+}

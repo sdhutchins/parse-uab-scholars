@@ -1,0 +1,62 @@
+{
+  "discoveryId": "7625",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hartzes",
+  "firstName": "Anastasia",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7625-anastasia-hartzes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Asst Prof Biostat",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Anastasia Hartzes",
+  "equipmentLinkTypes": [],
+  "objectId": 7625,
+  "updatedWhen": "2025-05-10T08:14:37.7610262-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ahartzes@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Clinical Trials and Supportive Activities Cystic Fibrosis Genetics Lung Multiple Sclerosis Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": ""
+}

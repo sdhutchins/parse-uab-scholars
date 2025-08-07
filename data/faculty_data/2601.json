@@ -1,0 +1,125 @@
+{
+  "lastName": "Blanton",
+  "overview": "Rob Blanton, Ph.D., an expert on the international political economy, including the human impacts of the global economy and the intersection of human rights and the global economic system, has been named chair of the Department of Political Science and Public Administration. He will begin his new position Aug. 1.\n\nBlanton has been a professor in the department since 2014. Prior to his work at UAB, he was a professor in the Department of Political Science and the Center for Interdisciplinary Studies at the University of Memphis (UM) from 2010 to 2014. While there, he also was director of the International Studies Program from 2003 to 2014 and the Governor’s School of International Studies from 2004 to 2014 and chair of the department in 2008.\n\n“Continuing my work at UAB in this new role is an honor,” Blanton said. “I have watched UAB grow by leaps and bounds since I joined the faculty in 2014, and I am excited to play a part in its bright future.”\n\nBlanton is widely published, including his book “Defining the New World Order: Economic Regions and Patterns of Global Cooperations,” numerous refereed journal articles in publications such as Politics & Gender and Conflict Management and Peace Science, among others. He has also authored book chapters, reviews and other publications.\n\nIn 2012, Blanton received UM’s Distinguished Advising Award and also received the college’s Early Career Research Award and Distinguished Research Award. At UAB, he has served on a number of internal and external committees and boards, including UAB’s Fulbright Awards Committee and Faculty Affairs Committee and the College of Arts and Sciences Promotion and Tenure Committee. He also is a member of the editorial board for International Studies Review and International Studies Perspectives and recently was the section president of the International Education section of the International Studies Association.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2601-robert-blanton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Government"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Studies in Human Society",
+          "Studies in Human Society",
+          "in Human Society",
+          "Human Society",
+          "Society"
+        ],
+        "value": "Other Studies in Human Society"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "2601",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 87,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "firstName": "Robert",
+  "firstNameLastName": "Robert Blanton",
+  "equipmentLinkTypes": [],
+  "objectId": 2601,
+  "updatedWhen": "2025-05-10T08:08:00.8516877-05:00",
+  "hasCollaborationData": true,
+  "email": "rgblanton@uab.edu",
+  "publication_keywords": "Women's Health",
+  "grant_keywords": ""
+}

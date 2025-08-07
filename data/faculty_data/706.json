@@ -1,0 +1,106 @@
+{
+  "discoveryId": "706",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 197,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 25,
+      "favourites": 0
+    }
+  },
+  "lastName": "Agnihotri",
+  "firstName": "Shruti",
+  "hasThumbnail": true,
+  "discoveryUrlId": "706-shruti-agnihotri",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Shruti Agnihotri",
+  "equipmentLinkTypes": [],
+  "objectId": 706,
+  "updatedWhen": "2025-05-10T08:03:50.0347560-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sagnih@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Congenital Structural Anomalies Coronaviruses Dementia Emerging Infectious Diseases Epilepsy Genetics Infectious Diseases Mental Health Neurodegenerative Neurosciences Pediatric Prevention Rare Diseases Rehabilitation Vascular Cognitive Impairment/Dementia",
+  "grant_keywords": ""
+}

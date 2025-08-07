@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1888",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 87,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 151,
+      "favourites": 1
+    }
+  },
+  "lastName": "Yuen",
+  "firstName": "Hon",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1888-hon-yuen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Occupational Therapy"
+    }
+  ],
+  "firstNameLastName": "Hon Yuen",
+  "equipmentLinkTypes": [],
+  "objectId": 1888,
+  "updatedWhen": "2025-05-10T08:06:12.3331896-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "yuen@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Autoimmune Disease Behavioral and Social Science Brain Disorders Burden of Illness Caregiving Research Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dementia Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Mental Health Mental Illness Mind and Body Minority Health Multiple Sclerosis Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Depression Mental Health Mental Illness Mind and Body Neurosciences Physical Injury - Accidents and Adverse Effects Spinal Cord Injury Traumatic Head and Spine Injury"
+}

@@ -1,0 +1,119 @@
+{
+  "lastName": "Strang",
+  "overview": "Christianne Strang is a board-certified art therapist with more than 35 years of clinical art therapy experience. She earned her MA in Art Therapy from Vermont College of Norwich University in 1987, and has served as Treasurer for the American Art Therapy Association and for the Art Therapy Credentials Board. She served as the President-Elect of the American Art Therapy Association from July 2015-November 2017, and as President of the American Art Therapy Association through October 2019.\n\nDr. Strang received her PhD in Behavioral Neuroscience from the University of Alabama at Birmingham in 2004, followed by a position as a Research Associate in the lab of Dr. Kent Keyser. She served on the faculty of the Department of Vision Sciences at UAB  from  2011-2015, and joined the faculty of the Department of Psychology in 2015.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1470-christianne-strang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      }
+    ]
+  },
+  "discoveryId": "1470",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 133,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 52,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christianne",
+  "firstNameLastName": "Christianne Strang",
+  "equipmentLinkTypes": [],
+  "objectId": 1470,
+  "updatedWhen": "2025-05-10T08:05:25.8369190-05:00",
+  "hasCollaborationData": true,
+  "email": "cstrang@uab.edu",
+  "publication_keywords": "Biomedical Imaging Eye Disease and Disorders of Vision Neurosciences",
+  "grant_keywords": ""
+}

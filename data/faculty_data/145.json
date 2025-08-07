@@ -1,0 +1,128 @@
+{
+  "discoveryId": "145",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 135,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 402,
+      "favourites": 0
+    }
+  },
+  "lastName": "Athar",
+  "firstName": "Mohammad",
+  "hasThumbnail": false,
+  "discoveryUrlId": "145-mohammad-athar",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dermatology"
+    }
+  ],
+  "firstNameLastName": "Mohammad Athar",
+  "equipmentLinkTypes": [],
+  "objectId": 145,
+  "updatedWhen": "2025-05-10T08:02:22.2940100-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mathar@uab.edu",
+  "publication_keywords": "Biodefense Eczema / Atopic Dermatitis Eye Disease and Disorders of Vision Genetics Infectious Diseases Neurosciences Physical Injury - Accidents and Adverse Effects Rare Diseases Wound Healing and Care",
+  "grant_keywords": "Biodefense Emerging Infectious Diseases Infectious Diseases Kidney Disease Physical Injury - Accidents and Adverse Effects Wound Healing and Care"
+}

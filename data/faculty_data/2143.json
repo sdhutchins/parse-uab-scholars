@@ -1,0 +1,124 @@
+{
+  "lastName": "Samant",
+  "overview": "Dr. Lalita Shevde-Samant is Professor in the Department of Pathology and Senior Scientist in the NCI designated UAB O’Neal Comprehensive Cancer Center. Following a Ph.D. in Cancer Immunology at the Tata Cancer Research Institute, University of Bombay (India), Dr. Shevde-Samant completed her postdoctoral training in cancer metastasis at the Hershey Medical Center, Penn State University. \n \n\nAt UAB, she leads a vibrant laboratory with the programmatic research theme of The Biology and Ecosystem of Cancer. Since 2004, the lab has been continuously funded to interrogate dynamics of interactions between breast tumor cells and their microenvironment. She has a well-documented record of accomplishments, with 120 peer-reviewed research publications and book chapters. These discoveries have been enabled with intramural support and extramural funding from the NCI, Komen Foundation, Metavivor, and the U.S. Department of Defense.\n \n\nDr. Shevde-Samant is dedicated to educating, mentoring, and helping diverse trainees and early-stage faculty chart a course towards their career development. Across two institutions Dr. Shevde-Samant has 18 years of experience as the Director of the Cancer Biology Ph.D. Theme. She also is the Associate Director of the Cancer Research Training and Education Coordination (CRTEC) at the O’Neal Comprehensive Cancer. \n \n\nIn addition to her research grants, Dr. Shevde-Samant leads several active education and training grants including two NCI-funded R25 grants, the ACS Diversity in Cancer Research (DICR) PostBacc Fellowship Grant and the ACS DICR Summer Internship Grant. Dr. Shevde-Samant is nationally recognized for her efforts and accomplishments in leading cancer education and training. She is an elected Board member of Cancer Biology Training Consortium (CABTRAC), the national consortium that interfaces with institutions in the United States and the NCI’s Cancer Training Branch to develop innovative and multidisciplinary training mechanisms needed to produce the highest quality cancer scientists. \n \n\nDr. Shevde-Samant is committed to expanding opportunities for the next generation of cancer scientists. She conceptualized and developed the Early Career Ambassadors of Metastasis Research (ECAM) program in the Metastasis Research Society (MRS) to train and mentor the next generation of metastasis investigators. The ECAM program remains her legacy providing opportunities for leadership and mentorship for the next generation of young investigators in metastasis research.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2143-lalita-samant",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "2143",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 72,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 126,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lalita",
+  "firstNameLastName": "Lalita Samant",
+  "equipmentLinkTypes": [],
+  "objectId": 2143,
+  "updatedWhen": "2025-05-10T08:06:50.7212166-05:00",
+  "hasCollaborationData": true,
+  "email": "lsamant@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Breast Cancer Cancer Genetics Immunotherapy Orphan Drug Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,129 @@
+{
+  "lastName": "Genschmer",
+  "overview": "Dr. Genschmer attended the University of Central Florida as an undergraduate, receiving a BS in Microbiology. He then entered the Microbiology PhD at the University of Alabama at Birmingham. He worked closely with the faculty of the UAB Pulmonary, resulting in his move to the division as an assistant professor upon completion of his degree.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6133-kristopher-genschmer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "6133",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kristopher",
+  "firstNameLastName": "Kristopher Genschmer",
+  "equipmentLinkTypes": [],
+  "objectId": 6133,
+  "updatedWhen": "2025-05-10T08:12:55.3250599-05:00",
+  "hasCollaborationData": true,
+  "email": "gensch@uab.edu",
+  "publication_keywords": "Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Cystic Fibrosis Infant Mortality Lung Neonatal Respiratory Distress Nutrition Orphan Drug Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases Tobacco Tobacco Smoke and Health",
+  "grant_keywords": "Biodefense Biotechnology Chronic Obstructive Pulmonary Disease Clinical Research Emerging Infectious Diseases Emphysema Health Disparities Hematology Immunization Infectious Diseases Lung Minority Health Otitis Media Pneumonia Pneumonia & Influenza Prevention Sepsis Tobacco Tobacco Smoke and Health Vaccine Related Women's Health"
+}

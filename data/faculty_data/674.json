@@ -1,0 +1,124 @@
+{
+  "lastName": "Curtis",
+  "overview": "Dr. Jeffrey Curtis is a Professor of Medicine in the Division of Clinical Immunology and Rheumatology at the University of Alabama at Birmingham (UAB). Dr. Curtis received a Medical Degree (MD) and a Master of Public Health (MPH) degree from Oregon Health & Sciences University in Portland, OR. He subsequently completed a residency in internal medicine at Oregon Health & Science University and a fellowship in rheumatology at UAB. He completed a graduate program in Clinical Informatics at Stanford University and received his Master of Science (MS) degree in epidemiology at the Harvard School of Public Health. He is board certified in both rheumatology and clinical informatics. \n\nDr. Curtis holds the Harbert-Ball Endowed Professorship in Rheumatology and Immunology at UAB. His major research emphasis is on evaluating the safety and comparative effectiveness of medications for rheumatic diseases. He also conducts both investigator-initiated and industry-sponsored clinical trials in rheumatoid arthritis (RA) and spondyloarthritis (SpA), including large pragmatic trials. He is the PI of the UAB P30 Informatics Core funded by NIH (NIAMS), focused on digital health and ‘big data’ in musculoskeletal diseases. He is the lead of the UAB Data and Analytic Center (DAC), one of two Coordinating Centers for the ACR’s Rheumatology Informatics System for Effectiveness (RISE), the largest EHR-based rheumatology registry in the world. RISE aggregates and normalizes EHR data from more than 3 million rheumatology patients, with data contributed by more than 1,000 rheumatology providers. He is Director of the UAB Pharmacoepidemiology and Pharmacoeconomics Research (PEER) Unit. PEER uses multiple large and linked data sources to study comparative effectiveness questions across multiple chronic diseases. He is the Co-PI of the mobile health-based, PCORI-funded Patient Powered Research Network PatientSpot (formerly ArthritisPower) research registry, focused on RA, psoriasis, psoriatic arthritis, spondyloarthritis and other chronic conditions that has enrolled more than 35,000 patients. In 2022, he co-created the nation’s largest community rheumatology practice-based research network, the Excellence Network in RheumatoloGY (ENRGY), that is optimized for prospective observational and interventional research studies including traditional, platform, and decentralized clinical trials.\n\nThe data sources he routinely uses include national electronic health record, health plan claims (e.g. Medicare, commercial insurance), traditional registry, patient reported outcomes, mobile device, and wearable technologies; he has done numerous projects that link these disparate data sources together. His methods-related interests include machine learning, artificial intelligence (AI), and large language models (LLMs). In 2012, he was awarded the Henry Kunkel Young Investigator Award by the American College of Rheumatology (ACR) and was accepted into the American Society for Clinical Investigation (ASCI) in 2016. In 2015, Dr. Curtis was appointed as a member to the FDA Arthritis Advisory Committee, and also the CDC’s ACIP Herpes Zoster Working Group. In 2020, he was appointed lead of the ACR’s COVID Vaccine Clinical Guidance Task Force, and he also serves as a member of the ACR’s 2022 Vaccine Guideline Committee. In addition to vaccine research, Dr. Curtis studies the efficacy, comparative effectiveness, and safety of the medications, devices, and devices used in the care of rheumatoid arthritis, psoriatic arthritis, and axial spondyloarthritis patients. In the past, he served on the Core Expert Panel for the ACR’s 2008, 2012, and 2015 Recommendations for the Use of Nonbiologic and Biologic Disease Modifying Antirheumatic Drugs in RA. \n\nDr. Curtis also studies risk factors for and outcomes of osteoporosis. He was a member of the ACR’s task force to update recommendations for the management of glucocorticoid induced osteoporosis (GIOP). He served on the ASBMR Task Force on Atypical Subtrochanteric and Diaphyseal Fractures. \n\nDr. Curtis is a member of the American College of Rheumatology (ACR), the International Society for Pharmacoepidemiology (ISPE), the American Medical Informatics Association (AMIA), and the American Society of Bone and Mineral Research (ASBMR). He has been on the editorial board for Arthritis & Rheumatology, Pharmacoepidemiology and Drug Safety (PDS) and Arthritis Care and Research (AC&R). According to Google Scholar, he has an H-index of 100 and an i-10 index of 467, and he has coauthored more than 700 peer-reviewed manuscripts, review articles and book chapters.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "674-jeffrey-curtis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "674",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 84,
+      "favourites": 39
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 709,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jeffrey",
+  "firstNameLastName": "Jeffrey Curtis",
+  "equipmentLinkTypes": [],
+  "objectId": 674,
+  "updatedWhen": "2025-05-10T08:03:49.9896808-05:00",
+  "hasCollaborationData": true,
+  "email": "jcurtis@uab.edu",
+  "publication_keywords": "Aging Arthritis Autoimmune Disease Clinical Research Clinical Trials and Supportive Activities Immunization Networking and Information Technology R&D (NITRD) Prevention Psoriasis Rheumatoid Arthritis Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

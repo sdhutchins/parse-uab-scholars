@@ -1,0 +1,85 @@
+{
+  "discoveryId": "16544",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Chen",
+  "firstName": "Po-Hsu",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16544-pohsu-chen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Prosthodontics"
+    }
+  ],
+  "firstNameLastName": "Po-Hsu Chen",
+  "equipmentLinkTypes": [],
+  "objectId": 16544,
+  "updatedWhen": "2025-05-10T08:16:13.4082605-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pohsu@uab.edu",
+  "publication_keywords": "Bioengineering Dental/Oral and Craniofacial Disease Infectious Diseases Networking and Information Technology R&D (NITRD) Prevention",
+  "grant_keywords": ""
+}

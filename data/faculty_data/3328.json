@@ -1,0 +1,125 @@
+{
+  "lastName": "Zhang",
+  "overview": "Jianyi “Jay” Zhang, M.D., Ph.D., F.A.H.A., is an international leader in myocardial bioenergetics, biomaterials, and stem cells for cardiac repair. He is tenured Professor of Medicine and of Engineering; T. Michael and Gillian Goodrich Endowed Chair of Engineering Leadership; and the Chair of the Department of Biomedical Engineering (BME), a joint department of the School of Medicine and School of Engineering, at the University of Alabama at Birmingham (UAB).\n\nHe came to UAB in October 2015 after he was chosen in a national search to lead the UAB BME department from the University of Minnesota Medical School, where he was the Engdahl Family Foundation Chair in Cardiovascular Regenerative Therapies, in addition to being a tenured professor of medicine, of biomedical engineering, of electrical engineering, and computer engineering. Among his recent honors and awards is the prestigious George E. Brown Memorial Lectureship for the 2014 AHA Scientific Sessions. He is also the recipient of an Established Investigator Award from the American Heart Association (1996) and a First Award from the National Institutes of Health (1993).\n\nZhang earned his M.D. from Shanghai Medical University in 1983 and his Ph.D. in biomedical engineering from the University of Minnesota in 1992. He also earned a master of science in engineering (1987) and a certificate of business administration (1987) from Tufts University. Prior to joining the faculty at the University of Minnesota, Zhang completed postdoctoral work in that university’s cardiovascular division. Since his arrival at UAB, the Department of Biomedical Engineering rose to the rank of 4th in the nation in NIH funding, with $4.3 million in FY16 under Zhang’s leadership. Dr. Zhang’s research interests include tissue engineering, myocardial energetics in hearts with postinfarction left-ventricle remodeling, heart failure, biomaterials, and stem cells for cardiac repair. He is currently the principal investigator of three R01 NIH grants in the fields of myocardial bioenergetics, biomaterials, and stem cells for cardiac repair, and an NIH U01 grant for the NHLBI Progenitor Cell Translational Consortium (PCTC) on cardiovascular tissue engineering, which continuous through 2022.\n\nOver the years, the Zhang research lab has trained more than 60 trainees (Ph.D. students, post-docs, residents, and cardiology fellows), and led 11 Ph.D. students in biomedical engineering, physiology, or electrical engineering. Dr. Zhang is currently advisor to five students earning their Ph.D. in Biomedical Engineering, Pathology, or Electrical Engineering, respectively. Professional Organizations: Fellow, American Physiological Society; Fellow, American Heart Association. Reviewer on NIH study sections (MIM, charter member, others); scientific journal editorial board member for Circulation Research, Circulation, American Journal of Physiology, and others.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3328-jay-zhang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Dept of Biomedical Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "3328",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 38,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 61,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 288,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jay",
+  "firstNameLastName": "Jay Zhang",
+  "equipmentLinkTypes": [],
+  "objectId": 3328,
+  "updatedWhen": "2025-05-10T08:09:27.9730203-05:00",
+  "hasCollaborationData": true,
+  "email": "jayzhang@uab.edu",
+  "publication_keywords": "Aging Bioengineering Biotechnology Cardiovascular Clinical Research Clinical Trials and Supportive Activities Genetics Health Disparities Heart Disease Heart Disease - Coronary Heart Disease Patient Safety Pediatric Regenerative Medicine Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Transplantation",
+  "grant_keywords": "Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease Hematology Infectious Diseases Rare Diseases Regenerative Medicine Sepsis Stem Cell Research"
+}

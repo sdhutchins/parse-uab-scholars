@@ -1,0 +1,123 @@
+{
+  "discoveryId": "5039",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 55,
+      "favourites": 0
+    }
+  },
+  "lastName": "Racette",
+  "firstName": "Lyne",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5039-lyne-racette",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Ophthalmology"
+    }
+  ],
+  "firstNameLastName": "Lyne Racette",
+  "equipmentLinkTypes": [],
+  "objectId": 5039,
+  "updatedWhen": "2025-05-10T08:11:53.0362836-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lracette@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Bioengineering Biomedical Imaging Clinical Research Eye Disease and Disorders of Vision Neurodegenerative Neurosciences",
+  "grant_keywords": "Aging Behavioral and Social Science Clinical Research Eye Disease and Disorders of Vision Health Disparities Minority Health Neurodegenerative Neurosciences Physical Rehabilitation Precision Medicine Prevention Rehabilitation Social Determinants of Health"
+}

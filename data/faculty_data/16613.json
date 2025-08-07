@@ -1,0 +1,115 @@
+{
+  "discoveryId": "16613",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jain",
+  "firstName": "Viral",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16613-viral-jain",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pediatric - Neonatology"
+    }
+  ],
+  "firstNameLastName": "Viral Jain",
+  "equipmentLinkTypes": [],
+  "objectId": 16613,
+  "updatedWhen": "2025-05-10T08:16:13.4349829-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jain@uab.edu",
+  "publication_keywords": "Brain Disorders Cardiovascular Cerebral Palsy Clinical Research Genetics Heart Disease Human Genome Immunotherapy Infant Mortality Lung Microbiome Neonatal Respiratory Distress Neurosciences Organ Transplantation Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Prevention Rare Diseases Transplantation",
+  "grant_keywords": "Biotechnology Cardiovascular Clinical Research Genetics Infant Mortality Lung Neonatal Respiratory Distress Orphan Drug Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Prevention Pulmonary Hypertension Rare Diseases Women's Health"
+}

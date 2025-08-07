@@ -1,0 +1,86 @@
+{
+  "discoveryId": "13798",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 60,
+      "favourites": 0
+    }
+  },
+  "lastName": "Armstrong",
+  "firstName": "Nicole",
+  "hasThumbnail": true,
+  "discoveryUrlId": "13798-nicole-armstrong",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "firstNameLastName": "Nicole Armstrong",
+  "equipmentLinkTypes": [],
+  "objectId": 13798,
+  "updatedWhen": "2025-05-10T08:15:26.8829941-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epidemiology"
+        ],
+        "value": "Epidemiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nmda@uab.edu",
+  "publication_keywords": "Brain Disorders Cancer Cancer Genomics Cardiovascular Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Human Genome Hypertension Minority Health Neurosciences Obesity Precision Medicine Prevention Stroke",
+  "grant_keywords": "Aging Cardiovascular Cerebrovascular Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Human Genome Hypertension Minority Health Precision Medicine Prevention Social Determinants of Health Women's Health"
+}

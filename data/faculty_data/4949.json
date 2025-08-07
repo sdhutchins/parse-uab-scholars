@@ -1,0 +1,124 @@
+{
+  "discoveryId": "4949",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 31,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 75,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 44,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 106,
+      "favourites": 4
+    }
+  },
+  "lastName": "Mattheyses",
+  "firstName": "Alexa",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4949-alexa-mattheyses",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Alexa Mattheyses",
+  "equipmentLinkTypes": [],
+  "objectId": 4949,
+  "updatedWhen": "2025-05-10T08:11:43.7306303-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mattheyses@uab.edu",
+  "publication_keywords": "Bioengineering Cancer Cardiovascular Colo-Rectal Cancer Digestive Diseases Heart Disease Women's Health",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Neurosciences"
+}

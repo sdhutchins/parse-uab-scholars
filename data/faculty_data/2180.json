@@ -1,0 +1,122 @@
+{
+  "discoveryId": "2180",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 144,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 48,
+      "favourites": 2
+    }
+  },
+  "lastName": "Dobrunz",
+  "firstName": "Lynn",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2180-lynn-dobrunz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Lynn Dobrunz",
+  "equipmentLinkTypes": [],
+  "objectId": 2180,
+  "updatedWhen": "2025-05-10T08:07:03.6725525-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dobrunz@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Dementia Eye Disease and Disorders of Vision Genetics Neurodegenerative Neurosciences",
+  "grant_keywords": "Aging Anxiety Disorders Assistive Technology Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Mental Illness Neurodegenerative Neurosciences Parkinson's Disease Post-Traumatic Stress Disorder (PTSD) Rehabilitation Schizophrenia Serious Mental Illness Women's Health"
+}

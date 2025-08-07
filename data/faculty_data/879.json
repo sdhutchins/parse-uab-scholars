@@ -1,0 +1,100 @@
+{
+  "discoveryId": "879",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sorrentino",
+  "firstName": "Annalise",
+  "hasThumbnail": false,
+  "discoveryUrlId": "879-annalise-sorrentino",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Emergency Medicine"
+    }
+  ],
+  "firstNameLastName": "Annalise Sorrentino",
+  "equipmentLinkTypes": [],
+  "objectId": 879,
+  "updatedWhen": "2025-05-10T08:04:12.9888634-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "annalise@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biomedical Imaging Brain Disorders Childhood Injury Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Depression Emergency Care Emerging Infectious Diseases Health Services Infectious Diseases Mental Health Mental Illness Pediatric Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Serious Mental Illness Suicide Suicide Prevention Unintentional Childhood Injury",
+  "grant_keywords": ""
+}

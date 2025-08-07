@@ -1,0 +1,127 @@
+{
+  "lastName": "Inscho",
+  "overview": "Dr. Inscho’s research focuses on understanding the regulation of renal microvascular function in healthy kidneys and in hypertension. Dr. Inscho earned his PhD in 1987 at the University of Cincinnati, College of Medicine. He received postdoctoral training at the University of Alabama at Birmingham and Tulane University School of Medicine and was a member of the Tulane University Department of Physiology faculty from 1989 through 2000. In 2001, he joined the Physiology faculty of the Medical College of Georgia as a Professor. He directed MCG’s MD/PhD program from 2004 to 2011 and served as the Interim Dean of the College of Graduate Studies from 2010-2012. Dr. Inscho has supported the scientific community by serving on numerous councils and committees including chairing peer-review AHA and NIH study sections and chairing the Research Committee for the Greater Southeast Affiliate of the American Heart Association. Dr. Inscho received the Harry Goldblatt Award for Cardiovascular Research (1998), the Hoechst Marion Rousell Young Scholars Award from the American Society of Hypertension (2000), and the Lewis K. Dahl Award for Hypertension Research (2008). His work has been continuously funded through investigator initiated grants from the local and national American Heart Associations, the National Kidney Foundation and the National Institutes of Health since 1991. Dr. Inscho serves on the Editorial Boards of prominent scientific journals related to renal physiology and hypertension and he has published over 115 peer-reviewed, original research papers, chapters and reviews.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "602-edward-inscho",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "602",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 84,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 154,
+      "favourites": 0
+    }
+  },
+  "firstName": "Edward",
+  "firstNameLastName": "Edward Inscho",
+  "equipmentLinkTypes": [],
+  "objectId": 602,
+  "updatedWhen": "2025-05-10T08:03:37.8209904-05:00",
+  "hasCollaborationData": true,
+  "email": "einscho@uab.edu",
+  "publication_keywords": "Aging Contraception/Reproduction Estrogen Hypertension Kidney Disease Neurosciences Nutrition Prevention Women's Health",
+  "grant_keywords": "Aging Cardiovascular Estrogen Health Disparities Hypertension Kidney Disease Minority Health Women's Health"
+}

@@ -1,0 +1,126 @@
+{
+  "discoveryId": "1819",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 80,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "lastName": "Slovensky",
+  "firstName": "Donna",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1819-donna-slovensky",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emerita",
+      "department": "Health Services Administration"
+    }
+  ],
+  "firstNameLastName": "Donna Slovensky",
+  "equipmentLinkTypes": [],
+  "objectId": 1819,
+  "updatedWhen": "2025-05-10T08:06:00.8846815-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "donnaslo@uab.edu",
+  "publication_keywords": "Clinical Research Health Services Patient Safety",
+  "grant_keywords": ""
+}

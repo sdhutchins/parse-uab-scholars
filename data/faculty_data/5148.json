@@ -1,0 +1,129 @@
+{
+  "discoveryId": "5148",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 93,
+      "favourites": 0
+    }
+  },
+  "lastName": "Smith",
+  "firstName": "Andrew",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5148-andrew-smith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Andrew Smith",
+  "equipmentLinkTypes": [],
+  "objectId": 5148,
+  "updatedWhen": "2025-05-10T08:12:02.7216316-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "asmith7@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Chronic Liver Disease and Cirrhosis Clinical Research Digestive Diseases Kidney Disease Liver Disease Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Organ Transplantation Transplantation",
+  "grant_keywords": ""
+}

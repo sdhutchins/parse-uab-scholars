@@ -1,0 +1,132 @@
+{
+  "lastName": "Lungu",
+  "overview": "Dr. Lungu is an environmental health scientist with background in Physics and nuclear material's engineering. He received a Bachelor of Science in Physics and MS in Nuclear Materials Engineering from University of Bucharest in 1983, received MS in Physics (1994), and Ph.D. in Environmental Health Sciences from University of South Carolina in 1998. Currently a Professor in the Department of Environmental Health Sciences, School of Public Health and Mechanical Engineering (secondary) at UAB, Dr. Lungu is the Director of the NIOSH funded Deep South Center for Occupational Health and Safety a multi-University consortium conducting research and training in many aspects of occupational health and safety.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1966-claudiu-lungu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Environmental Health Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "1966",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 379,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 121,
+      "favourites": 0
+    }
+  },
+  "firstName": "Claudiu",
+  "firstNameLastName": "Claudiu Lungu",
+  "equipmentLinkTypes": [],
+  "objectId": 1966,
+  "updatedWhen": "2025-05-10T08:06:24.4822788-05:00",
+  "hasCollaborationData": true,
+  "email": "clungu@uab.edu",
+  "publication_keywords": "Biomedical Imaging",
+  "grant_keywords": ""
+}

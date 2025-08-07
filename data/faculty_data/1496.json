@@ -1,0 +1,121 @@
+{
+  "lastName": "Gakumo",
+  "overview": "Dr. C. Ann Gakumo is internationally known for her research in addressing health disparities and low health literacy in African Americans living with HIV. In addition to her research, she has made significant contributions in advancing health literacy initiatives and global health into health professional education",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1496-c-ann-gakumo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "1496",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 209,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 129,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 132,
+      "favourites": 0
+    }
+  },
+  "firstName": "C Ann",
+  "firstNameLastName": "C Ann Gakumo",
+  "equipmentLinkTypes": [],
+  "objectId": 1496,
+  "updatedWhen": "2025-05-10T08:05:38.5031039-05:00",
+  "hasCollaborationData": true,
+  "email": "cagakumo@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cancer Clinical Research Coronaviruses HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Mental Health Minority Health Prevention Sexually Transmitted Infections Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,126 @@
+{
+  "lastName": "Wei",
+  "overview": "Dr. Wei obtained his M.D. from China Medical University (Shenyang, China) and received his Ph.D. from Okayama University in Japan. He completed a post-doctoral fellowship at Washington University School of Medicine (St. Louis, Missouri) prior to coming to UAB, where he finished his pathology residency followed by a surgical pathology fellowship. He obtained additional clinical subspecialty training at Emory, Mt. Sinai and Harvard Universities. Dr. Wei is board certified in Anatomic and Clinical Pathology. He joined the faculty at UAB in July, 2008 and is currently a Tenured Professor. Dr. Wei heads the Surgical Pathology Section at the Division of Anatomic Pathology, Department of Pathology, and directs the Surgical Pathology Fellowship Program.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2101-shi-wei",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "University of Alabama Health Services Foundation (UAHSF)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "2101",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 163,
+      "favourites": 0
+    }
+  },
+  "firstName": "Shi",
+  "firstNameLastName": "Shi Wei",
+  "equipmentLinkTypes": [],
+  "objectId": 2101,
+  "updatedWhen": "2025-05-11T02:19:24.3446798-05:00",
+  "hasCollaborationData": true,
+  "email": "swei@uab.edu",
+  "publication_keywords": "Breast Cancer Cancer Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunotherapy Kidney Disease Lung Minority Health Pediatric Cancer Pediatric Research Initiative Precision Medicine Rare Diseases Women's Health",
+  "grant_keywords": "Cancer Health Disparities Minority Health Rural Health"
+}

@@ -1,0 +1,130 @@
+{
+  "lastName": "Fisher",
+  "overview": "Scholarship\n\nMy current research is directed towards developing nutritional and behavioral strategies that can reduce the prevalence of metabolic and cardiovascular complications that are associated with type 2 diabetes. I am specifically interested in the mechanistic role through which mitochondrial bioenergetics and redox signaling influence the pathogenesis of type 2 diabetes and associated comorbidities.\n\nService\n\nI am an active member of the American College of Sports Medicine, American Physiological Society, and The Obesity Society. I serve as an ad hoc reviewer for a number of peer reviewer journals, including but not limited to, Obesity, Journal of Gerontology: Biological Sciences, Journal of Obesity, Cell Biochemistry and Function, Medicine and Science in Sports and Exercise, and the American Journal of Clinical Nutrition. Additionally, I am a member of the editorial board's for PLOS One, Journal of Sport and Human Performance, and Obesity: Open Access. I am also an Associate Scientist in UAB's Nutrition Obesity Research Center, Center for Exercise Medicine, Diabetes Research Center, Comprehensive Center for Aging, and the Nathan Shock Center.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2376-gordon-fisher",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2376",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 130,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 99,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gordon",
+  "firstNameLastName": "Gordon Fisher",
+  "equipmentLinkTypes": [],
+  "objectId": 2376,
+  "updatedWhen": "2025-05-10T08:07:28.8647157-05:00",
+  "hasCollaborationData": true,
+  "email": "grdnfs@uab.edu",
+  "publication_keywords": "Assistive Technology Behavioral and Social Science Bioengineering Cardiovascular Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Diabetes Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hypertension Minority Health Nutrition Physical Activity Physical Rehabilitation Prevention Rehabilitation Telehealth",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Health Disparities Health Services Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Nutrition Obesity Physical Activity Physical Injury - Accidents and Adverse Effects Prevention Spinal Cord Injury Telehealth Traumatic Head and Spine Injury"
+}

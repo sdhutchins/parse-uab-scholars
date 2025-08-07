@@ -1,0 +1,130 @@
+{
+  "lastName": "He",
+  "overview": "Dr. He is a physician-scientist investigating innate immunity in chronic lung diseases. He is a graduate of UAB American Board of Internal Medicine Research Pathway. He finished his internal medicine residency and pulmonary and critical care medicine fellowship in 2019. He is an awardee of the Parker B. Francis Foundation Fellowship program which supports his research of new treatment of pulmonary fibrosis.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "10592-chao-he",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "10592",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "firstName": "Chao",
+  "firstNameLastName": "Chao He",
+  "equipmentLinkTypes": [],
+  "objectId": 10592,
+  "updatedWhen": "2025-05-10T08:15:02.2443419-05:00",
+  "hasCollaborationData": true,
+  "email": "hechao@uab.edu",
+  "publication_keywords": "Autoimmune Disease Genetics Lung Orphan Drug Precision Medicine Prevention Pulmonary Fibrosis Rare Diseases Sleep Research",
+  "grant_keywords": "Clinical Research Genetics Lung"
+}

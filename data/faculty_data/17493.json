@@ -1,0 +1,114 @@
+{
+  "lastName": "Heffron",
+  "overview": "I am an applied epidemiologist and HIV prevention researcher with experience that incorporates implementation science, clinical trials, behavioral science, and qualitative research. I lead numerous research projects focused on biomedical HIV prevention using pre-exposure prophylaxis, including studies of novel products and optimizing delivery of efficacious products with close collaborators in Uganda, Kenya, and South Africa. I am also the Director of the Center for AIDS Research at UAB, a center with a 35-year history of supporting HIV research across disciplines of basic, clinical, implementation, and community sciences. Throughout my academic career, I have been a mentor to dozens of trainees including doctoral students, fellows, and early career investigators at US and African institutions.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17493-renee-heffron",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epidemiology"
+        ],
+        "value": "Epidemiology"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Infectious Diseases",
+          "Diseases"
+        ],
+        "value": "Infectious Diseases"
+      },
+      {
+        "paths": [
+          [
+            "Business and Management",
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organisational Behaviour",
+          "Behaviour"
+        ],
+        "value": "Organisational Behaviour"
+      }
+    ]
+  },
+  "discoveryId": "17493",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 184,
+      "favourites": 0
+    }
+  },
+  "firstName": "Renee",
+  "firstNameLastName": "Renee Heffron",
+  "equipmentLinkTypes": [],
+  "objectId": 17493,
+  "updatedWhen": "2025-05-10T08:17:42.4618496-05:00",
+  "hasCollaborationData": true,
+  "email": "rheffron@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Contraception/Reproduction Coronaviruses Emerging Infectious Diseases HIV/AIDS Infectious Diseases Mental Health Pediatric AIDS Pediatric Research Initiative Prevention Sexually Transmitted Infections Women's Health",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Mental Health Minority Health Prevention Rural Health Sexually Transmitted Infections Social Determinants of Health Substance Misuse Women's Health"
+}

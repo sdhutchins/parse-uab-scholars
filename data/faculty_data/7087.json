@@ -1,0 +1,71 @@
+{
+  "discoveryId": "7087",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kinard",
+  "firstName": "Brian",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7087-brian-kinard",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "firstNameLastName": "Brian Kinard",
+  "equipmentLinkTypes": [],
+  "objectId": 7087,
+  "updatedWhen": "2025-05-10T08:14:10.3078162-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bekinard@uab.edu",
+  "publication_keywords": "Digestive Diseases Patient Safety",
+  "grant_keywords": ""
+}

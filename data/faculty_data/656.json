@@ -1,0 +1,127 @@
+{
+  "lastName": "O'Reilly",
+  "overview": "Dr. O'Reilly completed his medical degree at the Royal College of Surgeons in Ireland (1986-1992).  His internship and residency were accomplished in Dublin teaching hospitals (1992-1995) and at Boston University (1996-1998), followed by a fellowship in pulmonary and critical care medicine at the University of Alabama at Birmingham (1998-2001).  Dr. O'Reilly has a longstanding interest in basic and translational research in the lung.  During his fellowship, he worked in the laboratory of Professor Sadis Matalon in the UAB Dept. of Anesthesiology Research, studying innate immunity and acute lung injury.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "656-philip-o'reilly",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "656",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 19,
+      "favourites": 0
+    }
+  },
+  "firstName": "Philip",
+  "firstNameLastName": "Philip O'Reilly",
+  "equipmentLinkTypes": [],
+  "objectId": 656,
+  "updatedWhen": "2025-05-10T08:03:49.9584385-05:00",
+  "hasCollaborationData": true,
+  "email": "poreilly@uab.edu",
+  "publication_keywords": "Autoimmune Disease Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Emphysema Lung Prevention Pulmonary Fibrosis Rare Diseases Tobacco Tobacco Smoke and Health",
+  "grant_keywords": "Chronic Obstructive Pulmonary Disease Clinical Research Lung Prevention"
+}

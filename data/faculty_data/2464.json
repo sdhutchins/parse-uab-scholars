@@ -1,0 +1,124 @@
+{
+  "discoveryId": "2464",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 119,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 56,
+      "favourites": 0
+    }
+  },
+  "lastName": "Walsh",
+  "firstName": "Peter",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2464-peter-walsh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus"
+    }
+  ],
+  "firstNameLastName": "Peter Walsh",
+  "equipmentLinkTypes": [],
+  "objectId": 2464,
+  "updatedWhen": "2025-05-10T08:07:39.3509293-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Automotive Engineering",
+          "Engineering"
+        ],
+        "value": "Automotive Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Resources Engineering and Extractive Metallurgy",
+          "Engineering and Extractive Metallurgy",
+          "and Extractive Metallurgy",
+          "Extractive Metallurgy",
+          "Metallurgy"
+        ],
+        "value": "Resources Engineering and Extractive Metallurgy"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "pwalsh@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

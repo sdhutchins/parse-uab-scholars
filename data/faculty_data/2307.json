@@ -1,0 +1,114 @@
+{
+  "lastName": "Pillay",
+  "overview": "Rubin Pillay is a high performance, versatile and commercially astute healthcare executive offering a twenty eight year career of impressive successes in healthcare as a clinician, academic, leader and innovator/entrepreneur .He is a medical futurist and a Professor of Healthcare Innovation and is currently the Assistant Dean for Global Health Innovation at the School of Medicine, as well as being the Chief Innovation Officer of the Health System at the University of Alabama in Birmingham. He was previously the Daniel White Jordan Chair and the founding Executive Director of the Center for Health Systems Innovation in the Spears School of Business and Center for Health Sciences at Oklahoma State University. He is a Family Physician and Clinical Pharmacologist who holds a PhD in Business Administration, an MBA and an MSc in Health Management. Prior to taking up his current position, he headed up programs in Health Leadership (with a focus on Operational Excellence) at the McKenna School of Business, Economics and Government (Pennsylvania, USA) and the School of Business and Finance (Cape Town, South Africa). He has substantial international teaching and consulting experience and a global reputation as a healthcare innovation and innovation management specialist. He is widely published in the field of Strategic Health Leadership and his current work focuses on the role of Creativity, Innovation and Entrepreneurship in the transformation of health and healthcare. He is the first President of the International Society of Healthcare Entrepreneurship Education and Research (ISHEER), a Harvard Advanced Leadership Fellow in Health Innovation and Editor in Chief of the Journal of Innovation and Entrepreneurship in Health. He is an acclaimed and sought after keynote and public speaker.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2307-rubindhiran-pillay",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      }
+    ]
+  },
+  "discoveryId": "2307",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 15,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rubindhiran",
+  "firstNameLastName": "Rubindhiran Pillay",
+  "equipmentLinkTypes": [],
+  "objectId": 2307,
+  "updatedWhen": "2025-05-10T08:07:17.6484774-05:00",
+  "hasCollaborationData": false,
+  "email": "rpillay@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research",
+  "grant_keywords": ""
+}

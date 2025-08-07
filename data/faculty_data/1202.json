@@ -1,0 +1,118 @@
+{
+  "discoveryId": "1202",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 30,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 68,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 70,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 264,
+      "favourites": 0
+    }
+  },
+  "lastName": "Woodworth",
+  "firstName": "Bradford",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1202-bradford-woodworth",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Otolaryngology"
+    }
+  ],
+  "firstNameLastName": "Bradford Woodworth",
+  "equipmentLinkTypes": [],
+  "objectId": 1202,
+  "updatedWhen": "2025-05-12T03:19:08.2616257-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bwoodwo@uab.edu",
+  "publication_keywords": "Cystic Fibrosis Lung Rare Diseases",
+  "grant_keywords": "Clinical Research Dental/Oral and Craniofacial Disease Health Disparities Infectious Diseases Microbiome Minority Health"
+}

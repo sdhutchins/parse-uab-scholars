@@ -1,0 +1,123 @@
+{
+  "discoveryId": "195",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 128,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 50,
+      "favourites": 0
+    }
+  },
+  "lastName": "Walter",
+  "firstName": "Lauren",
+  "hasThumbnail": false,
+  "discoveryUrlId": "195-lauren-walter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Emergency Medicine"
+    }
+  ],
+  "firstNameLastName": "Lauren Walter",
+  "equipmentLinkTypes": [],
+  "objectId": 195,
+  "updatedWhen": "2025-05-10T08:02:34.9890606-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lawalter@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Drug Abuse (NIDA only) Emergency Care Fentanyl Misuse and Addiction Health Services Infectious Diseases Mental Health Mental Illness Opioid Misuse and Addiction Opioids Patient Safety Precision Medicine Sexually Transmitted Infections Substance Misuse Women's Health",
+  "grant_keywords": ""
+}

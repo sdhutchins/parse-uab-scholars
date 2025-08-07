@@ -1,0 +1,124 @@
+{
+  "lastName": "Gray",
+  "overview": "I am originally from north-central Pennsylvania and received my education at the Lehigh University (BS and PhD) in southeastern Pennsylvania. I then stayed in the Lehigh Valley for five years working at J. T. Baker Chemical Co. (Phillipsburg, NJ) on the development of new plant growth regulators and deep-UV photoresists. I was awarded patents in each of these areas.\n\nI then decided to pursue an academic career and accepted a position as an Assistant Professor of Chemistry at UAB in 1983. I was promoted to Associate Professor in 1989 and to Professor in 1999. My two daughters both attended Vestavia High School; one went to Auburn University and the other to the University of Alabama. Rita, my wife of nearly 40 years, has worked at both UAB and Southern Research Institute.\n\nMy research is in the area of poly-functional inorganic and organometallic compounds with applications as catalysts, sensor elements, and sensor protectors. Research Corporation, the Petroleum Research fund of the American Chemical Society, the National Science Foundation, the US Department of Energy, and the US Army have generously supported my research. I enjoy teaching a variety of courses, including General Chemistry, junior and senior Inorganic Chemistry, and advanced graduate courses. In 2011, I initiated the Honors General Chemistry course and continued to teach these courses. \n\nIn my spare time, I am involved in sponsoring individuals who are interested in becoming members of the Catholic Church and in preparing and presenting adult education courses on everything from the Bible to the theology of J. R. R. Tolkien.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2513-gary-gray",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Inorganic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Inorganic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      }
+    ]
+  },
+  "discoveryId": "2513",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 213,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 173,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gary",
+  "firstNameLastName": "Gary Gray",
+  "equipmentLinkTypes": [],
+  "objectId": 2513,
+  "updatedWhen": "2025-05-10T08:07:50.5049649-05:00",
+  "hasCollaborationData": true,
+  "email": "gmgray@uab.edu",
+  "publication_keywords": "Bioengineering",
+  "grant_keywords": ""
+}

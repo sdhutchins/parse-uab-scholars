@@ -1,0 +1,131 @@
+{
+  "lastName": "Kim",
+  "overview": "I graduated from Yonsei University, Seoul, Korea with B.S and M.S degrees in Nutrition and Biochemistry, respectively. I have broad training and extensive experience in area spanning regulation of gene transcription, signal transduction, cell biology, metabolic and vascular animal physiology, and translational studies with an eye towards therapeutic discovery for human diseases. While in graduate school at Iowa State University and during post-doctoral training at Penn State University, I focused on elucidating mechanisms for transcriptional activation. of cAMP responsive element binding protein (CREB) to regulate glucose metabolism in the liver. I received the second post-doctoral training with Dr. Michael Quon in the Diabetes Unit, NIH. Here, I developed deep expertise in signal transduction, particularly related to insulin action and endothelial function. I also gained a more thorough understanding of animal and human physiology and pathophsyiology related to diabetes, obesity, and their cardiovascular complications. After post-doctoral training, I obtained an independent position at the University of Missouri, Columbia. While at Missouri, I expanded my research from basic science to animal physiology and translational research. Since 2010, I have been appointed as a tenure-track Assistant Professor at the University of Alabama, Birmingham (UAB).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "387-jeonga-kim",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "387",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 67,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jeonga",
+  "firstNameLastName": "Jeonga Kim",
+  "equipmentLinkTypes": [],
+  "objectId": 387,
+  "updatedWhen": "2025-05-10T08:03:00.8184202-05:00",
+  "hasCollaborationData": true,
+  "email": "jakim@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Biotechnology Cardiovascular Chronic Pain Diabetes Digestive Diseases Genetics Heart Disease Heart Disease - Coronary Heart Disease Liver Disease Neurodegenerative Neurosciences Nutrition Obesity Orphan Drug Pain Research Peripheral Neuropathy Prevention Rare Diseases Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Assistive Technology Atherosclerosis Bioengineering Biotechnology Brain Disorders Breast Cancer Cancer Cardiovascular Complementary and Integrative Health Dementia Diabetes Estrogen Genetics Heart Disease Heart Disease - Coronary Heart Disease Neurodegenerative Neurosciences Nutrition Obesity Prevention Women's Health"
+}

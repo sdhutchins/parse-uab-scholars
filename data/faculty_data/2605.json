@@ -1,0 +1,99 @@
+{
+  "discoveryId": "2605",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 100,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gunther-Canada",
+  "firstName": "Wendy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2605-wendy-gunthercanada",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Government"
+    }
+  ],
+  "firstNameLastName": "Wendy Gunther-Canada",
+  "equipmentLinkTypes": [],
+  "objectId": 2605,
+  "updatedWhen": "2025-05-10T08:08:00.8706749-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Studies in Human Society",
+          "Studies in Human Society",
+          "in Human Society",
+          "Human Society",
+          "Society"
+        ],
+        "value": "Other Studies in Human Society"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Philosophy"
+        ],
+        "value": "Philosophy"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "wgcanada@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

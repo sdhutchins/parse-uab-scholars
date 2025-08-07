@@ -1,0 +1,125 @@
+{
+  "lastName": "Carstens",
+  "overview": "Julienne L. Carstens, Ph.D., (Julie) is an investigator whose research is focused on understanding tumor biology with the goal of developing translational targets for pancreatic cancer. Her publications in top-tier journals highlight her work related to the fibrotic and immune tumor microenvironment and metastatic progression of cancer. \n \nDr. Carstens earned her PhD from Baylor College of Medicine in the laboratory of David Spencer, PhD in the Department of Pathology and Immunology, where she studied the cellular and molecular biology of prostate cancer focusing on the cancer cell and tumor microenvironmental crosstalk. After defending her dissertation, she trained at MD Anderson Cancer Center in Houston, Texas, where she completed her postdoctoral fellowship in Raghu Kalluri, M.D., Ph.D.’s lab in the Department of Cancer Biology. She studied the specific roles that cancer and microenvironmental cells play in the progression and metastasis of pancreatic cancer using genetic mouse models and multiplex image analysis.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17534-julienne-carstens",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "17534",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 43,
+      "favourites": 5
+    }
+  },
+  "firstName": "Julienne",
+  "firstNameLastName": "Julienne Carstens",
+  "equipmentLinkTypes": [],
+  "objectId": 17534,
+  "updatedWhen": "2025-05-10T08:17:51.4791022-05:00",
+  "hasCollaborationData": true,
+  "email": "carstens@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Cancer Cancer Genomics Colo-Rectal Cancer Digestive Diseases Genetics Human Genome Immunotherapy Orphan Drug Pancreatic Cancer Rare Diseases",
+  "grant_keywords": ""
+}

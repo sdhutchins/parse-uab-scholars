@@ -1,0 +1,128 @@
+{
+  "lastName": "Fouad",
+  "overview": "Dr. Fouad is recognized nationally as a leader in health disparities research and is a member of the NIH National Advisory Council on Minority Health and Health Disparities. She is PI on numerous federally funded projects that bring in over $51 million and Co-PI on additional grants worth approximately $20 million. Most of this funding has a common theme of improving health and preventing disease in minorities.\n\nDr. Fouad is PI for the CDC-funded center entitled, Racial and Ethnic Approaches across the US (REACH US) Mid-South Center of Excellence in the Elimination of Disparities (CEED), a model that serves as an infrastructure to implement, evaluate, and disseminate locally, regionally and nationally evidence-based interventions to reduce breast and cervical cancer disparities between African American and white women. She is also the PI of the NIH P60 Comprehensive Minority Health and Health Disparities Research Center (MHDRC), for one of the Cancer Care Outcomes Research and Surveillance Consortium (CanCORS) sites funded by NCI, and for the UAB Minority Screening Center of the NCI-funded Prostate, Lung, Colorectal, Ovarian Cancer (PLCO) Screening Trial and the National Lung Screening Trial (NLST). Dr. Fouad is the Co-PI on the REACH UP & OUT: Eliminating Breast and Cervical Cancer Disparities, the NIA/NIH-funded Deep South Resource Center for Minority Aging Research (RCMAR), and several other projects that focus on social determinants of health and enhancing minority enrollment in clinical trials.\n\nDr. Fouad also has played a prominent leadership role in the merging of efforts with UAB and Historically Black Colleges and Universities (HBCUs) to train minority researchers and leaders in the national effort to eliminate health disparities, serving as a PI for the NCI- funded Morehouse School of Medicine/ Tuskegee University/UAB Comprehensive Cancer Center Partnership and is responsible for the training and career development of minority students and faculty within the partnership to enhance their research capabilities. Through these efforts, as well as by generously devoting time to trainees that she personally and successfully mentors, Dr. Fouad is making an enormous contribution to the next generation of leaders in the fight against health disparities.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "454-mona-fouad",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emerita",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "454",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 134,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 106,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 178,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mona",
+  "firstNameLastName": "Mona Fouad",
+  "equipmentLinkTypes": [],
+  "objectId": 454,
+  "updatedWhen": "2025-05-10T08:03:12.8367235-05:00",
+  "hasCollaborationData": true,
+  "email": "mfouad@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cancer Clinical Research Colo-Rectal Cancer Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Digestive Diseases Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Infectious Diseases Minority Health Prevention Rural Health Social Determinants of Health Vaccine Related Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

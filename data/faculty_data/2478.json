@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2478",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 198,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dallow",
+  "firstName": "Jessica",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2478-jessica-dallow",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Art and Art History"
+    }
+  ],
+  "firstNameLastName": "Jessica Dallow",
+  "equipmentLinkTypes": [],
+  "objectId": 2478,
+  "updatedWhen": "2025-05-10T08:07:39.3679255-05:00",
+  "hasCollaborationData": false,
+  "email": "jdallow@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

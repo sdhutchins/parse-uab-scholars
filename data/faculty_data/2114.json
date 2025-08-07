@@ -1,0 +1,128 @@
+{
+  "lastName": "Reddy",
+  "overview": "I am a Board Certified senior Hematopathologist with four decades of clinical and diagnostic expertise in  Hematopathology Service at UAB Health System and director of  Hematology/Bone marrow laboratories, and responsible for overall QA/QC of the laboratories. I have  expertise in Flow cytometry, lymphoma, leukemia, myelodysplastic/ myeloproliferative neoplasms (MPN/MDS), plasma cell neoplasms/myeloma, and additionally in Surgical Pathology / lung malignancies. My research interests are in bone marrow biopsy  topography, tissue microarrays (TMA), immuno-architecture in the bone marrow and lymph nodes, core needle biopsy techniques, mouse models of leukemia, (FLIT3-ITD), IRESSA trial in Non-small cell lung carcinomas and CD30 expression in hematopoietic cells. Other areas of my interest are in digital imaging, image analysis, macro-photography deep image stacking, web-technology, and quantification of bone marrow hemophagocytosis in macrophage activation syndrome (MAS).  I have collaborated extensively with UAB (O’Neal) Comprehensive Cancer Center Investigators and other outside Institutions on the above research areas resulting in several peer-reviewed publications. I am on the NCCN myelodysplastic syndrome (MDS)  committee  As an educator, I developed Hematopathology teaching guidelines and curriculum for UAB Hematopathology fellowships and collaborated with other national experts in publishing training guidelines for Hematopathology programs. I have similarly developed Hematology-Oncology Module curriculum/teaching material for the UAB School of Medicine (UASOM) MS-II students.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2114-baleed-vishnu-vardhan-reddy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Laboratory Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2114",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 157,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 72,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 181,
+      "favourites": 0
+    }
+  },
+  "firstName": "Baleed Vishnu Vardhan",
+  "firstNameLastName": "Baleed Vishnu Vardhan Reddy",
+  "equipmentLinkTypes": [],
+  "objectId": 2114,
+  "updatedWhen": "2025-05-10T08:06:50.6941661-05:00",
+  "hasCollaborationData": true,
+  "email": "vreddy@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Childhood Leukemia Digestive Diseases Hematology Hodgkin's Disease Lymphatic Research Lymphoma Orphan Drug Pediatric Cancer Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": "Cancer Clinical Research Genetics Hematology Human Genome Rare Diseases"
+}

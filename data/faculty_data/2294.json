@@ -1,0 +1,61 @@
+{
+  "lastName": "Di Gangi",
+  "overview": "Paul M. Di Gangi is a professor in the Collat School of Business at the University of Alabama at Birmingham. He is also a Certified Information Systems Security Professional (CISSP) based on his work relating to policy, strategic planning, and risk analysis. His research has been published or is forthcoming in the Journal of the Association for Information Systems, Communications of the Association for Information Systems, Decision Support Systems, Information & Organization, International Journal of Information Management, Internet Research, and MIS Quarterly Executive, among others. Paul currently serves as a Senior Editor for MIS Quarterly Executive and an Associate Editor for the European Journal of Information Systems.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2294-paul-di-gangi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Management, Information Systems and Quantitative Methods"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      }
+    ]
+  },
+  "discoveryId": "2294",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 109,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "firstName": "Paul",
+  "firstNameLastName": "Paul Di Gangi",
+  "equipmentLinkTypes": [],
+  "objectId": 2294,
+  "updatedWhen": "2025-05-10T08:07:17.6284768-05:00",
+  "hasCollaborationData": true,
+  "email": "pdigangi@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,61 @@
+{
+  "discoveryId": "6750",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 70,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sorace",
+  "firstName": "Anna",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6750-anna-sorace",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Anna Sorace",
+  "equipmentLinkTypes": [],
+  "objectId": 6750,
+  "updatedWhen": "2025-05-10T08:13:42.6663021-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "agsorace@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Breast Cancer Cancer Clinical Research Colo-Rectal Cancer Digestive Diseases Immunization Immunotherapy Precision Medicine Vaccine Related Women's Health",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

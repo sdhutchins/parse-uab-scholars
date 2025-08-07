@@ -1,0 +1,121 @@
+{
+  "discoveryId": "2000",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 289,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 91,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 96,
+      "favourites": 10
+    }
+  },
+  "lastName": "Lanzi",
+  "firstName": "Robin",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2000-robin-lanzi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Public Health",
+      "department": "Health Behavior"
+    }
+  ],
+  "firstNameLastName": "Robin Lanzi",
+  "equipmentLinkTypes": [],
+  "objectId": 2000,
+  "updatedWhen": "2025-05-12T03:21:24.5918229-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rlanzi@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Dissemination and Implementation Research HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Prevention Sexually Transmitted Infections Substance Misuse",
+  "grant_keywords": ""
+}

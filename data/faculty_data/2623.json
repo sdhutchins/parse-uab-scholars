@@ -1,0 +1,85 @@
+{
+  "discoveryId": "2623",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 84,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "lastName": "Liber",
+  "firstName": "George",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2623-george-liber",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "George Liber",
+  "equipmentLinkTypes": [],
+  "objectId": 2623,
+  "updatedWhen": "2025-05-10T08:08:00.8866770-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Historical Studies",
+          "Studies"
+        ],
+        "value": "Historical Studies"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "gliber@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

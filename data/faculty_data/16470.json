@@ -1,0 +1,125 @@
+{
+  "lastName": "Lennemann",
+  "overview": "Nicholas (Nick) Lennemann received his BS in Biotechnology from Saint Cloud State University, Saint Cloud, MN. He then obtained his PhD in Microbiology under the supervision of Dr. Wendy Maury at University of Iowa, where he worked on the biochemical characterization of the flavivirus glycoprotein. He performed his postdoctoral research with Dr. Carolyn Coyne at University of Pittsburgh. During his postdoctoral research he focused on virus-host interactions, with an emphasis on the cell biology of positive-strand RNA viruses. At UAB, Dr. Lennemann’s lab focuses on combining training in molecular virology and cell biology to better understand the mechanisms of RNA virus infection.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16470-nicholas-lennemann",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "16470",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 25,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nicholas",
+  "firstNameLastName": "Nicholas Lennemann",
+  "equipmentLinkTypes": [],
+  "objectId": 16470,
+  "updatedWhen": "2025-05-10T08:16:04.1404472-05:00",
+  "hasCollaborationData": true,
+  "email": "njlenn@uab.edu",
+  "publication_keywords": "Biodefense Emerging Infectious Diseases Infectious Diseases",
+  "grant_keywords": "Biodefense Emerging Infectious Diseases Infectious Diseases Neurosciences Orphan Drug Rare Diseases Vector-Borne Diseases"
+}

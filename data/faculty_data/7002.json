@@ -1,0 +1,45 @@
+{
+  "discoveryId": "7002",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Watkins",
+  "firstName": "Tommie",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7002-tommie-watkins",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Social Work"
+    }
+  ],
+  "suffix": "Jr.",
+  "firstNameLastName": "Tommie Watkins",
+  "equipmentLinkTypes": [],
+  "objectId": 7002,
+  "updatedWhen": "2025-05-10T08:14:00.1741137-05:00",
+  "hasCollaborationData": false,
+  "email": "revtlw@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

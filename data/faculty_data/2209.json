@@ -1,0 +1,123 @@
+{
+  "lastName": "Crowley",
+  "overview": "My undergraduate was completed at Ball State University in Muncie Indiana. Upon graduating I was recruited and worked as a technician in the laboratory of Dr. Roger Reeves at Johns Hopkins School of Medicine and eventually went to Eli Lilly in Indianapolis, IN before going to Grad School. My graduate work was done with Dr. Bonnie Asch at Roswell Park Cancer Institute in Buffalo, NY. After graduating I did a postdoctoral fellowship with Dr. Rosa Serra at the University of Cincinnati, Cincinnati OH.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2209-michael-crowley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "2209",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 38,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 156,
+      "favourites": 0
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Crowley",
+  "equipmentLinkTypes": [],
+  "objectId": 2209,
+  "updatedWhen": "2025-05-10T08:07:03.7214455-05:00",
+  "hasCollaborationData": true,
+  "email": "mcrowley@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Brain Disorders Cancer Cancer Genomics Clinical Research Digestive Diseases Emerging Infectious Diseases Genetics Human Genome Infectious Diseases Pancreatic Cancer Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Biotechnology Cancer Cancer Genomics Cardiovascular Clinical Research Diabetes Genetics Human Genome Minority Health Nutrition Physical Activity Prevention Women's Health"
+}

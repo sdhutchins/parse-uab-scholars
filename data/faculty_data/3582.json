@@ -1,0 +1,131 @@
+{
+  "lastName": "Williams",
+  "overview": "Introduction:\n\nMedical Oncologist and Geriatrician focused on the management of Gastrointestinal Malignancies. \n\nClinical Interests: & Research:\n\nMy research and clinical care focuses on the intersection of cancer and aging. My goal is to provide personalized and evidenced based care for vulnerable and frail older adults with cancer.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3582-grant-williams",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "3582",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 52,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 223,
+      "favourites": 1
+    }
+  },
+  "firstName": "Grant",
+  "firstNameLastName": "Grant Williams",
+  "equipmentLinkTypes": [],
+  "objectId": 3582,
+  "updatedWhen": "2025-05-10T08:09:49.3210694-05:00",
+  "hasCollaborationData": true,
+  "email": "gwillia@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cancer Clinical Research Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Pain Research Pancreatic Cancer Patient Safety Prevention Rare Diseases Rehabilitation Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

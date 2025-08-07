@@ -1,0 +1,74 @@
+{
+  "discoveryId": "16393",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 88,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 24,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sewell-Loftin",
+  "firstName": "Mary",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16393-mary-sewellloftin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept of Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Mary Sewell-Loftin",
+  "equipmentLinkTypes": [],
+  "objectId": 16393,
+  "updatedWhen": "2025-05-10T08:15:54.5932258-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mksewellloftin@uab.edu",
+  "publication_keywords": "Bioengineering Cancer Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Orphan Drug Ovarian Cancer Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human Women's Health",
+  "grant_keywords": "Bioengineering Cancer Women's Health"
+}

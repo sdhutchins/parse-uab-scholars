@@ -1,0 +1,125 @@
+{
+  "lastName": "Siegal",
+  "overview": "Dr. Siegal was born in New York where he attended college. He received his medical degree from the University of Louisville and his PhD from the University of Minnesota. He was a Resident and Research Fellow at the Mayo Graduate School of Medicine and completed both a post-doctoral fellowship at the National Cancer Institute, NIH and a surgical pathology fellowship at the University of Minnesota. Prior to coming to UAB in 1990, he was a tenured faculty member at the University of North Carolina at Chapel Hill. Dr. Siegal has been married for over 40 years and has 2 adult daughters and 4 grandchildren.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2099-gene-siegal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Anatomic Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2099",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 196,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 856,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gene",
+  "firstNameLastName": "Gene Siegal",
+  "equipmentLinkTypes": [],
+  "objectId": 2099,
+  "updatedWhen": "2025-05-11T02:21:32.7527941-05:00",
+  "hasCollaborationData": true,
+  "email": "gsiegal@uab.edu",
+  "publication_keywords": "Biomedical Imaging Biotechnology Breast Cancer Cancer Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunotherapy Lung Minority Health Precision Medicine Women's Health",
+  "grant_keywords": "Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Kidney Disease Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health"
+}

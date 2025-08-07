@@ -1,0 +1,124 @@
+{
+  "lastName": "Appavoo",
+  "overview": "Dr. Appavoo joined UAB Physics as an Assistant Professor in 2016. He received his bachelor’s degrees in Physics and Mathematics at Berea College in 2008 and his PhD at Vanderbilt University in 2012. His dissertation research focused on the ultrafast dynamics of phase-change nanophotonics for sensing and optoelectronics applications. Dr. Appavoo was a Goldhaber Fellow at the Brookhaven National Laboratory in 2013, developing novel in situ optical techniques to probe ultrafast dynamics of energy nanomaterials. Currently, Dr. Appavoo is an NSF EPSCoR RII Track-4 Research Fellow, a recipient of the Ralph Powe Junior Faculty Award and manages a NASA EPSCOR/Alabama: Research Infrastructure Development grant.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3574-kannatassen-appavoo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communications Technologies",
+          "Technologies"
+        ],
+        "value": "Communications Technologies"
+      }
+    ]
+  },
+  "discoveryId": "3574",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 105,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 57,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kannatassen",
+  "firstNameLastName": "Kannatassen Appavoo",
+  "equipmentLinkTypes": [],
+  "objectId": 3574,
+  "updatedWhen": "2025-05-10T08:09:49.3160701-05:00",
+  "hasCollaborationData": false,
+  "email": "appavoo@uab.edu",
+  "publication_keywords": "Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": "Bioengineering"
+}

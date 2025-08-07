@@ -1,0 +1,45 @@
+{
+  "discoveryId": "3036",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Johns",
+  "overview": "Nancy E. Dunlap, MD, PhD, MBA, completed her medical degree from Duke University School of Medicine in1981. She received an A.B. in Biology from Wellesley College in 1977, a Ph.D. in Microbiology from the University of Alabama at Birmingham in 1991, and an MBA from the Ross School of Business at the University of Michigan in 2008. She has practiced medicine in the field of pulmonary critical care for over 25 years and held executive positions in two academic medical centers, most recently as Dean of the School of Medicine at the University of Virginia. She served as the Medical Director for the Alabama Department of Public Health and Vice President of the University of Alabama at Birmingham Health System.",
+  "firstName": "Nancy",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3036-nancy-johns",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "firstNameLastName": "Nancy Johns",
+  "equipmentLinkTypes": [],
+  "objectId": 3036,
+  "updatedWhen": "2025-05-10T08:08:43.2945456-05:00",
+  "hasCollaborationData": false,
+  "email": "ndunlap@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

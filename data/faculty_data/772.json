@@ -1,0 +1,63 @@
+{
+  "lastName": "Bates",
+  "hasThumbnail": false,
+  "discoveryUrlId": "772-gordon-bates",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "OB/GYN - Reproductive Endocrinology"
+    }
+  ],
+  "suffix": "Jr.",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "772",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gordon",
+  "firstNameLastName": "Gordon Bates",
+  "equipmentLinkTypes": [],
+  "objectId": 772,
+  "updatedWhen": "2025-05-10T08:04:02.5117416-05:00",
+  "hasCollaborationData": false,
+  "email": "wbates@uab.edu",
+  "publication_keywords": "Contraception/Reproduction Infertility Obesity Prevention Women's Health",
+  "grant_keywords": ""
+}

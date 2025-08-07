@@ -1,0 +1,127 @@
+{
+  "discoveryId": "2144",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 36,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 142,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sanderson",
+  "firstName": "Ralph",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2144-ralph-sanderson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "firstNameLastName": "Ralph Sanderson",
+  "equipmentLinkTypes": [],
+  "objectId": 2144,
+  "updatedWhen": "2025-05-10T08:06:50.7212166-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sanderson@uab.edu",
+  "publication_keywords": "Breast Cancer Cancer Genetics Rare Diseases Women's Health",
+  "grant_keywords": "Cancer Cancer Genomics Chronic Obstructive Pulmonary Disease Clinical Research Emphysema Genetics Health Disparities Hematology Human Genome Lung Minority Health Physical Injury - Accidents and Adverse Effects Prevention Rare Diseases Tobacco Tobacco Smoke and Health Women's Health"
+}

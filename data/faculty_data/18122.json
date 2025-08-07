@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18122",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dixon",
+  "firstName": "Kala",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18122-kala-dixon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Family & Community Medicine"
+    }
+  ],
+  "firstNameLastName": "Kala Dixon",
+  "equipmentLinkTypes": [],
+  "objectId": 18122,
+  "updatedWhen": "2025-05-10T08:18:44.1911415-05:00",
+  "hasCollaborationData": false,
+  "email": "kbdixon@uab.edu",
+  "publication_keywords": "Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Digestive Diseases Hypertension Kidney Disease Neurosciences Nutrition Obesity",
+  "grant_keywords": ""
+}

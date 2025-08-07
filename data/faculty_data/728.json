@@ -1,0 +1,126 @@
+{
+  "lastName": "Limdi",
+  "overview": "Dr. Limdi is a clinical pharmacist and epidemiologist with significant expertise in pharmacogenomics and pharmacoepidemiology, from research and discovery to its application and implementation in clinical practice. Her research portfolio encompasses studies with both observational and a clinical trial designs and is focused on understanding the multiple factors that influence drug efficacy and safety, specifically anticoagulant and antiplatelet response. An established investigator in the field of pharmacogenomics, she has made significant contributions towards understanding of genetic basis of warfarin response. Her work has included discovering novel polymorphisms in CYP2C9, statistical analytic approaches that has ranged from candidate gene, haplotype based approach to genome-wide association and exome approaches, and a research portfolio that includes both prospective cohort and randomized clinical trials. \n\nThrough her work, Dr. Limdi has collaborated extensively with pharmacogenomics researchers including with the International Warfarin Pharmacogenomics Consortium (IWPC), the Clinical Pharmacogenetics Implementation Committee (CPIC), and the Implementation of Genomics In pracTicE (IGNITE). As the Associate Director of Pharmacogenomics n the Hugh Kaul Personalized Medicine Institute, Dr. Limdi oversees discovery and clinical implementation of pharmacogenomics across the health UAB system. Through this initiative, her team has identified and overcome barriers, incorporated genotype-guided therapy and assessed clinically relevant outcomes to conduct economic analysis and inform health policy and reimbursement strategies for pharmacogenomics.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "728-nita-limdi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "728",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 34,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 169,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nita",
+  "firstNameLastName": "Nita Limdi",
+  "equipmentLinkTypes": [],
+  "objectId": 728,
+  "updatedWhen": "2025-05-10T08:03:50.0615750-05:00",
+  "hasCollaborationData": true,
+  "email": "nlimdi@uab.edu",
+  "publication_keywords": "Biotechnology Cardiovascular Clinical Research Clinical Trials and Supportive Activities Genetics Health Services Heart Disease Heart Disease - Coronary Heart Disease Human Genome Hypertension Kidney Disease Prevention",
+  "grant_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Human Genome Kidney Disease Minority Health Patient Safety Precision Medicine Prevention Rural Health Social Determinants of Health Women's Health"
+}

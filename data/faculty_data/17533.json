@@ -1,0 +1,82 @@
+{
+  "discoveryId": "17533",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cummings",
+  "firstName": "Kirstie",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17533-kirstie-cummings",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Kirstie Cummings",
+  "equipmentLinkTypes": [],
+  "objectId": 17533,
+  "updatedWhen": "2025-05-10T08:17:51.4791022-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kac3@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Mental Health Neurosciences",
+  "grant_keywords": "Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Mental Health Mental Illness Neurosciences Post-Traumatic Stress Disorder (PTSD)"
+}

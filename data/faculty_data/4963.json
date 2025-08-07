@@ -1,0 +1,126 @@
+{
+  "lastName": "Maqbool",
+  "overview": "My name is Muhammad Maqbool. I work as a Professor of Health Physics in the Department of Clinical & Diagnostic Sciences, School of Health Professions at UAB. I obtained my Ph.D. degree in Condensed Matter Physics & Photonics from Ohio University, USA. I also obtained an M.S. degree in Medical & Radiation Physics from the University of Birmingham, UK. I got my first degree from the University of Peshawar, Pakistan. Before joining UAB as a faculty member, I worked as an Associate Professor of Physics & Medical Physics at Ball State University. I also worked as an Assistant Professor of Physics and Director Pre-Engineering Program at the University of Mount Olive. \nI teach several courses in the Master of Science in Health Physics program and the Master of Science in Nuclear Medicine and Molecular Imaging Sciences program. Those courses include but are not limited to Principles of Health Physics, Medical Radiation Physics, Principles of Radiation Dosimetry, Physics of Medical Imaging, Nonionizing Radiation, Advanced Radiation Biology, Research Methodology, and Publications Analysis, Computed Tomography and Laser Safety. \nI am actively engaged in research and published 107 research papers in highly reputed peer-reviewed journals. I have obtained a US Patent for inventing the Smallest AlN:Ti microlaser on optical fibers in whispering gallery mode. My student also obtained the best researcher award in the Health Physics Society 64th Annual Meeting held in Orlando, Florida, USA, on July 7-11, 2019. I have published two books and book chapters. My recent book An Introduction to Medical Physics is used as a required and recommended textbook for various courses at UAB and a reference book at other Universities. Currently, several graduate students work on their research projects with me. I have worked as a consultant for many national and international organizations. I also work as a grant reviewer for research funding bodies. I have established research and professional collaboration with many researchers within UAB and other Universities in the USA and abroad.\nI have been actively serving various professional bodies and organizations in my field. I have served as the President of the Alabama Chapter of the Health Physics Society. I work as Chair of the Gamma rays, x-rays, and ultraviolet ray photonics technical section of the Optical Society of America. I am an active member of several professional organizations including the Health Physics Society, the American Physical Society, and the Optical Society of America.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4963-muhammad-maqbool",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Clinical & Diagnostic Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      }
+    ]
+  },
+  "discoveryId": "4963",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 82,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 161,
+      "favourites": 3
+    }
+  },
+  "firstName": "Muhammad",
+  "firstNameLastName": "Muhammad Maqbool",
+  "equipmentLinkTypes": [],
+  "objectId": 4963,
+  "updatedWhen": "2025-05-10T08:11:43.7306303-05:00",
+  "hasCollaborationData": true,
+  "email": "mmaqbool@uab.edu",
+  "publication_keywords": "Bioengineering Nanotechnology",
+  "grant_keywords": ""
+}

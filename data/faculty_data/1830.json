@@ -1,0 +1,124 @@
+{
+  "lastName": "Hearld",
+  "overview": "Kristine Ria Hearld, Ph.D. is a Professor in the UAB Department of Health Services Administration. Her educational background includes a B.A., M.A., and a Ph.D. from the University of Pennsylvania. Ria also holds a M.Phil. degree from University of Cambridge. Prior to joining UAB, she worked for Medical Advantage Group in East Lansing, Michigan, where she served as a consultant and manager for a 200-member independent physician association and a 140-member physician-hospital organization.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1830-kristine-hearld",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1830",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 209,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 71,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 153,
+      "favourites": 1
+    }
+  },
+  "firstName": "Kristine",
+  "firstNameLastName": "Kristine Hearld",
+  "equipmentLinkTypes": [],
+  "objectId": 1830,
+  "updatedWhen": "2025-05-10T08:06:00.9103977-05:00",
+  "hasCollaborationData": true,
+  "email": "khearld@uab.edu",
+  "publication_keywords": "Clinical Research Emergency Care Health Services Lung Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Patient Safety Pediatric Research Initiative Prevention",
+  "grant_keywords": ""
+}

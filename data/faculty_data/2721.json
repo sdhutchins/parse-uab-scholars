@@ -1,0 +1,120 @@
+{
+  "discoveryId": "2721",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 163,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 119,
+      "favourites": 0
+    }
+  },
+  "lastName": "Clay",
+  "firstName": "Olivio",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2721-olivio-clay",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "firstNameLastName": "Olivio Clay",
+  "equipmentLinkTypes": [],
+  "objectId": 2721,
+  "updatedWhen": "2025-05-10T08:08:11.1261637-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "oclay@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Caregiving Research Cerebrovascular Clinical Research Dementia Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Neurodegenerative Neurosciences Pediatric Pediatric Research Initiative Rehabilitation Social Determinants of Health Stroke",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Dementia Health Disparities Mental Health Minority Health Neurodegenerative Neurosciences Rural Health Social Determinants of Health"
+}

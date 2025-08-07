@@ -1,0 +1,44 @@
+{
+  "discoveryId": "5656",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jones",
+  "firstName": "Ashley",
+  "hasThumbnail": false,
+  "discoveryUrlId": "5656-ashley-jones",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Director-Honors Program",
+      "department": "University Honors Program"
+    }
+  ],
+  "firstNameLastName": "Ashley Jones",
+  "equipmentLinkTypes": [],
+  "objectId": 5656,
+  "updatedWhen": "2025-05-10T08:12:30.2103023-05:00",
+  "hasCollaborationData": false,
+  "email": "ashleymj@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

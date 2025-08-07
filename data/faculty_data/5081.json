@@ -1,0 +1,124 @@
+{
+  "lastName": "Foote",
+  "overview": "I performed my undergraduate studies in biochemistry and molecular biology at Pennsylvania State University (B.Sc, 2002). For graduate studies I trained with John Kearney, Ph.D. at the University of Alabama at Birmingham (Birmingham, AL). My thesis research focused on understanding the development of serologic and B cell memory to the T cell independent, type 2 antigen alpha 1->3-dextran. After obtaining my Ph.D. in microbiology and immunology, I took a 4 year hiatus from research to obtain my doctorate in veterinary medicine at Auburn University, College of Veterinary Medicine. While at Auburn I obtained additional training in cancer genetics and immunology under the guidance of Dr. Curtis Bird, Ph.D. My research in Dr. Bird’s lab focused on generating a mouse model of the canine immune system, permissible to engraftment of canine peripheral blood mononuclear cells derived from canine patients with mammary cancer. The goal of this work was to model patient immunity to an experimental autologous dendritic cell (derived from patients) – allogeneic canine mammary tumor vaccine. After obtaining my DVM, I went to Johns Hopkins to pursue a residency in veterinary anatomic pathology and postdoctoral research in cancer immunology and translational medicine. While at Johns Hopkins in the departments of Molecular and Comparative Pathobiology and Oncology, I completed my residency training in veterinary anatomic pathology and obtained additional training in tumor immunology and translational medicine with Dr. Leisha Emens (M.D., Ph.D.) My postdoctoral research in Dr. Emens lab focused on evaluating the therapeutic potential of the STING agonist ADU-S100 in combination with immune checkpoint blockade. After completion of my postdoctoral fellowship, I was appointed as a faculty member in the departments of Microbiology and Animal Resources Program where I currently serve as both an investigator in Microbiology and veterinary anatomic pathologist for ARP.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5081-jeremy-foote",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "5081",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 85,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jeremy",
+  "firstNameLastName": "Jeremy Foote",
+  "equipmentLinkTypes": [],
+  "objectId": 5081,
+  "updatedWhen": "2025-05-10T08:11:53.0569661-05:00",
+  "hasCollaborationData": true,
+  "email": "jbf130@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biotechnology Cancer Colo-Rectal Cancer Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Digestive Diseases Emerging Infectious Diseases Genetics Immunization Immunotherapy Infectious Diseases Kidney Disease Lung Nanotechnology Orphan Drug Pancreatic Cancer Pneumonia & Influenza Prevention Rare Diseases Vaccine Related",
+  "grant_keywords": "Genetics"
+}

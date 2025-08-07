@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2431",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 130,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 121,
+      "favourites": 0
+    }
+  },
+  "lastName": "Nakhmani",
+  "firstName": "Arie",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2431-arie-nakhmani",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Electrical & Computer Engineering"
+    }
+  ],
+  "firstNameLastName": "Arie Nakhmani",
+  "equipmentLinkTypes": [],
+  "objectId": 2431,
+  "updatedWhen": "2025-05-10T08:07:39.3239242-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Artificial Intelligence and Image Processing",
+          "Intelligence and Image Processing",
+          "and Image Processing",
+          "Image Processing",
+          "Processing"
+        ],
+        "value": "Artificial Intelligence and Image Processing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "anry@uab.edu",
+  "publication_keywords": "Biomedical Imaging Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Emphysema Lung",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Brain Disorders Chronic Obstructive Pulmonary Disease Clinical Research Dementia Depression Emphysema Infant Mortality Lung Machine Learning and Artificial Intelligence Major Depressive Disorder Maternal Health Maternal Morbidity and Mortality Mental Health Mental Illness Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Pregnancy Prevention Rehabilitation Serious Mental Illness Women's Health"
+}

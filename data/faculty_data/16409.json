@@ -1,0 +1,122 @@
+{
+  "lastName": "Sleckman",
+  "overview": "Barry Sleckman completed his M.D. and a Ph.D. in immunology at Harvard Medical School, followed by a residency in internal medicine and a fellowship in infectious diseases at Brigham and Women's Hospital. After completing his post-doctoral training in molecular immunology in the laboratory of Dr. Frederick Alt at Boston Children's Hospital, Sleckman started his own laboratory in 1998 as an Assistant Professor in the Department of Pathology and Immunology at the Washington University School of Medicine and moved to Weill Cornell in 2015. Then in 2020, Barry relocated his laboratory to UAB, where he now serves as the Director of the O’Neal Comprehensive Cancer Center. \n\nSleckman’s laboratory has focused on elucidating the molecular pathways required for normal lymphocyte development and on understanding how DNA repair and DNA damage response pathways regulate lymphocyte development and function, preserve genome stability and prevent lymphocyte transformation. His laboratory was the first to show that DNA damage responses provide signals that regulate cell-type specific processes that are not required for DNA repair. In addition, his lab discovered DNA damage response pathways that do not function in normal DNA repair. Rather, they function to prevent unrepaired DSBs from being aberrantly repaired as potentially dangerous chromosomal translocations and deletions. Sleckman has been elected to the American Society of Clinical Investigation and the Association of American Physicians, and he is a fellow in the American Academy for the Advancement of Science.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16409-barry-sleckman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "16409",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 146,
+      "favourites": 0
+    }
+  },
+  "firstName": "Barry",
+  "firstNameLastName": "Barry Sleckman",
+  "equipmentLinkTypes": [],
+  "objectId": 16409,
+  "updatedWhen": "2025-05-10T08:15:54.6179318-05:00",
+  "hasCollaborationData": true,
+  "email": "bps@uab.edu",
+  "publication_keywords": "Ataxia Telangiectasia Behavioral and Social Science Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Neurodegenerative Neurosciences Radiation Oncology Rare Diseases Women's Health",
+  "grant_keywords": "Genetics"
+}

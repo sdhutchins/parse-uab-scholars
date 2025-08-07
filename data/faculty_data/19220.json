@@ -1,0 +1,45 @@
+{
+  "discoveryId": "19220",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Englund",
+  "overview": "Dr. Englund is an Assistant Professor in the Department of Medicine - Division of Gerontology, Geriatrics, and Palliative Care. He earned his doctorate degree in the Center for Muscle Biology at the University of Kentucky and continued his research training as a Postdoctoral Fellow in the Kogod Center on Aging at Mayo Clinic. Dr. Englund joined UAB in 2024.",
+  "firstName": "Davis",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19220-davis-englund",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "firstNameLastName": "Davis Englund",
+  "equipmentLinkTypes": [],
+  "objectId": 19220,
+  "updatedWhen": "2025-05-10T08:21:05.7220185-05:00",
+  "hasCollaborationData": false,
+  "email": "denglund@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

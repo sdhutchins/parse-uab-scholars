@@ -1,0 +1,125 @@
+{
+  "lastName": "Su",
+  "overview": "I am an assistant professor in Department of Genetics. I have long-standing interests in epigenetics that regulate gene expression without altering the DNA sequences. Such epigenetic mechanisms are important for human development and health, especially due to its dynamic interactions with the environmental factors and microenvironmental cues. My lab uses a combination of genomics experiments and dry-lab bioinformatics to study epitranscriptomics (RNA modifications) in human health. We are a new lab and currently recruiting at all levels. Please check out our lab website here: https://www.sulabrna.com",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18340-zhangli-su",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genomics"
+        ],
+        "value": "Genomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "18340",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 38,
+      "favourites": 0
+    }
+  },
+  "firstName": "Zhangli",
+  "firstNameLastName": "Zhangli Su",
+  "equipmentLinkTypes": [],
+  "objectId": 18340,
+  "updatedWhen": "2025-05-10T08:19:16.6271318-05:00",
+  "hasCollaborationData": true,
+  "email": "zsu@uab.edu",
+  "publication_keywords": "Cancer Genetics Human Genome",
+  "grant_keywords": ""
+}

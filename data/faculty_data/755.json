@@ -1,0 +1,123 @@
+{
+  "lastName": "Walker",
+  "overview": "Deep brain stimulation (DBS) is more effective than medications and other conventional therapies for motor symptoms of Parkinson's disease, dystonia, and essential tremor. Emerging DBS technologies such as directional and closed loop stimulation have substantial potential to improve a variety of patient outcomes. However these devices are increasingly adaptable and complex, and we lack robust tools to fully realize their therapeutic potential. Dr. Walker's lab investigates how deep brain stimulation works using a multimodal approach that integrates electroencephalography, electrocorticography, single unit recordings, neuroimaging, and behavioral assessment in patients with movement disorders. Our goal is to obtain new knowledge about the therapeutic mechanism of DBS and apply these findings to guide technological innovation, both for established indications and for emerging indications in neurology and psychiatry.\n\nOriginally from Starkville, Mississippi, Dr. Walker graduated Phi Beta Kappa and Summa Cum Laude from Birmingham-Southern College in 1997 with a BA in music. He attended medical school at the University of Alabama at Birmingham, where he participated in the Howard Hughes Medical Institute Research Scholars Program at the National Institutes of Health in Bethesda, Maryland. Following medical school, Dr. Walker pursued his neurology residency and movement disorders fellowship training at the University of Alabama at Birmingham.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "755-harrison-walker",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "755",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 96,
+      "favourites": 0
+    }
+  },
+  "firstName": "Harrison",
+  "firstNameLastName": "Harrison Walker",
+  "equipmentLinkTypes": [],
+  "objectId": 755,
+  "updatedWhen": "2025-05-10T08:04:02.4937432-05:00",
+  "hasCollaborationData": true,
+  "email": "hcwalker@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Bioengineering Brain Disorders Chronic Pain Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Neurodegenerative Neurosciences Pain Research Parkinson's Disease Rehabilitation Sleep Research",
+  "grant_keywords": ""
+}

@@ -1,0 +1,131 @@
+{
+  "lastName": "Bhatt",
+  "overview": "Dr. Bhatt completed his medical degree at Mysore Medical College in India, followed by an Internal Medicine residency and chief residency at the All India Institute of Medical Sciences (AIIMS) in New Delhi, India. He then completed residency training in Internal Medicine at Temple University/St Luke’s University Hospital, followed by fellowship training in Pulmonary, Critical Care and Occupational Medicine at the University of Iowa Hospital, Iowa City. He has been a UAB faculty member since 2012 and is currently Professor of Medicine and Endowed Professor of Airways Disease  in the Division of Pulmonary, Allergy and Critical Care Medicine. \n\nDr. Bhatt serves as the Director of the UAB Center for Lung Analytics and Imaging Research (CLAIR), as the Medical Director of the UAB Pulmonary Function and Exercise Physiology Lab, and as the Medical Director of the UAB Pulmonary Rehabilitation Program. Dr. Bhatt also directs the “UAB Telehealth Pulmonary Rehabilitation Program”, a novel program directed at providing COPD patients with pulmonary rehabilitation at home with the help of telemonitoring and new technology. He has been awarded the Pittman Scholars Award as well as the Dean's Excellence Award for  Research by the UAB School of Medicine. \nDr. Bhatt’s clinical interests include Chronic Obstructive Pulmonary Disease (COPD) and advanced emphysema. As part of the multidisciplinary team at the COPD Clinic, he has a particular interest in the comprehensive holistic management of COPD patients. He also evaluates patients for lung volume reduction procedures and has a special interest in bronchoscopic lung volume reduction procedures.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "631-surya-bhatt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "631",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 77,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 439,
+      "favourites": 0
+    }
+  },
+  "firstName": "Surya",
+  "firstNameLastName": "Surya Bhatt",
+  "equipmentLinkTypes": [],
+  "objectId": 631,
+  "updatedWhen": "2025-05-10T08:03:37.8853035-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Bioengineering Biomedical Imaging Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Emphysema Health Disparities Lung Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Physical Rehabilitation Rehabilitation Sleep Research Telehealth Tobacco Tobacco Smoke and Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,102 @@
+{
+  "lastName": "Dokland",
+  "overview": "Dr. Dokland received Bachelor’s and Master’s degrees in biology from the University of Oslo, Norway. He did PhD work (1989-1993) under Stephen D. Fuller at the European Molecular Biology Laboratory in Heidelberg, Germany, and was one of the first researchers to apply cryo-electron microscopy (cryo-EM) and 3D reconstruction to bacteriophages. From 1994-1998, he did postdoctoral work in X-ray crystallography with Michael G. Rossmann at Purdue University, where he determined the first crystal structure of a bacteriophage procapsid. From 1998-2004, he held an independent research position at the Institute of Molecular Agrobiology in Singapore. \nIn 2004, Dr. Dokland joined the Department of Microbiology at UAB where he established the cryo-EM facility. His main research focus is on the phage-induced mobilization of Staphylococcus aureus pathogenicity islands and the structure, host specificity and potential therapeutic use of staphylococcal bacteriophages. A recent new research direction involves the structure and regulation of the streptococcal ribosome. He also collaborates with a number of other researchers at UAB who need cryo-EM for their projects.\nDr. Dokland has been closely involved with teaching and the development of a structural biology curriculum, including an advanced course in electron microscopy. He received the Graduate School Dean’s Award for Excellence in Mentorship in 2011, and served as ASM distinguished lecturer from 2017-2019. He was permanent member of the MSFC study section from 2013-2019, and organized the FASEB Virus Structure and Assembly Conference in 2022. \nDr. Dokland is the director of the UAB cryo-EM facility, a UAB institutional research core and part of the O’Neal Comprehensive Cancer Center's Structural Biology Shared Resource. The facility is equipped with a Thermo Fisher Glacios 2 microscope with Falcon 4i detector, and a Talos F200C microscope with Ceta-F and DE Apollo detectors, and is capable of supporting high-resolution/high-throughput cryo-EM data collection and structure determination.\nIn his spare time, Dokland enjoys playing squash, mountain biking, beer tasting, international cooking and playing music, currently as guitarist in the band \"Payline\".",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2045-terje-dokland",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Microbiology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Virology"
+        ],
+        "value": "Virology"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Structural Biology (incl. Macromolecular Modelling)",
+          "Biology (incl. Macromolecular Modelling)",
+          "(incl. Macromolecular Modelling)",
+          "Macromolecular Modelling)",
+          "Modelling)"
+        ],
+        "value": "Structural Biology (incl. Macromolecular Modelling)"
+      }
+    ]
+  },
+  "discoveryId": "2045",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 63,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 96,
+      "favourites": 0
+    }
+  },
+  "firstName": "Terje",
+  "firstNameLastName": "Terje Dokland",
+  "equipmentLinkTypes": [],
+  "objectId": 2045,
+  "updatedWhen": "2025-05-10T08:06:35.9340286-05:00",
+  "hasCollaborationData": true,
+  "email": "dokland@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Dental/Oral and Craniofacial Disease Emerging Infectious Diseases Genetics Infectious Diseases",
+  "grant_keywords": "Antimicrobial Resistance Biodefense Bioengineering Biotechnology Emerging Infectious Diseases Immunization Immunotherapy Infectious Diseases Organ Transplantation Prevention Transplantation Vaccine Related"
+}

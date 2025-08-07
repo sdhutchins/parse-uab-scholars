@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1945",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 32,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 173,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 163,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ginter",
+  "firstName": "Peter",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1945-peter-ginter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "University Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "firstNameLastName": "Peter Ginter",
+  "equipmentLinkTypes": [],
+  "objectId": 1945,
+  "updatedWhen": "2025-05-10T08:06:24.4365647-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pginter@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

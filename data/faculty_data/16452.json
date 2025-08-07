@@ -1,0 +1,130 @@
+{
+  "lastName": "Ahn",
+  "overview": "Dr. Erin (Eun-Young) Ahn received her BS and MS from Seoul National University in South Korea, and then her Ph.D. from the Department of Pathology (Molecular & Cellular Pathology Graduate Program) at the University of Alabama at Birmingham (UAB) under the mentorship of Dr. Jay McDonald. After her graduate study, she moved to San Diego, California and completed her postdoctoral training in the laboratory of Dr. Dong-Er Zhang at the Scripps Research Institute and UC San Diego Moores Cancer Center. In July 2012, she started her Assistant Professor position at the University of South Alabama, Mitchell Cancer Institute where she was promoted to Associate Professor with tenure in 2016.  In February 2020, she was recruited to the Department of Pathology, Division of Molecular Cellular Pathology at UAB.     \n\nDr. Ahn’s research interest is to understand the molecular mechanisms of abnormal gene expression associated with cancer and neurodevelopmental disorders. Particularly, her current research focuses include dissecting the roles of various transcription factors, splicing factors, RNA-binding proteins and noncoding RNAs in gene transcription and alternative RNA splicing, and how dysregulations of these processes play causative roles in leukemia, glioblastoma and neurodevelopmental disorders.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16452-eun-young-ahn",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "16452",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 24,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "firstName": "Eun Young",
+  "firstNameLastName": "Eun Young Ahn",
+  "equipmentLinkTypes": [],
+  "objectId": 16452,
+  "updatedWhen": "2025-05-10T08:16:04.1304463-05:00",
+  "hasCollaborationData": true,
+  "email": "eyahn@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Brain Disorders Breast Cancer Cancer Cancer Genomics Cardiovascular Clinical Research Genetics Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Human Genome Intellectual and Developmental Disabilities (IDD) Rare Diseases Women's Health",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Genetics Hematology Human Genome Neurosciences Orphan Drug Pediatric Research Initiative Radiation Oncology Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human"
+}

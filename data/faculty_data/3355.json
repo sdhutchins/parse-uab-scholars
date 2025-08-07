@@ -1,0 +1,129 @@
+{
+  "lastName": "Jaskula-Sztul",
+  "overview": "Renata Jaskula-Sztul has a Masters degree in Cell Biology from the Adam Mickiewicz University in Poznan, Poland and a PhD in Biochemistry from the Institute of Bioorganic Chemistry Polish Academy of Sciences. She completed a two-year postdoctoral training in the Department of Pharmacology followed by an additional three-year postdoctoral fellowship in the Department of Human Oncology at UW-Madison. Since joining the Department of Surgery at UAB she has been working on multiple projects investigating the role of several small molecules in suppression of neuroendocrine cancers growth. Some of these compounds are already in Phase I clinical trials. In addition, she is investigating the tumor suppressor role of the Notch pathway in vitro and in vivo in medullary thyroid cancer. Most recently, she has changed the scientific direction to utilize novel nanomedicine techniques in order to develop targeted cancer therapies. In collaboration with bioengineers she has developed nanoparticles (nanopolimers and unimolecular micelles) conjugated with anticancer drugs specifically targeting neuroendocrine tumor cells and tissues. It is hoped that the multi-functional nanoparticle therapeutics which she is innovating will provide safe, effective treatments that can either augment or supplant surgical operations in the treatment of neuroendocrine cancer.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3355-renata-jaskulasztul",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Surg-Gen Surg-Breast and Endocrine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Biotechnology",
+          "Biotechnology"
+        ],
+        "value": "Environmental Biotechnology"
+      }
+    ]
+  },
+  "discoveryId": "3355",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 64,
+      "favourites": 0
+    }
+  },
+  "firstName": "Renata",
+  "firstNameLastName": "Renata Jaskula-Sztul",
+  "equipmentLinkTypes": [],
+  "objectId": 3355,
+  "updatedWhen": "2025-05-10T08:09:27.9886399-05:00",
+  "hasCollaborationData": true,
+  "email": "sztul@uab.edu",
+  "publication_keywords": "Biomedical Imaging Biotechnology Breast Cancer Cancer Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

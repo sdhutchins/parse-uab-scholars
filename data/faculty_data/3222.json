@@ -1,0 +1,125 @@
+{
+  "lastName": "Jones",
+  "overview": "Dr. Jones began her nursing career working in the University of Kentucky Emergency Department, a Level I trauma center. She completed her PhD in Nursing in 2015 with a focus on outcomes associated with use of older stored blood in patients with major trauma. She is certified as a Clinical Nurse Specialist in Adult Acute Care, and in Patient Blood Management. Dr. Jones is actively involved in the Stop the Bleed campaign through her connections with the UAB trauma team, and is a certified Stop The Bleed instructor. For more information on Stop the Bleed training, please contact uabstb@uab.edu. Dr. Jones currently serves as Co-Director of the BSN Honors Program.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3222-allison-jones",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "3222",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 149,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 60,
+      "favourites": 0
+    }
+  },
+  "firstName": "Allison",
+  "firstNameLastName": "Allison Jones",
+  "equipmentLinkTypes": [],
+  "objectId": 3222,
+  "updatedWhen": "2025-05-10T08:09:16.1843528-05:00",
+  "hasCollaborationData": true,
+  "email": "arjones3@uab.edu",
+  "publication_keywords": "Cardiovascular Chronic Pain Clinical Research Complementary and Integrative Health Dietary Supplements Emergency Care Health Services Nutrition Pain Research Physical Injury - Accidents and Adverse Effects Prevention Women's Health",
+  "grant_keywords": ""
+}

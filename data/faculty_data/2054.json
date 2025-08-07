@@ -1,0 +1,121 @@
+{
+  "lastName": "Kearney",
+  "overview": "The overall research plans of our laboratory are aimed at discovering fundamental cellular and molecular mechanisms involved in the development of T and B lymphocytes. Particular attention is focused on the factors involved in the establishment of a diverse B cell repertoire and the identification of novel B cell subsets and B cell progenitors in mice and humans.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2054-john-kearney",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "2054",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 66,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 284,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Kearney",
+  "equipmentLinkTypes": [],
+  "objectId": 2054,
+  "updatedWhen": "2025-05-10T08:06:35.9490164-05:00",
+  "hasCollaborationData": true,
+  "email": "jfk@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biotechnology Diabetes Genetics Immunization Microbiome Pediatric Prevention Stem Cell Research",
+  "grant_keywords": "Autoimmune Disease Biodefense Biotechnology Clinical Research Coronaviruses Diabetes Emerging Infectious Diseases Genetics Health Disparities Immunization Immunotherapy Infectious Diseases Microbiome Minority Health Orphan Drug Pediatric Prevention Rare Diseases Transplantation Vaccine Related"
+}

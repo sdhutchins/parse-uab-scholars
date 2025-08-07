@@ -1,0 +1,123 @@
+{
+  "discoveryId": "749",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 53,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 381,
+      "favourites": 0
+    }
+  },
+  "lastName": "Szaflarski",
+  "firstName": "Jerzy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "749-jerzy-szaflarski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Jerzy Szaflarski",
+  "equipmentLinkTypes": [],
+  "objectId": 749,
+  "updatedWhen": "2025-05-10T08:04:02.4897371-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "szaflaj@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Cerebrovascular Clinical Research Dementia Depression Epilepsy Lymphatic Research Mental Health Mental Illness Neurodegenerative Neurosciences Pediatric Prevention Sleep Research Vascular Cognitive Impairment/Dementia",
+  "grant_keywords": ""
+}

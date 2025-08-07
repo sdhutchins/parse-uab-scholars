@@ -1,0 +1,126 @@
+{
+  "lastName": "Munchus",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2304-george-munchus",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Management, Information Systems and Quantitative Methods"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Urban and Regional Planning",
+          "and Regional Planning",
+          "Regional Planning",
+          "Planning"
+        ],
+        "value": "Urban and Regional Planning"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      }
+    ]
+  },
+  "discoveryId": "2304",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 128,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 255,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 65,
+      "favourites": 0
+    }
+  },
+  "firstName": "George",
+  "firstNameLastName": "George Munchus",
+  "equipmentLinkTypes": [],
+  "objectId": 2304,
+  "updatedWhen": "2025-05-10T08:07:17.6394768-05:00",
+  "hasCollaborationData": true,
+  "email": "munchus@uab.edu",
+  "publication_keywords": "Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health",
+  "grant_keywords": ""
+}

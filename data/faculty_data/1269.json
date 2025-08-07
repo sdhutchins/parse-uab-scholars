@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1269",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Arora",
+  "firstName": "Amit",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1269-amit-arora",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Huntsville Medical - Psychiatry Program"
+    }
+  ],
+  "firstNameLastName": "Amit Arora",
+  "equipmentLinkTypes": [],
+  "objectId": 1269,
+  "updatedWhen": "2025-05-10T08:05:06.4891655-05:00",
+  "hasCollaborationData": false,
+  "email": "aarora@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,130 @@
+{
+  "lastName": "Wang",
+  "overview": "Dr. Wang is originally from China, and received his undergraduate education at Tsinghua University in Beijing, China (BS and B.Eng.) and graduate education at the University of Illinois at Chicago (MS) and the University of Wisconsin-Madison (PhD). At UW-Madison, Dr. Wang focused on studying kinetic protonation of enols, a classical physical organic chemistry topic, under the supervision of Professor Howard E. Zimmerman. He then joined Professor David Y. Gin at the University of Illinois-Urbana as a postdoctoral associate, working on natural product synthesis.\n\nIn 2005, Dr. Wang started his independent academic career at UAB, focusing on discovery of novel organic reactions and development of new methodologies for application in organic synthesis, biochemical and biophysical research, medicinal chemistry, and materials science.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2526-pengfei-wang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2526",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 202,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 39,
+      "favourites": 2
+    }
+  },
+  "firstName": "Pengfei",
+  "firstNameLastName": "Pengfei Wang",
+  "equipmentLinkTypes": [],
+  "objectId": 2526,
+  "updatedWhen": "2025-05-10T08:07:50.5356378-05:00",
+  "hasCollaborationData": true,
+  "email": "wangp@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Complementary and Integrative Health Drug Abuse (NIDA only) Emerging Infectious Diseases Immunization Infectious Diseases Opioid Misuse and Addiction Opioids Prevention Substance Misuse Vaccine Related",
+  "grant_keywords": "Biotechnology Cancer Complementary and Integrative Health HIV/AIDS Immunization Infectious Diseases Prevention Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS)"
+}

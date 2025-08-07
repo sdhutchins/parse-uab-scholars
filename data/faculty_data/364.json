@@ -1,0 +1,124 @@
+{
+  "discoveryId": "364",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 150,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 105,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pogwizd",
+  "firstName": "Steven",
+  "hasThumbnail": true,
+  "discoveryUrlId": "364-steven-pogwizd",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Steven Pogwizd",
+  "equipmentLinkTypes": [],
+  "objectId": 364,
+  "updatedWhen": "2025-05-10T08:03:00.7790941-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "spogwizd@uab.edu",
+  "publication_keywords": "Biotechnology Cardiovascular Clinical Research Clinical Trials and Supportive Activities Genetics Health Disparities Heart Disease Heart Disease - Coronary Heart Disease Patient Safety Physical Activity Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Transplantation",
+  "grant_keywords": "Cardiovascular Genetics Heart Disease Sleep Research"
+}

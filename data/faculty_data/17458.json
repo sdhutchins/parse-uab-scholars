@@ -1,0 +1,104 @@
+{
+  "lastName": "Matlawska-Wasowska",
+  "overview": "Dr. Matlawska received her MSc in 2002 and Ph.D. in 2007 in the Department of Cytogenetics and Molecular Biology at the University of Lodz in Poland—a premier university in Poland. Both of her degrees were awarded with honors. She pursued post-doctoral training as the Marie Curie Fellow as the National University of Ireland and at the University of New Mexico Health Sciences Center. Her postdoctoral training focused on the cytotoxic mechanism of action of cancer therapeutics. In 2012, she was promoted to research assistant professor in the Department of Pediatrics at UNM with a focus on T-cell lineage acute lymphoblastic leukemia (T-ALL) in pediatric patients. Two years later, she transitioned to tenure track, and in 2020, was promoted to associate professor with tenure. Her current work focuses on pathways that regulate T-ALL progression and dissemination in pediatric and adult populations, and the role of CNS infiltration and inflammation in these processes.  Her recent work on RUNX2 provides a mechanistic link between alterations in cancer cell metabolism and chemotaxis in high-risk T-ALL.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17458-ksenia-matlawskawasowska",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Cancer Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "17458",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 30,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ksenia",
+  "firstNameLastName": "Ksenia Matlawska-Wasowska",
+  "equipmentLinkTypes": [],
+  "objectId": 17458,
+  "updatedWhen": "2025-05-10T08:17:42.4215507-05:00",
+  "hasCollaborationData": true,
+  "email": "kmatlawska@uab.edu",
+  "publication_keywords": "Cancer Cancer Genomics Childhood Leukemia Colo-Rectal Cancer Digestive Diseases Genetics Hematology Human Genome Neurosciences Orphan Drug Pediatric Pediatric Cancer Pediatric Research Initiative Rare Diseases Stem Cell Research Women's Health",
+  "grant_keywords": "Cancer Hematology Pediatric Rare Diseases"
+}

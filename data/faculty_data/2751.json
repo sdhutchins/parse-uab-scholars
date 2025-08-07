@@ -1,0 +1,124 @@
+{
+  "lastName": "Uswatte",
+  "overview": "Dr. Uswatte’s research has been funded by the US Department of Veterans Affairs, National Institute on Disability and Rehabilitation Research, National Institutes of Health, James S. McDonnell Foundation, American Heart Association, and Positive Psychology Network. He received the Mitchell Rosenthal Early Career Research Award from the Division of Rehabilitation Psychology of the American Psychological Association (APA) in 2008, was elected President of that division in 2013, and received the Roger Barker Distinguished Research Contribution Award from the same division in 2020. He was made an APA Fellow in 2011. \n\nHis area of clinical specialization is rehabilitation psychology.\n\nDr. Uswatte’s teaching interests include research methods, statistics, the psychology of strengths and virtues (positive psychology), and the psychology of social inequality.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2751-gitendra-uswatte",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "2751",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 77,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 101,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gitendra",
+  "firstNameLastName": "Gitendra Uswatte",
+  "equipmentLinkTypes": [],
+  "objectId": 2751,
+  "updatedWhen": "2025-05-10T08:08:22.0100860-05:00",
+  "hasCollaborationData": true,
+  "email": "guswatte@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Cerebral Palsy Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Machine Learning and Artificial Intelligence Multiple Sclerosis Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Physical Activity Physical Rehabilitation Rehabilitation",
+  "grant_keywords": "Aging Biomedical Imaging Brain Disorders Cerebrovascular Neurosciences Physical Rehabilitation Rehabilitation Stroke"
+}

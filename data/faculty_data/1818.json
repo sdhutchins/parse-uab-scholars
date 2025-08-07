@@ -1,0 +1,187 @@
+{
+  "lastName": "Qu",
+  "overview": "Haiyan Qu, Ph.D teaches quantitative research methods for M.S. in Health Administration Program and M.S. in Health Informatics Program, and mixed methods for the Graduate Certificate in Applications of Mixed Methods Research.\n\nDr.Qu has been an investigator and methodologist for more than 30 funded research projects spanning various disciplines.  Her research interests focus on addressing health disparities, promoting health equity, enhancing healthcare quality, and conducting patient-centered outcomes research utilizing mixed methods. Her work has been published in various esteemed peer-reviewed journals. Since 2013, Dr.Qu has served as a scientist reviewer on multiple merit review panels at the Patient-Centered Outcomes Research Institute (PCORI). She serves as an Associate Editor for the Journal of Risk Management and Healthcare Policy.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1818-haiyan-qu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Library and Information Studies",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Informatics",
+          "Informatics"
+        ],
+        "value": "Health Informatics"
+      },
+      {
+        "paths": [
+          [
+            "Sociology",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociological Methodology and Research Methods",
+          "Methodology and Research Methods",
+          "and Research Methods",
+          "Research Methods",
+          "Methods"
+        ],
+        "value": "Sociological Methodology and Research Methods"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aged Health Care",
+          "Health Care",
+          "Care"
+        ],
+        "value": "Aged Health Care"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Care Administration",
+          "Care Administration",
+          "Administration"
+        ],
+        "value": "Health Care Administration"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Promotion",
+          "Promotion"
+        ],
+        "value": "Health Promotion"
+      },
+      {
+        "paths": [
+          [
+            "Policy and Administration",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Policy",
+          "Policy"
+        ],
+        "value": "Health Policy"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health and Community Services",
+          "and Community Services",
+          "Community Services",
+          "Services"
+        ],
+        "value": "Health and Community Services"
+      }
+    ]
+  },
+  "discoveryId": "1818",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 92,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 226,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 274,
+      "favourites": 0
+    }
+  },
+  "firstName": "Haiyan",
+  "firstNameLastName": "Haiyan Qu",
+  "equipmentLinkTypes": [],
+  "objectId": 1818,
+  "updatedWhen": "2025-05-12T14:49:18.5192715-05:00",
+  "hasCollaborationData": true,
+  "email": "hyqu@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Mental Health Nutrition Obesity Prevention Social Determinants of Health",
+  "grant_keywords": ""
+}

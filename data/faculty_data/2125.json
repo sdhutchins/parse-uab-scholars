@@ -1,0 +1,127 @@
+{
+  "lastName": "Chatham",
+  "overview": "John Chatham received his D.Phil. in 1987 from John Chatham received his D.Phil. in 1987 from the Department of Biochemistry at the University of Oxford in the UK. He completed his post-doctoral training at Johns Hopkins School of Medicine in 1989.  He is currently Professor of Pathology in the Division of Molecular and Cellular Pathology at the University of Alabama at Birmingham.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2125-john-chatham",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "2125",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 276,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Chatham",
+  "equipmentLinkTypes": [],
+  "objectId": 2125,
+  "updatedWhen": "2025-05-10T08:06:50.7061678-05:00",
+  "hasCollaborationData": true,
+  "email": "jchatham@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Cardiovascular Dementia Diabetes Genetics Heart Disease Mental Health Neurodegenerative Neurosciences Nutrition",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Atherosclerosis Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Cardiovascular Dementia Diabetes Genetics Health Disparities Heart Disease Heart Disease - Coronary Heart Disease Kidney Disease Lewy Body Dementia Mental Health Minority Health Neurodegenerative Neurosciences Nutrition Parkinson's Disease Sleep Research"
+}

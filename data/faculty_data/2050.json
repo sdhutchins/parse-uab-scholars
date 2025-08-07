@@ -1,0 +1,126 @@
+{
+  "lastName": "Hu",
+  "overview": "Welcome to the Hu Lab!\n\nMeet Hui Hu, Ph.D., an immunologist studying the transcriptional regulation of adaptive immunity in viral infections, allergy, and tumor models. His research interests include Tfh cell differentiation, germinal center and humoral responses, CD8+ T cell activation and exhaustion, immune memory, and vaccines.\n\nBefore joining the Department of Microbiology at UAB, Hu was an Associate Professor at the Wistar Institute in Philadelphia. He worked as a postdoctoral fellow at the Trudeau Institute and as a postdoctoral associate at the Center for Cancer Research at MIT and the CBR Institute for Biomedical Research (IDI) at Harvard Medical School. He was also an instructor in the Department of Pediatrics at Harvard’s Children’s Hospital before moving to the Wistar Institute. Hu earned his doctorate from Stockholm University in Stockholm, Sweden. He has received several awards and honors, including the ACGT Young Investigator Award.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2050-hui-hu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Industrial Biotechnology",
+          "Biotechnology"
+        ],
+        "value": "Industrial Biotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "2050",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 0
+    }
+  },
+  "firstName": "Hui",
+  "firstNameLastName": "Hui Hu",
+  "equipmentLinkTypes": [],
+  "objectId": 2050,
+  "updatedWhen": "2025-05-10T08:06:35.9450192-05:00",
+  "hasCollaborationData": true,
+  "email": "huihu@uab.edu",
+  "publication_keywords": "Cancer Clinical Research Genetics HIV/AIDS Immunization Immunotherapy Infectious Diseases Prevention Sexually Transmitted Infections Vaccine Related",
+  "grant_keywords": "Aging Behavioral and Social Science Biotechnology Clinical Research Drug Abuse (NIDA only) Genetics HIV/AIDS Health Disparities Human Genome Immunization Infectious Diseases Minority Health Prevention Sexually Transmitted Infections Substance Misuse Vaccine Related Vaccine Related (AIDS) Women's Health"
+}

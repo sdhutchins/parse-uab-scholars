@@ -1,0 +1,126 @@
+{
+  "discoveryId": "2019",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 64,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 86,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kedishvili",
+  "firstName": "Natalia",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2019-natalia-kedishvili",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Natalia Kedishvili",
+  "equipmentLinkTypes": [],
+  "objectId": 2019,
+  "updatedWhen": "2025-05-10T08:06:35.9060074-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nkedishvili@uab.edu",
+  "publication_keywords": "Autoimmune Disease Clinical Research Crohn's Disease Digestive Diseases Genetics Inflammatory Bowel Disease Nutrition Regenerative Medicine Stem Cell Research",
+  "grant_keywords": "Dietary Supplements Eye Disease and Disorders of Vision Nutrition"
+}

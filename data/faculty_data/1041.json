@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1041",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 80,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 156,
+      "favourites": 0
+    }
+  },
+  "lastName": "Lahti",
+  "firstName": "Adrienne",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1041-adrienne-lahti",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Adrienne Lahti",
+  "equipmentLinkTypes": [],
+  "objectId": 1041,
+  "updatedWhen": "2025-05-10T08:04:33.7175293-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "alahti@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Child Abuse and Neglect Research Clinical Research Clinical Trials and Supportive Activities Mental Health Mental Illness Neurosciences Pediatric Physical Injury - Accidents and Adverse Effects Prevention Schizophrenia Serious Mental Illness Violence Research",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) Health Disparities Mental Health Mental Illness Minority Health Neurosciences Prevention Schizophrenia Serious Mental Illness Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Women's Health"
+}

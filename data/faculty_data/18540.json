@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18540",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Murphy",
+  "firstName": "Britney",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18540-britney-murphy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Britney Murphy",
+  "equipmentLinkTypes": [],
+  "objectId": 18540,
+  "updatedWhen": "2025-05-10T08:19:42.4995626-05:00",
+  "hasCollaborationData": false,
+  "email": "bmurphy2@uab.edu",
+  "publication_keywords": "Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Social Determinants of Health",
+  "grant_keywords": ""
+}

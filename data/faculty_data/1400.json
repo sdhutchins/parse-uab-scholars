@@ -1,0 +1,85 @@
+{
+  "discoveryId": "1400",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 80,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 29,
+      "favourites": 0
+    }
+  },
+  "lastName": "Thornton",
+  "firstName": "John",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1400-john-thornton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "firstNameLastName": "John Thornton",
+  "equipmentLinkTypes": [],
+  "objectId": 1400,
+  "updatedWhen": "2025-05-10T08:05:15.8206022-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "jbthornt@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Cerebral Palsy Clinical Research Dental/Oral and Craniofacial Disease Health Disparities and Racial or Ethnic Minority Health Research Health Services Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Prevention",
+  "grant_keywords": ""
+}

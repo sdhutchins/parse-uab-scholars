@@ -1,0 +1,99 @@
+{
+  "lastName": "Donaldson",
+  "overview": "Dr. Jonan Phillip Donaldson is a learning scientist with a position as Assistant Professor of Learning Design & Learning Sciences in the University of Alabama at Birmingham School of Education where he is the leader for the M.S. in Learning Design & Learning Sciences program. He has a Ph.D. in Educational Leadership and Learning Technology from Drexel University. He has led faculty development workshops and taught courses in the learning sciences, educational research, technology, learning experience design, and critical thinking at Texas A&M University, Drexel University, Oregon State University, Western Oregon University, and other higher education institutions. His specialties include foundations of the learning sciences, design-based research, constructionist learning, critical thinking, epistemic learning, design thinking, and creativity. His current research involves using theory and methods from the learning sciences, complex systems theory, and other disciplines to investigate the relationship between conceptualizations of learning and practices in teaching and learning.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18521-jonan-phillip-donaldson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Specialist Studies in Education",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Learning Sciences",
+          "Sciences"
+        ],
+        "value": "Learning Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Computation Theory and Mathematics",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analysis of Algorithms and Complexity",
+          "of Algorithms and Complexity",
+          "Algorithms and Complexity",
+          "and Complexity",
+          "Complexity"
+        ],
+        "value": "Analysis of Algorithms and Complexity"
+      },
+      {
+        "paths": [
+          []
+        ],
+        "valueAnalysed": [
+          "Education"
+        ],
+        "value": "Education"
+      },
+      {
+        "paths": [
+          []
+        ],
+        "valueAnalysed": [
+          "Psychology and Cognitive Sciences",
+          "and Cognitive Sciences",
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Psychology and Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "18521",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 68,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jonan Phillip",
+  "firstNameLastName": "Jonan Phillip Donaldson",
+  "equipmentLinkTypes": [],
+  "objectId": 18521,
+  "updatedWhen": "2025-05-10T08:19:33.9895757-05:00",
+  "hasCollaborationData": false,
+  "email": "jonandonaldson@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Bioengineering Clinical Research Data Science Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

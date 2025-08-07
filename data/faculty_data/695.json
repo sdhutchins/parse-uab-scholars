@@ -1,0 +1,124 @@
+{
+  "discoveryId": "695",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 52,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 35,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 178,
+      "favourites": 0
+    }
+  },
+  "lastName": "Randall",
+  "firstName": "Troy",
+  "hasThumbnail": true,
+  "discoveryUrlId": "695-troy-randall",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "firstNameLastName": "Troy Randall",
+  "equipmentLinkTypes": [],
+  "objectId": 695,
+  "updatedWhen": "2025-05-10T08:03:50.0191373-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "randallt@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biotechnology Cardiovascular Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Emerging Infectious Diseases Genetics Hypertension Immunization Infectious Diseases Lung Nanotechnology Nutrition Pneumonia & Influenza Prevention Vaccine Related",
+  "grant_keywords": "Biotechnology Immunization Immunotherapy Infectious Diseases Organ Transplantation Prevention Transplantation Vaccine Related"
+}

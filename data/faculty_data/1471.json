@@ -1,0 +1,125 @@
+{
+  "lastName": "Harper",
+  "overview": "Dr. Harper is recently retired Dean of the UAB School of Nursing. During her time as dean she also was Fay B. Ireland Endowed Chair in Nursing and served as Director of the Pan American Health Organization (PAHO)/World Health Organization (WHO) Collaborating Center on International Nursing at UAB, one of ten centers in the United States that focus on nursing education to improve the care for children and families through global outreach. Dr. Harper's scholarly work breaks new ground in joint academic/service partnerships for nursing workforce development",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1471-doreen-harper",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Prof/Dean Emerita",
+      "department": "Nursing Academic Support"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1471",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 164,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 204,
+      "favourites": 0
+    }
+  },
+  "firstName": "Doreen",
+  "firstNameLastName": "Doreen Harper",
+  "equipmentLinkTypes": [],
+  "objectId": 1471,
+  "updatedWhen": "2025-05-10T08:05:25.8555914-05:00",
+  "hasCollaborationData": true,
+  "email": "dcharper@uab.edu",
+  "publication_keywords": "Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases",
+  "grant_keywords": ""
+}

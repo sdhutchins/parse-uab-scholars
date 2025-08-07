@@ -1,0 +1,134 @@
+{
+  "lastName": "McGregor",
+  "overview": "Keith McGregor is an Associate Professor and Director of Research in the Department of Clinical and Diagnostic Sciences. His work investigates aging-related declines in motor control and its implications for stroke rehabilitation. His work employs multimodal imaging (TMS, fMRI, MRS, and DWI) and neurostimulation techniques ( rTMS, tDCS). Dr. McGregor's research has shown that aging is associated with decreased levels of cortical inhibition, which affects cognition and motor control, including motor learning. However, a significant facet of this aging-related phenomenon is that individual differences in physical activity level appear to mitigate changes in cortical communication. Dr. McGregor's research has shown that lifestyle interventions can lessen or even reverse aging-related declines in behavioral performance in motor and cognitive domains. These findings have great relevance to rehabilitation programs that the incorporation of increased physical activity may augment. His Lab is the Alabama Brain Lab - IT (https://alabamabrain.org) (ABL-IT).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17337-keith-mcgregor",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Clinical & Diagnostic Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "17337",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 77,
+      "favourites": 0
+    }
+  },
+  "firstName": "Keith",
+  "firstNameLastName": "Keith McGregor",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "It’s probably one of the most common New Year’s resolutions we make –exercise. How we’re going to do more of it, how this time we’re going to stick do it. We do it to lose weight, to reduce stress, to feel better about ourselves. But what if exercise alone could make your brain younger? According to research from Keith McGregor and colleagues, that’s exactly what it can do.",
+      "embedLink": "https://www.youtube-nocookie.com/embed/J7Oae43rQUc",
+      "label": "Exercise and the Brain",
+      "thumbnailLink": "https://img.youtube.com/vi/J7Oae43rQUc/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/J7Oae43rQUc?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 17337,
+  "updatedWhen": "2025-05-10T08:17:26.0878807-05:00",
+  "hasCollaborationData": true,
+  "email": "kmmcgreg@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Biomedical Imaging Brain Disorders Cerebrovascular Chronic Pain Clinical Research Clinical Trials and Supportive Activities Coronaviruses Emerging Infectious Diseases Infectious Diseases Mind and Body Neurosciences Pain Research Patient Safety Physical Activity Prevention Rehabilitation Stroke",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Mental Health Neurosciences"
+}

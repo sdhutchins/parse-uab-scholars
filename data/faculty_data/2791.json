@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2791",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 87,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Downs",
+  "firstName": "Lauren",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2791-lauren-downs",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Anthropology"
+    }
+  ],
+  "firstNameLastName": "Lauren Downs",
+  "equipmentLinkTypes": [],
+  "objectId": 2791,
+  "updatedWhen": "2025-05-10T08:08:22.0347711-05:00",
+  "hasCollaborationData": false,
+  "email": "ldowns@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18058",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pozo Jatem",
+  "firstName": "Marcos",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18058-marcos-pozo-jatem",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Surgery - Transplantation"
+    }
+  ],
+  "firstNameLastName": "Marcos Pozo Jatem",
+  "equipmentLinkTypes": [],
+  "objectId": 18058,
+  "updatedWhen": "2025-05-10T08:18:35.8204553-05:00",
+  "hasCollaborationData": false,
+  "email": "mpozojat@uab.edu",
+  "publication_keywords": "Aging Biomedical Imaging Cancer Cardiovascular Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hepatitis Kidney Disease Liver Disease Minority Health Organ Transplantation Patient Safety Radiation Oncology Rare Diseases Transplantation Women's Health",
+  "grant_keywords": ""
+}

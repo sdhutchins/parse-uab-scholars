@@ -1,0 +1,87 @@
+{
+  "discoveryId": "1938",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 42,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 137,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "lastName": "Yi",
+  "firstName": "Nengjun",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1938-nengjun-yi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Public Health",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Nengjun Yi",
+  "equipmentLinkTypes": [],
+  "objectId": 1938,
+  "updatedWhen": "2025-05-10T08:06:24.4209434-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nyi@uab.edu",
+  "publication_keywords": "Autoimmune Disease Bioengineering Cancer Digestive Diseases Genetics Human Genome Inflammatory Bowel Disease Microbiome Precision Medicine Rare Diseases",
+  "grant_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Depression Mental Health Mental Illness Mind and Body Neurosciences Physical Injury - Accidents and Adverse Effects Spinal Cord Injury Traumatic Head and Spine Injury"
+}

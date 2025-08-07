@@ -1,0 +1,122 @@
+{
+  "discoveryId": "384",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 68,
+      "favourites": 0
+    }
+  },
+  "lastName": "Habegger",
+  "firstName": "Kirk",
+  "hasThumbnail": true,
+  "discoveryUrlId": "384-kirk-habegger",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "firstNameLastName": "Kirk Habegger",
+  "equipmentLinkTypes": [],
+  "objectId": 384,
+  "updatedWhen": "2025-05-10T08:03:00.8144123-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "habegger@uab.edu",
+  "publication_keywords": "Cardiovascular Childhood Obesity Conditions Affecting the Embryonic and Fetal Periods Diabetes Digestive Diseases Genetics Heart Disease Maternal Health Maternal Morbidity and Mortality Nutrition Obesity Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Prevention Sleep Research Women's Health",
+  "grant_keywords": "Aging Behavioral and Social Science Clinical Research Drug Abuse (NIDA only) HIV/AIDS Health Disparities Infectious Diseases Minority Health Sexually Transmitted Infections Substance Misuse Women's Health"
+}

@@ -1,0 +1,122 @@
+{
+  "discoveryId": "5153",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 119,
+      "favourites": 0
+    }
+  },
+  "lastName": "Might",
+  "firstName": "Matthew",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5153-matthew-might",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor"
+    }
+  ],
+  "firstNameLastName": "Matthew Might",
+  "equipmentLinkTypes": [],
+  "objectId": 5153,
+  "updatedWhen": "2025-05-10T08:12:02.7216316-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Numerical and Computational Mathematics",
+          "and Computational Mathematics",
+          "Computational Mathematics",
+          "Mathematics"
+        ],
+        "value": "Numerical and Computational Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "might@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biomedical Imaging Brain Disorders Cardiovascular Clinical Research Coronaviruses Coronaviruses Diagnostics and Prognostics Coronaviruses Disparities and At-Risk Populations Diabetes Emerging Infectious Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Infectious Diseases Lung Minority Health Neurosciences Nutrition Obesity Orphan Drug Physical Activity Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Stem Cell Research - Nonembryonic - Human",
+  "grant_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Genetics Health Disparities Human Genome Minority Health Precision Medicine Prevention"
+}

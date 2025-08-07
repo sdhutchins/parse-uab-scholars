@@ -1,0 +1,103 @@
+{
+  "discoveryId": "17718",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jones",
+  "firstName": "Raymond",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17718-raymond-jones",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "firstNameLastName": "Raymond Jones",
+  "equipmentLinkTypes": [],
+  "objectId": 17718,
+  "updatedWhen": "2025-05-10T08:18:11.1796130-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geriatrics and Gerontology",
+          "and Gerontology",
+          "Gerontology"
+        ],
+        "value": "Geriatrics and Gerontology"
+      },
+      {
+        "paths": [
+          [
+            "Human Movement and Sports Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Exercise Physiology",
+          "Physiology"
+        ],
+        "value": "Exercise Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Infectious Diseases",
+          "Diseases"
+        ],
+        "value": "Infectious Diseases"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jonesr@uab.edu",
+  "publication_keywords": "Aging Cardiovascular Diabetes HIV/AIDS Health Disparities Heart Disease Infectious Diseases Minority Health Nutrition Obesity Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Minority Health Pediatric Physical Activity Prevention"
+}

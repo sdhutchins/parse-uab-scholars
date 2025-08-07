@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18332",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Peters",
+  "firstName": "Jamie",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18332-jamie-peters",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Jamie Peters",
+  "equipmentLinkTypes": [],
+  "objectId": 18332,
+  "updatedWhen": "2025-05-10T08:19:08.9518836-05:00",
+  "hasCollaborationData": false,
+  "email": "doctorj@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Drug Abuse (NIDA only) Mental Health Neurosciences Opioid Misuse and Addiction Opioids Substance Misuse Women's Health",
+  "grant_keywords": ""
+}

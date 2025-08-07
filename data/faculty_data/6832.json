@@ -1,0 +1,60 @@
+{
+  "lastName": "Crowder",
+  "overview": "I work in the fields of genetics, neurobiology, molecular and cellular biology.  I was raised in Birmingham, AL and my education and scientific pursuits have taken me all over the United States and abroad.\n \nMy goal in research is to use genetic & molecular approaches to better understand development, cellular signaling, and neuronal functioning.  I aim to understand how genetic mutations, environmental variables, and chemicals can induce or disrupt cellular signaling associated with nervous system functioning. In order to study these topics, I have experience working with a multitude of biological organisms including bacteria, corals, sea anemones, and zebrafish.\n\nMy passion for teaching has provided me the opportunity to teach and develop multiple courses in the biological sciences, including molecular genetics, neurogenetics, neuroplasticity, human anatomy & physiology, and cellular biology. Through the Center for the Integration of Research, Teaching and Learning (CIRTL) I have earned certifications and expanded my knowledge of teaching practices and pedagogy.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6832-camerron-crowder",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "6832",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 58,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 13,
+      "favourites": 0
+    }
+  },
+  "firstName": "Camerron",
+  "firstNameLastName": "Camerron Crowder",
+  "equipmentLinkTypes": [],
+  "objectId": 6832,
+  "updatedWhen": "2025-05-10T08:13:51.4888872-05:00",
+  "hasCollaborationData": true,
+  "email": "camerron@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Dystonia Genetics Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Orphan Drug Precision Medicine Rare Diseases",
+  "grant_keywords": ""
+}

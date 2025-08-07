@@ -1,0 +1,122 @@
+{
+  "lastName": "Dantzler",
+  "overview": "John Dantzler is an associate professor in the Department of Psychiatry, the Vice Chair of Substance Abuse Programs, and the Executive Director of the Beacon Recovery and Community Justice programs.  Beacon Recovery is UAB's substance use treatment program dedicated to serving uninsured and under insured individuals in an outpatient setting.  The UAB Community Justice programs (AKA TASC) serve the Jefferson County Courts as the administrator of specialty courts (Drug Court, Mental Health Court, Veteran's Court) and as the community corrections provider for Jefferson County through a contract with the Alabama Department of Corrections.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3272-john-dantzler",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychiatry - Substance Abuse"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Education",
+          "Education"
+        ],
+        "value": "Other Education"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Demography"
+        ],
+        "value": "Demography"
+      }
+    ]
+  },
+  "discoveryId": "3272",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 86,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Dantzler",
+  "equipmentLinkTypes": [],
+  "objectId": 3272,
+  "updatedWhen": "2025-05-10T08:09:16.2154321-05:00",
+  "hasCollaborationData": true,
+  "email": "dantzler@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Conditions Affecting the Embryonic and Fetal Periods Digestive Diseases Drug Abuse (NIDA only) Emerging Infectious Diseases Health Services Hepatitis Hepatitis - C Infant Mortality Infectious Diseases Intellectual and Developmental Disabilities (IDD) Liver Disease Maternal Health Mental Health Opioid Misuse and Addiction Opioids Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Physical Injury - Accidents and Adverse Effects Pregnancy Prescription Drug Abuse Prevention Substance Misuse Women's Health",
+  "grant_keywords": ""
+}

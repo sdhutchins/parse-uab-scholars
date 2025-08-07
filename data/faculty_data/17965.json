@@ -1,0 +1,110 @@
+{
+  "discoveryId": "17965",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Miller",
+  "firstName": "Gabe",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17965-gabe-miller",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Gabe Miller",
+  "equipmentLinkTypes": [],
+  "objectId": 17965,
+  "updatedWhen": "2025-05-10T08:18:27.5133497-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": null,
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Injury Clinical Research Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Mental Illness Pediatric Research Initiative Prevention Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Suicide Suicide Prevention Women's Health",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Rural Health Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Women's Health Workforce Diversity and Outreach"
+}

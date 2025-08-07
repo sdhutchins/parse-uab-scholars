@@ -1,0 +1,123 @@
+{
+  "lastName": "Harrod",
+  "overview": "Benjamin Monroe Carraway Endowed Chair and Professor\nVice Chair of Research, Department of of Anesthesiology and Perioperative Medicine\nDirector, Division of Molecular and Translational Biomedicine",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2848-kevin-harrod",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Anesthesiology",
+      "department": "Anesthesiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2848",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 139,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kevin",
+  "firstNameLastName": "Kevin Harrod",
+  "equipmentLinkTypes": [],
+  "objectId": 2848,
+  "updatedWhen": "2025-05-10T08:08:32.5928999-05:00",
+  "hasCollaborationData": true,
+  "email": "kharrod@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biotechnology Chronic Obstructive Pulmonary Disease Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Therapeutics and Interventions Coronaviruses Vaccines Emerging Infectious Diseases Genetics Immunization Infectious Diseases Influenza Lung Nanotechnology Pneumonia & Influenza Prevention Tobacco Tobacco Smoke and Health Vaccine Related",
+  "grant_keywords": "Biodefense Emerging Infectious Diseases Infectious Diseases Influenza Lung Pneumonia Pneumonia & Influenza"
+}

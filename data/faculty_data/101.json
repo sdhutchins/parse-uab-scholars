@@ -1,0 +1,125 @@
+{
+  "discoveryId": "101",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 32,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 365,
+      "favourites": 0
+    }
+  },
+  "lastName": "Matalon",
+  "firstName": "Sadis",
+  "hasThumbnail": false,
+  "discoveryUrlId": "101-sadis-matalon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Anesthesiology",
+      "department": "Anesthesiology"
+    }
+  ],
+  "firstNameLastName": "Sadis Matalon",
+  "equipmentLinkTypes": [],
+  "objectId": 101,
+  "updatedWhen": "2025-05-10T08:02:22.2360488-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sadis@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Biotechnology Clinical Research Cystic Fibrosis Genetics Infectious Diseases Lung Pediatric Rare Diseases",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Asthma Biodefense Clinical Research Emerging Infectious Diseases Genetics Health Disparities Immunotherapy Infectious Diseases Lung Minority Health Rare Diseases Women's Health"
+}

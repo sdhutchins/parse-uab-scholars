@@ -1,0 +1,126 @@
+{
+  "discoveryId": "6340",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 44,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 64,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cain",
+  "firstName": "Cindy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6340-cindy-cain",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Cindy Cain",
+  "equipmentLinkTypes": [],
+  "objectId": 6340,
+  "updatedWhen": "2025-05-10T08:13:14.7620640-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "History and Philosophy of Specific Fields",
+          "and Philosophy of Specific Fields",
+          "Philosophy of Specific Fields",
+          "of Specific Fields",
+          "Specific Fields",
+          "Fields"
+        ],
+        "value": "History and Philosophy of Specific Fields"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "clcain@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Clinical Research Dementia Health Services Neurodegenerative Neurosciences",
+  "grant_keywords": ""
+}

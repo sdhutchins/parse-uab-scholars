@@ -1,0 +1,96 @@
+{
+  "discoveryId": "17185",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 94,
+      "favourites": 0
+    }
+  },
+  "lastName": "Stefanov",
+  "firstName": "Atanas",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17185-atanas-stefanov",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Atanas Stefanov",
+  "equipmentLinkTypes": [],
+  "objectId": 17185,
+  "updatedWhen": "2025-05-10T08:17:17.5082569-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pure Mathematics",
+          "Mathematics"
+        ],
+        "value": "Pure Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mathematical Physics",
+          "Physics"
+        ],
+        "value": "Mathematical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "stefanov@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

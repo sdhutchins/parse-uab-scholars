@@ -1,0 +1,121 @@
+{
+  "discoveryId": "1067",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 56,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 68,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 252,
+      "favourites": 0
+    }
+  },
+  "lastName": "Fiveash",
+  "firstName": "John",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1067-john-fiveash",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Vice Chairperson",
+      "department": "Radiation Oncology"
+    }
+  ],
+  "firstNameLastName": "John Fiveash",
+  "equipmentLinkTypes": [],
+  "objectId": 1067,
+  "updatedWhen": "2025-05-10T08:04:44.5776294-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jfiveash@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Brain Cancer Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Health Disparities and Racial or Ethnic Minority Health Research Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Prostate Cancer Radiation Oncology Rare Diseases Urologic Diseases",
+  "grant_keywords": ""
+}

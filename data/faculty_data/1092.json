@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1092",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 118,
+      "favourites": 0
+    }
+  },
+  "lastName": "Novack",
+  "firstName": "Thomas",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1092-thomas-novack",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Professor",
+      "department": "Physical Medicine & Rehabilitation"
+    }
+  ],
+  "firstNameLastName": "Thomas Novack",
+  "equipmentLinkTypes": [],
+  "objectId": 1092,
+  "updatedWhen": "2025-05-10T08:04:44.6197252-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "novack@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Childhood Injury Clinical Research Headaches Health Disparities and Racial or Ethnic Minority Health Research Mental Health Mental Illness Minority Health Neurosciences Pain Research Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Rehabilitation Sleep Research Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury Unintentional Childhood Injury",
+  "grant_keywords": "Brain Disorders Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Spinal Cord Injury Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury"
+}

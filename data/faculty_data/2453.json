@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2453",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 489,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 59,
+      "favourites": 0
+    }
+  },
+  "lastName": "Koomullil",
+  "firstName": "Roy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2453-roy-koomullil",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Engineering"
+    }
+  ],
+  "firstNameLastName": "Roy Koomullil",
+  "equipmentLinkTypes": [],
+  "objectId": 2453,
+  "updatedWhen": "2025-05-10T08:07:39.3469246-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Numerical and Computational Mathematics",
+          "and Computational Mathematics",
+          "Computational Mathematics",
+          "Mathematics"
+        ],
+        "value": "Numerical and Computational Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rkoomul@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

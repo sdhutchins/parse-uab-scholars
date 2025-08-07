@@ -1,0 +1,97 @@
+{
+  "lastName": "Gavin",
+  "overview": "Dr. Cristin Gavin received her bachelor’s degrees (B.S. Biology, B.A. Philosophy) from Birmingham-Southern College. She received her Doctorate in Neuroscience from the University of Alabama at Birmingham, while training remotely at The Scripps Research Institute in Jupiter, FL. Her research interests have focused on understanding the synaptic mechanisms that mediate structural and functional changes during experience-dependent plasticity, and how these processes can contribute to cognition, as well as specific behaviors such as learning and memory. After completion of her doctoral training, Dr. Gavin returned to UAB for a post-doctoral fellowship with Dr. J. David Sweatt, Chairman of the Department of Neurobiology, Director of the Evelyn F. McKnight Institute, and co-Founder of the undergraduate Neuroscience Program. While in Dr. Sweatt’s lab, Dr. Gavin has focused on understanding the synaptic mechanisms leading to neuronal dysfunction in an animal model of Pitt Hopkins Syndrome (PTHS). PTHS is an autism spectrum disorder resulting from the deletion of a single gene; notably, the syndrome is characterized by severe developmental and intellectual disability. \n\nAs an Assistant Professor of Neurobiology, Dr. Gavin serves as Co-Director of the Undergraduate Neuroscience Program (UNP). Established in 2008 in response to the growing interest in Neuroscience among undergraduates and the consequent need to coordinate coursework and research opportunities, the UAB Undergraduate Neuroscience Program is an interdisciplinary program between the Department of Neurobiology in the School of Medicine and the Department of Psychology in the College of Arts and Sciences. The program is designed to provide a structure for coursework that assures a solid grounding in a broad familiarity with the field of Neuroscience. In addition, the curriculum satisfies most pre-medical and pre-health requirements, making it an ideal fit for those students looking to pursue a career in medicine, biomedical research, or other health-related professions. Students have the special opportunity to receive course credit for original research projects conducted in collaboration with a Neuroscience faculty mentor. Students will design and complete hands-on research in the labs of primary faculty across campus. Their research experience culminates with writing and presenting a comprehensive senior research thesis. In addition to regular teaching commitments for the program, Dr. Gavin oversees curriculum and faculty development, academic advising, recruitment, and manages undergraduate neuroscience research in the UAB School of Medicine. Dr. Gavin has worked with students to establish a series of professional development workshops that aim to help students with graduate applications for biomedical research programs and other professional schools. \n\nDr. Gavin also serves as Co-Director of the UAB Postbaccalaureate Research Education Program (PREP). PREP is a NIH-funded initiative to increase diversity in biomedical sciences at the graduate level and beyond. Scholars are selected from a pool of competitive applicants, and upon matriculation to UAB embark on a year of graduate level coursework, professional development, and intensive research experiences in departments all across campus. Their training includes course instruction with current graduate students, practice and mentoring in bio-medical research, academic writing, math and test-taking; thus, providing students the extra experience students need to gain acceptance into science programs in leading graduate schools in the country.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3082-cristin-gavin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor & Associate Dean",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "3082",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2012,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "firstName": "Cristin",
+  "firstNameLastName": "Cristin Gavin",
+  "equipmentLinkTypes": [],
+  "objectId": 3082,
+  "updatedWhen": "2025-05-10T08:08:52.9098630-05:00",
+  "hasCollaborationData": true,
+  "email": "cfgavin@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Mental Health Minority Health Neurosciences Nutrition Obesity Physical Activity Social Determinants of Health",
+  "grant_keywords": "Health Disparities Minority Health"
+}

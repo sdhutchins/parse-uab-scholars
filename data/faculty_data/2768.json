@@ -1,0 +1,128 @@
+{
+  "lastName": "Drentea",
+  "overview": "Professor of Sociology",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2768-patricia-drentea",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Sociology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communication and Media Studies",
+          "and Media Studies",
+          "Media Studies",
+          "Studies"
+        ],
+        "value": "Communication and Media Studies"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "History and Philosophy of Specific Fields",
+          "and Philosophy of Specific Fields",
+          "Philosophy of Specific Fields",
+          "of Specific Fields",
+          "Specific Fields",
+          "Fields"
+        ],
+        "value": "History and Philosophy of Specific Fields"
+      }
+    ]
+  },
+  "discoveryId": "2768",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 246,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 61,
+      "favourites": 1
+    }
+  },
+  "firstName": "Patricia",
+  "firstNameLastName": "Patricia Drentea",
+  "equipmentLinkTypes": [],
+  "objectId": 2768,
+  "updatedWhen": "2025-05-10T08:08:22.0191480-05:00",
+  "hasCollaborationData": true,
+  "email": "pdrentea@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Depression Mental Health Physical Activity Prevention Social Determinants of Health",
+  "grant_keywords": ""
+}

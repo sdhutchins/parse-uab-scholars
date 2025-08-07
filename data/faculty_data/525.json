@@ -1,0 +1,123 @@
+{
+  "discoveryId": "525",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "lastName": "Li",
+  "firstName": "Yuanyuan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "525-yuanyuan-li",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pharmacology and Toxicology Chair's Office"
+    }
+  ],
+  "firstNameLastName": "Yuanyuan Li",
+  "equipmentLinkTypes": [],
+  "objectId": 525,
+  "updatedWhen": "2025-05-10T08:03:25.2622588-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lyy@uab.edu",
+  "publication_keywords": "Aging Breast Cancer Cancer Complementary and Integrative Health Dietary Supplements Endocrine Disruptors Estrogen Genetics Human Genome Microbiome Nutrition Obesity Pediatric Perinatal Period - Conditions Originating in Perinatal Period Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": "Aging Breast Cancer Cancer Complementary and Integrative Health Dietary Supplements Genetics Human Genome Nutrition Pediatric Prevention Women's Health"
+}

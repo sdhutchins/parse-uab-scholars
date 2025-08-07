@@ -1,0 +1,121 @@
+{
+  "lastName": "Van Wagoner",
+  "overview": "Nicholas Van Wagoner, M.D., Ph.D., has been promoted to associate dean for students.\n\nAs associate dean for students, Van Wagoner will lead the Office of Medical Student Services, which offers UAB medical students individualized support. His team will provide programs and services in an environment that promotes intellectual and professional development, supports career goals, nurtures growth as leaders and inspires excellence. Van Wagoner and his staff will also provide support and services in the areas of academic advising, career advising, professional and personal development, student health and wellness, student organizations and interest groups, student leadership and letters of recommendation.\n\nIn addition to his roles as an instructor and a leader in Medical Student Services, Van Wagoner has a passion for research. He studies sexually transmitted infections and HIV in at-risk populations with a focus on how societal variables influence a person’s chance of infection. Additionally, he currently serves on several national councils and committees focused on infectious diseases research and treatment.\n\nVan Wagoner holds two degrees from UAB and has been affiliated with the university for more than 20 years; he has served most recently as the assistant dean for students and as an associate professor in the Department of Medicine and Division of Infectious Disease.\n\nVan Wagoner is a Utah native and earned his undergraduate degree from Weber State University in Ogden, Utah, before coming to UAB to earn his doctorate in cell biology. He also completed his medical training—including medical school, residency and fellowship—at the UAB School of Medicine before joining the faculty as an assistant professor of Medicine in the Division of Infectious Diseases in 2011.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "583-nicholas-van-wagoner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "583",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 67,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 264,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 49,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nicholas",
+  "firstNameLastName": "Nicholas Van Wagoner",
+  "equipmentLinkTypes": [],
+  "objectId": 583,
+  "updatedWhen": "2025-05-10T08:03:25.3592478-05:00",
+  "hasCollaborationData": true,
+  "email": "nvw@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Microbiome Minority Health Pediatric Prevention Sexual and Gender Minorities (SGM/LGBT*) Sexually Transmitted Infections Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

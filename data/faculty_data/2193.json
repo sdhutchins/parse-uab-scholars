@@ -1,0 +1,120 @@
+{
+  "discoveryId": "2193",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 174,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 58,
+      "favourites": 25
+    }
+  },
+  "lastName": "Wadiche",
+  "firstName": "Linda",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2193-linda-wadiche",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Linda Wadiche",
+  "equipmentLinkTypes": [],
+  "objectId": 2193,
+  "updatedWhen": "2025-05-10T08:07:03.7032352-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lwadiche@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Bioengineering Brain Disorders Dementia Genetics Lewy Body Dementia Mental Health Neurodegenerative Neurosciences Parkinson's Disease Pediatric Research Initiative Rare Diseases Schizophrenia Sleep Research",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Dementia Epilepsy Genetics Mental Health Mental Illness Neurodegenerative Neurosciences Post-Traumatic Stress Disorder (PTSD) Sleep Research"
+}

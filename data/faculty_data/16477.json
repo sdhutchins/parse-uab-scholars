@@ -1,0 +1,123 @@
+{
+  "lastName": "Kiedrowski",
+  "overview": "I joined UAB in March 2020 as an Assistant Professor of Pulmonary, Allergy and Critical Care in the Department of Medicine. Before moving to Birmingham, I was a Cystic Fibrosis Foundation Postdoctoral Fellow in Dr. Jennifer Bomberger’s lab at the University of Pittsburgh, where I began my work on host-pathogen interactions in the respiratory tract using airway epithelial cell co-culture models. Prior to this, I worked as a Postdoctoral Fellow with Dr. Jo Handelsman at Yale University studying factors required for bacterial persistence and competition in the gut. I earned my PhD in Microbiology from the University of Iowa in Dr. Alex Horswill's lab studying Staphylococcus aureus biofilms, and my thesis focused on how biofilm growth and development is regulated by the production of extracellular nucleases that modify the biofilm matrix. I am originally from Wisconsin and attended the University of Wisconsin-Madison as an undergraduate, where I majored in Medical Microbiology and Immunology and worked in the lab of Dr. Joseph Dillard, studying Neisseria gonorrhoeae pathogenicity islands. I am interested in the interactions that take place between bacteria and the host over the course of chronic respiratory infections, especially in polymicrobial environments, and how the complex interplay of signals from other bacterial community members and the host environment impacts behavior and evolution of bacterial pathogens in the airways.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16477-megan-kiedrowski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "16477",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "firstName": "Megan",
+  "firstNameLastName": "Megan Kiedrowski",
+  "equipmentLinkTypes": [],
+  "objectId": 16477,
+  "updatedWhen": "2025-05-10T08:16:04.1434462-05:00",
+  "hasCollaborationData": true,
+  "email": "mkiedro@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Clinical Research Cystic Fibrosis Dental/Oral and Craniofacial Disease Diabetes Emerging Infectious Diseases Infectious Diseases Lung Microbiome Orphan Drug Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": "Aging Biotechnology Clinical Research Cystic Fibrosis Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Lung Orphan Drug Rare Diseases"
+}

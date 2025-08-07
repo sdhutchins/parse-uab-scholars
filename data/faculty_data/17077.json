@@ -1,0 +1,82 @@
+{
+  "discoveryId": "17077",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 21,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bowen",
+  "firstName": "Felesia",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17077-felesia-bowen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "firstNameLastName": "Felesia Bowen",
+  "equipmentLinkTypes": [],
+  "objectId": 17077,
+  "updatedWhen": "2025-05-12T03:21:24.6536129-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "fbowen@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Pediatric Social Determinants of Health",
+  "grant_keywords": ""
+}

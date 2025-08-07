@@ -1,0 +1,87 @@
+{
+  "lastName": "Austin",
+  "overview": "Dr. Austin is the Associate Dean for Academic Affairs in the UAB School of Public Health (SOPH). She oversees the educational mission of the school, ensuring that all degree programs prepare students to join the public health workforce. Her office supports students throughout their time with SOPH, from recruitment, admissions, and enrollment to academic advising and career planning.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3114-erika-austin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "3114",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 2
+    },
+    "teachingActivities": {
+      "all": 333,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 61,
+      "favourites": 1
+    }
+  },
+  "firstName": "Erika",
+  "firstNameLastName": "Erika Austin",
+  "equipmentLinkTypes": [],
+  "objectId": 3114,
+  "updatedWhen": "2025-05-10T08:08:52.9368673-05:00",
+  "hasCollaborationData": true,
+  "email": "elaustin@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Homelessness Infectious Diseases Pediatric Pediatric AIDS Prevention Sexual and Gender Minorities (SGM/LGBT*) Sexually Transmitted Infections Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

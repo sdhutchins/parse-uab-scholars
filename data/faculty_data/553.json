@@ -1,0 +1,126 @@
+{
+  "lastName": "Dionne",
+  "overview": "Dr. Jodie Dionne is an Associate Professor of Medicine in the Division of Infectious Diseases and an Associate Professor of Obstetrics and Gynecology in the Division of Maternal-Fetal Medicine at UAB. She is Director of the Infection in Women and Pregnancy Research Program and Associate Director of Global Health in the UAB Center for Women's Reproductive Health. As a physician-scientist , Dr. Dionne designs and leads phase 1-4 clinical trials to identify new ways to treat and prevent infections in women and pregnancy. \n\nDr. Dionne is also part of the leadership group of the NIH-funded Infectious Diseases Clinical Research Consortium (IDCRC) Network of Vaccine and Treatment Evaluation Units (VTEU),  chair of the World Health Organization/PAHO Regional Validation Committee for the Elimination of Mother to Child Transmission of HIV, syphilis, and hepatitis B (EMTCT+), and a member of the CDC/HRSA advisory committee on HIV, Viral Hepatitis and STD Prevention and Treatment. Dr. Dionne is also an active ID/HIV clinician and a teacher and mentor for research trainees in the US and abroad.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "553-jodie-dionne",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      }
+    ]
+  },
+  "discoveryId": "553",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jodie",
+  "firstNameLastName": "Jodie Dionne",
+  "equipmentLinkTypes": [],
+  "objectId": 553,
+  "updatedWhen": "2025-05-10T08:03:25.2935020-05:00",
+  "hasCollaborationData": true,
+  "email": "jdionne@uab.edu",
+  "publication_keywords": "Biotechnology Cardiovascular Clinical Research Clinical Trials and Supportive Activities Conditions Affecting the Embryonic and Fetal Periods Dental/Oral and Craniofacial Disease Diabetes Digestive Diseases Emerging Infectious Diseases HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Hepatitis Hepatitis - B Immunization Infant Mortality Infectious Diseases Kidney Disease Liver Disease Malaria Maternal Health Minority Health Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Rare Diseases Sexually Transmitted Infections Vaccine Related Vector-Borne Diseases Women's Health",
+  "grant_keywords": "Aging Antimicrobial Resistance Basic Behavioral and Social Science Behavioral and Social Science Biodefense Cancer Clinical Research Clinical Trials and Supportive Activities Coronaviruses Digestive Diseases Emerging Infectious Diseases HIV/AIDS Health Disparities Hepatitis Hepatitis - C Infectious Diseases Liver Disease Minority Health Prevention Rural Health Sexually Transmitted Infections Social Determinants of Health Women's Health"
+}

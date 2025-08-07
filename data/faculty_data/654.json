@@ -1,0 +1,128 @@
+{
+  "lastName": "Liu",
+  "overview": "Dr. Rui-Ming Liu received her M.D. and PhD (in Toxicology) degrees from Tongji Medical University, Wuhan, China.  She is an American Board of Toxicology certified Toxicologist.  Dr. Liu joined the UAB School of Public Health in 1999 as an Assistant Professor and was promoted to Associate Professor in 2005.  In 2014, Dr. Liu was promoted to Professor with tenure and moved from School of Public Health to School of Medicine, Pulmonary, Allergy, and Critical Care Division.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "654-ruiming-liu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "654",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 32,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 114,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rui-Ming",
+  "firstNameLastName": "Rui-Ming Liu",
+  "equipmentLinkTypes": [],
+  "objectId": 654,
+  "updatedWhen": "2025-05-10T08:03:37.9343068-05:00",
+  "hasCollaborationData": true,
+  "email": "rliu@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Autoimmune Disease Brain Disorders Dementia Genetics Human Genome Infectious Diseases Lung Neurodegenerative Neurosciences Orphan Drug Pulmonary Fibrosis Rare Diseases",
+  "grant_keywords": "Lung Orphan Drug Rare Diseases"
+}

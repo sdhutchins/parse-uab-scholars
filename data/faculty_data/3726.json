@@ -1,0 +1,97 @@
+{
+  "lastName": "Rosenberg",
+  "overview": "I am a bioinformatics scientist with industry and academic experience.  Currently, I engage in collaborative research on projects primarily in immunology and infectious disease.  These collaborations serve as an opportunity for requirements gathering that my group can use for developing bioinformatics tools which can be used more broadly in the community.  I serve as director of the Data Analytics and Bioinformatics Core for the UAB Cooperative Centers on Human Immunology U19 award as well as co-PI on the Bioinformatics, Data Management and Integration project for the Global Team Science Award by the Lupus Research Alliance, a multi-site program.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3726-alexander-rosenberg",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dept Of Biomedical Informatics & Data Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      },
+      {
+        "paths": [
+          [
+            "Computer Software",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics Software",
+          "Software"
+        ],
+        "value": "Bioinformatics Software"
+      }
+    ]
+  },
+  "discoveryId": "3726",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 29,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 77,
+      "favourites": 0
+    }
+  },
+  "firstName": "Alexander",
+  "firstNameLastName": "Alexander Rosenberg",
+  "equipmentLinkTypes": [],
+  "objectId": 3726,
+  "updatedWhen": "2025-05-10T08:09:59.9296102-05:00",
+  "hasCollaborationData": true,
+  "email": "afr@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biotechnology Cancer Clinical Research Crohn's Disease Digestive Diseases Genetics Human Genome Immunization Immunotherapy Inflammatory Bowel Disease Kidney Disease Microbiome Pediatric Research Initiative Prevention Transplantation",
+  "grant_keywords": "Autoimmune Disease Immunization Immunotherapy Lupus Organ Transplantation Prevention Transplantation Vaccine Related Women's Health"
+}

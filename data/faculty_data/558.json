@@ -1,0 +1,125 @@
+{
+  "lastName": "Goepfert",
+  "overview": "Our laboratory concentrates on understanding the immune correlates of protection against HIV disease progression with a focus on cell medicated immune responses (CD4 and CD8 T cells). We are utilizing a variety of techniques in our laboratory to evaluate the quality of HIV-specific T cell responses observed in patients who represent the entire spectra of HIV disease. These assays include an in vitro HIV killing and an in vitro HIV viral suppression assay. These assays measure the actual clearance of virus, which has not been the focus of many CD8 T cell assays in the past. Our plan is to use these assays to measure differences in viral clearance among those chronically infected patients with varying degrees of immune control. We would also like to compare these types of responses in acutely infected patients to see how they change over the course of infection. The ultimate goal of this work is to use our findings to aid the development of an effective HIV vaccine to prevent infection and disease progression by more fully understanding correlates of immune control by T cells. He is also the director for the Alabama Vaccine Research Clinic, which conducts clinical trials of candidate vaccines. His main focus is the phase 1 and 2 testing of vaccines designed to prevent HIV infection or disease progression. These studies are preformed in conjunction with the HIV Vaccine Trials Unit.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "558-paul-goepfert",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "558",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 129,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 230,
+      "favourites": 0
+    }
+  },
+  "firstName": "Paul",
+  "firstNameLastName": "Paul Goepfert",
+  "equipmentLinkTypes": [],
+  "objectId": 558,
+  "updatedWhen": "2025-05-10T08:03:25.3112501-05:00",
+  "hasCollaborationData": true,
+  "email": "paulg@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Therapeutics and Interventions Coronaviruses Vaccines Emerging Infectious Diseases HIV/AIDS Immunization Infectious Diseases Influenza Lung Pain Research Patient Safety Pneumonia & Influenza Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID Prevention Sexually Transmitted Infections Vaccine Related",
+  "grant_keywords": ""
+}

@@ -1,0 +1,120 @@
+{
+  "discoveryId": "1065",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 34,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 67,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dobelbower",
+  "firstName": "Michael",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1065-michael-dobelbower",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiation Oncology"
+    }
+  ],
+  "firstNameLastName": "Michael Dobelbower",
+  "equipmentLinkTypes": [],
+  "objectId": 1065,
+  "updatedWhen": "2025-05-10T08:04:44.5776294-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cdobelbo@uab.edu",
+  "publication_keywords": "Aging Bioengineering Biomedical Imaging Cancer Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Lung Lung Cancer Machine Learning and Artificial Intelligence Neurosciences Orphan Drug Patient Safety Prevention Prostate Cancer Radiation Oncology Rare Diseases Urologic Diseases Women's Health",
+  "grant_keywords": ""
+}

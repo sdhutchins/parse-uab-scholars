@@ -1,0 +1,122 @@
+{
+  "lastName": "Zhao",
+  "overview": "Host-microbiota interactions in health and inflammatory diseases",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17331-qing-zhao",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Gastroenterology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "17331",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "firstName": "Qing",
+  "firstNameLastName": "Qing Zhao",
+  "equipmentLinkTypes": [],
+  "objectId": 17331,
+  "updatedWhen": "2025-05-10T08:17:26.0878807-05:00",
+  "hasCollaborationData": true,
+  "email": "qingzhao@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Biotechnology Clinical Research Crohn's Disease Digestive Diseases Genetics Human Genome Immunization Immunotherapy Infectious Diseases Inflammatory Bowel Disease Microbiome Pediatric Research Initiative Prevention Vaccine Related",
+  "grant_keywords": "Autoimmune Disease Biotechnology Clinical Research Crohn's Disease Digestive Diseases Emerging Infectious Diseases Immunization Immunotherapy Infectious Diseases Inflammatory Bowel Disease Microbiome Prevention"
+}

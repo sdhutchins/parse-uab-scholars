@@ -1,0 +1,59 @@
+{
+  "discoveryId": "1332",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 125,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 3,
+      "favourites": 0
+    }
+  },
+  "lastName": "Fu",
+  "firstName": "Chin-Chuan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1332-chinchuan-fu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Restorative Sciences"
+    }
+  ],
+  "firstNameLastName": "Chin-Chuan Fu",
+  "equipmentLinkTypes": [],
+  "objectId": 1332,
+  "updatedWhen": "2025-05-10T08:05:15.7671662-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ccfu@uab.edu",
+  "publication_keywords": "Women's Health",
+  "grant_keywords": ""
+}

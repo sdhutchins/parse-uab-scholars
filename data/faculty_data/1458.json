@@ -1,0 +1,122 @@
+{
+  "lastName": "Gawne",
+  "overview": "I was originally trained as an electrical engineer, and worked in industry for a time, but then moved on to physiology. I am first and foremost a systems neuroscientist: I am interested in how information is processed and transmitted in the nervous system, not so much the details of specific genes and ion channels etc. I worked at the National Institutes of Mental Health (NIMH) before moving to the UAB School of Optometry in 1996, where I remain to this day. I have applied this interest to the visual system, exploring visual cortical neuronal dynamics and, more recently, dynamics in the retina. Finally, I have a long-standing interest in science fiction, having authored the popular \"Old Guy\" series of cybertank novels (available on Amazon!).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1458-timothy-gawne",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1458",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 66,
+      "favourites": 0
+    }
+  },
+  "firstName": "Timothy",
+  "firstNameLastName": "Timothy Gawne",
+  "equipmentLinkTypes": [],
+  "objectId": 1458,
+  "updatedWhen": "2025-05-10T08:05:25.8369190-05:00",
+  "hasCollaborationData": true,
+  "email": "tgawne@uab.edu",
+  "publication_keywords": "Bioengineering Eye Disease and Disorders of Vision Nanotechnology Neurosciences",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities and Racial or Ethnic Minority Health Research Neurosciences Pediatric Pediatric Research Initiative"
+}

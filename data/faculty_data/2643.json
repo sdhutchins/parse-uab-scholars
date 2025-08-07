@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2643",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 147,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 93,
+      "favourites": 0
+    }
+  },
+  "lastName": "Blokh",
+  "firstName": "Alexander",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2643-alexander-blokh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Alexander Blokh",
+  "equipmentLinkTypes": [],
+  "objectId": 2643,
+  "updatedWhen": "2025-05-10T08:08:00.9446804-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pure Mathematics",
+          "Mathematics"
+        ],
+        "value": "Pure Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mathematical Physics",
+          "Physics"
+        ],
+        "value": "Mathematical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Mathematical Sciences",
+          "Mathematical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Mathematical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ablokh@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

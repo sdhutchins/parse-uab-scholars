@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17476",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ye",
+  "firstName": "Lei",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17476-lei-ye",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Dept of Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Lei Ye",
+  "equipmentLinkTypes": [],
+  "objectId": 17476,
+  "updatedWhen": "2025-05-10T08:17:42.4608532-05:00",
+  "hasCollaborationData": false,
+  "email": "lye@uab.edu",
+  "publication_keywords": "Bioengineering Cardiovascular Regenerative Medicine Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human",
+  "grant_keywords": ""
+}

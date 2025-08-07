@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2366",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 132,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 38,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wang",
+  "firstName": "Yu-Mei",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2366-yumei-wang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Yu-Mei Wang",
+  "equipmentLinkTypes": [],
+  "objectId": 2366,
+  "updatedWhen": "2025-05-10T08:07:28.8607172-05:00",
+  "hasCollaborationData": false,
+  "email": "yuwang@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

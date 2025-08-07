@@ -1,0 +1,72 @@
+{
+  "discoveryId": "4005",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 42,
+      "favourites": 0
+    }
+  },
+  "lastName": "Palcanis",
+  "firstName": "Kent",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4005-kent-palcanis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Periodontology"
+    }
+  ],
+  "firstNameLastName": "Kent Palcanis",
+  "equipmentLinkTypes": [],
+  "objectId": 4005,
+  "updatedWhen": "2025-05-10T08:10:25.5721082-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kentp@uab.edu",
+  "publication_keywords": "Dental/Oral and Craniofacial Disease",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17198",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 38,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sallese",
+  "firstName": "Mary Rose",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17198-mary-rose-sallese",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Mary Rose Sallese",
+  "equipmentLinkTypes": [],
+  "objectId": 17198,
+  "updatedWhen": "2025-05-10T08:17:17.5212568-05:00",
+  "hasCollaborationData": false,
+  "email": "msallese@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Pediatric Research Initiative Prevention Rural Health Social Determinants of Health",
+  "grant_keywords": ""
+}

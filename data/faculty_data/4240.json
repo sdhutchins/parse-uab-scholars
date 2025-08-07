@@ -1,0 +1,125 @@
+{
+  "discoveryId": "4240",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 155,
+      "favourites": 0
+    }
+  },
+  "lastName": "Shewchuk",
+  "firstName": "Richard",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4240-richard-shewchuk",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Health Services Administration"
+    }
+  ],
+  "firstNameLastName": "Richard Shewchuk",
+  "equipmentLinkTypes": [],
+  "objectId": 4240,
+  "updatedWhen": "2025-05-10T08:10:51.2536599-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "shewchuk@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Clinical Research Coronaviruses Emerging Infectious Diseases Health Services Immunization Infectious Diseases Osteoporosis Prevention Vaccine Related Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cancer Clinical Research Clinical Trials and Supportive Activities Health Disparities Physical Activity Prevention Rehabilitation Rural Health Women's Health"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16927",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pfister",
+  "firstName": "Neil",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16927-neil-pfister",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Radiation Oncology"
+    }
+  ],
+  "firstNameLastName": "Neil Pfister",
+  "equipmentLinkTypes": [],
+  "objectId": 16927,
+  "updatedWhen": "2025-05-10T08:16:51.0581193-05:00",
+  "hasCollaborationData": false,
+  "email": "npfister@uab.edu",
+  "publication_keywords": "Bioengineering Cancer Clinical Research Dental/Oral and Craniofacial Disease Digestive Diseases Infectious Diseases Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Rare Diseases Sexually Transmitted Infections",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

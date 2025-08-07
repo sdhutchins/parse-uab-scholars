@@ -1,0 +1,121 @@
+{
+  "lastName": "Brisendine",
+  "overview": "Anne E. Brisendine, DrPH MPH CHES is an Assistant Professor of Public Health Practice in the Department of Health Policy & Organization at the University of Alabama at Birmingham (UAB) School of Public Health, and she serves as the Deputy Director of the Applied Evaluation and Assessment Collaborative (AEAC). She received her DrPH and MPH degrees from the UAB School of Public Health before completing a Postdoctoral Fellowship at the UAB Civitan-Sparks Clinics and Department of Psychology as a Leadership Education in Neurodevelopmental and related Disabilities (LEND) trainee. She received her BA in American Studies from Barnard College, Columbia University. Dr. Brisendine has a background in interdisciplinary research, strategic management, and publishing, which allows her to be an effective communicator of research and policy to a variety of audiences. Her training in quantitative and qualitative data collection and analysis ensure that her community-engaged practice is able to tell a 360 degree story of the program, partner, or population she is supporting. Dr. Brisendine’s current projects include needs assessment, program evaluation, and research in Alabama related to the Alabama Child Health Improvement Alliance (ACHIA), the Title V Maternal and Child Health Block Grant, the Infant and Early Childhood Mental Health System of Care, the 988 Suicide Crisis Line, the Alabama Maternal Health Task Force and Alabama Perinatal Quality Collaborative along with other national, state, and local non-profit partners. Her research and scholarly practice focus on a variety of topics including autism spectrum disorders, developmental monitoring in Early Head Starts, statewide systems development in education and health, early childhood mental health, and perinatal epidemiology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16819-anne-brisendine",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "16819",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 43,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 26,
+      "favourites": 5
+    }
+  },
+  "firstName": "Anne",
+  "firstNameLastName": "Anne Brisendine",
+  "equipmentLinkTypes": [],
+  "objectId": 16819,
+  "updatedWhen": "2025-05-10T08:16:42.3390509-05:00",
+  "hasCollaborationData": true,
+  "email": "ae2158@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biotechnology Brain Disorders Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Infectious Diseases Mental Health Mental Illness Minority Health Networking and Information Technology R&D (NITRD) Pediatric Pediatric Research Initiative Prevention Primary Health Care Rural Health Social Determinants of Health Telehealth Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

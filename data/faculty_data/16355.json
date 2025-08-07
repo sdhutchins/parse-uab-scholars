@@ -1,0 +1,120 @@
+{
+  "discoveryId": "16355",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 26,
+      "favourites": 0
+    }
+  },
+  "lastName": "Irwin",
+  "firstName": "Zachary",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16355-zachary-irwin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurosurgery - Clinical Research"
+    }
+  ],
+  "firstNameLastName": "Zachary Irwin",
+  "equipmentLinkTypes": [],
+  "objectId": 16355,
+  "updatedWhen": "2025-05-10T08:15:54.5776009-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "irwinz@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Mental Health Neurodegenerative Neurosciences Parkinson's Disease Rehabilitation Sleep Research",
+  "grant_keywords": "Aging Assistive Technology Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Neurodegenerative Neurosciences Parkinson's Disease Rehabilitation Women's Health"
+}

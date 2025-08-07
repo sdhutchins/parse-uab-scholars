@@ -1,0 +1,119 @@
+{
+  "discoveryId": "2177",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 90,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 100,
+      "favourites": 0
+    }
+  },
+  "lastName": "Brenner",
+  "firstName": "Michael",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2177-michael-brenner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Michael Brenner",
+  "equipmentLinkTypes": [],
+  "objectId": 2177,
+  "updatedWhen": "2025-05-10T08:06:50.7635653-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "michaelb@uab.edu",
+  "publication_keywords": "Biotechnology Brain Disorders Genetics Health Disparities and Racial or Ethnic Minority Health Research Minority Health Neurodegenerative Neurosciences Rare Diseases",
+  "grant_keywords": "Aging Biotechnology Brain Disorders Clinical Research Genetics Health Disparities Minority Health Neurodegenerative Neurosciences Rare Diseases Regenerative Medicine"
+}

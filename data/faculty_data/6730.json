@@ -1,0 +1,123 @@
+{
+  "discoveryId": "6730",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 46,
+      "favourites": 0
+    }
+  },
+  "lastName": "Lee",
+  "firstName": "Goo",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6730-goo-lee",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Anatomic Pathology"
+    }
+  ],
+  "firstNameLastName": "Goo Lee",
+  "equipmentLinkTypes": [],
+  "objectId": 6730,
+  "updatedWhen": "2025-05-10T08:13:42.6603068-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "gleeibd@uab.edu",
+  "publication_keywords": "Cancer Chronic Liver Disease and Cirrhosis Clinical Research Congenital Structural Anomalies Digestive Diseases Genetics Hepatitis Kidney Disease Liver Disease Pediatric Research Initiative Polycystic Kidney Disease Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Transplantation",
+  "grant_keywords": ""
+}

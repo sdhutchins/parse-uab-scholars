@@ -1,0 +1,125 @@
+{
+  "discoveryId": "17143",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 78,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gassman",
+  "firstName": "Natalie",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17143-natalie-gassman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "firstNameLastName": "Natalie Gassman",
+  "equipmentLinkTypes": [],
+  "objectId": 17143,
+  "updatedWhen": "2025-05-10T08:17:09.0333206-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nrg2@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Aging Behavioral and Social Science Cancer Genetics Human Genome Lung Lung Cancer Mental Health Neurosciences Ovarian Cancer Precision Medicine Prevention Prostate Cancer Rare Diseases Urologic Diseases Women's Health",
+  "grant_keywords": ""
+}

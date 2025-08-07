@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1156",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 55,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 334,
+      "favourites": 0
+    }
+  },
+  "lastName": "Richman",
+  "firstName": "Joshua",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1156-joshua-richman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Surgery - General Surgery Gastrointestinal Section"
+    }
+  ],
+  "firstNameLastName": "Joshua Richman",
+  "equipmentLinkTypes": [],
+  "objectId": 1156,
+  "updatedWhen": "2025-05-10T08:04:55.7013465-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jrichman@uab.edu",
+  "publication_keywords": "Aging Arthritis Biotechnology Cancer Clinical Research Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Machine Learning and Artificial Intelligence Minority Health Neurosciences Osteoarthritis Pancreatic Cancer Patient Safety Prevention Rare Diseases Social Determinants of Health",
+  "grant_keywords": "Cancer Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Lymphatic Research Lymphoma Minority Health Prevention Rare Diseases Regenerative Medicine Rural Health Social Determinants of Health Stem Cell Research Stem Cell Research - Nonembryonic - Human Transplantation Women's Health"
+}

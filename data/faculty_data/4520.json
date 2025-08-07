@@ -1,0 +1,123 @@
+{
+  "lastName": "Davis",
+  "overview": "Lori L. Davis, MD, is Clinical Professor of Psychiatry in the Department of Psychiatry and Behavioral Neurobiology, University of Alabama Health System, in Birmingham and Tuscaloosa, AL. In addition, she is Associate Chief of Staff for Research and Development Service for the VA Medical Center in Tuscaloosa, Alabama.  Dr. Davis received her undergraduate degree in Studio Art from Duke University, earned her MD from the University of North Carolina at Chapel Hill, and completed a psychiatry residency at the University of Alabama at Birmingham.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4520-lori-davis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Professor",
+      "department": "Psychiatry - Adult"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "4520",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 47,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lori",
+  "firstNameLastName": "Lori Davis",
+  "equipmentLinkTypes": [],
+  "objectId": 4520,
+  "updatedWhen": "2025-05-10T08:11:17.0950185-05:00",
+  "hasCollaborationData": true,
+  "email": "drdavis@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Anxiety Disorders Atherosclerosis Behavioral and Social Science Brain Disorders Cardiovascular Child Abuse and Neglect Research Childhood Injury Clinical Research Clinical Trials and Supportive Activities Depression Heart Disease Heart Disease - Coronary Heart Disease Major Depressive Disorder Mental Health Mental Illness Pediatric Research Initiative Post-Traumatic Stress Disorder (PTSD) Serious Mental Illness Social Determinants of Health Substance Misuse Violence Research",
+  "grant_keywords": ""
+}

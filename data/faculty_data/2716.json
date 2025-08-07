@@ -1,0 +1,125 @@
+{
+  "lastName": "Ball",
+  "overview": "Dr. Karlene Ball, University Professor and experimental psychologist, is the Director of the UAB Edward R. Roybal Center for Research on Applied Gerontology, funded by the National Institute on Aging, Associate Director of the university-wide Comprehensive Center for Healthy Aging (formerly the Center for Aging), Associate Director of the Center for Outcomes and Effectiveness Research and Education, Professor in the Department of Neurobiology, a Senior Scientist in the Vision Research Center, a Senior Scientist in the Comprehensive Neuroscience Center, and a Senior Scientist in the Center for Exercise Medicine. Dr. Ball chaired the Human Factors and Ergonomics Society Technical Group on Aging, and she is a member of the Transportation Research Board of the National Research Council. \n\nShe received a M.E.R.I.T. award from the National Institutes of Health to extend her basic research program on the everyday activity problems of older adults to the development of interventions to prevent or retard age-related declines. A further description of the UAB Roybal Center, along with its investigators, resources, and projects, may be found at http://crag.uab.edu/crag/.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2716-karlene-ball",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "University Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2716",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 36,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 170,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 179,
+      "favourites": 0
+    }
+  },
+  "firstName": "Karlene",
+  "firstNameLastName": "Karlene Ball",
+  "equipmentLinkTypes": [],
+  "objectId": 2716,
+  "updatedWhen": "2025-05-10T08:08:11.1201675-05:00",
+  "hasCollaborationData": true,
+  "email": "kball@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Coronaviruses Dementia Depression HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Mental Health Minority Health Neurodegenerative Neurosciences Prevention Rehabilitation Social Determinants of Health Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Infectious Diseases Neurodegenerative Neurosciences Rehabilitation Sexually Transmitted Infections"
+}

@@ -1,0 +1,45 @@
+{
+  "discoveryId": "17538",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 43,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 14,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wilson",
+  "overview": "I am an Assistant Director and Assistant Professor of Health Physics and my research is focused on practice solutions for industry problems regarding radiations safety. I have over a decade of experience in the Health Physics industry and personally seen the lack of research, personnel, and guidance in the field. I aim to incorporate my passion for the field with my experience studying pedagogy and industry connections to solve the many issues the field is struggling with and assist UAB in becoming the number one Health Physics program in the country.",
+  "firstName": "Charles",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17538-charles-wilson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Physics"
+    }
+  ],
+  "firstNameLastName": "Charles Wilson",
+  "equipmentLinkTypes": [],
+  "objectId": 17538,
+  "updatedWhen": "2025-05-10T08:17:51.4791022-05:00",
+  "hasCollaborationData": false,
+  "email": "cawilso2@uab.edu",
+  "publication_keywords": "Bioengineering Cardiovascular Machine Learning and Artificial Intelligence",
+  "grant_keywords": ""
+}

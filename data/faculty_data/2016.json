@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2016",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Giles",
+  "firstName": "Keith",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2016-keith-giles",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Keith Giles",
+  "equipmentLinkTypes": [],
+  "objectId": 2016,
+  "updatedWhen": "2025-05-10T08:06:24.5349437-05:00",
+  "hasCollaborationData": false,
+  "email": "kegiles@uab.edu",
+  "publication_keywords": "Biotechnology Genetics Human Genome",
+  "grant_keywords": "Biotechnology Cardiovascular Diabetes Genetics Heart Disease Heart Disease - Coronary Heart Disease Neurodegenerative Neurosciences Pediatric Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human"
+}

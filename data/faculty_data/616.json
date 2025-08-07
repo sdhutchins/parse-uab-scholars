@@ -1,0 +1,126 @@
+{
+  "discoveryId": "616",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 59,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 283,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pollock",
+  "firstName": "Jennifer",
+  "hasThumbnail": true,
+  "discoveryUrlId": "616-jennifer-pollock",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "firstNameLastName": "Jennifer Pollock",
+  "equipmentLinkTypes": [],
+  "objectId": 616,
+  "updatedWhen": "2025-05-10T08:03:37.8583028-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pollockj@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Child Abuse and Neglect Research Childhood Injury Clinical Research Heart Disease Hematology Hypertension Kidney Disease Mental Health Nutrition Obesity Pediatric Physical Injury - Accidents and Adverse Effects Prevention Rare Diseases Sickle Cell Disease Sleep Research Social Determinants of Health Violence Research Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Kidney Disease Minority Health Rural Health Social Determinants of Health Women's Health"
+}

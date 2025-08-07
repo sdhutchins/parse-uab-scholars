@@ -1,0 +1,129 @@
+{
+  "lastName": "Bakitas",
+  "overview": "Dr. Marie Bakitas is internationally recognized in pain and palliative care science. Focused on reducing suffering and enhancing quality of life for persons with advanced illness and family caregivers--especially in rural areas--her early tele-health palliative care model ENABLE (Educate, Nurture, Advise, Before Life Ends), has led to practice and policy changes. She is disseminating ENABLE for cancer and heart failure patients in the Deep South and Veteran populations. Her research, mentorship and papers have led to important practice changes.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1481-marie-bakitas",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1481",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 32,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 154,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 228,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 906,
+      "favourites": 0
+    }
+  },
+  "firstName": "Marie",
+  "firstNameLastName": "Marie Bakitas",
+  "equipmentLinkTypes": [],
+  "objectId": 1481,
+  "updatedWhen": "2025-05-10T08:05:38.4708114-05:00",
+  "hasCollaborationData": true,
+  "email": "mbakitas@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Brain Disorders Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Depression Dietary Supplements Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Mental Health Mental Illness Mind and Body Minority Health Nutrition Pain Research Prevention Rehabilitation",
+  "grant_keywords": "Behavioral and Social Science Brain Disorders Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Depression Dissemination and Implementation Research Health Disparities Health Services Heart Disease Mental Health Mental Illness Minority Health Networking and Information Technology R&D (NITRD) Pain Research Prevention Rural Health Social Determinants of Health"
+}

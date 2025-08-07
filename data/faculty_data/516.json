@@ -1,0 +1,128 @@
+{
+  "lastName": "Erba",
+  "overview": "Harry Erba, M.D., Ph.D., is a Professor of Medicine, Director of the UAB Hematologic Malignancy Program and Associate Director for Clinical Research at the UAB Comprehensive Cancer Center.\n\nDr. Erba received his M.D. and Ph.D. degrees from Stanford University. He did his internship and residency in internal medicine at the Brigham and Women’s Hospital, Harvard Medical School. Following a fellowship in hematology/oncology at the same institution, he joined the Harvard Medical School faculty for 3 years until he moved to the University of Michigan at Ann Arbor where he rose to the rank of Associate Professor.Over the past decade Dr. Erba has become a highly respected leader in the field of hematologic malignancies, especially with respect to the assessment of novel therapies in acute myeloid leukemia, chronic myeloid leukemia and myelodysplastic syndromes. He is an executive officer of SWOG (formerly, Southwest Oncology Group), working closely with the leadership of the SWOG leukemia, lymphoma, myeloma and bone marrow transplant committees. He is an active member in the SWOG leukemia committee and will become chair in the next month.\n\nHe has served on the National Comprehensive Cancer Network (NCCN) Practice Guidelines Committees for acute myeloid leukemia, chronic myeloid leukemia, myelodysplastic syndromes and myeloid growth factors. He was given Special Recognition and Appointment to the NCCN Board of Producers in 2007 and 2008. He has been involved in numerous clinical trials in hematologic malignancies, led many national trials as a chair or co-chair, and played major roles in the development of several new drugs. He was named Teacher of the Year in the Division of Hematology/Oncology for four consecutive years at the University of Michigan. In 2004 he was given the Outstanding Clinician Award by the Dean of the University of Michigan Medical School, and this year was appointed as an inaugural member of the League of Clinical Excellence at the University of Michigan.\n\nHis work has been published in high-impact journals such as Nature, Cell, Journal of Clinical Oncology, Blood, Cancer Research and British Journal of Haematology. In addition to 47 peer-reviewed publications, he has authored five book chapters and has lectured extensively in the US, Canada, Europe and Japan.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "516-harry-erba",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "516",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 66,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 169,
+      "favourites": 0
+    }
+  },
+  "firstName": "Harry",
+  "firstNameLastName": "Harry Erba",
+  "equipmentLinkTypes": [],
+  "objectId": 516,
+  "updatedWhen": "2025-05-10T08:03:25.2511426-05:00",
+  "hasCollaborationData": true,
+  "email": "hperba@uab.edu",
+  "publication_keywords": "Aging Cancer Childhood Leukemia Clinical Research Clinical Trials and Supportive Activities Hematology Lymphatic Research Lymphoma Orphan Drug Pediatric Pediatric Cancer Prevention Rare Diseases",
+  "grant_keywords": "Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Health Disparities Patient Safety Prevention Rare Diseases Rural Health Women's Health"
+}

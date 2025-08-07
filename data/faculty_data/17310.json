@@ -1,0 +1,123 @@
+{
+  "lastName": "Shan",
+  "overview": "Dr. Shan’s research interest includes data visualization, network analysis and longitudinal data analysis. She has expertise in using multilevel Gaussian graphical models to uncover sparse network structures across heterogeneous groups. She has collaborative experience with researchers of varied backgrounds, including clinicians, educators, and environmental scientists, involving in study design, power and sample size determination, data management and analysis.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17310-liang-shan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Econometrics"
+        ],
+        "value": "Econometrics"
+      }
+    ]
+  },
+  "discoveryId": "17310",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 27,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "firstName": "Liang",
+  "firstNameLastName": "Liang Shan",
+  "equipmentLinkTypes": [],
+  "objectId": 17310,
+  "updatedWhen": "2025-05-10T08:17:26.0722558-05:00",
+  "hasCollaborationData": true,
+  "email": "lshan@uab.edu",
+  "publication_keywords": "Immunization Infectious Diseases Lung Pneumonia Pneumonia & Influenza Prevention Vaccine Related",
+  "grant_keywords": ""
+}

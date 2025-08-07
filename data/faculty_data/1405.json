@@ -1,0 +1,85 @@
+{
+  "discoveryId": "1405",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 168,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "lastName": "Geisinger",
+  "firstName": "Maria",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1405-maria-geisinger",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Periodontology"
+    }
+  ],
+  "firstNameLastName": "Maria Geisinger",
+  "equipmentLinkTypes": [],
+  "objectId": 1405,
+  "updatedWhen": "2025-05-10T08:05:25.7944465-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "miagdds@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Dementia Dental/Oral and Craniofacial Disease Diabetes Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Minority Health Neurodegenerative Neurosciences Prevention Primary Health Care",
+  "grant_keywords": ""
+}

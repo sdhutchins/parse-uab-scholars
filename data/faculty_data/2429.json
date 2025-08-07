@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2429",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 182,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "lastName": "Marstrander",
+  "overview": "Industry experience of over 16 years.\n\n- Hardware and software design,\n- Embedded systems,\n- FPGA designs, and \n- Real-time, hardware-based Image Processing.\n\n- Applications included guided missiles for the U.S. military, medical instrumentation, and scientific instrumentation.\n\n\nUAB Faculty since January 2005.\n\nAreas of Specialization:\n- Embedded Systems,\n- Image and Signal Processing,\n- Communications Systems,\n- Probability, Statistics, and related Mathematics.\n\n\nResearch work through ongoing collaboration with Neurologists and Neuroengineers\n\n- Analyzing MRI brain images to understand and help diagnose Parkinson's Disease.",
+  "firstName": "Jon",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2429-jon-marstrander",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Electrical & Computer Engineering"
+    }
+  ],
+  "firstNameLastName": "Jon Marstrander",
+  "equipmentLinkTypes": [],
+  "objectId": 2429,
+  "updatedWhen": "2025-05-10T08:07:28.9317214-05:00",
+  "hasCollaborationData": true,
+  "email": "jmars@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Clinical Research Clinical Trials and Supportive Activities Mental Health Mental Illness Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Parkinson's Disease Physical Activity Schizophrenia Serious Mental Illness",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Dementia Neurodegenerative Neurosciences Rehabilitation"
+}

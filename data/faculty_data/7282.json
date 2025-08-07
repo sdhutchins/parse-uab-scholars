@@ -1,0 +1,127 @@
+{
+  "lastName": "Parish",
+  "overview": "Ashley Parish is an ABPTS Board Certified Cardiovascular and Pulmonary Clinical Specialist in Physical Therapy with over a decade of experience in the intensive care unit setting. She obtained her Bachelors of Science in Respiratory Therapy, Doctor of Physical Therapy, Certification in Applications of Mixed Methods Research and PhD in Health Behavior from UAB. Her passion is intensive care unit-based services for the cardiovascular and pulmonary pediatric population. She continues to practice clinically in a hospital setting, as well as weekly at STEP clinic for young adults with complex medical needs transitioning from pediatric to adult services. Parish has experience teaching cardiovascular and pulmonary concepts at the undergraduate, pre-professional, and doctoral level. Parish is additionally a certified simulation instructor through Harvard/MIT. She has served in multiple leadership roles for the APTA Academy of Cardiovascular and Pulmonary, Acute Care, Pediatrics, APTA Alabama, and the Society for Simulation in Healthcare. She is the recipient of the 2021 and 2022 Emerging Leader Award from the APTA, 2022 Academy of Cardiovascular & Pulmonary Physical Therapy Emerging Leader Award, as well as the 2022 ACAPT Emerging Educator Award.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7282-ashley-parish",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Physical Therapy"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "7282",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 80,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 83,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 57,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ashley",
+  "firstNameLastName": "Ashley Parish",
+  "equipmentLinkTypes": [],
+  "objectId": 7282,
+  "updatedWhen": "2025-05-10T08:14:29.4191371-05:00",
+  "hasCollaborationData": true,
+  "email": "ashbrown@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research",
+  "grant_keywords": ""
+}

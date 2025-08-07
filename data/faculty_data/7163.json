@@ -1,0 +1,131 @@
+{
+  "lastName": "Wyatt",
+  "overview": "Wyatt has been involved in the field of obesity, weight management and metabolism her entire career and personally struggled with her weight and maintaining a reduced healthy body weight earlier in her life. She is the co-founder and medical director for The State of Slim — a transformative weight loss program that specializes in long-term strategies for weight loss and transforming your life.\n\nWyatt has more than 20 years of clinical experience in weight reduction using behavioral treatment, dietary therapy, physical activity interventions, weight loss medications, and surgery. She was the medical director for seasons four and five of ABC’s TV show Extreme Weight Loss and has spent much of her research career following more than 10,000 “successful losers” in the National Weight Control Registry to investigate what makes people successful during their weight loss journey.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7163-holly-wyatt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "7163",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 138,
+      "favourites": 0
+    }
+  },
+  "firstName": "Holly",
+  "firstNameLastName": "Holly Wyatt",
+  "equipmentLinkTypes": [],
+  "objectId": 7163,
+  "updatedWhen": "2025-05-10T08:14:20.0356505-05:00",
+  "hasCollaborationData": true,
+  "email": "drholly@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Mind and Body Minority Health Nutrition Obesity Patient Safety Physical Activity Prevention Rehabilitation",
+  "grant_keywords": ""
+}

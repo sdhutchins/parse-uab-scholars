@@ -1,0 +1,129 @@
+{
+  "lastName": "Flannery",
+  "overview": "Most of my career has been in the history of medicine, pharmacy, and related sciences. This includes bioethics. I was executive director of the Lloyd Library and Museum, Cincinnati, Ohio, from 1994 to 1999. I came to UAB to become associate director for Historical Collections in September 1999 and remained in that position until my retirement in 2016. Since retirement I've continued my interests in healthcare, but have expanded to include the history of biology and the intersections of science, philosophy, and religion.  My _Nature's Prophet: Alfred Russel Wallace and His Evolution from Natural Selection to Natural Theology_ (University of Alabama Press, 2018) is a detailed examination of one important historical aspect of science and religion in the Victorian/Edwardian eras. More recently, my _America's Forgotten Poet-Philosopher: The Thought of John Elof Boodin in His Time and Ours_ (SUNY Press, 2023) and _Religion of Tomorrow: A New Edition with an Introduction Including Interpretive and Explanatory Notes_ (Wipf and Stock, 2024) investigates the process thought of Swedish-American philosopher John Elof Boodin (1869-1950). My work on Boodin continues.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "8-michael-flannery",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "UAB Libraries"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "History and Philosophy of Specific Fields",
+          "and Philosophy of Specific Fields",
+          "Philosophy of Specific Fields",
+          "of Specific Fields",
+          "Specific Fields",
+          "Fields"
+        ],
+        "value": "History and Philosophy of Specific Fields"
+      },
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Historical Studies",
+          "Studies"
+        ],
+        "value": "Historical Studies"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Religion and Religious Studies",
+          "and Religious Studies",
+          "Religious Studies",
+          "Studies"
+        ],
+        "value": "Religion and Religious Studies"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      }
+    ]
+  },
+  "discoveryId": "8",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 54,
+      "favourites": 4
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Flannery",
+  "equipmentLinkTypes": [],
+  "objectId": 8,
+  "updatedWhen": "2025-05-10T08:02:10.9574484-05:00",
+  "hasCollaborationData": false,
+  "email": "flannery@uab.edu",
+  "publication_keywords": "Complementary and Integrative Health",
+  "grant_keywords": ""
+}

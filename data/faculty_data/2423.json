@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2423",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 301,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Waldron",
+  "firstName": "Christopher",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2423-christopher-waldron",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor-Engineering 9 Mo",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Christopher Waldron",
+  "equipmentLinkTypes": [],
+  "objectId": 2423,
+  "updatedWhen": "2025-05-10T08:07:28.9287247-05:00",
+  "hasCollaborationData": false,
+  "email": "cwaldron@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

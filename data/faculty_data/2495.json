@@ -1,0 +1,116 @@
+{
+  "lastName": "Lancaster",
+  "overview": "Winston Lancaster earned a B.S. in Zoology from Auburn University and an M.S. in Vertebrate Paleontology from the Department of Geology at Louisiana State University. His thesis research focused on archaeocete whales. After graduation he continued working on fossil whales as a preparator of vertebrate fossils at the Red Mountain Museum in Birmingham, Alabama, and also worked as a fossil preparatpry at the Idaho Museum of Natural History in Pocatello. He earned a Ph.D. in Anatomy from the University of North Carolina pursuing his dissertation research on the functional morphology of respiration and vocalization in bats.\n\nHe pursued postdoctoral research at the University of Aberdeen (UK) on the physiological cost of biosonar vocalization in bats and Göteborg University (Sweden), where he studied predator-prey interactions and the way that moths avoid being eaten by bats. His research on bats has continued in Puerto Rico and the Dominican Republic and he has returned to research on whales, examining the structure of the middle and inner ears.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2495-winston-lancaster",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geology"
+        ],
+        "value": "Geology"
+      }
+    ]
+  },
+  "discoveryId": "2495",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 77,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "firstName": "Winston",
+  "firstNameLastName": "Winston Lancaster",
+  "equipmentLinkTypes": [],
+  "objectId": 2495,
+  "updatedWhen": "2025-05-10T08:07:39.3829276-05:00",
+  "hasCollaborationData": false,
+  "email": "wlancaster@uab.edu",
+  "publication_keywords": "Aging Clinical Research Genetics Neurosciences Physical Activity Physical Rehabilitation Rehabilitation",
+  "grant_keywords": ""
+}

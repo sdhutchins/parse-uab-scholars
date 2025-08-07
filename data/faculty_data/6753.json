@@ -1,0 +1,128 @@
+{
+  "lastName": "Kanter",
+  "overview": "Julie Kanter, MD is the co-director of the Lifespan Comprehensive Sickle Cell Center and professor in the Division of Hematology and Oncology. She also directs the UAB Adult Sickle Cell Clinic. Her clinical and research interests in sickle cell disease include improving access to care for affected individuals, and identifying and developing novel therapies for sickle cell disease, as well as enhancing horizontal care for patients with sickle cell disease. Kanter comes to UAB from the Medical University of South Carolina, where she was director of sickle cell disease research.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6753-julie-kanter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "6753",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 39,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 144,
+      "favourites": 0
+    }
+  },
+  "firstName": "Julie",
+  "firstNameLastName": "Julie Kanter",
+  "equipmentLinkTypes": [],
+  "objectId": 6753,
+  "updatedWhen": "2025-05-10T08:13:42.6693033-05:00",
+  "hasCollaborationData": true,
+  "email": "jkanter@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Chronic Pain Clinical Research Contraception/Reproduction Health Services Hematology Infertility Maternal Health Maternal Morbidity and Mortality Neurosciences Pain Research Pediatric Pregnancy Rare Diseases Sickle Cell Disease Transplantation Women's Health",
+  "grant_keywords": "Hematology Kidney Disease Rural Health"
+}

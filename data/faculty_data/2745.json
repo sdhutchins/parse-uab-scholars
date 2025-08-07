@@ -1,0 +1,123 @@
+{
+  "lastName": "Sorge",
+  "overview": "Born in a little hamlet in rural Canada, I have spent the majority of my life in the north. I completed a Bachelor’s degree in Hamilton, Ontario, Canada in 2000 under the supervision of Dr. Geoff Galef (environmental enrichment), a Master’s degree from Wilfrid Laurier University in Waterloo, Ontario, Canada under Dr. Linda Parker (THC and nausea, 2001) and a PhD from Concordia University in Montreal, Quebec, Canada in 2006 under Dr. Jane Stewart (heroin and cocaine addiction).\n\nContinuing my love for Montreal, I completed a postdoctoral fellowship at McGill University under Dr. Paul Clarke (nicotine addiction, 2009) and under Dr. Jeff Mogil (genetics and pain, 2012). I started at UAB in the Department of Psychology in the summer of 2012 and have been here ever since.\n\nI am currently enjoying Alabama with my family and return to Canada in the warmer months of the year to avoid the snow. As animal lovers, we currently have 2 dogs, a cat, a rat, a snake, and eight fish, and we watch friends’ animals when they are out of town.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2745-robert-sorge",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2745",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 87,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 88,
+      "favourites": 0
+    }
+  },
+  "firstName": "Robert",
+  "firstNameLastName": "Robert Sorge",
+  "equipmentLinkTypes": [],
+  "objectId": 2745,
+  "updatedWhen": "2025-05-10T08:08:22.0050951-05:00",
+  "hasCollaborationData": true,
+  "email": "rsorge@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Back Pain Behavioral and Social Science Chronic Pain Clinical Research Estrogen HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Neurodegenerative Neurosciences Pain Research Physical Injury - Accidents and Adverse Effects Prevention Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Spinal Cord Injury Substance Misuse Traumatic Head and Spine Injury",
+  "grant_keywords": "ALS Back Pain Behavioral and Social Science Biotechnology Brain Disorders Chronic Pain Clinical Research Genetics Health Disparities Human Genome Minority Health Neurodegenerative Neurosciences Pain Research Prevention Rare Diseases Social Determinants of Health Women's Health"
+}

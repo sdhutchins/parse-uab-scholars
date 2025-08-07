@@ -1,0 +1,132 @@
+{
+  "lastName": "Christy",
+  "overview": "Jennifer Braswell Christy, PT, PhD is Associate Professor and DPT Program Director at The University of Alabama at Birmingham (UAB). Dr. Christy also serves as the Assistant Dean of Faculty Affairs for the School of Health Professions. She served as the chair of the DPT Program Admissions Committee from 2007-2018 and became the DPT Program Director in May, 2018. Dr. Christy is the current Director of Research for the Academy of Pediatric Physical Therapy, and on the Nominating Committee for the American Council of Academic Physical Therapy. Dr. Christy received the UAB School of Health Professions Service Award in 2012, and the APTA Lucy Blair Service Award in 2017. Dr. Christy and her UAB team promote excellence in physical therapy education by focusing on their vision to create and translate knowledge that will enhance movement, health, wellness, and quality of life of individuals in a diverse society.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1867-jennifer-christy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Physical Therapy"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1867",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 243,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 51,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jennifer",
+  "firstNameLastName": "Jennifer Christy",
+  "equipmentLinkTypes": [],
+  "objectId": 1867,
+  "updatedWhen": "2025-05-10T08:06:12.2934365-05:00",
+  "hasCollaborationData": true,
+  "email": "jbraswel@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Services Neurosciences Pediatric Pediatric Research Initiative Physical Rehabilitation Prevention Rehabilitation",
+  "grant_keywords": ""
+}

@@ -1,0 +1,115 @@
+{
+  "discoveryId": "960",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "lastName": "Travers",
+  "firstName": "Colm",
+  "hasThumbnail": false,
+  "discoveryUrlId": "960-colm-travers",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Neonatology"
+    }
+  ],
+  "firstNameLastName": "Colm Travers",
+  "equipmentLinkTypes": [],
+  "objectId": 960,
+  "updatedWhen": "2025-05-10T08:04:23.0585538-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ctravers@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Infant Mortality Patient Safety Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Women's Health",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Maternal Health Maternal Morbidity and Mortality Minority Health Pediatric Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Social Determinants of Health Women's Health"
+}

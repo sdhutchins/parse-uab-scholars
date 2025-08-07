@@ -1,0 +1,113 @@
+{
+  "lastName": "Welner",
+  "overview": "I received my Ph.D. degree in Immunology and Microbiology from the University of Oklahoma with Dr. Paul Kincade. I then moved to Harvard Medical School for my post-doctoral training with Dr. Dan Tenen.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3268-rob-welner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "3268",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 57,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 84,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rob",
+  "firstNameLastName": "Rob Welner",
+  "equipmentLinkTypes": [],
+  "objectId": 3268,
+  "updatedWhen": "2025-05-10T08:09:16.2154321-05:00",
+  "hasCollaborationData": true,
+  "email": "rwelner@uab.edu",
+  "publication_keywords": "Aging Cancer Eye Disease and Disorders of Vision Genetics Human Genome Immunotherapy Infectious Diseases Lung Lung Cancer Macular Degeneration Neurodegenerative Neurosciences Radiation Oncology Women's Health",
+  "grant_keywords": "Cancer Genetics Hematology Human Genome Lymphatic Research Lymphoma Pediatric Research Initiative Prevention Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Transplantation"
+}

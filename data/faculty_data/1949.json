@@ -1,0 +1,127 @@
+{
+  "lastName": "McCormick",
+  "overview": "Dr. McCormick is the Senior Associate Dean for Academics and Practice for the UAB School of Public Health.  Dr. McCormick is the Director of the Alabama Regional Center for Infection Prevention and Control, Director of the Nursing Home and Long Term Care Infection Prevention Strike Team, the Lead Evaluator for the Region IV Public Health Training Center, Director of the Research Education Core for the UAB CounterACT Research Center of Excellence in Arsenicals, Director of the Research Experience Training Coordination Core for the UAB Superfund Research Center, and Co-Director of the AL K-12 COVID-19 Screen Testing Program.  Dr. McCormick's research and scholarship focus on program evaluation, training and educational outcomes, and public health preparedness.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1949-lisa-mccormick",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1949",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 45,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 194,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 69,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 214,
+      "favourites": 9
+    }
+  },
+  "firstName": "Lisa",
+  "firstNameLastName": "Lisa McCormick",
+  "equipmentLinkTypes": [],
+  "objectId": 1949,
+  "updatedWhen": "2025-05-10T08:06:24.4532796-05:00",
+  "hasCollaborationData": true,
+  "email": "lmccormick@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Foodborne Illness Health Services Infectious Diseases",
+  "grant_keywords": ""
+}

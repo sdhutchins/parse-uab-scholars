@@ -1,0 +1,124 @@
+{
+  "lastName": "Duncan",
+  "overview": "Virginia Duncan, M.D., a graduate and chief resident in the UAB Anatomic Pathology Residency, will join the division as Assistant Professor. Board certified in Anatomic and Clinical Pathology, she completed her fellowship in Pediatric and Perinatal Pathology at the University of Washington. Her research interests focus on pediatric pathology; specifically the clinicopathologic aspects of entities spanning the perinatal period from fetus to neonate.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6194-virginia-duncan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "University of Alabama Health Services Foundation (UAHSF)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "6194",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 27,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "firstName": "Virginia",
+  "firstNameLastName": "Virginia Duncan",
+  "equipmentLinkTypes": [],
+  "objectId": 6194,
+  "updatedWhen": "2025-05-10T08:12:55.3450618-05:00",
+  "hasCollaborationData": true,
+  "email": "veduncan@uabmc.edu",
+  "publication_keywords": "Asthma Clinical Research Conditions Affecting the Embryonic and Fetal Periods Contraception/Reproduction Genetics Human Genome Infant Mortality Lung Maternal Health Maternal Morbidity and Mortality Mental Health Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

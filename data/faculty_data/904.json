@@ -1,0 +1,84 @@
+{
+  "discoveryId": "904",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 30,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "lastName": "Spear",
+  "firstName": "Bonnie",
+  "hasThumbnail": false,
+  "discoveryUrlId": "904-bonnie-spear",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Pediatric - Adolescent Medicine"
+    }
+  ],
+  "firstNameLastName": "Bonnie Spear",
+  "equipmentLinkTypes": [],
+  "objectId": 904,
+  "updatedWhen": "2025-05-10T08:04:23.0160422-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "alston@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Childhood Obesity Clinical Research Health Services Nutrition Obesity Pediatric Research Initiative Prevention",
+  "grant_keywords": ""
+}

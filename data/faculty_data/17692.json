@@ -1,0 +1,63 @@
+{
+  "discoveryId": "17692",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "lastName": "Lee",
+  "firstName": "Seung-Yup (Joshua)",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17692-seungyup-joshua-lee",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "firstNameLastName": "Seung-Yup (Joshua) Lee",
+  "equipmentLinkTypes": [],
+  "objectId": 17692,
+  "updatedWhen": "2025-05-10T08:18:11.1726124-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "slee9@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Bioengineering Clinical Research Diabetes Emergency Care Health Services Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Patient Safety Pediatric Prevention Social Determinants of Health",
+  "grant_keywords": ""
+}

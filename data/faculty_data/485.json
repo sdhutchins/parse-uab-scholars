@@ -1,0 +1,127 @@
+{
+  "lastName": "Hannon",
+  "overview": "Dr. Lonnie Hannon is an Associate Professor in the Department of Health Behavior at the UAB School of Public Health. Dr.Hannon is an experienced researcher and educator. His interests include the cultural, political, and economic factors that shape society. His specific area of study examines the effects of legacy-based housing policy on neighborhood development and community empowerment. He has received over one million dollars in grant funding to stimulate community engagement. His recent peer reviewed articles discuss innovative dissemination strategies and community empowerment. Dr. Hannon serves on the Board of Directors for the Birmingham Land Bank Authority and the Southside Baseball Association.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "485-lonnie-hannon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Behavior"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Urban and Regional Planning",
+          "and Regional Planning",
+          "Regional Planning",
+          "Planning"
+        ],
+        "value": "Urban and Regional Planning"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Geography",
+          "Geography"
+        ],
+        "value": "Human Geography"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "discoveryId": "485",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 63,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lonnie",
+  "firstNameLastName": "Lonnie Hannon",
+  "equipmentLinkTypes": [],
+  "objectId": 485,
+  "updatedWhen": "2025-05-12T03:21:24.5918229-05:00",
+  "hasCollaborationData": true,
+  "email": "lonniehannon@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Brain Disorders Cardiovascular Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Dissemination and Implementation Research Emerging Infectious Diseases HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Hypertension Immunization Infectious Diseases Kidney Disease Minority Health Nutrition Physical Activity Prevention Rural Health Social Determinants of Health Stroke Vaccine Related Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Heart Disease Hypertension Minority Health Nutrition Obesity Physical Activity Prevention Rural Health Social Determinants of Health"
+}

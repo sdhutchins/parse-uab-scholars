@@ -1,0 +1,125 @@
+{
+  "discoveryId": "3925",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "lastName": "Boulware",
+  "firstName": "Dennis",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3925-dennis-boulware",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "firstNameLastName": "Dennis Boulware",
+  "equipmentLinkTypes": [],
+  "objectId": 3925,
+  "updatedWhen": "2025-05-10T08:10:17.4621265-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "boulware@uab.edu",
+  "publication_keywords": "Health Disparities and Racial or Ethnic Minority Health Research Minority Health Pediatric Research Initiative Rural Health Social Determinants of Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "discoveryId": "2444",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 34,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 278,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 49,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pillay",
+  "firstName": "Selvum",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2444-selvum-pillay",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor"
+    }
+  ],
+  "firstNameLastName": "Selvum Pillay",
+  "equipmentLinkTypes": [],
+  "objectId": 2444,
+  "updatedWhen": "2025-05-10T08:07:39.3329251-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Manufacturing Engineering",
+          "Engineering"
+        ],
+        "value": "Manufacturing Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Resources Engineering and Extractive Metallurgy",
+          "Engineering and Extractive Metallurgy",
+          "and Extractive Metallurgy",
+          "Extractive Metallurgy",
+          "Metallurgy"
+        ],
+        "value": "Resources Engineering and Extractive Metallurgy"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pillay@uab.edu",
+  "publication_keywords": "Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health",
+  "grant_keywords": ""
+}

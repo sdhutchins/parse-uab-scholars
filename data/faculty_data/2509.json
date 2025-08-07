@@ -1,0 +1,120 @@
+{
+  "lastName": "Wibbels",
+  "overview": "I developed an intense interest in marine biology during my undergraduate studies, which led me to the Marine Science graduate program at the University of Houston, located on the National Marine Fisheries Service (NMFS) base in Galveston. NMFS was part of an international program trying to prevent the extinction of the critically endangered Kemp’s ridley sea turtle, and was “headstarting” about 2,000 turtles per year in Galveston. I quickly became involved in that project and studied their behavior and conservation for my thesis. During that time I began appreciating the unique biology of sea turtles and became acutely aware of how important conservation was to the survival of endangered species.\n\nTo further pursue this interest I joined a Ph.D. program at Texas A&M under the guidance of Dave Owens (an expert on sea turtle biology and reproduction). Due to Dave’s insight, my general interest in sea turtles and biology expanded greatly as I realized that sea turtles were a prime example of vertebrate physiology, ecology, and evolution. Additionally they had a long-term history/interaction with humans, with historical exploitation and, more recently, intense conservation. We studied loggerhead sea turtles in Florida and olive ridley sea turtles in Mexico; then we obtained an NSF grant that allowed us to travel to the Great Barrier Reef (GBR) to conduct a collaborative study with Colin Limpus (Australia’s leading sea turtle expert). For six months we lived on a small island and studied the reproductive endocrinology and ecology of sea turtles. We would go out daily on the GBR and capture, tag, obtain blood samples, and even laparoscopy turtles ranging from small juveniles to giant adults. During the study we captured approximately 900 turtles, used those data to evaluate the hormones controlling reproduction in adults, and validated hormone-based sexing techniques for juveniles.\n\nAfter that I completed a postdoctoral fellowship and an NIH National Research Service Award, shifting from studying adult reproduction of turtles to how sex is determined in turtles that have temperature-dependent sex determination (TSD). This also meant that I went from catching giant sea turtles on the GBR to studying the physiology of sex determination in the basement of the Zoology building at the University of Texas at Austin. TSD is a fascinating area of study and has significant implications for the biology, ecology, evolution, and conservation of reptiles, including endangered sea turtles. I was fortunate to be able to complete the postdoctoral fellowship under the guidance of David Crews and Jim Bull, two world-renowned scientists. During that project we developed the red-eared slider turtle as a model system for studying the physiology of TSD in turtles.\n\nSince coming to UAB I have continued an active research program focusing on basic scientific questions using marine turtles as the model system. Most recently we have been examining the biology of marine turtles in relationship to global climate change. The results of these studies are providing basic information on sea turtle ecology, evolution, and conservation, and they are revealing that sea turtles are an excellent vertebrate model system for studying the impact of global climate change.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2509-thane-wibbels",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecological Applications",
+          "Applications"
+        ],
+        "value": "Ecological Applications"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2509",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 453,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 59,
+      "favourites": 0
+    }
+  },
+  "firstName": "Thane",
+  "firstNameLastName": "Thane Wibbels",
+  "equipmentLinkTypes": [],
+  "objectId": 2509,
+  "updatedWhen": "2025-05-10T08:07:39.4039280-05:00",
+  "hasCollaborationData": true,
+  "email": "twibbels@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,119 @@
+{
+  "discoveryId": "2638",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 100,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 19,
+      "favourites": 0
+    }
+  },
+  "lastName": "McGrath",
+  "firstName": "Shelly",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2638-shelly-mcgrath",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "Shelly McGrath",
+  "equipmentLinkTypes": [],
+  "objectId": 2638,
+  "updatedWhen": "2025-05-10T08:08:00.9296801-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "smcgrath@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Childhood Injury Drug Abuse (NIDA only) Fentanyl Misuse and Addiction Mental Health Opioid Misuse and Addiction Opioids Pain Research Pediatric Physical Injury - Accidents and Adverse Effects Prescription Drug Abuse Social Determinants of Health Substance Misuse Violence Against Women Violence Research Women's Health",
+  "grant_keywords": ""
+}

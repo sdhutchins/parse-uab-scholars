@@ -1,0 +1,124 @@
+{
+  "lastName": "Silvera",
+  "overview": "Dr. Geoffrey Silvera is an advocate and distinguished scholar specializing in Health Care Management, with expertise in Strategic Management, Patient Experience, and Diversity Management. Driven by a commitment to advancing healthcare, Dr. Silvera focuses on empowering organizations to build sustainable solutions to enhance patient experience, care quality, and promote health equity outcomes.\nHe presently serves as an Associate Professor of Health Services Administration in the Department of Health Services Administration at The University of Alabama-Birmingham’s School of Health Professions. Previously, served on the faculty at Auburn University. He holds a doctorate in Health Policy and Administration from the Pennsylvania State University and masters and bachelors degrees from the University of Florida.\n\nIn addition to his academic position, he serves on the editorial boards QMHC and as the Associate Editor of PXJ.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16968-geoffrey-silvera",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Law and Legal Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Law"
+        ],
+        "value": "Law"
+      }
+    ]
+  },
+  "discoveryId": "16968",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 1
+    },
+    "publications": {
+      "all": 53,
+      "favourites": 8
+    }
+  },
+  "firstName": "Geoffrey",
+  "firstNameLastName": "Geoffrey Silvera",
+  "equipmentLinkTypes": [],
+  "objectId": 16968,
+  "updatedWhen": "2025-05-10T08:16:51.0737424-05:00",
+  "hasCollaborationData": true,
+  "email": "gsilvera@uab.edu",
+  "publication_keywords": "Clinical Research Health Services",
+  "grant_keywords": ""
+}

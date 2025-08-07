@@ -1,0 +1,128 @@
+{
+  "lastName": "Goss",
+  "overview": "Dr. Goss is an Assistant Professor of Nutrition Sciences at UAB, a Register Dietitian, and an early career investigator with expertise in conducting randomized clinical trials to examine the effects of diet quality and macronutrient composition on risk factors of chronic metabolic diseases such as obesity, non-alcoholic fatty liver disease (NAFLD), and type 2 diabetes.  The goal of her research is to identify effective, sustainable, and non-invasive dietary means of preventing and reversing disease with metabolic origins.  Dr. Goss specializes in MRI and MRS techniques for the assessment of fat distribution and organ lipid content in adult and pediatric populations.  She recently has conducted studies using a family-based, controlled feeding experimental design aimed at improving outcomes in children with NAFLD.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3453-amy-goss",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "3453",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 36,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 46,
+      "favourites": 0
+    }
+  },
+  "firstName": "Amy",
+  "firstNameLastName": "Amy Goss",
+  "equipmentLinkTypes": [],
+  "objectId": 3453,
+  "updatedWhen": "2025-05-10T08:09:38.3368600-05:00",
+  "hasCollaborationData": true,
+  "email": "amymiski@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Cardiovascular Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Diabetes Digestive Diseases Genetics Liver Disease Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Nutrition Obesity Prevention Women's Health",
+  "grant_keywords": "Childhood Obesity Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Diabetes Digestive Diseases Hepatitis Kidney Disease Liver Disease Nutrition Obesity Pediatric Prevention Urologic Diseases"
+}

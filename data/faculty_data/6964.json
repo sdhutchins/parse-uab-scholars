@@ -1,0 +1,124 @@
+{
+  "lastName": "Gupta",
+  "overview": "Cancer is complex disease, which involve alternation of multiple genetic and epigenetic factors and pathways in normal cells for them to become cancerous. Because of its complex nature and the ability of cancer cells to evolve rapidly undertreatment, cancer treatment with durable outcome is a challenging problem. Therefore, in-depth molecular understanding of cancer initiation and progression is necessary for developing effective therapies. In-order to identify and characterize critical cancer vulnerability genes and their downstream network we use genomic and targeted approaches. Our research program spans several cancer types including melanoma, hepatocellular carcinoma, breast cancer, ovarian cancer and pancreatic cancer. Our long-term goal is to not only identify new molecules and signaling pathways that regulate the disease but also develop more effective and durable cancer therapies.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6964-romi-gupta",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "6964",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 49,
+      "favourites": 0
+    }
+  },
+  "firstName": "Romi",
+  "firstNameLastName": "Romi Gupta",
+  "equipmentLinkTypes": [],
+  "objectId": 6964,
+  "updatedWhen": "2025-05-10T08:14:00.1461117-05:00",
+  "hasCollaborationData": true,
+  "email": "romigup@uab.edu",
+  "publication_keywords": "Biotechnology Breast Cancer Cancer Digestive Diseases Genetics Immunization Immunotherapy Liver Cancer Liver Disease Orphan Drug Ovarian Cancer Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": "Biotechnology Cancer Cancer Genomics Digestive Diseases Genetics Human Genome Immunotherapy Liver Cancer Liver Disease Orphan Drug Ovarian Cancer Precision Medicine Prevention Rare Diseases Women's Health"
+}

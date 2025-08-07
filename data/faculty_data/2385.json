@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2385",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 165,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "McKnight",
+  "overview": "Scholarship\n\nMost of my scholarship entails philosophical analysis of educational policy, specifically concerning ethics and epistemology as related to the emotional context of schooling and ecological issues in education. \n\nService\n\nI am active in service to the SOE, the university, national professional organizations, and several local museums.",
+  "firstName": "Andrew",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2385-andrew-mcknight",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "firstNameLastName": "Andrew McKnight",
+  "equipmentLinkTypes": [],
+  "objectId": 2385,
+  "updatedWhen": "2025-05-10T08:07:28.8827199-05:00",
+  "hasCollaborationData": false,
+  "email": "anmcknig@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

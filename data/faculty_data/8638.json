@@ -1,0 +1,73 @@
+{
+  "lastName": "Randolph",
+  "overview": "Clinical Neuropsychology",
+  "hasThumbnail": false,
+  "discoveryUrlId": "8638-brittney-randolph",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychiatry - Adult"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "8638",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "firstName": "Brittney",
+  "firstNameLastName": "Brittney Randolph",
+  "equipmentLinkTypes": [],
+  "objectId": 8638,
+  "updatedWhen": "2025-05-10T08:14:46.1843194-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

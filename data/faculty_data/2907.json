@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2907",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 43,
+      "favourites": 0
+    }
+  },
+  "lastName": "Campbell",
+  "firstName": "Susan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2907-susan-campbell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Susan Campbell",
+  "equipmentLinkTypes": [],
+  "objectId": 2907,
+  "updatedWhen": "2025-05-10T08:08:32.6409024-05:00",
+  "hasCollaborationData": true,
+  "email": "sue08@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Brain Disorders Cerebrovascular Epilepsy Genetics Mental Health Neurodegenerative Neurosciences Prevention Stroke",
+  "grant_keywords": "Brain Cancer Brain Disorders Cancer Drug Abuse (NIDA only) Electronic Nicotine Delivery Systems Epilepsy Neurodegenerative Neurosciences Rare Diseases Substance Misuse Tobacco"
+}

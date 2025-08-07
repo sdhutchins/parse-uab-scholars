@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2620",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 212,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Forman",
+  "firstName": "Michele",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2620-michele-forman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Michele Forman",
+  "equipmentLinkTypes": [],
+  "objectId": 2620,
+  "updatedWhen": "2025-05-10T08:08:00.8816758-05:00",
+  "hasCollaborationData": false,
+  "email": "mforman@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

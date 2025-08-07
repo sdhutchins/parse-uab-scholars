@@ -1,0 +1,128 @@
+{
+  "lastName": "Lebensburger",
+  "overview": "Dr. Lebensburger is the Director, Pediatric Hematology Section in the Division of Pediatric Hematology Oncology.  He has expertise in sickle cell disease and hemoglobinopathies, red cell disorders, ITP, bleeding disorders, blood clotting disorders, bone marrow failure syndromes, and general hematology.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "920-jeffrey-lebensburger",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Hematology-Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "920",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 70,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 104,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jeffrey",
+  "firstNameLastName": "Jeffrey Lebensburger",
+  "equipmentLinkTypes": [],
+  "objectId": 920,
+  "updatedWhen": "2025-05-10T08:04:23.0316577-05:00",
+  "hasCollaborationData": true,
+  "email": "jlebensb@uab.edu",
+  "publication_keywords": "Cancer Clinical Research Health Disparities Health Services Hematology Kidney Disease Pediatric Rare Diseases Sickle Cell Disease Women's Health",
+  "grant_keywords": "Hematology Kidney Disease Rural Health"
+}

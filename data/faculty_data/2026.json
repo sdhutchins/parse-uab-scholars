@@ -1,0 +1,128 @@
+{
+  "lastName": "Placzek",
+  "overview": "My research goal is to better understand the biochemical mechanisms that facilitate chemoresistance and employ NMR spectroscopy and synthetic peptides to identify novel therapeutic targets to suppress chemoresistance. To this end, my research focuses on two primary avenues: 1) Characterization of rBH3 motif mediated regulation of anti-apoptotic Bcl-2 family members; 2) Development of targeted inhibitors of the SUMOylation E2 enzyme, Ubc9. We also employ our expertise in peptide synthesis and assay design to develop peptide-based high-throughput screening assays that are amenable for small-molecule drug discovery and in the development of first-in-class peptide inhibitors that can be used to validate new therapeutic targets in cancer.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2026-william-placzek",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "2026",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 104,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "firstName": "William",
+  "firstNameLastName": "William Placzek",
+  "equipmentLinkTypes": [],
+  "objectId": 2026,
+  "updatedWhen": "2025-05-10T08:06:35.9170079-05:00",
+  "hasCollaborationData": true,
+  "email": "placzek@uab.edu",
+  "publication_keywords": "Biotechnology Brain Cancer Brain Disorders Breast Cancer Cancer Cancer Genomics Genetics Human Genome Kidney Disease Neurosciences Orphan Drug Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Women's Health",
+  "grant_keywords": "Genetics Neurodegenerative Neurosciences Pediatric Rare Diseases"
+}

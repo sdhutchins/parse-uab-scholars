@@ -1,0 +1,126 @@
+{
+  "lastName": "Willis",
+  "overview": "Dr. Willis is a K08 supported physician scientist in the Department of Pediatrics, Division of Neonatology. The Willis Lung Lab explores the role of commensal fungi and the gut-lung axis in early life.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16595-kent-willis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pediatric - Neonatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      }
+    ]
+  },
+  "discoveryId": "16595",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 2
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 1
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 3
+    },
+    "publications": {
+      "all": 51,
+      "favourites": 5
+    }
+  },
+  "firstName": "Kent",
+  "firstNameLastName": "Kent Willis",
+  "equipmentLinkTypes": [],
+  "objectId": 16595,
+  "updatedWhen": "2025-05-10T08:16:13.4193682-05:00",
+  "hasCollaborationData": true,
+  "email": "kawillis@uab.edu",
+  "publication_keywords": "Chronic Obstructive Pulmonary Disease Clinical Research Genetics Human Genome Infant Mortality Lung Microbiome Neonatal Respiratory Distress Orphan Drug Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Rare Diseases",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Biodefense Biotechnology Cardiovascular Clinical Research Emerging Infectious Diseases Genetics Infant Mortality Infectious Diseases Lung Microbiome Neonatal Respiratory Distress Orphan Drug Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Prevention Pulmonary Hypertension Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human"
+}

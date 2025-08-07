@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2075",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 43,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 133,
+      "favourites": 0
+    }
+  },
+  "lastName": "Walter",
+  "firstName": "Mark",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2075-mark-walter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "firstNameLastName": "Mark Walter",
+  "equipmentLinkTypes": [],
+  "objectId": 2075,
+  "updatedWhen": "2025-05-10T08:06:35.9590917-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "walter@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Cancer Clinical Research Coronaviruses Coronaviruses Therapeutics and Interventions Coronaviruses Vaccines Emerging Infectious Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Immunization Immunotherapy Infectious Diseases Lung Minority Health Pneumonia Pneumonia & Influenza Prevention Rare Diseases Vaccine Related",
+  "grant_keywords": "Biodefense Biotechnology Clinical Research Emerging Infectious Diseases Health Disparities Immunization Immunotherapy Infectious Diseases Influenza Minority Health Organ Transplantation Pneumonia & Influenza Prevention Transplantation Vaccine Related"
+}

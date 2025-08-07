@@ -1,0 +1,125 @@
+{
+  "lastName": "Elk",
+  "overview": "Ronit Elk, PhD is a Professor in the School of Medicine; Division of Geriatrics, Gerontology and Palliative Care, and as Associate Director of the Southeast Institute for Innovation in Palliative and Supportive Care at the University of Alabama, Birmingham.  She is a Fellow of the American Academy of Hospice and Palliative Medicine. Using Community Based Participatory Research (CBPR), a social justice approach, her NIH-funded research focuses on partnering equitably with underserved populations, in particular African American communities, to develop effective culturally-based healthcare program. \n\nDr. Elk has extensive expertise in grant writing, reviewing and funding; in addition to serving on several NIH Peer Review Committees, she directed the first extramural Cancer Control and Prevention Research at the American Cancer Society from 2001-2011; this included establishing a nationally-recognized cancer health disparities program, and forming a partnership with the National Palliative Care Research Center to establish the first palliative care research funding program in the US. Dr. Elk has developed a training program in CBPR provided yearly, and mentors beginning investigators  all over the US conducting CBPR-based research. \n\nPersonal: Ronit was born in Israel but spent her early life moving from country to country, as her father was Israeli Ambassador to Turkey, India, Uganda, Kenya and South Africa. She immigrated to the US over 30 years ago, but still talks with a “funny accent.”  She is the proud grandmother of 9 year old twins, a boy and a girl, who live in Israel.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6314-ronit-elk",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "6314",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 101,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ronit",
+  "firstNameLastName": "Ronit Elk",
+  "equipmentLinkTypes": [],
+  "objectId": 6314,
+  "updatedWhen": "2025-05-10T08:13:05.3673049-05:00",
+  "hasCollaborationData": true,
+  "email": "elkronit@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Caregiving Research Chronic Pain Clinical Research Clinical Trials and Supportive Activities Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Mental Health Mental Illness Minority Health Pain Research Prevention Rural Health Social Determinants of Health Telehealth Women's Health",
+  "grant_keywords": "Aging Behavioral and Social Science Caregiving Research Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Minority Health Rural Health Social Determinants of Health Telehealth"
+}

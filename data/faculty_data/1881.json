@@ -1,0 +1,125 @@
+{
+  "lastName": "Jenkins",
+  "overview": "I have been privileged to be an occupational therapist for more than three decades and, for the majority of that, I have been dedicated to supporting and empowering people with the most severe disabilities to find purpose and meaning in their daily lives, using technology as a means of empowerment. For the past 14 years, my focus has shifted to facilitating the next generation of occupational therapists to be successful in their academic journey to become the occupational therapist they strive to be. I started my academic career in an undergraduate program in the United Kingdom and have now continued it in a masters’ level program here at the University of Alabama at Birmingham. \n\nThroughout my career, I have always had a strong sense of duty to my clients, my students, colleagues and the academic and wider community. This motivates me to participate in service activities that exemplify integrity, social responsibility and advocacy.  As such, I believe that my professional responsibility includes advocacy for excellence in the entry level occupational therapy program to ensure that we educate occupational therapists who excel in the present, as well as look toward the future, while always being true to the professions’ legacy.  To do this I am committed to continuing to build my own competence and excellence as an educator and a clinician and advocating to ensure that the department of occupational therapy at UAB continues its history of excellence and remains prominent in national standings.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1881-gavin-jenkins",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Occupational Therapy"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "1881",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 182,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gavin",
+  "firstNameLastName": "Gavin Jenkins",
+  "equipmentLinkTypes": [],
+  "objectId": 1881,
+  "updatedWhen": "2025-05-10T08:06:12.3231882-05:00",
+  "hasCollaborationData": true,
+  "email": "jenkinsg@uab.edu",
+  "publication_keywords": "Aging Clinical Research Clinical Trials and Supportive Activities Health Services Pediatric Research Initiative Rehabilitation",
+  "grant_keywords": ""
+}

@@ -1,0 +1,126 @@
+{
+  "lastName": "Wang",
+  "overview": "Our goal is using cryo-EM to understand and design large assemblies.\n\nLarge protein assemblies in nature are universal and essential. They represent a unique gold mine to identify functional modules that display seemingly simple molecular architectures analogous to each LEGO piece; when assembled, they form remarkably complex structures. Our research program aims to discover and understand the biochemical principle behind those nature’s LEGO, especially microbial appendages involved in pathologies, microbial ecology, and bioenergetics. Ultimately, the Wang lab seeks to apply these biochemical rules to design peptide/protein modules that can assemble into functional nanotubes for biomedical applications. Three research directions are available:\n\nHow do microbes make long-range electron transfer happen?\nIn anoxic environments, from aquatic sediments to the human gut, respiring bacteria naturally transfer electrons on the micron-scale beyond their outer membranes to distant and insoluble terminal electron acceptors. We generated the first atomic structure of Geobacter conductive nanowires (Cell, 2019), and the atomic structure now reveals the unexpected identity of the conductive nanowires to be polymerized hexa-heme c-type cytochromes. Hemes within OmcS fibers are arranged in a continuous axial chain inside the fiber core, with inter-heme distances from ~3.5-6.0 Å. This is an exciting and new area of research, and our lab uses cryo-EM to understand and design heme-based microbial conductive nanowires.\n\nNanotube design in new frontiers in anti-tumor nanomedicine\nThe rationale and motivation for this project are: we have observed many fascinating functions from viruses and microbial pili. However, they cannot self-assemble and a large assembling machine is typically needed to put them together, which greatly limits their engineering potential and biomedical applications. While protein self-assembly is a ubiquitous phenomenon in nature, we aim to combine prior knowledge and design self-assembled nanotubes with different structural modules for new biomedical purposes, especially for cancer therapy.\n\nDe novo protein identification from cryo-EM maps\nThe recent revolution in cryo-electron microscopy has made it possible to determine macromolecular structures directly from cell extracts. However, identifying the correct protein from the cryo-EM map is still challenging and often needs additional sequence information from other techniques, such as tandem mass spectrometry and/or bioinformatics. AlphaFold made this process easier. But eyeballing an EM map against 2,000 AlphaFold predictions is still painful, like decrypting hieroglyphs. One of our long-term goals is to develop server-based approaches to directly identify proteins from EM maps, without the need for additional information.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17962-fengbin-wang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      }
+    ]
+  },
+  "discoveryId": "17962",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 2
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 15
+    }
+  },
+  "firstName": "Fengbin",
+  "firstNameLastName": "Fengbin Wang",
+  "equipmentLinkTypes": [],
+  "objectId": 17962,
+  "updatedWhen": "2025-05-10T08:18:27.5113440-05:00",
+  "hasCollaborationData": true,
+  "email": "jerrywang@uab.edu",
+  "publication_keywords": "Bioengineering Nanotechnology",
+  "grant_keywords": "Bioengineering Biotechnology Nanotechnology"
+}

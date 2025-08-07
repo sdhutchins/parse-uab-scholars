@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2084",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 79,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 268,
+      "favourites": 0
+    }
+  },
+  "lastName": "Eltoum",
+  "firstName": "Isam-Eldin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2084-isameldin-eltoum",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Anatomic Pathology"
+    }
+  ],
+  "firstNameLastName": "Isam-Eldin Eltoum",
+  "equipmentLinkTypes": [],
+  "objectId": 2084,
+  "updatedWhen": "2025-05-10T08:06:35.9747090-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ieltoum@uab.edu",
+  "publication_keywords": "Biomedical Imaging Cancer Cervical Cancer Clinical Research Dental/Oral and Craniofacial Disease Digestive Diseases Genetics Health Disparities Immunotherapy Infectious Diseases Lung Lung Cancer Orphan Drug Pain Research Pancreatic Cancer Precision Medicine Rare Diseases Sexually Transmitted Infections Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health",
+  "grant_keywords": "Aging Cancer Genetics Health Disparities Minority Health Nutrition Prostate Cancer Urologic Diseases"
+}

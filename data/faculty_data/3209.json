@@ -1,0 +1,88 @@
+{
+  "lastName": "Bhatnagar",
+  "overview": "Understanding the role of pancreatic beta-cells in obesity and type 2 diabetes",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3209-sushant-bhatnagar",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "3209",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 27,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 19,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sushant",
+  "firstNameLastName": "Sushant Bhatnagar",
+  "equipmentLinkTypes": [],
+  "objectId": 3209,
+  "updatedWhen": "2025-05-10T08:09:04.9503151-05:00",
+  "hasCollaborationData": true,
+  "email": "sushantb@uab.edu",
+  "publication_keywords": "Diabetes Digestive Diseases Genetics Liver Disease Mental Health Neurosciences Nutrition Obesity Prevention",
+  "grant_keywords": "Diabetes Genetics Nutrition Obesity"
+}

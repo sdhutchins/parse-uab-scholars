@@ -1,0 +1,124 @@
+{
+  "lastName": "Sabbaj",
+  "overview": "Dr. Sabbaj’s research interests are mainly focused on the study of pathogen-specific T cells from peripheral blood and different mucosal compartments and their role in pathogenesis and protection from various infections.  These include HIV, HCMV, COVID-19 and Chlamydia. She has studied T cells isolated from peripheral blood, breast milk and more recently menstrual blood in order to understand how these cells control infection.  She has extensive experience and expertise in isolating and characterizing T cells from multiple cell sources from both  infected and vaccinated healthy individuals.  She was the first to demonstrate that HIV-specific T cells were present in the breast milk of infected women and was the first to isolate and characterize T cells from menstrual blood.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "578-steffanie-sabbaj",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "578",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 29,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 62,
+      "favourites": 0
+    }
+  },
+  "firstName": "Steffanie",
+  "firstNameLastName": "Steffanie Sabbaj",
+  "equipmentLinkTypes": [],
+  "objectId": 578,
+  "updatedWhen": "2025-05-10T08:03:25.3482491-05:00",
+  "hasCollaborationData": true,
+  "email": "sabbaj@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Behavioral and Social Science Biotechnology Brain Disorders Breast Cancer Breastfeeding, Lactation and Breast Milk Cancer Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Immunization Immunotherapy Infectious Diseases Mental Health Neurodegenerative Neurosciences Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Prevention Sexually Transmitted Infections Vaccine Related Women's Health",
+  "grant_keywords": "Biotechnology Breastfeeding, Lactation and Breast Milk Clinical Research Genetics Health Disparities Immunization Immunotherapy Infectious Diseases Minority Health Pediatric Prevention Sexually Transmitted Infections Vaccine Related Women's Health"
+}

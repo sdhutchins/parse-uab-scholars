@@ -1,0 +1,120 @@
+{
+  "lastName": "Bebin",
+  "overview": "Dr. Bebin has been involved in the clinical care of patients with Tuberous Sclerosis Complex since her child neurology\nfellowship training with Dr. Manuel Gomez at the Mayo Clinic.  Since 2007, she have been the co-director of the\nUAB TSC Clinic and lead the development of the comprehensive multidisciplinary Tuberous Sclerosis Clinic at UAB that provides medical care for TSC patients throughout their life. The Clinic incorporates 26 subspecialties across the Children’s of Alabama Health System and the University of Alabama at Birmingham School of Medicine. The clinic is the largest in the Southeast and has been designated at a TSC Center of Excellence by the TS Alliance. The UAB TSC Clinic has been active in a variety of DOD-CDMRP TSC, NIH funded efforts and Phase III clinical trials. I was the administrative PI for the NIH P20-NS0801999 (Potential EEG Biomarkers and Antiepileptogenic Strategies for Epilepsy in TSC) study, which was completed in August 2016.  The results of this research initiative provided the foundation and objectives for the Preventing Epilepsy Using Vigabatrin in Infants with Tuberous Sclerosis Complex (PREVeNT Trial) (U01NS092595) grant proposal.  For the past 20 years, Dr. Bebin has also been involved in clinical drug development and served as site PI for numerous pediatric antiepileptic clinical trials and was the director of the Pediatric Expanded Access Program for Cannabidiol in the State of Alabama. More recently, she has been involved in whole genome sequencing projects with HudsonAlpha Institute of Biotechnology and UAB Department of Genetics in children with unexplained developmental delays and various epilepsies. Since 2009, she has served on the DOD-CDMRP grant review program for TSC and on the FDA Orphan Product Development Grant Review Panel since 2011.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "713-martina-bebin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "713",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 36,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 134,
+      "favourites": 0
+    }
+  },
+  "firstName": "Martina",
+  "firstNameLastName": "Martina Bebin",
+  "equipmentLinkTypes": [],
+  "objectId": 713,
+  "updatedWhen": "2025-05-10T08:03:50.0545134-05:00",
+  "hasCollaborationData": true,
+  "email": "ebebin@uab.edu",
+  "publication_keywords": "Autism Biotechnology Brain Disorders Clinical Research Epilepsy Genetics Human Genome Intellectual and Developmental Disabilities (IDD) Mental Health Neurodegenerative Neurosciences Orphan Drug Pediatric Prevention Rare Diseases Tuberous Sclerosis Women's Health",
+  "grant_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Genetics Health Disparities Human Genome Minority Health Precision Medicine Prevention"
+}

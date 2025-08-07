@@ -1,0 +1,124 @@
+{
+  "lastName": "Singh",
+  "overview": "Jasvinder Singh, MD, MPH, is Professor of Medicine and Epidemiology and holds the Musculoskeletal Outcomes Research Endowed Professor of Medicine. He has served as Director of the Rheumatology Research at the Birmingham VA Medical Center since 2009. He is also the Director of the UAB Cochrane Musculoskeletal Group Satellite Center since 2013; and the Director of the University of Alabama Health Services Foundation (UAHSF) Gout clinic since 2014. He currents serves on the FDA Arthritis Advisory Committee, and on the executive committee of Outcomes Measures in Rheumatology Trials (OMERACT). He is the current chair of the VA Rheumatology Field Advisory Committee (FAC) and the Chair of the Health Services Research Grant Review Committee of the Rheumatology Research Foundation (RRF). \n\nDr. Singh’ research has been continuously funded by federal agencies (NIH, Department of Veterans Affairs, Patient Centered Outcomes Research Institute [PCORI]) and is focused largely on outcomes of arthritis and musculoskeletal diseases. He has authored more than 550 manuscripts, 20 book chapters and 34 editorials. He serves as investigator on multiple research grants focused on patient-reported outcomes, health disparities and comparative effectiveness research (CER) in gout, osteoarthritis, lupus, rheumatoid arthritis, and total joint replacement. Dr. Singh has collaborated with colleagues across several disciplines such as orthopedic surgery, physical medicine and rehabilitation, general internal medicine, oncology, exercise medicine, genetics and pain medicine.\n\nHe was named recipient of the 2016 ACR Henry Kunkel Young Investigator Award, the 2017 Max Cooper Award for Research Excellence by the UAB Department of Medicine, and the 2018 Arthritis Foundation’s Lee C. Howley, Sr. award. He was named to the Best Doctors in America list yearly since 2011. Dr. Singh was previously a member of the American College of Rheumatology's (ACR) Annual Meeting Planning Committee (AMPC) and Quality of Care (QOC) Committees. In addition to membership on several ACR committees, he served as co-Chair of the ACR Criteria and Response Criteria subcommittee of the ACR QOC and the Chair of the ACR Meet-the-Professor, Workshop and Study Group Subcommittee of the ACR AMPC.\n\nDr. Singh’s academic medical training began by earning his M.B.B.S. from the University of Delhi, India in 1993. He then completed residency, at the Upstate Medical University at Syracuse, NY in 1998, followed by a fellowship in rheumatology at Washington Unviersity at St. Louis in 2001. Dr. Singh subsequently earned a M.P.H. from University of Minnesota in 2003.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "700-jasvinder-singh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "700",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 34,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 811,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jasvinder",
+  "firstNameLastName": "Jasvinder Singh",
+  "equipmentLinkTypes": [],
+  "objectId": 700,
+  "updatedWhen": "2025-05-10T08:03:50.0347560-05:00",
+  "hasCollaborationData": true,
+  "email": "jassingh@uab.edu",
+  "publication_keywords": "Aging Arthritis Autoimmune Disease Cardiovascular Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Heart Disease - Coronary Heart Disease Lupus Minority Health Osteoarthritis Patient Safety Prevention Rheumatoid Arthritis Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

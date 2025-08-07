@@ -1,0 +1,125 @@
+{
+  "lastName": "Amm",
+  "overview": "Dr. Amm received her BS in Biological Sciences from Saint Mary’s College and Ph.D. in Pharmacology and Toxicology from UAB with a focus on cancer biology and novel therapeutics. Dr. Amm completed the Dental Academic Research Training (DART) program as a post-doctoral scholar in the laboratory of Dr. Mary MacDougall and was a Mentored Experiences in Research, Instruction, and Teaching (MERIT) program Scholar-at-Large, which provided teaching experiences at a minority-partner institution. During her postdoctoral studies, she has collaborated on projects related to the genetic and molecular basis of craniofacial diseases, particularly odontogenic tumors. She has characterized numerous cellular models of odontogenic tumors and developed new in vivo models. In March 2017, she joined the faculty the Oral and Maxillofacial Surgery Department at UAB. Her work has been funded by the Department of Defense, Oral and Maxillofacial Surgery Foundation, and NIDCR. Her current research focuses on genetics and signaling pathways that play a role in the pathogenesis of human oral cancers and odontogenic tumors with a goal to develop targeted therapies and diagnostic tools.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4890-hope-amm",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "4890",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 18,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 22,
+      "favourites": 0
+    }
+  },
+  "firstName": "Hope",
+  "firstNameLastName": "Hope Amm",
+  "equipmentLinkTypes": [],
+  "objectId": 4890,
+  "updatedWhen": "2025-05-10T08:11:33.9732638-05:00",
+  "hasCollaborationData": true,
+  "email": "hopeamm@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunotherapy Minority Health Orphan Drug Rare Diseases Women's Health",
+  "grant_keywords": "Biomedical Imaging Biotechnology Cancer Clinical Research Dental/Oral and Craniofacial Disease Health Disparities Minority Health Orphan Drug Prevention Rare Diseases"
+}

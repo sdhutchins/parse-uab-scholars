@@ -1,0 +1,126 @@
+{
+  "lastName": "Worthington",
+  "overview": "Dr. Worthington is an Assistant Professor in the Department of Medicine- Division of General Internal Medicine and Population Science. Her research focuses on the role of modifiable prenatal and early postnatal maternal factors (e.g., weight gain, diet, physical activity) on short- and long-term maternal health and on the developmental origins of childhood obesity and cardiometabolic disease. Dr. Worthington is interested in the development and evaluation of novel lifestyle interventions for cardiometabolic health promotion during critical life periods (e.g., preconception, pregnancy, postpartum), particularly among priority populations (i.e., those deserving priority in public health and clinical efforts). This research involves studies conducted in clinical and community settings and studies of children and infants, as well as pregnant and lactating women. Methodologies include the assessment of body composition, biomarkers of cardiometabolic health, the collection and processing of breast milk samples, analysis of biomarkers in breast milk, appetite regulation, eating behavior, dietary assessment, and home food and activity assessment.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17463-camille-worthington",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Studies in Human Society",
+          "Studies in Human Society",
+          "in Human Society",
+          "Human Society",
+          "Society"
+        ],
+        "value": "Other Studies in Human Society"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "17463",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 71,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "firstName": "Camille",
+  "firstNameLastName": "Camille Worthington",
+  "equipmentLinkTypes": [],
+  "objectId": 17463,
+  "updatedWhen": "2025-05-10T08:17:42.4371680-05:00",
+  "hasCollaborationData": true,
+  "email": "cschneid@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Obesity Clinical Research Eating Disorders Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Lung Maternal Health Maternal Morbidity and Mortality Mental Health Minority Health Nutrition Obesity Pediatric Pediatric Research Initiative Physical Activity Prevention Sleep Research Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dissemination and Implementation Research Health Services Maternal Health Nutrition Pediatric Prevention Social Determinants of Health Women's Health"
+}

@@ -1,0 +1,88 @@
+{
+  "discoveryId": "1428",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 38,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 50,
+      "favourites": 0
+    }
+  },
+  "lastName": "Liu",
+  "firstName": "Lei",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1428-lei-liu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Optometry",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Lei Liu",
+  "equipmentLinkTypes": [],
+  "objectId": 1428,
+  "updatedWhen": "2025-05-10T08:05:25.8192318-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

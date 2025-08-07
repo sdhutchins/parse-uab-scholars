@@ -1,0 +1,125 @@
+{
+  "lastName": "Bashir",
+  "overview": "Dr. Bashir graduated from the University of the Punjab with a B.Sc. in Anatomy and Physiology, and received his MD from the King Edward Medical College in Pakistan. He received his MPH from the University of Alabama at Birmingham School of Public Health. After completing his internship and post-graduate residency training in combined Internal Medicine and Neurology at the Southern Illinois University School of Medicine, Springfield, Illinois, Dr. Bashir joined the Department of Neurology at the University of Alabama at Birmingham as an Instructor and Fellow. He completed his advanced fellowship training in Neuroimmunology and Multiple Sclerosis under the tutelage of (late) John N. Whitaker, MD. Dr. Bashir is currently a Professor of Neurology and the Director of the Multiple Sclerosis Center at UAB. Dr. Bashir is board certified with the American Board of Psychiatry and Neurology (Neurology), and the American Society for Neuroimaging (MRI/CT).  Dr. Bashir has co-authored a “Handbook of Multiple Sclerosis”, in addition to publishing several review articles, abstracts, peer-reviewed scientific papers, and book chapters. He has also served as a Principal Investigator and a Co-Investigator for greater than 30 multi-center clinical trials related to multiple sclerosis. He has been the recipient of grants from the National Multiple Sclerosis Society and the National institutes of Health.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "712-khurram-bashir",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "712",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 72,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 39,
+      "favourites": 0
+    }
+  },
+  "firstName": "Khurram",
+  "firstNameLastName": "Khurram Bashir",
+  "equipmentLinkTypes": [],
+  "objectId": 712,
+  "updatedWhen": "2025-05-10T08:03:50.0525149-05:00",
+  "hasCollaborationData": true,
+  "email": "kbashir@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Multiple Sclerosis Neurodegenerative Neurosciences Patient Safety Physical Injury - Accidents and Adverse Effects Spinal Cord Injury Traumatic Head and Spine Injury Women's Health",
+  "grant_keywords": ""
+}

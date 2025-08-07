@@ -1,0 +1,124 @@
+{
+  "lastName": "Borkowski",
+  "overview": "Nancy Borkowski, DBA, CPA, FACHE, FHFMA, is a Distinguished Professor in the Department of Health Services Administration at the University of Alabama at Birmingham. She received her DBA with specializations in health services administration and accounting from Nova Southeastern University. Dr. Borkowski has over 20 years of experience in the healthcare industry and is a three-time past recipient of the American College of Healthcare Executive’s (ACHE) Regent's Senior Career Healthcare Executive Award (South Florida and Alabama), which recognizes individuals who have made significant contributions to the advancement of health management excellence.\n\nDr. Borkowski is a certified public accountant, board-certified in health management, and a Fellow of the American College of Healthcare Executives and the Healthcare Financial Management Association. Dr. Borkowski is a nationally recognized author, with the first edition of her book Organizational Behavior in Health Care being referred to as “one of the most significant advances in the field of health services administration,” which was awarded the AJN 2005 Book of the Year Award for nursing leadership and management. She is the author of three textbooks widely used nationally and internationally in graduate and undergraduate health administration and nursing programs.\n\nDr. Borkowski’s work has been published in the Journal of Ambulatory Care Management, Leadership in Health Services, Group & Organization Management, Organizational Behavior and Human Decision Processes, Health Care Management Review, Journal of Health Administration Education, Journal of Health and Human Services Administration, International Journal of Public Administration, and various other journals.\n\nDr. Borkowski teaching interests are leadership, organizational behavior, and strategic management. She is a past recipient of the ACHE’s Excellence in Teaching Award (District 2), given to faculty who engage in furthering academic excellence and the professional development of health management students, and the 2022 UAB Presidential Award for Excellence in Teaching in the School of Health Professions. In addition, Dr. Borkowski held a visiting professor appointment at the School of Health Services and Management at Southern Medical University in Guangzhou, China, from 2012 to 2020.\n\nOver the past decade, Dr. Borkowski has served in various leadership roles for the Academy of Management's Health Care Management Division, the American College of Healthcare Executive’s Southern Florida Regent’s Advisory Council, the South Florida Healthcare Executive Forum, the Alabama Healthcare Executive Forum, and various other health-related organizations. In 2013, Dr. Borkowski received the Jessie Trice Hero Award for her leadership and commitment to improving the lives of underserved and minority populations. She has also been honored with the Exemplary Service Award from the American College of Healthcare Executives (2012) and the Frederick T. Muncie Gold Award from the Healthcare Financial Management Association (2017).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1834-nancy-borkowski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "1834",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 184,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 191,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 276,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nancy",
+  "firstNameLastName": "Nancy Borkowski",
+  "equipmentLinkTypes": [],
+  "objectId": 1834,
+  "updatedWhen": "2025-05-10T08:06:00.9194032-05:00",
+  "hasCollaborationData": true,
+  "email": "nborkows@uab.edu",
+  "publication_keywords": "Coronaviruses Emerging Infectious Diseases Infectious Diseases",
+  "grant_keywords": ""
+}

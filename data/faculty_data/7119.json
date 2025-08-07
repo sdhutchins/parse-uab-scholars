@@ -1,0 +1,124 @@
+{
+  "lastName": "Newsom",
+  "overview": "I am a Licensed Clinical Psychologist in the state of Alabama with speciality training in pediatric neuropsychology. My clinical and research work focuses on autism spectrum disorders, related rare genetic disorders and other neurodevelopmental disabilities. I am Director of the Civitan Autism and Neurodevelopment Research (CANDR) Core and Clinic through the Civitan International Research Center. I also provide clinical diagnostic services for young children with suspected autism through the Developmental Behavioral Pediatrics clinic at Children’s of Alabama.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7119-cassandra-newsom",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "7119",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "firstName": "Cassandra",
+  "firstNameLastName": "Cassandra Newsom",
+  "equipmentLinkTypes": [],
+  "objectId": 7119,
+  "updatedWhen": "2025-05-10T08:14:10.3260608-05:00",
+  "hasCollaborationData": false,
+  "email": "newsomcr@uab.edu",
+  "publication_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Obesity Clinical Research Clinical Trials and Supportive Activities Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Neurosciences Nutrition Obesity Patient Safety Pediatric Research Initiative Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

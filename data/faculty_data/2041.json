@@ -1,0 +1,125 @@
+{
+  "lastName": "Bedwell",
+  "overview": "David Bedwell, Professor and Chairman of the Department of Biochemistry and Molecular Genetics, completed his undergraduate studies in Microbiology at Purdue University (B.S. with Honors, 1979). His graduate work in Molecular Biology was done with Dr. Masayasu Nomura at the University of Wisconsin-Madison, (Ph.D., 1985). He then carried out a postdoctoral fellowship in Dr. Scott Emr's laboratory at Caltech. Dr. Bedwell joined the faculty at UAB in 1988. At the national level, he is in a second 5 year term on the Editorial Board of the Journal of Biological Chemistry, and has served as chair of both the Molecular Genetics B (MGB) and Molecular Genetics C (MGC) Study Sections of the National Institutes of Health. He has reviewed manuscripts for >60 scientific journals (including Science, Nature, and Cell). He was elected Fellow of the American Academy of Microbiology in 2011. At the institutional level, he has served as chair of the UAB School of Medicine Faculty Council (2016) and also currently serves as the Co-Director of the UAB structural Biology Program. He previously served as Director the the UAB Cell and Molecular Biology (CMB) Graduate Program (1996-2002).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2041-david-bedwell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "2041",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 36,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 120,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 111,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Bedwell",
+  "equipmentLinkTypes": [],
+  "objectId": 2041,
+  "updatedWhen": "2025-05-10T08:06:35.9280101-05:00",
+  "hasCollaborationData": true,
+  "email": "dbedwell@uab.edu",
+  "publication_keywords": "Biotechnology Clinical Research Cystic Fibrosis Gene Therapy Genetics Health Disparities Lung Neurodegenerative Neurofibromatosis Neurosciences Orphan Drug Pediatric Precision Medicine Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human",
+  "grant_keywords": ""
+}

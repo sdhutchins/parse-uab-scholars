@@ -1,0 +1,122 @@
+{
+  "discoveryId": "2773",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 73,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 54,
+      "favourites": 0
+    }
+  },
+  "lastName": "Thomeer McBride",
+  "firstName": "Mieke",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2773-mieke-thomeer-mcbride",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Mieke Thomeer McBride",
+  "equipmentLinkTypes": [],
+  "objectId": 2773,
+  "updatedWhen": "2025-05-10T08:08:22.0347711-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Demography"
+        ],
+        "value": "Demography"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Religion and Religious Studies",
+          "and Religious Studies",
+          "Religious Studies",
+          "Studies"
+        ],
+        "value": "Religion and Religious Studies"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mthomeer@uab.edu",
+  "publication_keywords": "Aging Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Contraception/Reproduction Coronaviruses Coronaviruses Disparities and At-Risk Populations Health Disparities Mental Health Pediatric Prevention Social Determinants of Health Substance Misuse Underage Drinking Women's Health",
+  "grant_keywords": "Aging Back Pain Basic Behavioral and Social Science Behavioral and Social Science Chronic Pain Clinical Research Genetics Health Disparities Human Genome Minority Health Pain Research Pediatric Social Determinants of Health Women's Health"
+}

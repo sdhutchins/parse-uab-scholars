@@ -1,0 +1,119 @@
+{
+  "discoveryId": "1387",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 312,
+      "favourites": 0
+    }
+  },
+  "lastName": "Fujihashi",
+  "firstName": "Kohtaro",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1387-kohtaro-fujihashi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "firstNameLastName": "Kohtaro Fujihashi",
+  "equipmentLinkTypes": [],
+  "objectId": 1387,
+  "updatedWhen": "2025-05-10T08:05:15.8115282-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kohtarof@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Digestive Diseases Emerging Infectious Diseases Foodborne Illness Immunization Infectious Diseases Lung Nanotechnology Neurosciences Orphan Drug Pediatric Pneumonia Pneumonia & Influenza Prevention Rare Diseases Vaccine Related",
+  "grant_keywords": ""
+}

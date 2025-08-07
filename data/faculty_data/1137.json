@@ -1,0 +1,124 @@
+{
+  "lastName": "Krontiras-Anderson",
+  "overview": "Dr. Krontiras, a breast surgical oncologist, is the Medical Director of the UAB Multidisciplinary Breast Clinic, a clinic in which medical oncologists, surgeons and radiation oncologists work together to see approximately 450 new breast cancer cases each year. She is the Co-Director of the Lynne Cohen Preventive Care Program for Women's Cancers at UAB and the Co-Director of the Breast Cancer Prevention and Risk Assessment Clinic. In her role as Assistant Chief Medical Officer for Ambulatory Quality and Patient Safety for UAB Medicine, she participates in quality improvement and quality assurance activities related to delivery of high quality and cost-effective care, including analysis and regular review of ambulatory quality outcomes, and data and development of improvements in clinical and operational processes.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1137-helen-krontirasanderson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "University of Alabama Health Services Foundation (UAHSF)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "discoveryId": "1137",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 35,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 88,
+      "favourites": 0
+    }
+  },
+  "firstName": "Helen",
+  "firstNameLastName": "Helen Krontiras-Anderson",
+  "equipmentLinkTypes": [],
+  "objectId": 1137,
+  "updatedWhen": "2025-05-10T08:04:55.6903403-05:00",
+  "hasCollaborationData": true,
+  "email": "hkrontir@uabmc.edu",
+  "publication_keywords": "Behavioral and Social Science Breast Cancer Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Genetics Nutrition Obesity Patient Safety Physical Activity Prevention Women's Health",
+  "grant_keywords": "Behavioral and Social Science Biotechnology Breast Cancer Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Genetics Health Disparities Human Genome Infectious Diseases Microbiome Minority Health Neurosciences Nutrition Physical Activity Precision Medicine Prevention Rehabilitation Women's Health"
+}

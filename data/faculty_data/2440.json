@@ -1,0 +1,127 @@
+{
+  "discoveryId": "2440",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 328,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "lastName": "Genau",
+  "firstName": "Amber",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2440-amber-genau",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor"
+    }
+  ],
+  "firstNameLastName": "Amber Genau",
+  "equipmentLinkTypes": [],
+  "objectId": 2440,
+  "updatedWhen": "2025-05-10T08:07:39.3309239-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Resources Engineering and Extractive Metallurgy",
+          "Engineering and Extractive Metallurgy",
+          "and Extractive Metallurgy",
+          "Extractive Metallurgy",
+          "Metallurgy"
+        ],
+        "value": "Resources Engineering and Extractive Metallurgy"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "genau@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

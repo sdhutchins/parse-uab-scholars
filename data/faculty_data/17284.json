@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17284",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 27,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mwenesongole",
+  "firstName": "Ellen",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17284-ellen-mwenesongole",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "Ellen Mwenesongole",
+  "equipmentLinkTypes": [],
+  "objectId": 17284,
+  "updatedWhen": "2025-05-10T08:17:26.0722558-05:00",
+  "hasCollaborationData": false,
+  "email": "emweneso@uab.edu",
+  "publication_keywords": "Brain Disorders Cannabinoid Research Drug Abuse (NIDA only) Epilepsy Neurodegenerative Neurosciences Substance Misuse",
+  "grant_keywords": ""
+}

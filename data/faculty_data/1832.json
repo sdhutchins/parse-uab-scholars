@@ -1,0 +1,130 @@
+{
+  "lastName": "Landry",
+  "overview": "Amy Yarbrough Landry, Ph.D., the Howard W. Houser Endowed Professor in Health Services Administration, is a professor in the Department of Health Services Administration at the University of Alabama at Birmingham.  She received her Ph.D. (administration-health services) from UAB in 2006. Prior to joining the faculty at UAB, she was a member of the Health Services Research, Management, and Policy faculty at the University of Florida. Landry's research interests include the strategic behavior of healthcare organizations, organizational performance and strategic human resources management. She received a Health Management Research Award from the American College of Healthcare Executives in 2007, and she received a research award from the Lister Hill Center for Health Policy in 2011 to study financial distress in the nursing home sector. Dr. Landry is currently studying service mix and financial performance in the hospital sector.  Her research has been published in the Journal of Healthcare Management, Medical Care Research and Review, and the Journal of Public Health Management and Practice.  Dr. Landry has served as the Division Chair for the Health Care Management Division of the Academy of Management, and she is the United State Delegate to the European Academy of Management.  In 2024, Landry was selected to serve on the Board of Directors for the Association of University Programs in Health Administration.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1832-amy-landry",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Accounting, Auditing and Accountability",
+          "Auditing and Accountability",
+          "and Accountability",
+          "Accountability"
+        ],
+        "value": "Accounting, Auditing and Accountability"
+      }
+    ]
+  },
+  "discoveryId": "1832",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 164,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 107,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 113,
+      "favourites": 0
+    }
+  },
+  "firstName": "Amy",
+  "firstNameLastName": "Amy Landry",
+  "equipmentLinkTypes": [],
+  "objectId": 1832,
+  "updatedWhen": "2025-05-10T08:06:00.9143985-05:00",
+  "hasCollaborationData": true,
+  "email": "akyarb@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Health Disparities Health Services Rural Health Social Determinants of Health",
+  "grant_keywords": "Aging Clinical Research Health Services"
+}

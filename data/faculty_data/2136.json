@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2136",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 74,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 154,
+      "favourites": 0
+    }
+  },
+  "lastName": "Murphy-Ullrich",
+  "firstName": "Joanne",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2136-joanne-murphyullrich",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emerita",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "firstNameLastName": "Joanne Murphy-Ullrich",
+  "equipmentLinkTypes": [],
+  "objectId": 2136,
+  "updatedWhen": "2025-05-10T08:06:50.7181669-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "murphy@uab.edu",
+  "publication_keywords": "Bioengineering Regenerative Medicine",
+  "grant_keywords": "Aging Bioengineering Cancer Eye Disease and Disorders of Vision Health Disparities Kidney Disease Minority Health Neurodegenerative Neurosciences Regenerative Medicine Women's Health"
+}

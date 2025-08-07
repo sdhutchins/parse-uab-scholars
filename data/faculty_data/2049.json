@@ -1,0 +1,126 @@
+{
+  "lastName": "Green",
+  "overview": "My lab aims to understand the structure-function relationships involved in the processes of viral replication, virus-host interactions, capsid structure, polynucleotide synthesis and antibody-antigen complex formation. Toward this goal, we have used structural techniques (cryo-electron microscopy, x-ray crystallography and small angle x-ray scattering) and biochemistry to study: viral proteins from negative strand RNA viruses (NSV: influenza A, mumps, rabies virus, VSV), retroviruses (HIV), coronaviruses (SARS-CoV-2), human antibodies (associated with IgA nephropathy), and bacteria (IgA1 proteases). This dual approach has been successful in producing near atomic-level snapshots of many complex protein assemblies as well as enabling a fast-track to novel biological discovery and new experimental design. Professionally, my expertise in structural biology has led to my collaboration with investigators locally, nationally and internationally on viral, bacterial, human and murine targets.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2049-todd-green",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Complementary and Alternative Medicine",
+          "and Alternative Medicine",
+          "Alternative Medicine",
+          "Medicine"
+        ],
+        "value": "Complementary and Alternative Medicine"
+      }
+    ]
+  },
+  "discoveryId": "2049",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 74,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 69,
+      "favourites": 5
+    }
+  },
+  "firstName": "Todd",
+  "firstNameLastName": "Todd Green",
+  "equipmentLinkTypes": [],
+  "objectId": 2049,
+  "updatedWhen": "2025-05-10T08:06:35.9380182-05:00",
+  "hasCollaborationData": true,
+  "email": "tgreen@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Biotechnology Cancer Clinical Research Coronaviruses Coronaviruses Therapeutics and Interventions Coronaviruses Vaccines Diabetes Emerging Infectious Diseases Genetics Immunization Infectious Diseases Kidney Disease Lung Pediatric Prevention Radiation Oncology Vaccine Related",
+  "grant_keywords": "Autoimmune Disease Bioengineering Biotechnology Clinical Research Diabetes Genetics HIV/AIDS Health Disparities Immunization Immunotherapy Infectious Diseases Kidney Disease Organ Transplantation Orphan Drug Pediatric Prevention Rare Diseases Sexually Transmitted Infections Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Transplantation Vaccine Related Women's Health"
+}

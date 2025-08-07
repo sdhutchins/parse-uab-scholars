@@ -1,0 +1,127 @@
+{
+  "lastName": "Elmets",
+  "overview": "Dr. Elmets major research interests focus on environmental influences on the skin and on the immune system. His research has investigated how ultraviolet light and other environmental agents interact with immunological function of the skin. Initial studies in mice showed that in vivo exposure of murine skin produced a local deficiency in the antigen presenting function of skin, thereby resulting in the preferential generation of antigen specific regulatory T-cells. Studies examining the mechanism by which ultraviolet radiation impaired the function of antigen presenting cells in in vitro systems showed that ultraviolet radiation inhibited expression of the adhesion molecule CD54 (ICAM-1), which was at least in part, responsible for deficient activation of T-cells. More recent studies have assessed the cutaneous and immunological effects of photodynamic therapy. Those studies were the first to show that photodynamic therapy has immunosuppressive effects which may reduce the overall efficacy of this form of cancer therapy.\n\nAnother major research interest is the immunogenicity of topically applied chemical carcinogens. Using polyaromatic hydrocarbons as prototypic carcinogenic chemicals, he has shown that topical application of these compounds results in the development of allergic contact hypersensitivity. Metabolism of the compounds is required for the development of this response which only occurs in mice with certain MHC haplotypes and in Ah receptor positive strains of mice. Bases on these results, he has developed the hypothesis that the presence of allergic contact hypersensitivity to polyaromatic hydrocarbons serves to protect mice from the carcinogenic effects of these agents. In support of this hypothesis, he has shown the MHC congenic strains of mice that do not develop polyaromatic hyrdrocarbon contact hypersensitivity are at increased risk for development of skin cancers by those agents.\n\nA third area of research interest is in chemoprevention of skin cancer. In both animals and humans green tea polyphenols have a protective effect on UV-induced damage to the skin. He has shown in animals that this agent protects against UV induced immunosuppression and in humans it prevents the clinical and histological features of sunburn reaction and DNA damage. He is also investigating whether celecoxib exerts a chemopreventive effect against actinic keratoses in humans and whether topical application of DNA repair enzymes will prevent the development of non-melanoma skin cancers in renal transplant patients.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "149-craig-elmets",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Dermatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "149",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 55,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 44,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 303,
+      "favourites": 0
+    }
+  },
+  "firstName": "Craig",
+  "firstNameLastName": "Craig Elmets",
+  "equipmentLinkTypes": [],
+  "objectId": 149,
+  "updatedWhen": "2025-05-10T08:02:22.2940100-05:00",
+  "hasCollaborationData": true,
+  "email": "celmets@uab.edu",
+  "publication_keywords": "Cancer Climate-Related Exposures and Conditions Clinical Research Complementary and Integrative Health Digestive Diseases Genetics Infectious Diseases Nutrition Prevention",
+  "grant_keywords": "Biodefense Cancer Climate-Related Exposures and Conditions Clinical Research Emerging Infectious Diseases Immunotherapy Infectious Diseases Physical Injury - Accidents and Adverse Effects Prevention Wound Healing and Care"
+}

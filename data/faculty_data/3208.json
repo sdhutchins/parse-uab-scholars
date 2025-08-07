@@ -1,0 +1,124 @@
+{
+  "discoveryId": "3208",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 0
+    }
+  },
+  "lastName": "Reily",
+  "firstName": "Colin",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3208-colin-reily",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "firstNameLastName": "Colin Reily",
+  "equipmentLinkTypes": [],
+  "objectId": 3208,
+  "updatedWhen": "2025-05-10T08:09:04.9483147-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "creily@uab.edu",
+  "publication_keywords": "Autoimmune Disease Clinical Research Genetics Health Disparities Immunization Kidney Disease Minority Health Rare Diseases",
+  "grant_keywords": "Autoimmune Disease Biotechnology Clinical Research Health Disparities Immunization Kidney Disease Minority Health Orphan Drug Rare Diseases Women's Health"
+}

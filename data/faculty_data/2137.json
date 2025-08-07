@@ -1,0 +1,128 @@
+{
+  "lastName": "Namakkal Soorappan",
+  "overview": "Dr. Rajasekaran (RAJA) Namakkal-Soorappan, a Tenured Associate Professor at the University of Alabama at Birmingham (UAB), holds degrees in Biology and Biochemistry (University of Madras, Tamil Nadu, India). Having undergone extensive post-doctoral training at the Indian Institute of Technology Madras (IIT-M, Tamil Nadu, India) and the University of Utah (Salt Lake City, USA), he specializes in understanding the redox mechanisms for proteotoxic cardiac and brain diseases. His research, supported by grants from organizations like the American Heart Association (AHA) and the National Institutes of Health (NIH), focuses on the molecular mechanisms of reductive stress (RS). Dr. Namakkal-Soorappan is a leading figure in the field of RS, collaborating with global experts to define the causes and consequences of RS mechanisms in human diseases. Additionally, he actively engages in social awareness activities promoting exercise for cardiac health and is an author of novels, poetry, and screenplays for Tamil movies and short films.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2137-rajasekaran-namakkal-soorappan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "2137",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 87,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rajasekaran",
+  "firstNameLastName": "Rajasekaran Namakkal Soorappan",
+  "equipmentLinkTypes": [],
+  "objectId": 2137,
+  "updatedWhen": "2025-05-10T08:06:50.7212166-05:00",
+  "hasCollaborationData": true,
+  "email": "rajnsr@uab.edu",
+  "publication_keywords": "Biotechnology Cardiovascular Clinical Research Genetics Heart Disease Nutrition Pediatric Physical Activity Rare Diseases Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human",
+  "grant_keywords": "Aging Cardiovascular Clinical Research Complementary and Integrative Health Genetics Heart Disease Heart Disease - Coronary Heart Disease Nutrition Physical Activity Prevention"
+}

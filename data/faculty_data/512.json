@@ -1,0 +1,129 @@
+{
+  "lastName": "Datta",
+  "overview": "Introduction:\n\nDr. Datta earned his Bachelor of Science (BS), Honors in Chemistry; Physics and Mathematics, and his Master of Science (MS), Organic Chemistry from The University of Burdwan, India.  He erned his Ph.D. in Organic Chemistry, from the Bose Institute, Calcutta, India.  His thesis title was Studies on Natural Carbocyclic Compounds. He worked as a research associate with Dr. Srilata Bagchi at the University of Illinois in Chicago and with Dr. Harold L. Moses at The Vanderbilt-Ingram Cancer Center in Nashville. He began work as assistant professor in Surgical Oncology Cancer Biology at Vanderbilt University in 2000.  Dr. Datta also served as a research scientist at the Veterans Affairs Medical Center in Nasvhille. \n\nResearch:\n\nIn 2012, Dr. Datta joined the faculty at UAB, where he is Professor and Director of Research in the Division of Hematology/Oncology.  He is also leader of the Colon and Lung Cancer Basic Research Program.  He is senior scientist in the Cancer Cell Biology Program at the UAB Comprehensive Cancer Center.  In addition, Dr. Datta also serves as Research Scientist at the Veterans Affairs Medical Center in Birmingham.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "512-pran-datta",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "512",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 68,
+      "favourites": 0
+    }
+  },
+  "firstName": "Pran",
+  "firstNameLastName": "Pran Datta",
+  "equipmentLinkTypes": [],
+  "objectId": 512,
+  "updatedWhen": "2025-05-10T08:03:25.2353917-05:00",
+  "hasCollaborationData": true,
+  "email": "dattapk@uab.edu",
+  "publication_keywords": "Biotechnology Breast Cancer Cancer Cancer Genomics Colo-Rectal Cancer Digestive Diseases Genetics Human Genome Immunization Immunotherapy Precision Medicine Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": "Cancer Health Disparities Minority Health Rural Health"
+}

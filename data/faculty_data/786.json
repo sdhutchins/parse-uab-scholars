@@ -1,0 +1,129 @@
+{
+  "lastName": "Tita",
+  "overview": "Dr. Tita is UAB Mary Heersink Endowed Chair of Global Health, Director of the Mary Heersink Institute of Global Health and the Heersink School of Medicine Associate Dean for Global Health and Women's Health. As Professor of Ob/Gyn and Senior Vice-Chair for Research and Innovation, he also leads the Center for Women’s Reproductive Health. His background is in Maternal-Fetal Medicine, Perinatal Epidemiology and Global Health and his research is focused on improving health outcomes and equity for women and infants. Dr. Tita has led and continues to lead the design and conduct of collaborative multi-site and single-site clinical trials and observational studies that influence practice and policy globally. He also co-leads the Cameroon Health Initiative at UAB, a multidisciplinary venture to improve health care in collaboration with Cameroon partners. Dr. Tita serves or has served as consultant editor for the Green Journal and consultant for the World Health Organization, NIH (including on the NICHD National Advisory Council) and Centers for Disease Control and Prevention. He also served a term on the leadership team of the MFM Division of the American Board of Obstetrics and Gynecology. Dr. Tita is an elected member of the National Academy of Medicine (NAM) and the Association of American Physicians (AAP).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "786-alan-tita",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Senior Associate Dean",
+      "department": "OB/GYN - Maternal & Fetal Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "786",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 80,
+      "favourites": 5
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 439,
+      "favourites": 0
+    }
+  },
+  "firstName": "Alan",
+  "firstNameLastName": "Alan Tita",
+  "equipmentLinkTypes": [],
+  "objectId": 786,
+  "updatedWhen": "2025-05-10T08:04:02.5227394-05:00",
+  "hasCollaborationData": true,
+  "email": "atita@uab.edu",
+  "publication_keywords": "Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Conditions Affecting the Embryonic and Fetal Periods Contraception/Reproduction Cost Effectiveness Research Diabetes Health Services Hematology Hypertension Infectious Diseases Maternal Health Pediatric Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Sepsis Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Hypertension Maternal Health Maternal Morbidity and Mortality Minority Health Pregnancy Prevention Rural Health Social Determinants of Health Women's Health"
+}

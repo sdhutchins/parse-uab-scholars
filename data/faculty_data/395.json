@@ -1,0 +1,121 @@
+{
+  "discoveryId": "395",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 75,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 42,
+      "favourites": 0
+    }
+  },
+  "lastName": "Warriner",
+  "firstName": "Amy",
+  "hasThumbnail": true,
+  "discoveryUrlId": "395-amy-warriner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "firstNameLastName": "Amy Warriner",
+  "equipmentLinkTypes": [],
+  "objectId": 395,
+  "updatedWhen": "2025-05-10T08:03:00.8370908-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "warriner@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Eating Disorders Estrogen HIV/AIDS Infectious Diseases Mental Health Nutrition Obesity Osteoporosis Prevention Sleep Research Women's Health",
+  "grant_keywords": ""
+}

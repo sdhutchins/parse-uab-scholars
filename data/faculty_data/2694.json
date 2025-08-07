@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2694",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 401,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 38,
+      "favourites": 0
+    }
+  },
+  "lastName": "Camata",
+  "firstName": "Renato",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2694-renato-camata",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physics"
+    }
+  ],
+  "firstNameLastName": "Renato Camata",
+  "equipmentLinkTypes": [],
+  "objectId": 2694,
+  "updatedWhen": "2025-05-10T08:08:11.0894987-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atmospheric Sciences",
+          "Sciences"
+        ],
+        "value": "Atmospheric Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "camata@uab.edu",
+  "publication_keywords": "Bioengineering Nanotechnology",
+  "grant_keywords": ""
+}

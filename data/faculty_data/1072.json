@@ -1,0 +1,122 @@
+{
+  "discoveryId": "1072",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 259,
+      "favourites": 0
+    }
+  },
+  "lastName": "Popple",
+  "firstName": "Richard",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1072-richard-popple",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiation Oncology"
+    }
+  ],
+  "firstNameLastName": "Richard Popple",
+  "equipmentLinkTypes": [],
+  "objectId": 1072,
+  "updatedWhen": "2025-05-10T08:04:44.5776294-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Other Physical Sciences",
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physics",
+          "Physics"
+        ],
+        "value": "Medical Physics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rpopple@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Cancer Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Radiation Oncology",
+  "grant_keywords": ""
+}

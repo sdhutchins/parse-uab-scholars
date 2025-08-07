@@ -1,0 +1,128 @@
+{
+  "lastName": "Costa",
+  "overview": "Mary and Bill Battle Professor of Multiple Myeloma, director of the Multiple Myeloma Research and Treatment Program. Dr Costa leads several multi-institutional and international projects exploring new cellular and non-cellular immunotherapies and minimal residual disease in myeloma.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "511-luciano-costa",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "511",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 128,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 516,
+      "favourites": 5
+    }
+  },
+  "firstName": "Luciano",
+  "firstNameLastName": "Luciano Costa",
+  "equipmentLinkTypes": [],
+  "objectId": 511,
+  "updatedWhen": "2025-05-12T03:19:08.2928644-05:00",
+  "hasCollaborationData": true,
+  "email": "lcosta@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Clinical Research Clinical Trials and Supportive Activities Gene Therapy Gene Therapy Clinical Trials Genetics Health Disparities Hematology Immunization Immunotherapy Minority Health Orphan Drug Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Transplantation Vaccine Related",
+  "grant_keywords": ""
+}

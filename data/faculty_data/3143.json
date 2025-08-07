@@ -1,0 +1,126 @@
+{
+  "lastName": "Perakis",
+  "overview": "Ilias Perakis joined UAB in 2015 as Professor and Chair of the Department of Physics. He is a Fellow of the Optical Society of America (OSA) recognized “for contributions to the many-body theory of the coherent optical properties of semiconductors and metals.” He received the National Science Foundation CAREER award in 1997 and has been honored with a Faculty Research Participation Award at Oakridge National Laboratory.\n\nIn 1995, Ilias joined the faculty of the Department of Physics at Vanderbilt University, where he still maintains an affiliate appointment. In 2000, he returned to his birthplace in the south of Greece to serve as Professor in the Department of Physics of the University of Crete. There, he also served as Chair of the Department of Materials Science & Technology and Associate Chair of the Department of Physics, where he directed Undergraduate Studies and coordinated the undergraduate student Internship and High-school Apprentice Teaching programs. Dr. Perakis has held numerous professional and academic positions, including Visiting Professorships at Oakridge National Laboratory, the Louis Pasteur University and the Centre National de la Recherche Scientifique (CNRS) in Strasbourg France, and the Institute of Electronic Structure and Laser at the Foundation of Research and Technology-Hellas (FORTH) in Crete. His research has been supported by the National Science Foundation, The Department of Energy-Basic Energy Sciences, and the European Union. He now leads UAB-Physics as it becomes an internationally recognized center of excellence, where novel lasers, extreme pressure and magnetic field conditions, and advanced computation are used to answer the grand challenges of advanced quantum and nanoscale materials.\n\nEducation:\n\nB.S., National Technical University of Athens, Greece, Electrical Engineering\nM.S., University of Illinois at Urbana-Champaign, Physics\nPh.D., University of Illinois at Urbana-Champaign, Physics\nPostdoctoral Fellow at Rutgers University, Department of Physics\nPostdoctoral Member of AT&T Bell Laboratories Theory Division\n\nResearch Interests\n\nWhat happens when quantum materials are excited far from equilibrium by intense and ultra-short laser pulses? How can complex non-equilibrium phenomena and metastable quantum phases emerge from simple ingredients in this case? How can we harness quantum mechanical coherence in Light and Matter? How will quantum information technology, materials genome initiative,  and photonics revolutions be extended going forward? Dr. Perakis’ research addresses these big questions, recognized as national initiatives of critical importance, which present  transformative opportunities that will shape our future. He advances theory and computation for Ultrafast Quantum Manipulation of Advanced Quantum and Complex Materials for fundamental Physics and next-generation-device applications. Ilias and his students use non-equilibrium quantum theory and density matrix equations of motion to design and interpret experiments that take advantage of state-of-the-art ultrafast spectroscopy tools allowing an unprecedented temporal, spectral, and spatial resolution into quantum materials. His most recent work searches for transient phases accessed far from equilibrium following femtosecond quantum quench of the fundamental energy gap of superconductors by terahertz laser pulses. Fascinating non-equilibrium phenomena emerge in such complex systems from the collective behavior of electronic charge and spin and its interplay with the underlying crystal and non-adiabatic light-matter coupling. Lightwave Electronics, Switching applications at the fundamental speed limit, and quantum engineering of multifunctional devices can emerge from this work, with  quantum information and other applications. At the same time, advanced computing is at the core of these research activities. \n\nIlias was one of the first theorists to point out the important role of non-adiabatic time-dependent correlations in ultrafast coherent nonlinear optical spectroscopy studies of many-electron quantum materials. Starting in the mid 1990’s, he pointed out the role of laser-induced non-equilibrium quantum dynamics in two-dimensional electron gases under high magnetic fields and in small metal nanoparticles. He also published the first papers on control of femtosecond spin-orbit-torques, spin-torques, and quantum magnetism by laser pulses. Ilias' other passion is communicating STEM to the general public and his students through innovation. He has designed an innovative active-learning environment where his students try to figure out who is Bobo. He has also designed a Scientist Citizen Initiative.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3143-ilias-perakis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Physics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nanotechnology"
+        ],
+        "value": "Nanotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      }
+    ]
+  },
+  "discoveryId": "3143",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 88,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 257,
+      "favourites": 38
+    }
+  },
+  "firstName": "Ilias",
+  "firstNameLastName": "Ilias Perakis",
+  "equipmentLinkTypes": [],
+  "objectId": 3143,
+  "updatedWhen": "2025-05-10T08:09:04.8833129-05:00",
+  "hasCollaborationData": true,
+  "email": "iperakis@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

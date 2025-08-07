@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19222",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Barrett",
+  "firstName": "Kayon",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19222-kayon-barrett",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Environmental Health Sciences"
+    }
+  ],
+  "firstNameLastName": "Kayon Barrett",
+  "equipmentLinkTypes": [],
+  "objectId": 19222,
+  "updatedWhen": "2025-05-10T08:21:05.7230238-05:00",
+  "hasCollaborationData": false,
+  "email": "kbarret4@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

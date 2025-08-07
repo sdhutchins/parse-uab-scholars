@@ -1,0 +1,125 @@
+{
+  "discoveryId": "822",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 54,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 324,
+      "favourites": 0
+    }
+  },
+  "lastName": "Owsley",
+  "firstName": "Cynthia",
+  "hasThumbnail": false,
+  "discoveryUrlId": "822-cynthia-owsley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Ophthalmology",
+      "department": "Ophthalmology"
+    }
+  ],
+  "firstNameLastName": "Cynthia Owsley",
+  "equipmentLinkTypes": [],
+  "objectId": 822,
+  "updatedWhen": "2025-05-10T08:04:12.9576202-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Transportation and Freight Services",
+          "and Freight Services",
+          "Freight Services",
+          "Services"
+        ],
+        "value": "Transportation and Freight Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "owsley@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Clinical Research Data Science Dementia Diabetes Eye Disease and Disorders of Vision Health Disparities Health Services Machine Learning and Artificial Intelligence Macular Degeneration Minority Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Nutrition Prevention Rural Health Social Determinants of Health Telehealth",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Clinical Research Dementia Eye Disease and Disorders of Vision Health Disparities Health Services Macular Degeneration Neurodegenerative Neurosciences Prevention Rehabilitation Rural Health"
+}

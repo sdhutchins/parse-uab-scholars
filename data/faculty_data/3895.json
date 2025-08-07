@@ -1,0 +1,125 @@
+{
+  "lastName": "Aldridge",
+  "overview": "Jerry Aldridge, Ed.D., is professor emeritus in the School of Education. From 1998-2000, he was president of the United States National Committee for the World Organization for Early Childhood Education (OMEP) and served as a representative for the organization to the United Nations from 2012-2014. He served on the publications committee of the Association for Childhood Education International (ACEI) from 1996-2011. He received the 1995 Dean's Award for Outstanding Service to the UAB School of Education and the 1997 UAB President's Award for Excellence in Teaching. In 2000, he received the UAB Ingalls Award for Excellence in Classroom Teaching. He was the keynote speaker for the doctoral hooding ceremony at UAB in December of 2008. Dr. Aldridge currently serves as a faculty member in UAB's Transcisciplinary Teaming program funded through the U. S. Department of Education. He has published 17 books and over 200 articles.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3895-jerry-aldridge",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      }
+    ]
+  },
+  "discoveryId": "3895",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 89,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 90,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jerry",
+  "firstNameLastName": "Jerry Aldridge",
+  "equipmentLinkTypes": [],
+  "objectId": 3895,
+  "updatedWhen": "2025-05-10T08:10:17.4621265-05:00",
+  "hasCollaborationData": true,
+  "email": "jta@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Health Disparities and Racial or Ethnic Minority Health Research Minority Health Pediatric Research Initiative",
+  "grant_keywords": ""
+}

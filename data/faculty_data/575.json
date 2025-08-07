@@ -1,0 +1,123 @@
+{
+  "lastName": "Raper",
+  "overview": "Professor of Medicine and Nursing in the Division of Infectious & Senior Scientist (UAB Center for AIDS Research), Senior Scholar (UAB Center for Palliative and Supportive Care) and Scholar (UAB Lister Hill Center for Health Policy)\n\nI am the Director of the UAB 1917 HIV Outpatient, Dental and Research Clinic in Birmingham, Alabama. As a national Nurse Practitioner leader, I have devoted my career to improving access to care for HIV populations. An attorney and NP, I have impacted HIV care, evidenced through sustained scholarly program of research, practice, policy advocacy and collaborative leadership. My first-hand knowledge and experience in legislation and regulation contribute to my ability to advance health policy reform with inter-professional colleagues and policy makers. I have widely published and am recognized for my work in outcomes HIV outcomes research.  I am a Fellow in the American Academy of Nursing, the American Academy of Nurse Practitioner and the Infectious Disease Society of America. \n\nHolding doctorates in nursing and law, I’ve spent my career at the University of Alabama at Birmingham deeply involved in the care and treatment of patients with HIV/AIDS.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "575-james-raper",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "575",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 78,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 142,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Raper",
+  "equipmentLinkTypes": [],
+  "objectId": 575,
+  "updatedWhen": "2025-05-10T08:03:25.3342461-05:00",
+  "hasCollaborationData": true,
+  "email": "jimraper@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Infectious Diseases Mental Health Neurodegenerative Neurosciences Rehabilitation Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

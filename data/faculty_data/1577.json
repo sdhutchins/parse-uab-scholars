@@ -1,0 +1,126 @@
+{
+  "lastName": "Dawson",
+  "overview": "Dr. Dawson is an experienced, dynamic nurse and health care leader promoting evidence-based clinical and management practice from the bedside to the boardroom. She lectures and consults on leadership, work design, organizational systems, staff development, community health, health careers, and management.  She has served as the principal investigator, project director and coordinator on workforce grants exceeding $2.1 million. She is investing in the next generation of nurse leaders with the Martha A. Dawson Genesis Nurse Leader Scholarship.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1577-martha-dawson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cultural Studies",
+          "Studies"
+        ],
+        "value": "Cultural Studies"
+      }
+    ]
+  },
+  "discoveryId": "1577",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 370,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 451,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 204,
+      "favourites": 0
+    }
+  },
+  "firstName": "Martha",
+  "firstNameLastName": "Martha Dawson",
+  "equipmentLinkTypes": [],
+  "objectId": 1577,
+  "updatedWhen": "2025-05-10T08:05:50.0197811-05:00",
+  "hasCollaborationData": true,
+  "email": "madawson@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Infectious Diseases Minority Health Prevention Sepsis Social Determinants of Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,129 @@
+{
+  "lastName": "Howell",
+  "overview": "I am a social behavioral scientist whose independent research focuses on using population health methodologies to explore how social determinants, particularly neighborhood level determinants, influence cardiometabolic abnormalities and disparities. Utilizing my training in applied epidemiologic methods, data management/analysis, and outcomes research, I am specifically interested in integrating clinical, social determinant and health behavior data to inform the prevention of cardiometabolic disease to reduce health disparities among socially vulnerable, low SES populations. This includes incorporating SDoH data into risk prediction models to aide in stratifying populations based on both social and clinical parameters as well as exploring how social risks cluster within individuals. The end goal is to use this information to inform clinical care and intervention targets. I am currently pursuing multiple cardiometabolic-related studies that include (1)  evaluating adding SDoH measures to a validated diabetes risk prediction model to improve risk stratification; (2) examining associations between clinical markers, individual and neighborhood level SDoH and major cardiovascular events; (3) conducting a mixed methods study in emerging Latino communities to examine the influence of community-level factors and of the COVID-19 pandemic on diabetes-related behaviors; and (4) using patient reported electronic medical record (EMR) data to examine social risk clusters associated with diabetes and obesity.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16374-carrie-howell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "16374",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 112,
+      "favourites": 0
+    }
+  },
+  "firstName": "Carrie",
+  "firstNameLastName": "Carrie Howell",
+  "equipmentLinkTypes": [],
+  "objectId": 16374,
+  "updatedWhen": "2025-05-10T08:15:54.5932258-05:00",
+  "hasCollaborationData": true,
+  "email": "cmr@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Bioengineering Cardiovascular Clinical Research Diabetes Digestive Diseases Genetics Health Disparities Human Genome Inflammatory Bowel Disease Microbiome Minority Health Nutrition Obesity Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Minority Health Prevention Rural Health Social Determinants of Health"
+}

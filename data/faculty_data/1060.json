@@ -1,0 +1,126 @@
+{
+  "discoveryId": "1060",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 84,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bredel",
+  "firstName": "Markus",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1060-markus-bredel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiation Oncology"
+    }
+  ],
+  "firstNameLastName": "Markus Bredel",
+  "equipmentLinkTypes": [],
+  "objectId": 1060,
+  "updatedWhen": "2025-05-10T08:04:44.5620174-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mbredel@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Brain Cancer Brain Disorders Cancer Cancer Genomics Clinical Research Dental/Oral and Craniofacial Disease Digestive Diseases Genetics Health Disparities and Racial or Ethnic Minority Health Research Human Genome Minority Health Neurodegenerative Neurosciences Pediatric Rare Diseases",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Brain Cancer Brain Disorders Cancer Clinical Research Genetics Neurosciences Radiation Oncology Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human"
+}

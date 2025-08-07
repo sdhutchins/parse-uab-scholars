@@ -1,0 +1,98 @@
+{
+  "lastName": "Baer",
+  "overview": "Andrew Baer studies race and policing in the twentieth-century American city. Born in the Ohio Rust Belt in the early 1980s and raised in Sun Belt Florida, his interest in history began with observations about inequality and injustice in the present day. Drawn by history’s ability to influence contemporary struggles for social justice, Andrew began his academic career studying the Civil Rights Movement of the 1950s and 1960s. After moving to Chicago, his attention shifted forward in time and relocated to the urban North, where collective resistance to racial oppression evolved to tackle new challenges in a post-civil rights era. He is currently working on a book manuscript about police torture in Chicago and social movements for police accountability after 1970.\n\nHis teaching interests include classes on the long black freedom struggle, Civil Rights and Black Power, the history of American policing, racial violence in the American city, and the rise of mass incarceration. Intrigued by interdisciplinary approaches to historical and contemporary problems, Andrew has a background in African American Studies and also spent two years as a graduate fellow at the American Bar Foundation, an independent non-profit organization advancing scholarship on law and society.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3603-andrew-baer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "History"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Urban and Regional Planning",
+          "and Regional Planning",
+          "Regional Planning",
+          "Planning"
+        ],
+        "value": "Urban and Regional Planning"
+      },
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Historical Studies",
+          "Studies"
+        ],
+        "value": "Historical Studies"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "3603",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 83,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "firstName": "Andrew",
+  "firstNameLastName": "Andrew Baer",
+  "equipmentLinkTypes": [],
+  "objectId": 3603,
+  "updatedWhen": "2025-05-10T08:09:49.3430708-05:00",
+  "hasCollaborationData": false,
+  "email": "abaer@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Violence Research",
+  "grant_keywords": ""
+}

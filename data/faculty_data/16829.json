@@ -1,0 +1,90 @@
+{
+  "lastName": "Earnshaw",
+  "overview": "Dr. Yvonne Earnshaw is an Assistant Professor and Program Coordinator in the Instructional Design and Development program. She received a Ph.D. in Educational Psychology and Learning Systems from Florida State University, an M.A.Ed. in Instructional Technology from Virginia Tech, and an M.A. in Technical Writing from Portland State University.\n\nIn addition to her academic experience, Dr. Earnshaw has over 20 years of professional experience in technical writing, instructional design, and usability consulting, and has worked for several major national and global corporations including Intel, IBM, Cisco, and Nike. Her practitioner experience helps guide her research and teaching philosophies.\n\nDr. Earnshaw has been an active member of the Association for Educational Communications and Technology (AECT) since 2010. She received a 2016 AECT Cochran Leadership Intern Award and an Early Career award in 2019.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16829-yvonne-earnshaw",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communication and Media Studies",
+          "and Media Studies",
+          "Media Studies",
+          "Studies"
+        ],
+        "value": "Communication and Media Studies"
+      }
+    ]
+  },
+  "discoveryId": "16829",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 6
+    }
+  },
+  "firstName": "Yvonne",
+  "firstNameLastName": "Yvonne Earnshaw",
+  "equipmentLinkTypes": [],
+  "objectId": 16829,
+  "updatedWhen": "2025-05-10T08:16:42.3546696-05:00",
+  "hasCollaborationData": true,
+  "email": "earnshaw@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

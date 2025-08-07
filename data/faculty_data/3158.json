@@ -1,0 +1,59 @@
+{
+  "discoveryId": "3158",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Powell",
+  "firstName": "Kathlyn",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3158-kathlyn-powell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "firstNameLastName": "Kathlyn Powell",
+  "equipmentLinkTypes": [],
+  "objectId": 3158,
+  "updatedWhen": "2025-05-10T08:09:04.9003118-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "krugelk@uab.edu",
+  "publication_keywords": "Chronic Pain Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Digestive Diseases Pain Research",
+  "grant_keywords": ""
+}

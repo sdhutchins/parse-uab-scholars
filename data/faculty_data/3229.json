@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3229",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 94,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "McCornack",
+  "firstName": "Steven",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3229-steven-mccornack",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Communication Studies"
+    }
+  ],
+  "firstNameLastName": "Steven McCornack",
+  "equipmentLinkTypes": [],
+  "objectId": 3229,
+  "updatedWhen": "2025-05-10T08:09:16.1913521-05:00",
+  "hasCollaborationData": false,
+  "email": "smcc911@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

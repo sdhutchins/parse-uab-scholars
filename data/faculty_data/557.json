@@ -1,0 +1,124 @@
+{
+  "lastName": "Geisler",
+  "overview": "Dr. Geisler is a magna cum laude and Phi Beta Kappa graduate of the University of Tennessee in Knoxville and completed his doctor of medicine degree at the University of Tennessee in Memphis. He later earned a master of public health degree in epidemiology from the University of Washington School of Public Health and Community Medicine in Seattle. Following an internal medicine internship and residency at the University of Michigan in Ann Arbor, Dr. Geisler completed an infectious diseases fellowship at the Division of Allergy and Infectious Diseases at the University of Washington. He is board certified in internal medicine and infectious diseases. In addition to his current teaching, clinical, and research activities at the University of Alabama at Birmingham, Dr. Geisler has also served as a consultant to the CDC and WHO on several projects, including development of the STI Treatment Guidelines. He is the Director of the UAB STD Program and is the UAB Associate Dean for Physician Scientist Development.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "557-william-geisler",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "557",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 116,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 141,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 123,
+      "favourites": 0
+    }
+  },
+  "firstName": "William",
+  "firstNameLastName": "William Geisler",
+  "equipmentLinkTypes": [],
+  "objectId": 557,
+  "updatedWhen": "2025-05-10T08:03:25.3092614-05:00",
+  "hasCollaborationData": true,
+  "email": "wgeisler@uab.edu",
+  "publication_keywords": "Biotechnology Genetics Immunization Infectious Diseases Minority Health Prevention Sexually Transmitted Infections Vaccine Related Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

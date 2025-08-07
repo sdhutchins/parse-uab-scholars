@@ -1,0 +1,128 @@
+{
+  "lastName": "Chattopadhyay",
+  "overview": "Dr. Debasish Chattopadhyay received his BS in Chemistry and MS in Biochemistry from Calcutta University, India. He obtained Ph.D. degree in Chemistry from Jadavpur University, India in 1989. He conducted his postdoctoral research at the Upjohn Company in Michigan. This work was part of an NIH funded collaborative effort involving several academic institutions and pharmaceutical industries for the discovery of potent antiretroviral drugs. Dr. Chattopadhyay's work focussed on the structure-function analysis of target enzymes its application in drug development. Dr. Chattopadhyay joined the University of Alabama in 1994 and was recruited as an Assistant Professor in the School of Medicine in 1998. Dr. Chattopadhyay was promoted to the Associate Professor rank in 2007 and to the Professor rank in 2013.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "551-debasish-chattopadhyay",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      }
+    ]
+  },
+  "discoveryId": "551",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 75,
+      "favourites": 0
+    }
+  },
+  "firstName": "Debasish",
+  "firstNameLastName": "Debasish Chattopadhyay",
+  "equipmentLinkTypes": [],
+  "objectId": 551,
+  "updatedWhen": "2025-05-10T08:03:25.2935020-05:00",
+  "hasCollaborationData": true,
+  "email": "debasish@uab.edu",
+  "publication_keywords": "Anthrax Antimicrobial Resistance Biodefense Cancer Climate-Related Exposures and Conditions Clinical Research Dietary Supplements Emerging Infectious Diseases Infectious Diseases Orphan Drug Prevention Rare Diseases Urologic Diseases Vector-Borne Diseases Women's Health",
+  "grant_keywords": ""
+}

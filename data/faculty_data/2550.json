@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2550",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 200,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Basilico",
+  "firstName": "David",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2550-david-basilico",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "David Basilico",
+  "equipmentLinkTypes": [],
+  "objectId": 2550,
+  "updatedWhen": "2025-05-10T08:07:50.5613086-05:00",
+  "hasCollaborationData": false,
+  "email": "basilico@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

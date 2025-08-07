@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3627",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Moak",
+  "firstName": "Stacy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3627-stacy-moak",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Government"
+    }
+  ],
+  "firstNameLastName": "Stacy Moak",
+  "equipmentLinkTypes": [],
+  "objectId": 3627,
+  "updatedWhen": "2025-05-10T08:09:49.3560720-05:00",
+  "hasCollaborationData": false,
+  "email": "stacym@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

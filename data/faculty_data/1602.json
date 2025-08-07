@@ -1,0 +1,124 @@
+{
+  "lastName": "Shirey",
+  "overview": "Dr. Shirey is an internationally recognized expert in nursing leadership and management. Her research focuses on studying nurse manager work complexity to better understand and influence authentic leadership practices. Dr. Shirey’s research identifies structures and processes required to maximize outcomes associated with nursing leadership. She teaches leadership, management, health policy, and scholarly writing in the DNP program. A prolific author and editor, Dr. Shirey is a mentor to developing authors.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1602-maria-shirey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Dean-Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "1602",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 70,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 410,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 421,
+      "favourites": 0
+    }
+  },
+  "firstName": "Maria",
+  "firstNameLastName": "Maria Shirey",
+  "equipmentLinkTypes": [],
+  "objectId": 1602,
+  "updatedWhen": "2025-05-10T08:05:50.0642161-05:00",
+  "hasCollaborationData": true,
+  "email": "mrshirey@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Mental Health Mental Illness Social Determinants of Health",
+  "grant_keywords": ""
+}

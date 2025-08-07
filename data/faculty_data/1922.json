@@ -1,0 +1,125 @@
+{
+  "discoveryId": "1922",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 46,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 158,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 34,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 308,
+      "favourites": 0
+    }
+  },
+  "lastName": "Aban",
+  "firstName": "Inmaculada",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1922-inmaculada-aban",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Inmaculada Aban",
+  "equipmentLinkTypes": [],
+  "objectId": 1922,
+  "updatedWhen": "2025-05-10T08:06:12.3629854-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "caban@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biotechnology Clinical Research Clinical Trials and Supportive Activities Congenital Structural Anomalies Genetics Lung Myasthenia Gravis Neurosciences Pediatric Perinatal Period - Conditions Originating in Perinatal Period Physical Activity Physical Rehabilitation Preterm, Low Birth Weight and Health of the Newborn Prevention Rare Diseases Rehabilitation Sleep Research Spina Bifida",
+  "grant_keywords": "Behavioral and Social Science Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Cost Effectiveness Research Health Disparities Health Services Lung Networking and Information Technology R&D (NITRD) Patient Safety Physical Activity Physical Rehabilitation Rehabilitation Rural Health Social Determinants of Health Telehealth"
+}

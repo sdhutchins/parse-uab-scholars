@@ -1,0 +1,129 @@
+{
+  "discoveryId": "6271",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 81,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 29,
+      "favourites": 3
+    }
+  },
+  "lastName": "Pruett",
+  "firstName": "Scott",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6271-scott-pruett",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychiatry - Adult"
+    }
+  ],
+  "firstNameLastName": "Scott Pruett",
+  "equipmentLinkTypes": [],
+  "objectId": 6271,
+  "updatedWhen": "2025-05-10T08:13:05.3323018-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychiatry (incl. Psychotherapy)",
+          "(incl. Psychotherapy)",
+          "Psychotherapy)"
+        ],
+        "value": "Psychiatry (incl. Psychotherapy)"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Molecular Targets",
+          "Targets"
+        ],
+        "value": "Molecular Targets"
+      },
+      {
+        "paths": [
+          [
+            "Psychology",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "(Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "Psychopharmacology, Physiological Psychology)",
+          "Physiological Psychology)",
+          "Psychology)"
+        ],
+        "value": "Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "spruett@uab.edu",
+  "publication_keywords": "Biotechnology Bipolar Disorder Brain Disorders Genetics Human Genome Mental Health Mental Illness Neurodegenerative Neurosciences Precision Medicine Schizophrenia Serious Mental Illness Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human",
+  "grant_keywords": ""
+}

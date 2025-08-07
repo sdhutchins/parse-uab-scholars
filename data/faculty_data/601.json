@@ -1,0 +1,126 @@
+{
+  "lastName": "Hyndman",
+  "overview": "We are a team of kidney scientists of diverse backgrounds that love all things science. Currently the lab is interested in determining the functional significance of the post-translational modification of lysine acetylation. Much like serine, threonine, or tyrosine phosphorylation, lysine acetylation is a dynamic modification that may be critically important for regulation protein functions in our cells. Our focus is on understanding the physiological consequences of lysine acetylation in the kidney and how regulation of these processes may become dysfunctional in kidney disease.\n\nSee our labwebsite for up to date information on the lab https://sites.uab.edu/hyndmanlab/",
+  "hasThumbnail": true,
+  "discoveryUrlId": "601-kelly-hyndman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "601",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 63,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 69,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kelly",
+  "firstNameLastName": "Kelly Hyndman",
+  "equipmentLinkTypes": [],
+  "objectId": 601,
+  "updatedWhen": "2025-05-12T03:33:22.4188704-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Aging Diabetes Genetics Kidney Disease Nutrition Obesity Women's Health",
+  "grant_keywords": "Genetics Hematology Kidney Disease Rural Health"
+}

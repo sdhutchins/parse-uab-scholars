@@ -1,0 +1,128 @@
+{
+  "lastName": "Smith",
+  "overview": "Daniel L. Smith Jr., Ph.D., is an Associate Professor in the Department of Nutrition Sciences at UAB. His research focuses on the interaction of nutrition and metabolism in relationship to aging and disease. Topics include: obesity, calorie restriction, calorie restriction mimetics, brown adipose tissue, carbohydrate metabolism, and systems biology of aging using budding yeast chronological lifespan.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1862-daniel-smith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "suffix": "Jr.",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "1862",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 55,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 71,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 91,
+      "favourites": 0
+    }
+  },
+  "firstName": "Daniel",
+  "firstNameLastName": "Daniel Smith",
+  "equipmentLinkTypes": [],
+  "objectId": 1862,
+  "updatedWhen": "2025-05-10T08:06:12.2934365-05:00",
+  "hasCollaborationData": true,
+  "email": "dsmithjr@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Clinical Research Complementary and Integrative Health Nutrition Obesity Prevention Sarcopenia",
+  "grant_keywords": "Aging Diabetes Genetics Nutrition Obesity Osteoporosis Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health"
+}

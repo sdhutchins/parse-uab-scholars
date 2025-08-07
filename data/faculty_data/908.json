@@ -1,0 +1,124 @@
+{
+  "discoveryId": "908",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wallace",
+  "firstName": "Stephenie",
+  "hasThumbnail": false,
+  "discoveryUrlId": "908-stephenie-wallace",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Adolescent Medicine"
+    }
+  ],
+  "firstNameLastName": "Stephenie Wallace",
+  "equipmentLinkTypes": [],
+  "objectId": 908,
+  "updatedWhen": "2025-05-12T03:21:24.6236106-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "stepheni@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Behavioral and Social Science Childhood Obesity Clinical Research Contraception/Reproduction Health Services Nutrition Obesity Pediatric Pediatric Research Initiative Prevention",
+  "grant_keywords": "Clinical Research Contraception/Reproduction Nutrition Obesity Pediatric Prevention"
+}

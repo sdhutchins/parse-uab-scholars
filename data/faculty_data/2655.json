@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2655",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 180,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Nkashama",
+  "firstName": "Mubenga",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2655-mubenga-nkashama",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Mubenga Nkashama",
+  "equipmentLinkTypes": [],
+  "objectId": 2655,
+  "updatedWhen": "2025-05-10T08:08:00.9733956-05:00",
+  "hasCollaborationData": false,
+  "email": "nkashama@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "American Indian or Alaska Native Clinical Research Health Disparities Minority Health"
+}

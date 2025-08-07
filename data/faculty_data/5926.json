@@ -1,0 +1,77 @@
+{
+  "lastName": "Kay",
+  "overview": "Dr. Kay is an Associate Professor in in the Department of Acute, Chronic, and Continuing Care at the University of Alabama at Birmingham (UAB) School of Nursing. As an Associate Director of the UAB Center for AIDS Research’s Implementation and Community Sciences Core, as well as her leadership role at the Center for Addiction and Pain Prevention and Intervention, she works to forge impactful community-academic relationships aimed at addressing health disparities in the areas of HIV prevention/treatment and substance use. She has developed a rigorous community-engaged research agenda focused on harm reduction and improving health outcomes for people with and affected by HIV, leveraging prior experience as the founding director of a community-based research organization. Dr. Kay leads an R01 (as MPI) funded by the National Institute on Drug Abuse that aims to develop the first harm reduction intervention for people with HIV who use drugs to incorporate both structural services (e.g., naloxone) and relational strategies (i.e., encompassing the patient-provider relationship.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5926-emma-kay",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Infectious Diseases",
+          "Diseases"
+        ],
+        "value": "Infectious Diseases"
+      }
+    ]
+  },
+  "discoveryId": "5926",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "firstName": "Emma",
+  "firstNameLastName": "Emma Kay",
+  "equipmentLinkTypes": [],
+  "objectId": 5926,
+  "updatedWhen": "2025-05-10T08:12:46.7177724-05:00",
+  "hasCollaborationData": true,
+  "email": "emmakay@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Mental Health Minority Health Networking and Information Technology R&D (NITRD) Opioid Misuse and Addiction Opioids Physical Injury - Accidents and Adverse Effects Prevention Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Substance Misuse Women's Health",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Rural Health Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Women's Health Workforce Diversity and Outreach"
+}

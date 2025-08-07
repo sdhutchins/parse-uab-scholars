@@ -1,0 +1,123 @@
+{
+  "lastName": "Hasan",
+  "overview": "Dr. Ragib Hasan is a tenured Full Professor at the Department of Computer Science at the University of Alabama at Birmingham. He leads the SECuRE and Trustworthy Computing Lab (SECRETLab). He is also the founder of Shikkhok.com — an award-winning free education platform in Bengali language, and the co-ordinator of the BanglaBraille project, aimed at creating educational material for visually impaired children in South Asia.\n\nHe is recipient of the NSF CAREER Award for his research on trustworthy cloud computing.\n\nIn the past, Dr. Hasan was an NSF Computing Innovation Fellow and Assistant Research Scientist at the Dept. of Computer Science, Johns Hopkins University. His research was supported by the 2009 NSF/CRA Computing Innovation Postdoctoral Fellowship. At Hopkins, he was a member of the Hopkins Storage Systems Lab and collaborated with Prof. Randal Burns.\n\nHe received his Ph.D. in Computer Science in 2009, from the University of Illinois at Urbana-Champaign.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2539-ragib-hasan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Computer Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Distributed Computing",
+          "Computing"
+        ],
+        "value": "Distributed Computing"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communications Technologies",
+          "Technologies"
+        ],
+        "value": "Communications Technologies"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      }
+    ]
+  },
+  "discoveryId": "2539",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 173,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 174,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ragib",
+  "firstNameLastName": "Ragib Hasan",
+  "equipmentLinkTypes": [],
+  "objectId": 2539,
+  "updatedWhen": "2025-05-10T08:07:50.5356378-05:00",
+  "hasCollaborationData": true,
+  "email": "ragib@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Childhood Injury Networking and Information Technology R&D (NITRD) Pediatric Physical Injury - Accidents and Adverse Effects Unintentional Childhood Injury"
+}

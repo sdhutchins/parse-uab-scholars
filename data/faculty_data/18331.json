@@ -1,0 +1,45 @@
+{
+  "discoveryId": "18331",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 30,
+      "favourites": 0
+    }
+  },
+  "lastName": "Keinaenen",
+  "overview": "I'm a radiochemist with experience working with broad variety of radiopharmaceutical platforms - small molecules, biomolecules, and nano- and microparticles. Currently, my group uses molecular imaging techniques, such as PET and SPECT, to understand the biodistribution and health effects of micro- and nanoplastic pollution in mammalian systems.\n\nI obtained my PhD in radiopharmaceutical chemistry from the University of Helsinki in 2018 (thesis supervisors: Drs. Anu Airaksinen and Mirkka Sarparanta). After which I moved to New York to join Dr. Brian M. Zeglis’ laboratory at Hunter College of the City University of New York (2018-2023). I joined UAB Chemistry Department in August 2023 as an assistant professor.",
+  "firstName": "Outi",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18331-outi-keinaenen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "firstNameLastName": "Outi Keinaenen",
+  "equipmentLinkTypes": [],
+  "objectId": 18331,
+  "updatedWhen": "2025-05-10T08:19:08.9498837-05:00",
+  "hasCollaborationData": false,
+  "email": "keinanen@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Clinical Research Digestive Diseases Lung Lung Cancer Orphan Drug Pancreatic Cancer Radiation Oncology Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

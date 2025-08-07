@@ -1,0 +1,130 @@
+{
+  "lastName": "Chen",
+  "overview": "In October 2015, Dr. Herbert Chen was named as the new Chairman of the Department of Surgery. A native of Wisconsin, Chen received his undergraduate degree from Stanford University and began his medical education at the Duke University School of Medicine, graduating in 1992. He completed his surgical residency in general surgery at Johns Hopkins in 1999, along with a postdoctoral research fellowship in 1997 and a surgical oncology and endocrinology fellowship in 2000. Dr. Chen came to UAB from the University of Wisconsin, where he was the Layton F. Rikkers, M.D., Chair in Surgical Leadership, chair of the Division of General Surgery, vice chair of Research for the Department of Surgery and professor in the departments of Surgery, Biomedical Engineering and Pediatrics. Dr. Chen is a specialist in endocrine surgery, a funded surgeon scientist, and a dedicated educator. Dr. Chen is an Associate/Section Editor for Annals of Surgery, Annals of Surgical Oncology, Scientific American Surgery, The Oncologist, and Journal of Surgical Research, and serves on six other editorial boards. He is also the Past-President of Association for Academic Surgery, the current Secretary-Treasurer for Surgical Biology Club II, and the current President-Elect for the Society of Clinical Surgery. Dr. Chen has mentored over 100 faculty, post-doctoral fellows, residents, medical students, and undergraduates in his lab.\n\nDr. Chen’s clinical interests include endocrine and neuroendocrine disease with a focus on minimally invasive endocrine surgery. He has one of the largest experiences with radioguided parathyroidectomy (MIRP), and performs high volume thyroid and adrenal surgery. Dr. Chen’s laboratory focuses on the role of cellular signaling pathways in the differentiation and growth of neuroendocrine (NE) tumors including carcinoid, pancreatic islet cell, pheochromocytoma, and medullary thyroid cancer.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3298-herbert-chen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Surgery"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "3298",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1063,
+      "favourites": 0
+    }
+  },
+  "firstName": "Herbert",
+  "firstNameLastName": "Herbert Chen",
+  "equipmentLinkTypes": [],
+  "objectId": 3298,
+  "updatedWhen": "2025-05-11T21:49:25.2876812-05:00",
+  "hasCollaborationData": true,
+  "email": "herbchen@uab.edu",
+  "publication_keywords": "Cancer Cardiovascular Clinical Research Heart Disease Lymphatic Research Patient Safety Rare Diseases",
+  "grant_keywords": "Biotechnology Cancer Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Liver Disease Minority Health Pancreatic Cancer Rare Diseases Workforce Diversity and Outreach"
+}

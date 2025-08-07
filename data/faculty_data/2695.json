@@ -1,0 +1,122 @@
+{
+  "lastName": "Catledge",
+  "overview": "I have lived in Birmingham for over 25 years and have come to think of it as one of the south's best kept secrets. Prior to living here I resided in Sacramento, California, where I earned my BS degree in physics (with a mathematics minor). As a graduate student in the materials science program at the University of Alabama at Birmingham, my Ph.D. research was focused primarily on structure and mechanical properties of nanocrystalline diamond films made via chemical vapor deposition, although I also contributed to \"designer diamond anvil\" technology for high pressure physics research.\n\nAfter earning my Ph.D. in 1999, I elected to continue my postdoctoral research at UAB in other aspects of diamond coatings, particularly for more challenging materials, including those associated with biomedical applications. As of 2016, I have been an Associate Professor of physics at UAB with primary research interests in the areas of interfacial structure/processes for wear-resistant coatings, surface modification, bone regeneration, and molecular detection.\n\nYou can also learn more about Dr. Catledge through ResearchGate and LinkedIn.\n\nhttps://www.researchgate.net/profile/Shane_Catledge\nhttps://www.linkedin.com/in/aaron-catledge-0a34334",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2695-shane-catledge",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Manufacturing Engineering",
+          "Engineering"
+        ],
+        "value": "Manufacturing Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "2695",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 259,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 102,
+      "favourites": 0
+    }
+  },
+  "firstName": "Shane",
+  "firstNameLastName": "Shane Catledge",
+  "equipmentLinkTypes": [],
+  "objectId": 2695,
+  "updatedWhen": "2025-05-10T08:08:11.0894987-05:00",
+  "hasCollaborationData": true,
+  "email": "catledge@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Bioengineering Biotechnology"
+}

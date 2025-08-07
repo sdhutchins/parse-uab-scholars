@@ -1,0 +1,123 @@
+{
+  "lastName": "Knight",
+  "overview": "Dr. Knight’s laboratory is focused on better understanding the neural substrates of human learning, memory, and emotion using magnetic resonance imaging (MRI) techniques that include functional MRI, diffusion tensor imaging, and magnetic resonance spectroscopy. Behavioral and MRI studies from the lab investigate questions that are important for understanding healthy, as well as dysfunctional, emotion processes. \n\nRecent work from the Knight lab has investigated the neural circuitry that supports emotion regulation processes. Disruption of these processes appears to play an important role in the emotional dysfunction associated with mood and anxiety disorders. Studies from the Knight lab will help determine neural mechanisms that mediate susceptibility/resilience to stress, and offer insights into the development of emotion-related disorders.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2732-david-knight",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2732",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 156,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 74,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Knight",
+  "equipmentLinkTypes": [],
+  "objectId": 2732,
+  "updatedWhen": "2025-05-10T08:08:21.9737585-05:00",
+  "hasCollaborationData": true,
+  "email": "knightdc@uab.edu",
+  "publication_keywords": "Aging Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Cannabinoid Research Clinical Research Contraception/Reproduction Drug Abuse (NIDA only) Genetics Health Disparities Mental Health Mental Illness Minority Health Neurosciences Pediatric Pediatric Research Initiative Prevention Sleep Research Social Determinants of Health Substance Misuse Tobacco Underage Drinking Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alcoholism, Alcohol Use and Health Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Cerebrovascular Clinical Research Dementia Health Disparities Mental Health Mental Illness Minority Health Neurodegenerative Neurosciences Pediatric Physical Rehabilitation Post-Traumatic Stress Disorder (PTSD) Prevention Rehabilitation Stroke Substance Misuse Underage Drinking Women's Health"
+}

@@ -1,0 +1,98 @@
+{
+  "lastName": "Khass",
+  "overview": "I am  an Assistant Professor in the UAB Department of Medicine’s Division of Clinical Immunology and Rheumatology, and have held that rank since 2018. I obtained my Master’s in Biochemistry in Eqypt where I focused on identifying polymorphisms in the methylenetetahydropholate reductase gene (MTHFR) in mothers of children with Down’s syndrome.   I was recruited to UAB where I joined the laboratory of Dr. Harry W. Schroeder, Jr.  While in his laboratory, first as a PhD student and then as a postdoctoral fellow, I gained extensive expertise in immunology (specifically B cell biology), learned numerous contemporary laboratory techniques, and gained critical thinking skills.   In the course of my studies of the role of the surrogate light chain in B cell repertoire selection (which was published in the inaugural edition of Science Immunology), I observed that absence of the surrogate light chain led to bone fragility. This seminal observation led me to my current interest in bone biology and the interplay between early B cell progenitors and skeletal homeostasis. I am the first to show that the immunoglobulin lambda-like polypeptide 1 (i.e. the λ5 protein encoded by the IGLL1 gene), heretofore thought to be an early B cell specific protein, is also expressed in mesenchymal stromal/stem cells (MSCs). This discovery connects skeletal development with early B lymphocyte development and opens the gate for new research with the potential to develop new tools for treating Rheumatologic bone diseases.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5253-mohamed-khass",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Endodontics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "5253",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mohamed",
+  "firstNameLastName": "Mohamed Khass",
+  "equipmentLinkTypes": [],
+  "objectId": 5253,
+  "updatedWhen": "2025-05-10T08:12:12.0787168-05:00",
+  "hasCollaborationData": true,
+  "email": "khassm@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Biotechnology Genetics Infectious Diseases Osteoporosis Pediatric Research Initiative Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Autoimmune Disease Biotechnology Genetics Kidney Disease Lupus Prevention"
+}

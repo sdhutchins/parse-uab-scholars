@@ -1,0 +1,45 @@
+{
+  "discoveryId": "18498",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 1
+    }
+  },
+  "lastName": "Malla",
+  "overview": "Dr. Midhun Malla is an associate professor who joined us from West Virginia University (WVU), Morgantown. He completed his residency training in Phoenix followed by fellowship in the University of Oklahoma Health Sciences Center. He simultaneously completed masters in clinical and translational sciences. He sub-specializes in the medical treatment of gastrointestinal (GI) malignancies and was actively involved in performing clinical and translational research, building a robust GI clinical trial program, teaching and publishing papers in peer reviewed journals at WVU. He is an active member of Alliance co-operative group committee and is currently working on 2 national clinical trial proposals one each in colorectal and hepatocellular carcinomas. He represents Alliance co-operative group as one of the investigators at the National Cancer Institute- hepatobiliary task force. He was the recipient of a research scholar award through NIH at WVCTSI and his translational research focuses on predictive biomarkers in colorectal cancer metastases. He is elated to join the section of hematology-oncology and the elite team of GI-oncology at UAB, Birmingham.",
+  "firstName": "Midhun",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18498-midhun-malla",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "firstNameLastName": "Midhun Malla",
+  "equipmentLinkTypes": [],
+  "objectId": 18498,
+  "updatedWhen": "2025-05-10T08:19:33.9739490-05:00",
+  "hasCollaborationData": true,
+  "email": "mmalla@uab.edu",
+  "publication_keywords": "Aging Cancer Cancer Genomics Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Immunotherapy Liver Cancer Liver Disease Minority Health Orphan Drug Patient Safety Precision Medicine Prevention Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

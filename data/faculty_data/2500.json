@@ -1,0 +1,124 @@
+{
+  "lastName": "Palazzo",
+  "overview": "Dr. Robert E. Palazzo received his B.S. and Ph.D. degrees from Wayne State University in Detroit, Michigan. After conducting four years of post doctorate research at the University of Virginia’s biology department, he received appointment as scientist at the Marine Biological Laboratory in Woods Hole, Massachusetts. He joined the University of Kansas in 1992 where he served in a variety of roles including Professor and Chair of the Department of Physiology and Cell Biology and Professor for the Department of Molecular Biosciences. In 2002, he joined Rensselaer Polytechnic Institute as Professor and Chair of the Department of Biology. In 2004, he received appointment as the first Director of the Center for Biotechnology and Interdisciplinary Studies at Rensselaer. During this time, he also served as a Research Scientist for the Wadsworth Center with the New York State Department of Health. Palazzo was appointed Acting Provost in 2006 and Provost of Rensselaer in 2007. He currently serves as the Dean of the College of Arts and Sciences at the University of Alabama at Birmingham.\n\nAn active contributor to his field, Palazzo is a member of the Scientific Advisory Board for Scientific American Magazine and is chair of the Board of Directors for The Alliance for Science and Technology Research in America (ASTRA). He served as the President of the Federation of American Societies for Experimental Biology (FASEB), which currently represents 26 basic biomedical research societies and more than 100,000 scientists. Palazzo served as Chair of the Science Advisory Council and as ex officio member of the Board of Trustees for the Marine Biological Laboratory.\n\nHe has also served as a panelist or as member of various committees for a variety of organizations throughout his career, including the American Society for Biochemistry and Molecular Biology (ASBMB), the American Society for Cell Biology (ASCB), the Marine Biological Laboratory (MBL), the National Cancer Institute (NCI), the National Science Foundation (NSF), and the National Institutes of Health (NIH). Palazzo served as an editorial board member of Biology of the Cell for five years and spent seven years on the editorial board of Cell Motility and the Cytoskeleton. Palazzo’s honors include a Junior Faculty Research Award from the American Cancer Society, a National Research Service Award from the NIH, and a number of fellowships. He is a member of many professional societies, such as the American Association for the Advancement of Science, the American Society for Biochemistry and Molecular Biology, and the American Society for Cell Biology. He also serves on the Executive Committee of the Alliance for the Arts in Research Universities (a2RU).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2500-robert-palazzo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2500",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 58,
+      "favourites": 0
+    }
+  },
+  "firstName": "Robert",
+  "firstNameLastName": "Robert Palazzo",
+  "equipmentLinkTypes": [],
+  "objectId": 2500,
+  "updatedWhen": "2025-05-10T08:07:39.3889269-05:00",
+  "hasCollaborationData": false,
+  "email": "rpalazzo@uab.edu",
+  "publication_keywords": "Breast Cancer Cancer Genetics Women's Health",
+  "grant_keywords": ""
+}

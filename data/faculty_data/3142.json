@@ -1,0 +1,113 @@
+{
+  "lastName": "Taylor",
+  "overview": "Michael A. Taylor, M.D., FAAP joined the faculty of the UAB Department of Pediatrics as Professor of Pediatrics and Director of the Division of Child Abuse Pediatrics in August of 2015.  Prior to coming to UAB, Dr. Taylor was Chief of the Child Abuse Pediatrics Division at the Medical University of South Carolina (MUSC) in Charleston, SC from 2013 to 2015.  He was a faculty member of the Department of Pediatrics at the University of Alabama School of Medicine, Tuscaloosa Campus from 1991 to 2013 where he was Professor & Chair. Prior to his academic career, he was in private practice of pediatrics from 1979 to 1988 in Raleigh, NC, and from 1988-1991 in Paducah, KY. He began performing medical evaluations of potentially abused children as an examiner for the North Carolina Child Medical Evaluation Program in Raleigh, NC in 1982. He has over 30 years of experience in child abuse pediatrics.  He graduated from the University of Louisville School of Medicine (1976) and completed his pediatric training at The Children’s Hospital of Alabama (University of Alabama Birmingham) in 1979.  Board certified in General Pediatrics and Child Abuse Pediatrics, his special interests, research, and publications are in child abuse medical evaluation.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3142-michael-taylor",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Child Abuse"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "3142",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Taylor",
+  "equipmentLinkTypes": [],
+  "objectId": 3142,
+  "updatedWhen": "2025-05-10T08:09:04.8823116-05:00",
+  "hasCollaborationData": false,
+  "email": "bamamax@uab.edu",
+  "publication_keywords": "Attention Deficit Hyperactivity Disorder (ADHD) Behavioral and Social Science Brain Disorders Child Abuse and Neglect Research Childhood Injury Clinical Research Infectious Diseases Mental Health Neurosciences Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Sexually Transmitted Infections Social Determinants of Health Violence Research",
+  "grant_keywords": ""
+}

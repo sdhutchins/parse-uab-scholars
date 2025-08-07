@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3178",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 84,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Selinger",
+  "firstName": "Nikita",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3178-nikita-selinger",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Nikita Selinger",
+  "equipmentLinkTypes": [],
+  "objectId": 3178,
+  "updatedWhen": "2025-05-10T08:09:04.9083137-05:00",
+  "hasCollaborationData": false,
+  "email": "selinger@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

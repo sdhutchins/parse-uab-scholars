@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2841",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 100,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 203,
+      "favourites": 0
+    }
+  },
+  "lastName": "Chawla",
+  "firstName": "Krishan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2841-krishan-chawla",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus"
+    }
+  ],
+  "firstNameLastName": "Krishan Chawla",
+  "equipmentLinkTypes": [],
+  "objectId": 2841,
+  "updatedWhen": "2025-05-10T08:08:22.0544685-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Manufacturing Engineering",
+          "Engineering"
+        ],
+        "value": "Manufacturing Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Resources Engineering and Extractive Metallurgy",
+          "Engineering and Extractive Metallurgy",
+          "and Extractive Metallurgy",
+          "Extractive Metallurgy",
+          "Metallurgy"
+        ],
+        "value": "Resources Engineering and Extractive Metallurgy"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kchawla@uab.edu",
+  "publication_keywords": "Biomedical Imaging Regenerative Medicine",
+  "grant_keywords": ""
+}

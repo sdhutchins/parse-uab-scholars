@@ -1,0 +1,127 @@
+{
+  "lastName": "Markaki",
+  "overview": "Dr. Markaki is Director of Global Partnerships, known for her sustained work in primary health care capacity building and global health integration. She demonstrates nurses’ role in achieving universal health and advocates for raising the nursing workforce status. \n\nAs Co-Director of the PAHO/WHO Collaborating Centre (WHOCC), she leads one of only nine designated centers in the USA, integrating global health into nursing education, research, and clinical practice. Since 2016, Dr. Markaki has expanded the school’s global footprint through partnerships across continents. In 2019 and 2023, she led the successful re-designation of UAB WHOCC, tasked with supporting PAHO efforts to overcome health disparities in the Americas’ region. This latest milestone marked 30 years of continuous PAHO/WHO designation for the UAB School of Nursing Collaborating Centre.  \n\nCombining advanced practice in public/ community health nursing with a medical anthropologist’s perspective, she has extensively taught and mentored nursing, medical and public health students, medical residents, and professional nurses. As a health systems researcher, she studies nursing’s effect on primary health care outcomes. A strong believer in crossing discipline and culture boundaries, Dr. Markaki empowers providers and communities towards sustainable development goals.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3375-adelais-markaki",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "3375",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 66,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 130,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 111,
+      "favourites": 13
+    }
+  },
+  "firstName": "Adelais",
+  "firstNameLastName": "Adelais Markaki",
+  "equipmentLinkTypes": [],
+  "objectId": 3375,
+  "updatedWhen": "2025-05-10T08:09:28.0134185-05:00",
+  "hasCollaborationData": true,
+  "email": "markaki@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cancer Caregiving Research Chronic Pain Clinical Research Emergency Care Health Services Mental Health Pain Research Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases",
+  "grant_keywords": ""
+}

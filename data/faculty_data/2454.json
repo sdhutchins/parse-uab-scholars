@@ -1,0 +1,119 @@
+{
+  "discoveryId": "2454",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1240,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "lastName": "Littlefield",
+  "firstName": "David",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2454-david-littlefield",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor"
+    }
+  ],
+  "firstNameLastName": "David Littlefield",
+  "equipmentLinkTypes": [],
+  "objectId": 2454,
+  "updatedWhen": "2025-05-10T08:07:39.3479250-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "littlefield@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Brain Disorders Neurosciences Rare Diseases",
+  "grant_keywords": ""
+}

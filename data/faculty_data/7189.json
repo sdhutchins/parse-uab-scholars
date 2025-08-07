@@ -1,0 +1,116 @@
+{
+  "discoveryId": "7189",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 41,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "lastName": "Warner",
+  "firstName": "David",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7189-david-warner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "David Warner",
+  "equipmentLinkTypes": [],
+  "objectId": 7189,
+  "updatedWhen": "2025-05-10T08:14:20.0512731-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Demography"
+        ],
+        "value": "Demography"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "dwarner3@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Aging Basic Behavioral and Social Science Behavioral and Social Science Breast Cancer Cancer Childhood Injury Clinical Research Colo-Rectal Cancer Contraception/Reproduction Digestive Diseases Health Services Lung Lung Cancer Mental Health Patient Safety Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Prostate Cancer Social Determinants of Health Substance Misuse Urologic Diseases Violence Against Women Violence Research Women's Health Youth Violence Youth Violence Prevention",
+  "grant_keywords": ""
+}

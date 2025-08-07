@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1934",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 71,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 145,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 308,
+      "favourites": 0
+    }
+  },
+  "lastName": "Redden",
+  "firstName": "David",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1934-david-redden",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "David Redden",
+  "equipmentLinkTypes": [],
+  "objectId": 1934,
+  "updatedWhen": "2025-05-10T08:06:12.4049899-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dredden@uab.edu",
+  "publication_keywords": "Aging Arthritis Atherosclerosis Behavioral and Social Science Cardiovascular Chronic Pain Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Diabetes Heart Disease Heart Disease - Coronary Heart Disease Kidney Disease Neurosciences Nutrition Obesity Organ Transplantation Osteoarthritis Pain Research Prevention Sleep Research Transplantation Women's Health",
+  "grant_keywords": "Arthritis Autoimmune Disease Biodefense Clinical Research Clinical Trials and Supportive Activities Data Science Emerging Infectious Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Human Genome Immunization Infectious Diseases Influenza Lung Lupus Minority Health Networking and Information Technology R&D (NITRD) Pneumonia & Influenza Prevention Rheumatoid Arthritis Rural Health Social Determinants of Health Vaccine Related Women's Health"
+}

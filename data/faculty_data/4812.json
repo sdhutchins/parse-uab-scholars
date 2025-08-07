@@ -1,0 +1,130 @@
+{
+  "lastName": "Malone",
+  "overview": "My career has focused on conducting research to examine the role of physical activity and sport in the lives of people with physical disabilities. I have a strong background in kinesiology, with specific expertise in adapted physical activity and sport. Published in a range of peer-reviewed journal articles and book chapters, my research has encompassed a variety of topics related to the impact of physical activity on health and wellbeing in persons with physical disabilities across the lifespan. Specific areas of interest have included assessment of physical fitness and sport performance, reducing barriers to exercise participation, improving access for underserved communities, and enhancing quality of life. My sport science research has been conducted with partners from around the world, leading to several book chapters and numerous publications, with athlete performance data collected at events such as the Paralympic Games and World Wheelchair Basketball Championship. Our studies have also examined barriers to sport participation for persons with various physical disabilities. Other recent research efforts have focused on active video gaming as a means to provide fun and engaging exercise options for individuals with mobility impairments. Along with my credentials as a sport and exercise scientist, I am a Certified Adapted Physical Educator and Certified Inclusive Fitness Trainer.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4812-laurie-a-malone",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Occupational Therapy"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "4812",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 68,
+      "favourites": 0
+    }
+  },
+  "firstName": "Laurie A.",
+  "firstNameLastName": "Laurie A. Malone",
+  "equipmentLinkTypes": [],
+  "objectId": 4812,
+  "updatedWhen": "2025-05-10T08:11:33.9732638-05:00",
+  "hasCollaborationData": true,
+  "email": "lamalone@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Coronaviruses Emerging Infectious Diseases Infectious Diseases Neurodegenerative Neurosciences Obesity Physical Activity Physical Injury - Accidents and Adverse Effects Prevention Rehabilitation Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Autoimmune Disease Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Health Disparities Multiple Sclerosis Neurodegenerative Neurosciences Physical Activity Physical Rehabilitation Prevention Rehabilitation"
+}

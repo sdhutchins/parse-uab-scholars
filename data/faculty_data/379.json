@@ -1,0 +1,126 @@
+{
+  "lastName": "Young",
+  "overview": "Martin Young received his Bachelors, Masters, PhD degrees in Biochemistry from the University of Oxford. Following postdoctoral training at Boston University and the University of Texas-Houston, Dr. Young held faculty appointments at the University of Texas-Houston and Baylor College of Medicine, before joining the University of Alabama at Birmingham (UAB).  Dr. Young is currently a Professor of Medicine, Vice-Director for Research in the Division of Cardiovascular Disease, and Section Chief for Basic and Translational Research in the Division of Cardiovascular Disease.  He is also the Jeanne V. Marks Endowed Chair of Cardiovascular Disease.  Dr. Young has published over 160 peer-reviewed manuscripts in top tier journals, such as Circulation Research and Journal of Biological Chemistry, and has been commissioned by numerous journals (including Nature Reviews Endocrinology) for the completion of invited reviews.  \n\nResearch in Dr. Young’s laboratory is focused on understanding how environmental factors, such as time-of-day and nutrition, influence cardiovascular health and disease. Regarding time-of-day, the laboratory is actively seeking to understand how an intrinsic time-keeping mechanism, known as the circadian clock, affects the function of the heart.  More specifically, a broad objective of the laboratory has been to test the hypothesis that the circadian clock synchronizes responsiveness of the heart to diurnal fluctuations in the environment. Impairment of this molecular mechanism would therefore result in an inability of the heart to respond appropriately to the onset of normal stimuli/stresses, thereby leading to contractile dysfunction and cardiac disease.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "379-martin-young",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "379",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 51,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 232,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 231,
+      "favourites": 0
+    }
+  },
+  "firstName": "Martin",
+  "firstNameLastName": "Martin Young",
+  "equipmentLinkTypes": [],
+  "objectId": 379,
+  "updatedWhen": "2025-05-10T08:03:00.7947257-05:00",
+  "hasCollaborationData": true,
+  "email": "meyoung@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Biotechnology Brain Disorders Cardiovascular Dementia Diabetes Digestive Diseases Genetics Heart Disease Heart Disease - Coronary Heart Disease Liver Disease Neurodegenerative Neurosciences Nutrition Obesity Prevention",
+  "grant_keywords": "Biotechnology Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease"
+}

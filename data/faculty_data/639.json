@@ -1,0 +1,125 @@
+{
+  "lastName": "Ding",
+  "overview": "Dr. Qiang Ding is an Professor of Department of Anesthesiology & Perioperative Medicine, Division of Molecular and Translational Biomedicine, University of Alabama at Birmingham. Dr. Ding received his PhD degree in molecular and cellular pathology at the University of Alabama at Birmingham. After completing his postdoctoral fellowship training in the UAB Department of Pathology. Dr. Ding is actively involved in education, research, training, and service for the community. He holds a secondary appointment in the Department of Cell, Developmental, and Integrative Biology (CDIB), is a member of the Intellectual and Developmental Disabilities Research Center (IDDRC), and is a faculty member of the Graduate Biomedical Science PhD program at the University of Alabama at Birmingham.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "639-qiang-ding",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Anesthesiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "639",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 212,
+      "favourites": 0
+    }
+  },
+  "firstName": "Qiang",
+  "firstNameLastName": "Qiang Ding",
+  "equipmentLinkTypes": [],
+  "objectId": 639,
+  "updatedWhen": "2025-05-10T08:03:37.9053089-05:00",
+  "hasCollaborationData": true,
+  "email": "qding@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Cancer Digestive Diseases Emerging Infectious Diseases Esophageal Cancer Genetics Immunization Immunotherapy Infectious Diseases Lung Orphan Drug Pneumonia Pneumonia & Influenza Prevention Rare Diseases Small Pox Stem Cell Research Stem Cell Research - Embryonic - Non-Human Vaccine Related Vector-Borne Diseases",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Aging Autoimmune Disease Brain Cancer Brain Disorders Cancer Genetics Infectious Diseases Lung Neurosciences Orphan Drug Pneumonia Pneumonia & Influenza Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human"
+}

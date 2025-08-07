@@ -1,0 +1,117 @@
+{
+  "discoveryId": "6545",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 50,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "lastName": "Leban",
+  "firstName": "Lindsay",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6545-lindsay-leban",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "Lindsay Leban",
+  "equipmentLinkTypes": [],
+  "objectId": 6545,
+  "updatedWhen": "2025-05-10T08:13:23.4043506-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Law and Legal Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Law"
+        ],
+        "value": "Law"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "leleban@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Childhood Obesity Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Nutrition Obesity Pediatric Pediatric Research Initiative Prevention Social Determinants of Health",
+  "grant_keywords": ""
+}

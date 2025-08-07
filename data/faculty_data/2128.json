@@ -1,0 +1,128 @@
+{
+  "lastName": "Darley-Usmar",
+  "overview": "Victor Darley-Usmar received his Ph.D. at the University of Essex in England and then moved to the University of Oregon as a Post-Doctoral Fellow to pursue his interests in the structure and function of mitochondrial proteins in human disease. After a period as a lecturer in Japan and ten years as a Research Scientist in Burroughs Wellcome in London he joined UAB to establish his own research group in the Department of Pathology in 1995.  He has received multiple awards for training and mentoring and served as the Associate Dean for Post-Doctoral Education and the Pathology Graduate Program Director.  He co-established the UAB Center for Free Radical Biology from 2006-2015 as an international center for research in redox biology. In his current role of Senior Associate Dean for Research Compliance and  Administration  he brings his experience in the commercial sector and career development programs to the strategic management of the School of Medicine Research.  In his own research program he has been instrumental in defining how redox biology modifies mitochondrial function in pathology and in recognition of these achievements was awarded a Lifetime Achievement Award by the Society for Free Radical Biology and Medicine in 2012. He has been continuously funded by NIH for 25 years and has published over 300 articles with an H factor of over 100.  At UAB his contribution to research in mitochondrial pathology was recognized by his appointment as the Foundation Faculty for the “Endowed Professorship in Mitochondrial Medicine and Pathology”.  He is now developing a program to apply measures of bioenergetic health to personalized medicine.  He was a recent recipient of the prestigious “Creativity is a Decision” and “Blue Sky” awards from UAB for the Bioenergetic Health Index concept. He was recently recognized as the 2017 UAB Distinguished Faculty Lecturer, which is is the highest honor bestowed by the Academic Medical Center on a faculty member who has advanced the frontiers of science and made outstanding contributions to education, research and public service.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2128-victor-darleyusmar",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Senior Associate Dean",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2128",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 70,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 49,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 459,
+      "favourites": 0
+    }
+  },
+  "firstName": "Victor",
+  "firstNameLastName": "Victor Darley-Usmar",
+  "equipmentLinkTypes": [],
+  "objectId": 2128,
+  "updatedWhen": "2025-05-10T08:06:50.7101676-05:00",
+  "hasCollaborationData": true,
+  "email": "darley@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Clinical Research Dementia Genetics Infectious Diseases Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Rare Diseases",
+  "grant_keywords": "Genetics Kidney Disease Neurodegenerative Neurosciences Pediatric Rare Diseases"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18548",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pitts",
+  "firstName": "Gillum",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18548-gillum-pitts",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychology"
+    }
+  ],
+  "firstNameLastName": "Gillum Pitts",
+  "equipmentLinkTypes": [],
+  "objectId": 18548,
+  "updatedWhen": "2025-05-10T08:19:42.5025625-05:00",
+  "hasCollaborationData": false,
+  "email": "gspitts@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "discoveryId": "2697",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 353,
+      "favourites": 0
+    }
+  },
+  "lastName": "Fedorov",
+  "firstName": "Vladimir",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2697-vladimir-fedorov",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Research Associate Professor",
+      "department": "Physics"
+    }
+  ],
+  "firstNameLastName": "Vladimir Fedorov",
+  "equipmentLinkTypes": [],
+  "objectId": 2697,
+  "updatedWhen": "2025-05-10T08:08:11.0894987-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communications Technologies",
+          "Technologies"
+        ],
+        "value": "Communications Technologies"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nanotechnology"
+        ],
+        "value": "Nanotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "vfedorov@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Bioengineering Diabetes Prevention"
+}

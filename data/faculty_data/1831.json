@@ -1,0 +1,124 @@
+{
+  "lastName": "Hernandez",
+  "overview": "S. Robert Hernandez is Distinguished Service Professor and Director of the UAB Executive Doctoral Program in Healthcare Leadership.   He is also Senior Associate Chair for Global Health and is founding Director of the International Executive Masters of Science in Health Administration Program.  \n\nInternationally, he served on the Board of Directors of the European Academy of Management (EURAM) from 2012 to 2018 and has chaired the EURAM Healthcare Management Research Track since 2008.  He has served as Visiting Professor at the American University of Armenia and has worked on global health issues in Armenia, Georgia, Russia, Saudi Arabia, and Ukraine.  The International Hospital Federation has benefited from his leadership in their initiative to professionalize the healthcare management workforce.  \n\nHe is a past Chair of the Health Care Management Division of the Academy of Management and past Chair of the Commission on Accreditation of Healthcare Management Education.  Having served on the editorial boards of numerous academic journals, he is Associate Editor of Health Services Management Research and is past editor of Journal of Health Administration Education.   The American Sociological Association and the Academy of Management have honored his applied research.  He has received the Joseph Volker Outstanding Faculty Award from the UAB School of Health Professions, the first Excellence in Teaching Award from the Health Care Management Division of the Academy of Management, and the Filerman Prize for Educational Leadership from AUPHA.  He is a graduate of the Masters of Science in Hospital Administration Program at UAB, and received his doctorate from the University of North Carolina at Chapel Hill.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1831-s-hernandez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      }
+    ]
+  },
+  "discoveryId": "1831",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 315,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 34,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 82,
+      "favourites": 2
+    }
+  },
+  "firstName": "S",
+  "firstNameLastName": "S Hernandez",
+  "equipmentLinkTypes": [],
+  "objectId": 1831,
+  "updatedWhen": "2025-05-10T08:06:00.9123981-05:00",
+  "hasCollaborationData": true,
+  "email": "hernande@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

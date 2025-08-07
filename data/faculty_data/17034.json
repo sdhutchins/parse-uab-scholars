@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17034",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Henrich",
+  "firstName": "Christopher",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17034-christopher-henrich",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Psychology"
+    }
+  ],
+  "firstNameLastName": "Christopher Henrich",
+  "equipmentLinkTypes": [],
+  "objectId": 17034,
+  "updatedWhen": "2025-05-10T08:17:00.2930510-05:00",
+  "hasCollaborationData": false,
+  "email": "chenrich@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

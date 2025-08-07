@@ -1,0 +1,112 @@
+{
+  "discoveryId": "2637",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 241,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "lastName": "Linville",
+  "firstName": "Jason",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2637-jason-linville",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "Jason Linville",
+  "equipmentLinkTypes": [],
+  "objectId": 2637,
+  "updatedWhen": "2025-05-10T08:08:00.9206778-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "jglinvil@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Genetics Substance Misuse",
+  "grant_keywords": ""
+}

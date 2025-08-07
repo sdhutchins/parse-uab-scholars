@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1159",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 104,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Brabston",
+  "firstName": "Eugene",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1159-eugene-brabston",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Orthopaedic Surgery"
+    }
+  ],
+  "firstNameLastName": "Eugene Brabston",
+  "equipmentLinkTypes": [],
+  "objectId": 1159,
+  "updatedWhen": "2025-05-10T08:04:55.7053491-05:00",
+  "hasCollaborationData": false,
+  "email": "brab1@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

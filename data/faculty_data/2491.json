@@ -1,0 +1,120 @@
+{
+  "lastName": "Fischer",
+  "overview": "Dr. Fischer studied rainforest canopy ecology in the remote mountains of Papua New Guinea (PNG), where she worked for five years with local villagers and mining companies to establish the Mekil wildlife management area and research station on Mount Stolle. Following her work in PNG, the Wildlife Conservation Society asked her to conduct a marine survey of Lampi Island in Myanmar. The survey resulted in a management plan for the Mergui Archipelago designed to protect natural resources and the traditional subsistence and artisanal resource use of the nomadic Moken people who live in the region.\n\nWhile working at the Christensen Fund, Dr. Fischer helped to establish the endowment for the Christensen Fellowship at WCS, helped endow a similar fellowship program at the Missouri Botanical Garden and helped secure bridge funding for the Conservation and Research Center at the National Zoo. She has also worked on conservation and resources use issues in in the United States, most recently working for the Yurok Tribe. Dr. Fischer returned to aging research in 2010, when she joined the Barshop Institute for Longevity and Aging Research. She joined the Department of Biology in 2014.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2491-kathleen-fischer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2491",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kathleen",
+  "firstNameLastName": "Kathleen Fischer",
+  "equipmentLinkTypes": [],
+  "objectId": 2491,
+  "updatedWhen": "2025-05-10T08:07:39.3789264-05:00",
+  "hasCollaborationData": true,
+  "email": "fischerk@uab.edu",
+  "publication_keywords": "Aging Diabetes Genetics Neurosciences Nutrition Obesity Rare Diseases Regenerative Medicine Sarcopenia Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health",
+  "grant_keywords": "Aging Biotechnology Clinical Research Estrogen Genetics Health Disparities Minority Health Regenerative Medicine Women's Health"
+}

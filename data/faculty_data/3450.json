@@ -1,0 +1,119 @@
+{
+  "lastName": "Kemp",
+  "overview": "I am originally from Missouri. During high school I had the opportunity to travel to Australia and dive on the Great Barrier Reef. I was fascinated by the abundance of animals and the complex interactions occurring. I continued to develop a strong interest in marine biology during undergraduate work at Texas A&M University at Galveston and determined that I wanted to make a career studying marine ecosystems.\n\nDuring graduate work at Florida Atlantic University and Harbor Branch Oceanographic Institute, I began working with invertebrate symbiotic relationships. This research further developed during my doctoral and post-doctoral work at the University of Georgia and Penn State University where I studied coral physiology, microbial diversity of prokaryotes and eukaryotes associated with corals, and the effects of climate change on coral reef ecosystems. I have worked on coral reefs throughout the Caribbean and Pacific and continue to study ecology, physiology, and evolution of these important ecosystems.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3450-dustin-kemp",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geomatic Engineering",
+          "Engineering"
+        ],
+        "value": "Geomatic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Classical Physics",
+          "Physics"
+        ],
+        "value": "Classical Physics"
+      }
+    ]
+  },
+  "discoveryId": "3450",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 86,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "firstName": "Dustin",
+  "firstNameLastName": "Dustin Kemp",
+  "equipmentLinkTypes": [],
+  "objectId": 3450,
+  "updatedWhen": "2025-05-10T08:09:38.3368600-05:00",
+  "hasCollaborationData": false,
+  "email": "dwk@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

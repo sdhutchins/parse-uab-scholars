@@ -1,0 +1,123 @@
+{
+  "lastName": "Swords",
+  "overview": "Dr. W. Edward Swords received a B.S. in microbiology from Auburn University, followed by a M.S. from Mississippi State University. He completed his PhD studies at the University of Alabama at Birmingham in 1996.   After an ASM/NCID fellowship at the Centers for Disease Control and Prevention, Dr. Swords carried out postdoctoral work with Dr. Michael Apicella at the University of Iowa, studying the bacterial opportunist nontypeable Haemophilus influenzae. In 2002, he joined the faculty in the Department of Microbiology and Immunology at the Wake Forest School of Medicine where he established an independent research program addressing mechanisms of persistence of bacterial opportunists in otitis media and other airway infections. In 2016, Dr. Swords was recruited to join the Division of Pulmonary, Allergy & Critical Care Medicine, where he is currently a tenured Professor of Medicine. He also has appointments as a Senior Scientist in the Gregory Fleming James Center for Cystic Fibrosis Research, and a secondary appointment in the Department of Microbiology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3478-william-swords",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "3478",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 90,
+      "favourites": 0
+    }
+  },
+  "firstName": "William",
+  "firstNameLastName": "William Swords",
+  "equipmentLinkTypes": [],
+  "objectId": 3478,
+  "updatedWhen": "2025-05-12T03:19:08.2616257-05:00",
+  "hasCollaborationData": true,
+  "email": "swords@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Cystic Fibrosis Emerging Infectious Diseases Genetics Infectious Diseases Lung Orphan Drug Otitis Media Pediatric Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": "Clinical Research Cystic Fibrosis Dental/Oral and Craniofacial Disease Health Disparities Infectious Diseases Lung Microbiome Minority Health Rare Diseases"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "6771",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "McGuinn",
+  "firstName": "Laura",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6771-laura-mcguinn",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Developmental & Behavioral"
+    }
+  ],
+  "firstNameLastName": "Laura McGuinn",
+  "equipmentLinkTypes": [],
+  "objectId": 6771,
+  "updatedWhen": "2025-05-10T08:13:42.6883043-05:00",
+  "hasCollaborationData": false,
+  "email": "mcguinn@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

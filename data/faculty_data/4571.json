@@ -1,0 +1,127 @@
+{
+  "lastName": "Julian",
+  "overview": "I have a longstanding interest in the cause and clinical expression of IgA nephropathy.  Research collaboration with colleagues over my career has focused on the genetically determined influences on the pathogenesis and the autoimmune nature of the mechanisms of disease. These studies have shown that there are many regions in the human genome that affect the risk for development of IgA nephropathy.  We have also proposed a four-hit hypothesis for the pathogenesis: galactose-deficient IgA1 is recognized by IgG or IgA that binds to its galactose-deficient hinge-region glycans to form circulating immune complexes, some of which deposit in the mesangium of glomeruli to induce injury. Subsequent studies from centers around the world have supported this hypothesis.  This model now serves as the blueprint for testing new approaches to therapy that are more disease-specific.\nI also am a transplant nephrologist. The kidney transplant program at UAB is one of the busiest in the USA. I have a special interest in outcomes and co-morbidities, including changes in bone mineral metabolism, post-transplant erythrocytosis, and genetic influences on long-term survival.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4571-bruce-julian",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "4571",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 58,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 279,
+      "favourites": 0
+    }
+  },
+  "firstName": "Bruce",
+  "firstNameLastName": "Bruce Julian",
+  "equipmentLinkTypes": [],
+  "objectId": 4571,
+  "updatedWhen": "2025-05-10T08:11:25.1487167-05:00",
+  "hasCollaborationData": true,
+  "email": "bjulian@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Clinical Research Kidney Disease Minority Health Rare Diseases",
+  "grant_keywords": ""
+}

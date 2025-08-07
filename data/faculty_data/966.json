@@ -1,0 +1,123 @@
+{
+  "discoveryId": "966",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 24,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 27,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 112,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dure",
+  "firstName": "Leon",
+  "hasThumbnail": false,
+  "discoveryUrlId": "966-leon-dure",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Neurology"
+    }
+  ],
+  "firstNameLastName": "Leon Dure",
+  "equipmentLinkTypes": [],
+  "objectId": 966,
+  "updatedWhen": "2025-05-10T08:04:33.6515298-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dure@uab.edu",
+  "publication_keywords": "Attention Deficit Hyperactivity Disorder (ADHD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cannabinoid Research Cerebral Palsy Clinical Research Congenital Structural Anomalies Endocannabinoid System Research Eye Disease and Disorders of Vision Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Hydrocephalus Intellectual and Developmental Disabilities (IDD) Mental Health Mental Illness Neurodegenerative Neurosciences Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases Tourette Syndrome",
+  "grant_keywords": ""
+}

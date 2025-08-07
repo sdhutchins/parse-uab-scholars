@@ -1,0 +1,53 @@
+{
+  "discoveryId": "19127",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 43,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 22,
+      "favourites": 0
+    }
+  },
+  "lastName": "Song",
+  "firstName": "Jack",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19127-jack-song",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Jack Song",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "The video highlights the mini human kidney models developed by Dr. Cheng (Jack) Song and his colleague, which have been pivotal in identifying potential targets for the treatment of polycystic kidney disease (PKD).",
+      "embedLink": "https://www.youtube-nocookie.com/embed/9xlutWpWIkE",
+      "label": "Mini-kidney models help identify potential drugs for polycystic kidney disease",
+      "thumbnailLink": "https://img.youtube.com/vi/9xlutWpWIkE/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/9xlutWpWIkE?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 19127,
+  "updatedWhen": "2025-05-10T08:20:57.3108722-05:00",
+  "hasCollaborationData": true,
+  "email": "song1c@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Congenital Structural Anomalies Genetics Human Genome Kidney Disease Pediatric Research Initiative Polycystic Kidney Disease Stem Cell Research Stem Cell Research - Embryonic - Human Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human",
+  "grant_keywords": "Congenital Structural Anomalies Genetics Kidney Disease Pediatric Polycystic Kidney Disease"
+}

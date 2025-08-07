@@ -1,0 +1,117 @@
+{
+  "discoveryId": "812",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 42,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 75,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 117,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gamlin",
+  "firstName": "Paul",
+  "hasThumbnail": true,
+  "discoveryUrlId": "812-paul-gamlin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Ophthalmology"
+    }
+  ],
+  "firstNameLastName": "Paul Gamlin",
+  "equipmentLinkTypes": [],
+  "objectId": 812,
+  "updatedWhen": "2025-05-10T08:04:12.9535638-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pgamlin@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Clinical Research Depression Eye Disease and Disorders of Vision Gene Therapy Genetics Mental Health Mental Illness Neurosciences Pediatric Rare Diseases Sleep Research Women's Health",
+  "grant_keywords": ""
+}

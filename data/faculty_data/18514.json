@@ -1,0 +1,45 @@
+{
+  "discoveryId": "18514",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 147,
+      "favourites": 0
+    }
+  },
+  "lastName": "Yohannes",
+  "overview": "Dr Yohannes research focuses on the management of patients with chronic obstructive pulmonary disease, asthma, and other chronic respiratory diseases in old age with mental health disorders. His research covers a wide-ranging of themes comorbid conditions in geriatrics e.g., cognitive impairment, ageing, frailty, and cardiovascular and metabolic disorders. It is grounded with research methods and clinical trials including pulmonary and cardiac rehabilitation, exercise therapy, antidepressant drug therapy, and designing patient-centered and reported outcome measures, systematic reviews, and implementation science.",
+  "firstName": "Abebaw",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18514-abebaw-yohannes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Physical Therapy"
+    }
+  ],
+  "firstNameLastName": "Abebaw Yohannes",
+  "equipmentLinkTypes": [],
+  "objectId": 18514,
+  "updatedWhen": "2025-05-10T08:19:33.9739490-05:00",
+  "hasCollaborationData": true,
+  "email": "amyohann@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Complementary and Integrative Health Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Lung Mental Health Mental Illness Networking and Information Technology R&D (NITRD) Patient Safety Physical Rehabilitation Prevention Rehabilitation Social Determinants of Health Telehealth Women's Health",
+  "grant_keywords": ""
+}

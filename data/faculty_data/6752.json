@@ -1,0 +1,126 @@
+{
+  "discoveryId": "6752",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 232,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 92,
+      "favourites": 0
+    }
+  },
+  "lastName": "Zech",
+  "firstName": "Wesley",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6752-wesley-zech",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Engineering",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Wesley Zech",
+  "equipmentLinkTypes": [],
+  "objectId": 6752,
+  "updatedWhen": "2025-05-10T08:13:42.6683034-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Urban and Regional Planning",
+          "and Regional Planning",
+          "Regional Planning",
+          "Planning"
+        ],
+        "value": "Urban and Regional Planning"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Transportation and Freight Services",
+          "and Freight Services",
+          "Freight Services",
+          "Services"
+        ],
+        "value": "Transportation and Freight Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Interdisciplinary Engineering",
+          "Engineering"
+        ],
+        "value": "Interdisciplinary Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Building"
+        ],
+        "value": "Building"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "zechwes@uab.edu",
+  "publication_keywords": "Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

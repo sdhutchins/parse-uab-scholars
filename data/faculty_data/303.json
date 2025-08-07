@@ -1,0 +1,128 @@
+{
+  "lastName": "Johnston",
+  "overview": "Dr. Johnston specializes in pediatric neurosurgery. His practice includes all aspects of patient care related to neurological surgery, including neurosurgical oncology (brain and spine tumors), complex spinal surgery, craniosynostosis, vascular neurosurgery (including revascularization for moyamoya), radiosurgery, neurocritical care and trauma, and congenital disorders. \nDr. Johnston is an active researcher, and is currently the co-investigator at Children’s in a trial of intratumoral viral therapy for the treatment of recurrent malignant brain tumors in children.  He is also working with colleagues on the development and FDA-approval of a rapid complement-based diagnostic device for bacterial meningitis and shunt infection.\nDr. Johnston received his M.D. degree from Washington University School of Medicine in Saint Louis in 2002. He completed an internship in General Surgery at Washington University in 2003 and residency in the Washington University Department of Neurosurgery from 2003-2006. He pursued post-doctoral training in functional and diffusion tensor MR imaging at the Mallinckrodt Institute of Radiology Neuro-Imaging Laboratories from 2006-2008. During this time, he also served as neurosurgical registrar at the National Referral Centre for Neurosurgery, Beaumont Hospital in Dublin, Ireland from July to December 2007. He was then named Chief Resident in Neurosurgery at Washington University/Barnes Hospital from 2008-2009 and went on to complete fellowship training in pediatric neurosurgery at Saint Louis Children's Hospital in 2010.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "303-james-johnston",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurosurg-Computer Assisted"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      }
+    ]
+  },
+  "discoveryId": "303",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 133,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Johnston",
+  "equipmentLinkTypes": [],
+  "objectId": 303,
+  "updatedWhen": "2025-05-10T08:02:47.5658752-05:00",
+  "hasCollaborationData": true,
+  "email": "jimj@uab.edu",
+  "publication_keywords": "Biotechnology Brain Disorders Cancer Cancer Genomics Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Congenital Structural Anomalies Genetics Human Genome Hydrocephalus Lung Neurosciences Patient Safety Pediatric Pediatric Research Initiative Rare Diseases Sleep Research Spina Bifida Stroke",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "discoveryId": "731",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 110,
+      "favourites": 0
+    }
+  },
+  "lastName": "Marson",
+  "firstName": "Daniel",
+  "hasThumbnail": false,
+  "discoveryUrlId": "731-daniel-marson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Daniel Marson",
+  "equipmentLinkTypes": [],
+  "objectId": 731,
+  "updatedWhen": "2025-05-10T08:03:50.0615750-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dmarson@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Dementia Mental Health Multiple Sclerosis Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Prevention Rehabilitation Social Determinants of Health Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Dementia Health Disparities Minority Health Neurodegenerative Neurosciences Organ Transplantation Prevention Rural Health Social Determinants of Health Transplantation"
+}

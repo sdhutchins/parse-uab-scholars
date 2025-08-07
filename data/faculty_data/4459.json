@@ -1,0 +1,133 @@
+{
+  "discoveryId": "4459",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 67,
+      "favourites": 0
+    }
+  },
+  "lastName": "Brouillette",
+  "firstName": "Christie",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4459-christie-brouillette",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Christie Brouillette",
+  "equipmentLinkTypes": [],
+  "objectId": 4459,
+  "updatedWhen": "2025-05-10T08:11:08.8619669-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Information and Computing Sciences",
+          "Information and Computing Sciences",
+          "and Computing Sciences",
+          "Computing Sciences",
+          "Sciences"
+        ],
+        "value": "Other Information and Computing Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "christie@uab.edu",
+  "publication_keywords": "Cystic Fibrosis Genetics Lung Rare Diseases",
+  "grant_keywords": "Anthrax Antimicrobial Resistance Biodefense Bioengineering Cancer Cancer Genomics Cardiovascular Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Cystic Fibrosis Digestive Diseases Emerging Infectious Diseases Genetics Health Disparities Health Services Hematology Human Genome Infectious Diseases Lung Orphan Drug Prevention Rare Diseases Rural Health Sepsis Social Determinants of Health Vector-Borne Diseases Women's Health"
+}

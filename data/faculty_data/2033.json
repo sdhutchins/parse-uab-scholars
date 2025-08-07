@@ -1,0 +1,128 @@
+{
+  "discoveryId": "2033",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 91,
+      "favourites": 0
+    }
+  },
+  "lastName": "Vassylyev",
+  "firstName": "Dmitry",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2033-dmitry-vassylyev",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Biochemistry",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Dmitry Vassylyev",
+  "equipmentLinkTypes": [],
+  "objectId": 2033,
+  "updatedWhen": "2025-05-10T08:06:35.9240085-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Information and Computing Sciences",
+          "Information and Computing Sciences",
+          "and Computing Sciences",
+          "Computing Sciences",
+          "Sciences"
+        ],
+        "value": "Other Information and Computing Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dmitry@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Biotechnology Emerging Infectious Diseases Genetics Infectious Diseases Sexually Transmitted Infections Urologic Diseases",
+  "grant_keywords": "Genetics"
+}

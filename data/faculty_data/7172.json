@@ -1,0 +1,165 @@
+{
+  "lastName": "Bodine Al-Sharif",
+  "overview": "Dr. Mary Ann Bodine Al-Sharif currently serves as an Associate Professor of Higher Education in the School of Education at UAB. She completed her B.A. in Religious Studies at Randall University, M.A. in English at the University of Central Oklahoma, and M.Ed. and Ph.D. in Adult and Higher Education at the University of Oklahoma. She served as a Social Justice Graduate Research Fellow during her doctoral studies, and in 2019, she was selected as a Saudi Fellow/Invited Scholar by the Ministry of Education in the Kingdom of Saudi Arabia. She has worked in higher education as both a faculty member and student affairs and services administrator. As a researcher, she focuses on student identity development, international and global education, and issues of social justice and advocacy within higher education. Dr. Bodine Al-Sharif explores the lives of individuals within higher education who define themselves as living between worlds at the intersections of ability, race, religion, ethnicity, gender expression, and the like at the micro-level and dominate power structures within their environments at the macro-level. As a critical qualitative researcher, she intentionally engages in research that focuses on sociological, philosophical, historical, political, and/or cultural perspectives. She is extremely passionate about this work and the insight it can provide to the unique experiences of minoritized and marginalized populations in higher education both in the United States and abroad.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7172-mary-ann-bodine-alsharif",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education Systems",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Higher Education",
+          "Education"
+        ],
+        "value": "Higher Education"
+      },
+      {
+        "paths": [
+          [
+            "Cultural Studies",
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Globalisation and Culture",
+          "and Culture",
+          "Culture"
+        ],
+        "value": "Globalisation and Culture"
+      },
+      {
+        "paths": [
+          [
+            "Specialist Studies in Education",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Comparative and Cross-Cultural Education",
+          "and Cross-Cultural Education",
+          "Cross-Cultural Education",
+          "Education"
+        ],
+        "value": "Comparative and Cross-Cultural Education"
+      },
+      {
+        "paths": [
+          [
+            "Cultural Studies",
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Culture, Gender, Sexuality",
+          "Gender, Sexuality",
+          "Sexuality"
+        ],
+        "value": "Culture, Gender, Sexuality"
+      },
+      {
+        "paths": [
+          [
+            "Linguistics",
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Language in Culture and Society (Sociolinguistics)",
+          "in Culture and Society (Sociolinguistics)",
+          "Culture and Society (Sociolinguistics)",
+          "and Society (Sociolinguistics)",
+          "Society (Sociolinguistics)",
+          "(Sociolinguistics)"
+        ],
+        "value": "Language in Culture and Society (Sociolinguistics)"
+      },
+      {
+        "paths": [
+          [
+            "Policy and Administration",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration not elsewhere classified",
+          "and Administration not elsewhere classified",
+          "Administration not elsewhere classified",
+          "not elsewhere classified",
+          "elsewhere classified",
+          "classified"
+        ],
+        "value": "Policy and Administration not elsewhere classified"
+      },
+      {
+        "paths": [
+          [
+            "Policy and Administration",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Policy",
+          "Policy"
+        ],
+        "value": "Education Policy"
+      },
+      {
+        "paths": [
+          [
+            "Policy and Administration",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Policy",
+          "Policy"
+        ],
+        "value": "Social Policy"
+      }
+    ]
+  },
+  "discoveryId": "7172",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 139,
+      "favourites": 18
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 3
+    },
+    "publications": {
+      "all": 38,
+      "favourites": 36
+    }
+  },
+  "firstName": "Mary Ann",
+  "firstNameLastName": "Mary Ann Bodine Al-Sharif",
+  "equipmentLinkTypes": [],
+  "objectId": 7172,
+  "updatedWhen": "2025-05-10T08:14:20.0356505-05:00",
+  "hasCollaborationData": true,
+  "email": "drbas@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Health Disparities Minority Health",
+  "grant_keywords": ""
+}

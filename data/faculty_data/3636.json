@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3636",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 90,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Oechslin",
+  "firstName": "Tamara",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3636-tamara-oechslin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Tamara Oechslin",
+  "equipmentLinkTypes": [],
+  "objectId": 3636,
+  "updatedWhen": "2025-05-10T08:09:49.3620718-05:00",
+  "hasCollaborationData": false,
+  "email": "oechslin@uab.edu",
+  "publication_keywords": "Biomedical Imaging Clinical Research Health Disparities and Racial or Ethnic Minority Health Research Minority Health Neurosciences",
+  "grant_keywords": ""
+}

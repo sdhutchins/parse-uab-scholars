@@ -1,0 +1,131 @@
+{
+  "lastName": "Perry",
+  "overview": "Presently, I am a Professor and Interim Chair of the Department of Curriculum and Instruction. I hold a B.A. in English Education from The University of North Carolina at Chapel Hill in Chapel Hill, North Carolina, a master's degree in English Education from University of Alabama at Birmingham, and a Ph.D. in Education Leadership with a concentration in English and secondary curriculum from both University of Alabama and University of Alabama at Birmingham.\n\nMy research focuses on literacy instruction in the secondary schools, primarily in the areas of writing, urban education, and teacher preparation. I am most interested in the ways in which we prepare middle and high school students to meet the writing demands for themselves (personal), college, and career. As indicated by recent publications and presentations, I focus on research to impact student learning using writing as a tool as published in Voices from the Middle and presented at the American Education Research Association (AERA) in April 2013. My book with Rebecca Manery, Supporting Students in the Time of Common Core (NCTE publication), highlights teachers who are incorporating effective teaching strategies into their classes to increase student thinking as they enact literacy practices. As director (with Dr. Bruce McComiskey) and principal investigator for the UAB Red Mountain Writing Project, I continue to serve, research and work directly with teachers, students, and families to promote researched-based literacy practices through programs and events, such as Family Write Night, Writing with the Stars, teacher professional development, Summer Institute (led by Dr. Bruce), summer camps, and after school writing programs.\n\nI currently teach English Language Arts Methods courses, young adult literature, and an online introduction to education course. In 2000-2001, I was named Alabama Teacher of the Year and further awarded National Teacher of the Year Finalist (top four) for the country. During and since that time, I have given over 250 presentations for conferences, universities, colleges, schools, boards, committees, and communities. In 2012, I was named by my colleagues and students the recipient of the UAB Teaching Excellence Award. On a national level, I serve as a member of the Research on Women in Education executive board affiliated with AERA and formerly a National Council of Teachers of English (NCTE) Executive Board Member.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2355-tonya-perry",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communication and Media Studies",
+          "and Media Studies",
+          "Media Studies",
+          "Studies"
+        ],
+        "value": "Communication and Media Studies"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mathematical Physics",
+          "Physics"
+        ],
+        "value": "Mathematical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      }
+    ]
+  },
+  "discoveryId": "2355",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 674,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 16,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tonya",
+  "firstNameLastName": "Tonya Perry",
+  "equipmentLinkTypes": [],
+  "objectId": 2355,
+  "updatedWhen": "2025-05-10T08:07:28.8527122-05:00",
+  "hasCollaborationData": true,
+  "email": "tperry@uab.edu",
+  "publication_keywords": "Health Disparities Minority Health Pediatric Social Determinants of Health",
+  "grant_keywords": ""
+}

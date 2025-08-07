@@ -1,0 +1,128 @@
+{
+  "lastName": "Mohammad Abadi Kamarei",
+  "overview": "Dr. Abadi is cross-trained in climatology/meteorology and environmental epidemiology. Her research interest focuses on first exploring and better understanding the role of climate and natural environment on public health and, second, on investigating how these impacts vary by demographic characteristics and Social Determinants of Health indicators. Her current projects involve the use of statistical modeling, data management, and machine learning techniques to improve our understanding of how environmental exposure, such as drought and heat waves, is affecting the communities. The proper early warning messaging systems should be backed up by robust scientific research. The ultimate goal of her research is to help improve the allocation of public resources and public health messaging systems to minimize adverse health outcomes driven by climate and weather-related events. Dr. Abadi actively collaborates on multiple federally funded large observational studies to better understand the impacts of drought on health outcomes.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18195-azar-mohammad-abadi-kamarei",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Environmental Health Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atmospheric Sciences",
+          "Sciences"
+        ],
+        "value": "Atmospheric Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oceanography"
+        ],
+        "value": "Oceanography"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Geography and Environmental Geoscience",
+          "Geography and Environmental Geoscience",
+          "and Environmental Geoscience",
+          "Environmental Geoscience",
+          "Geoscience"
+        ],
+        "value": "Physical Geography and Environmental Geoscience"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Science and Management",
+          "Science and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Environmental Science and Management"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Agriculture, Land and Farm Management",
+          "Land and Farm Management",
+          "and Farm Management",
+          "Farm Management",
+          "Management"
+        ],
+        "value": "Agriculture, Land and Farm Management"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      }
+    ]
+  },
+  "discoveryId": "18195",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "firstName": "Azar",
+  "firstNameLastName": "Azar Mohammad Abadi Kamarei",
+  "equipmentLinkTypes": [],
+  "objectId": 18195,
+  "updatedWhen": "2025-05-10T08:18:52.5199104-05:00",
+  "hasCollaborationData": false,
+  "email": "aabadi@uab.edu",
+  "publication_keywords": "Aging Brain Cancer Brain Disorders Cancer Cardiovascular Childhood Leukemia Climate Change Climate-Related Exposures and Conditions Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Lung Lymphatic Research Lymphoma Minority Health Neurosciences Orphan Drug Patient Safety Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

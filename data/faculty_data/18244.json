@@ -1,0 +1,113 @@
+{
+  "discoveryId": "18244",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 46,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jaiswal",
+  "firstName": "Jessica",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18244-jessica-jaiswal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Family & Community Medicine"
+    }
+  ],
+  "firstNameLastName": "Jessica Jaiswal",
+  "equipmentLinkTypes": [],
+  "objectId": 18244,
+  "updatedWhen": "2025-05-10T08:19:00.9188969-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Studies in Human Society",
+          "Studies in Human Society",
+          "in Human Society",
+          "Human Society",
+          "Society"
+        ],
+        "value": "Other Studies in Human Society"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jjaiswal@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Depression Diabetes Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Services Infectious Diseases Mental Health Mental Illness Minority Health Pediatric Research Initiative Prevention Sexual and Gender Minorities (SGM/LGBT*) Sexually Transmitted Infections Social Determinants of Health Substance Misuse Violence Research Women's Health",
+  "grant_keywords": ""
+}

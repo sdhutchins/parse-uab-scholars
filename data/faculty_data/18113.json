@@ -1,0 +1,128 @@
+{
+  "lastName": "Ghazi",
+  "overview": "Dr. Ghazi is an Assistant Professor of Epidemiology at the University of Alabama at Birmingham. She obtained her MD from the American University of Beirut Lebanon and her PhD in Epidemiology with a minor in population studies from the University of Minnesota. She then completed a postdoctoral fellowship at the Clinical and Translational Accelerator at Yale University. Her research interests lie at the intersection of chronic disease prevention, specifically hypertension and chronic kidney disease, health disparities, and digital health by leveraging real world data and using implementation science methods to transform chronic disease prevention and management.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18113-lama-ghazi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "18113",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 77,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lama",
+  "firstNameLastName": "Lama Ghazi",
+  "equipmentLinkTypes": [],
+  "objectId": 18113,
+  "updatedWhen": "2025-05-10T08:18:44.1791411-05:00",
+  "hasCollaborationData": true,
+  "email": "lghazi@uab.edu",
+  "publication_keywords": "Aging Brain Disorders Cardiovascular Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Hematology Hypertension Infectious Diseases Kidney Disease Minority Health Neurosciences Nutrition Obesity Prevention Sepsis",
+  "grant_keywords": ""
+}

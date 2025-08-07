@@ -1,0 +1,123 @@
+{
+  "lastName": "Chen",
+  "overview": "Dr. Cheng-Chien Chen joined UAB Physics as an Assistant Professor in 2016. Dr. Chen received his B.S. in Physics from the National Tsing Hua University in 2004 and Ph.D. in Physics from Stanford University in 2011. He was a Postdoctoral Scholar at the SLAC National Accelerator Laboratory (2011-2012) and an Aneesur Rahman Postdoctoral Fellow at the Argonne National Laboratory (2012-2015). Dr. Chen is currently an NSF EPSCoR RII Track-4 Research Fellow and an LRAC Awardee to use the NSF-funded Frontera Supercomputer. He also serves as a Member-at-Large for the APS Physics Topical Group on Data Science (2019-2021).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3650-chengchien-chen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nanotechnology"
+        ],
+        "value": "Nanotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Astronomical and Space Sciences",
+          "and Space Sciences",
+          "Space Sciences",
+          "Sciences"
+        ],
+        "value": "Astronomical and Space Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      }
+    ]
+  },
+  "discoveryId": "3650",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 109,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 61,
+      "favourites": 14
+    }
+  },
+  "firstName": "Cheng-Chien",
+  "firstNameLastName": "Cheng-Chien Chen",
+  "equipmentLinkTypes": [],
+  "objectId": 3650,
+  "updatedWhen": "2025-05-10T08:09:49.3660721-05:00",
+  "hasCollaborationData": true,
+  "email": "chencc@uab.edu",
+  "publication_keywords": "Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Rare Diseases",
+  "grant_keywords": ""
+}

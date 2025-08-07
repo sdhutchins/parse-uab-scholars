@@ -1,0 +1,123 @@
+{
+  "lastName": "Andrews",
+  "overview": "William W. Andrews, PhD, MD, is from Dale County, Alabama. He received his undergraduate degree from Auburn University, 1974, and completed his PhD in Physiology, 1980, (Reproductive Neuroendocrinology) from The Graduate School of Biomedical Sciences, Southwestern Medical Center.  Dr. Andrews received his MD degree, cum laude, from University of Alabama School of Medicine, 1984. He obtained his residency training at University Hospital, 1988, where he received Best Senior Resident Research Presentation Award and Best Teaching Chief Resident Award. He then moved to Dallas, Texas where he completed fellowship training in Maternal-Fetal Medicine before returning to the UASOM Department of Obstetrics and Gynecology as an Assistant Professor in 1990. He has held the Charles E. Flowers, Jr. Endowed Chair in OB/GYN since September of 2009.\n\nFollowing these accomplishments, Dr. Andrews established a Maternal-Fetal Cohort of Preterm Infants, and the ability to evaluate the impact of the profound preterm state on long-term neurodevelopment by six years of age. This application was funded from the NICHD, via Perinatal Emphasis Research Center (PERC) grant and an R01 grant.  Dr. Andrews conducted and participated in many clinical research trials and several research networks. He is nationally recognized for his excellent research accomplishments in the field of OB/GYN Clinical Obstetrics and Prematurity. His research has been primarily focused on preterm birth and  prevention, concentrating on infection and inflammation as potential diagnosis of involuntary preterm birth. \n\nDr. Andrews has displayed excellent leadership at UAB as Professor and Chair of the Department of Obstetrics and Gynecology, a position he has held for over six years. He is one of the top faculty members at UAB and is a part of many University and UASOM committees. He established the UAB Laboratory for Research in Women’s Health to provide patients with the most up-to-date, knowledgeable, and preventive medical care available. Dr. Andrews exhibits high quality characteristics of research, maternal-fetal clinical care, and education at UAB’s School of Medicine. He is known for showing compassion and support for his faculty, residents, students and staff, as well as contributing to the excellence of resident and student education.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "759-william-andrews",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "OB/GYN - Maternal & Fetal Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "759",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 216,
+      "favourites": 0
+    }
+  },
+  "firstName": "William",
+  "firstNameLastName": "William Andrews",
+  "equipmentLinkTypes": [],
+  "objectId": 759,
+  "updatedWhen": "2025-05-10T08:04:02.4987426-05:00",
+  "hasCollaborationData": true,
+  "email": "wandrews@uab.edu",
+  "publication_keywords": "Cardiovascular Clinical Research Clinical Trials and Supportive Activities Conditions Affecting the Embryonic and Fetal Periods Contraception/Reproduction Health Disparities and Racial or Ethnic Minority Health Research Hematology Hypertension Infant Mortality Infectious Diseases Lung Maternal Health Maternal Morbidity and Mortality Minority Health Neonatal Respiratory Distress Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Rare Diseases Sepsis Women's Health",
+  "grant_keywords": ""
+}

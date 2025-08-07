@@ -1,0 +1,127 @@
+{
+  "lastName": "Mehta",
+  "overview": "Dr. Mehta is a health services researcher with several years of experience in biostatistics and data mining. He is a tenured Professor and Vice Chair for Research in the Department of Family and Community Medicine at the University of Alabama at Birmingham (UAB). His training included PhD in Biostatistics and Masters in Electrical Engineering. He co-leads the NIH-funded Nutrition Obesity Research Center Behavioral Science and Analytics Core and leads the CDC-funded Data Coordinating Center for the National Center on Health Physical Activity and Disability. His research projects include from large randomized controlled trials related to telehealth to analysis of large existing datasets. Dr. Mehta’s research interest span from clinical, epidemiological and health services related scientific inquiries in topics related to obesity, cardiometabolic conditions, disability, and rehabilitation. One of his recent line of research is in the area of healthcare quality improvement in obesity and diabetes care.\n\nDr. Mehta is a PI and/or co-investigator on several research studies funded by a variety of funding agencies such as NIH, NIDDILR and PCORI. Dr. Mehta has a strong publication record with over 70 peer-reviewed articles including several first-author articles. He has published in highly competitive journals such as JAMA, PLOS Med, New England Journal of Medicine, and Obesity Reviews. He has served on several national society committees such as the Finance Committee and Public Affairs committee of The Obesity Society.  At UAB he has also participated in shared governance serving as the chair of the Faculty Senate Research Committee and University-wide Budget Allocation Committee.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1872-tapan-mehta",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Family & Community Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Food Sciences",
+          "Sciences"
+        ],
+        "value": "Food Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "1872",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 46,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 73,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 69,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 164,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tapan",
+  "firstNameLastName": "Tapan Mehta",
+  "equipmentLinkTypes": [],
+  "objectId": 1872,
+  "updatedWhen": "2025-05-10T08:06:12.2934365-05:00",
+  "hasCollaborationData": true,
+  "email": "tapan@uab.edu",
+  "publication_keywords": "Arthritis Autoimmune Disease Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Machine Learning and Artificial Intelligence Mental Health Multiple Sclerosis Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Nutrition Obesity Pain Research Patient Safety Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Prevention Rehabilitation Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Physical Activity Physical Rehabilitation Prevention Rehabilitation Rural Health Social Determinants of Health Women's Health"
+}

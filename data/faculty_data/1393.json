@@ -1,0 +1,87 @@
+{
+  "lastName": "Mitchell",
+  "overview": "Dr. Stephen Mitchell is an Associate Professor and a board-certified Pediatric Dentist. He directs the Sparks Dental Clinic, a clinic that focuses on treating patients with intellectual and developmental disabilities. Dr. Mitchell trained at UAB School of Dentistry where he earned his DMD is 1995, a certificate in Advanced General Dentistry in 1996, certificates in Pediatric Dentistry and Cariology in 2000 and a Masters in Oral Biology in 2001. His passion for providing care for patients with special health needs while training at UAB. He also strives to provide quality dental care for all pediatric populations, working with community leaders and clinics serving underserved areas. Dr. Mitchell is the American Academy of Pediatric Dentistry's Public Policy Advocate for Alabama, the President of the Alabama Oral Health Coalition and a member of Alabama Medicaid's Dental Taskforce.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1393-stephen-mitchell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "1393",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 132,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stephen",
+  "firstNameLastName": "Stephen Mitchell",
+  "equipmentLinkTypes": [],
+  "objectId": 1393,
+  "updatedWhen": "2025-05-10T08:05:15.8185301-05:00",
+  "hasCollaborationData": true,
+  "email": "stevem@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Maternal Health Maternal Morbidity and Mortality Minority Health Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Prevention Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

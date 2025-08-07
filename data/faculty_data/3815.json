@@ -1,0 +1,125 @@
+{
+  "lastName": "Krick",
+  "overview": "Dr. Krick is an Assistant Professor of Medicine  at the University of Alabama at Birmingham (UAB). Following her fellowship training and internships at Jackson Memorial Hospital/University of Miami and Mount Sinai Medical Center, she worked as an assistant professor of medicine at the Miller School of Medicine's Division of Pulmonary and Critical Care Medicine.  She has completed training in internal medicine, molecular biology, pulmonary medicine, critical care and vascular medicine.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3815-stefanie-krick",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "3815",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 124,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stefanie",
+  "firstNameLastName": "Stefanie Krick",
+  "equipmentLinkTypes": [],
+  "objectId": 3815,
+  "updatedWhen": "2025-05-10T08:10:09.0505750-05:00",
+  "hasCollaborationData": true,
+  "email": "skrick@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Cystic Fibrosis Infectious Diseases Kidney Disease Lung Orphan Drug Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

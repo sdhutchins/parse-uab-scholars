@@ -1,0 +1,125 @@
+{
+  "lastName": "Karthikeyan",
+  "overview": "Mythreye Karthikeyan (K. Mythreye) received her Bachelors in Science from Delhi University in the Biochemistry honors program and after completing her MS in Biochemistry, received her PhD from UNC Chapel hill in 2005. She received  postdoctoral training  at Duke University prior to starting her independent lab at University of South Carolina in 2013.She received tenure and promotion in the Summer of 2019, following which she moved to University of Alabama at Birmingham  as a tenured Associate Professor. She is a Graduate Faculty,  Co-director of the TMS T32 and a Scientist Member of the Cancer Cell biology program at the O’Neal Comprehensive Cancer Center.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16261-mythreye-karthikeyan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "16261",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 133,
+      "favourites": 6
+    }
+  },
+  "firstName": "Mythreye",
+  "firstNameLastName": "Mythreye Karthikeyan",
+  "equipmentLinkTypes": [],
+  "objectId": 16261,
+  "updatedWhen": "2025-05-10T08:15:45.2631417-05:00",
+  "hasCollaborationData": true,
+  "email": "mythreye@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Cancer Ovarian Cancer Rare Diseases Women's Health"
+}

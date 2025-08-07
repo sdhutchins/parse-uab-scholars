@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1431",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 15,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ziemanski",
+  "firstName": "Jillian",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1431-jillian-ziemanski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Jillian Ziemanski",
+  "equipmentLinkTypes": [],
+  "objectId": 1431,
+  "updatedWhen": "2025-05-10T08:05:25.8202246-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Clinical Research Eye Disease and Disorders of Vision Nutrition Prevention",
+  "grant_keywords": "Aging Autoimmune Disease Clinical Research Eye Disease and Disorders of Vision Women's Health"
+}

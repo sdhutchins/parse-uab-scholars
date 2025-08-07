@@ -1,0 +1,122 @@
+{
+  "discoveryId": "1183",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 442,
+      "favourites": 0
+    }
+  },
+  "lastName": "Siegel",
+  "firstName": "Herrick",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1183-herrick-siegel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Orthopaedic Surgery"
+    }
+  ],
+  "firstNameLastName": "Herrick Siegel",
+  "equipmentLinkTypes": [],
+  "objectId": 1183,
+  "updatedWhen": "2025-05-10T08:04:55.7104673-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Distributed Computing",
+          "Computing"
+        ],
+        "value": "Distributed Computing"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Hardware",
+          "Hardware"
+        ],
+        "value": "Computer Hardware"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communications Technologies",
+          "Technologies"
+        ],
+        "value": "Communications Technologies"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "hsiegel@uab.edu",
+  "publication_keywords": "Bioengineering Machine Learning and Artificial Intelligence",
+  "grant_keywords": ""
+}

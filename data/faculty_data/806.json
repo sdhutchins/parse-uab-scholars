@@ -1,0 +1,115 @@
+{
+  "discoveryId": "806",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 55,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 39,
+      "favourites": 0
+    }
+  },
+  "lastName": "DeCarlo",
+  "firstName": "Dawn",
+  "hasThumbnail": false,
+  "discoveryUrlId": "806-dawn-decarlo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emerita",
+      "department": "Ophthalmology"
+    }
+  ],
+  "firstNameLastName": "Dawn DeCarlo",
+  "equipmentLinkTypes": [],
+  "objectId": 806,
+  "updatedWhen": "2025-05-10T08:04:02.5577459-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ddecarlo@uab.edu",
+  "publication_keywords": "Clinical Research Eye Disease and Disorders of Vision Neurosciences Pediatric Research Initiative",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities Networking and Information Technology R&D (NITRD) Pediatric Rehabilitation"
+}

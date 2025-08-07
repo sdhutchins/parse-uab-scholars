@@ -1,0 +1,122 @@
+{
+  "discoveryId": "408",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 81,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 85,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 128,
+      "favourites": 0
+    }
+  },
+  "lastName": "McGuire",
+  "firstName": "Brendan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "408-brendan-mcguire",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Gastroenterology"
+    }
+  ],
+  "firstNameLastName": "Brendan McGuire",
+  "equipmentLinkTypes": [],
+  "objectId": 408,
+  "updatedWhen": "2025-05-10T08:03:00.8370908-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bmcguire@uab.edu",
+  "publication_keywords": "Chronic Liver Disease and Cirrhosis Clinical Research Digestive Diseases Genetics Hematology Liver Disease Neurosciences Organ Transplantation Pediatric Rare Diseases Transplantation",
+  "grant_keywords": ""
+}

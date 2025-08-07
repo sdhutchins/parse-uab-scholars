@@ -1,0 +1,125 @@
+{
+  "lastName": "Zhang",
+  "overview": "The Zhang Lab is seeking a postdoctoral scholar and a graduate student or a MSTP student. We are a very collegial and diverse group working on exciting new research integration of autophagy, metabolism and redox signaling in the nervous system in the context of cardiovascular and neurodegenerative diseases at the Department of Pathology in University of Alabama at Birmingham.\n\nAttributes:\nInterested, passionate, and dedicated to design and perform interesting and important research\nStrong communication skills and be willing to do collaborative as well as independent research\nStrong work ethic\nTake initiatives\n\nMinimum qualifications:\nFor the postdoc position: PhD in Biochemistry, Cell Biology, Neuroscience or related field.  For the student position: admitted into UAB GBS or MSTP programs.\n\nAdditional attributes for a postdoc:\nExperience in working with animals\nExperience in cell culture\nExperience in microscopy and immunohistochemistry\nExperience in basic molecular biology techniques\nExperience in writing and publishing research articles\nThose interested in the position should email a cover letter with a summary of research experience, interest and objectives, a current CV and contact information for 3 references to Dr. Jianhua Zhang (zhanja@uab.edu).\nApplication review will begin immediately and will continue until a suitable candidate is selected.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2149-jianhua-zhang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2149",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 56,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 224,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jianhua",
+  "firstNameLastName": "Jianhua Zhang",
+  "equipmentLinkTypes": [],
+  "objectId": 2149,
+  "updatedWhen": "2025-05-10T08:06:50.7368340-05:00",
+  "hasCollaborationData": true,
+  "email": "zhanja@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alcoholism, Alcohol Use and Health Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Dementia Genetics Microbiome Neurodegenerative Neurosciences Nutrition Prevention Sleep Research Substance Misuse",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Biotechnology Brain Disorders Cardiovascular Dementia Diabetes Heart Disease Heart Disease - Coronary Heart Disease Lewy Body Dementia Neurodegenerative Neurosciences Nutrition Obesity Parkinson's Disease Physical Activity Prevention Sleep Research"
+}

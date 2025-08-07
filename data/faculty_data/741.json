@@ -1,0 +1,120 @@
+{
+  "lastName": "Roberson",
+  "overview": "Dr. Roberson is a neurologist and neuroscientist whose research is focused on age-related neurodegenerative disorders. He received his A.B. with highest honors from Princeton University, then earned his Ph.D in neuroscience and M.D. with high honors at Baylor College of Medicine where he studied molecular mechanisms of learning and memory. He completed a residency in neurology at the University of California San Francisco, where he also served as Chief Resident in Neurology. After residency, he completed a clinical fellowship in behavioral neurology at UCSF and resumed basic research at the Gladstone Institute of Neurological Disease. He joined the faculty at UAB in 2008. \n\nDr. Roberson's laboratory investigates mechanisms and therapeutic approaches to Alzheimer's disease and frontotemporal dementia, and he directs the Killion Center for Neurodegeneration and Experimental Therapeutics. He is also active in clinical research and patient care. He directs the UAB Alzheimer’s Disease Center, leads clinical trials, and cares for patients with memory disorders and dementia at the Kirklin Clinic.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "741-erik-roberson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "741",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 113,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 83,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 174,
+      "favourites": 6
+    }
+  },
+  "firstName": "Erik",
+  "firstNameLastName": "Erik Roberson",
+  "equipmentLinkTypes": [],
+  "objectId": 741,
+  "updatedWhen": "2025-05-10T08:04:02.4737409-05:00",
+  "hasCollaborationData": true,
+  "email": "eroberson@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Biomedical Imaging Biotechnology Brain Disorders Clinical Research Clinical Trials and Supportive Activities Dementia Frontotemporal Dementia (FTD) Genetic Testing Genetics Neurodegenerative Neurosciences Orphan Drug Prevention Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

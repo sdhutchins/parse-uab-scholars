@@ -1,0 +1,44 @@
+{
+  "discoveryId": "7227",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Zaretsky",
+  "firstName": "Natasha",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7227-natasha-zaretsky",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Natasha Zaretsky",
+  "equipmentLinkTypes": [],
+  "objectId": 7227,
+  "updatedWhen": "2025-05-10T08:14:20.0872517-05:00",
+  "hasCollaborationData": false,
+  "email": "zaretsky@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

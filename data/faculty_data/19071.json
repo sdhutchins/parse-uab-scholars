@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19071",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 15,
+      "favourites": 0
+    }
+  },
+  "lastName": "Tian",
+  "firstName": "Qing",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19071-qing-tian",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Qing Tian",
+  "equipmentLinkTypes": [],
+  "objectId": 19071,
+  "updatedWhen": "2025-05-10T08:20:49.0310839-05:00",
+  "hasCollaborationData": false,
+  "email": "qtian@uab.edu",
+  "publication_keywords": "Bioengineering Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

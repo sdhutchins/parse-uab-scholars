@@ -1,0 +1,125 @@
+{
+  "lastName": "Rinker",
+  "hasThumbnail": false,
+  "discoveryUrlId": "740-john-rinker",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "suffix": "II",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "740",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 43,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 277,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 25,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Rinker",
+  "equipmentLinkTypes": [],
+  "objectId": 740,
+  "updatedWhen": "2025-05-10T08:04:02.4727418-05:00",
+  "hasCollaborationData": true,
+  "email": "rinkerj@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Multiple Sclerosis Neurodegenerative Neurosciences Nutrition Physical Activity Prevention",
+  "grant_keywords": ""
+}

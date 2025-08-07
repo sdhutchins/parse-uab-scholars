@@ -1,0 +1,63 @@
+{
+  "lastName": "Corcoran",
+  "overview": "Dr. Corcoran earned her bachelor's degree in Multiple Abilities: Elementary Education, Special Education, Early Childhood Education from the University of Alabama. She worked as a special education elementary teacher in both resource and inclusive settings before going on to earn her master's degree in school psychometry. She work as a school psychometrist in Shelby County Schools before going on to earn her doctoral degree in School Psychology at the University of Alabama. Dr. Corcoran has served as a school psychologist in both Alabama and South Carolina schools.  She currently is directing the School Psychology/Psychometry program at UAB. She is the President of the Alabama Association of School Psychologists (AASP) and the national delegate for the National Association of School Psychologists (NASP).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2340-stephanie-corcoran",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      }
+    ]
+  },
+  "discoveryId": "2340",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 161,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stephanie",
+  "firstNameLastName": "Stephanie Corcoran",
+  "equipmentLinkTypes": [],
+  "objectId": 2340,
+  "updatedWhen": "2025-05-10T08:07:17.7034920-05:00",
+  "hasCollaborationData": true,
+  "email": "corcoran@uab.edu",
+  "publication_keywords": "Behavioral and Social Science",
+  "grant_keywords": ""
+}

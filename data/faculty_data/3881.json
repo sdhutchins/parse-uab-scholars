@@ -1,0 +1,122 @@
+{
+  "discoveryId": "3881",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 125,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 99,
+      "favourites": 0
+    }
+  },
+  "lastName": "Randich",
+  "firstName": "Alan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3881-alan-randich",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Anesthesiology"
+    }
+  ],
+  "firstNameLastName": "Alan Randich",
+  "equipmentLinkTypes": [],
+  "objectId": 3881,
+  "updatedWhen": "2025-05-10T08:10:17.4610727-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "arandich@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Chronic Pain Drug Abuse (NIDA only) Interstitial Cystitis Neurosciences Pain Research Substance Misuse Urologic Diseases Women's Health",
+  "grant_keywords": "Arthritis Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Chronic Pain Depression Interstitial Cystitis Mental Health Mental Illness Neurosciences Pain Research Pediatric Substance Misuse Urologic Diseases Women's Health"
+}

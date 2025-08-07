@@ -1,0 +1,124 @@
+{
+  "lastName": "Varambally",
+  "overview": "My research focus is to understand the molecular basis of cancer using integrative genomic, epigenetic, proteomic and cancer biology approach. Our groups translational cancer research involves transferring the basic research discoveries to develop disease detection markers as well as targeting. I have worked extensively in the area of solid tumor genomics, biomarker discovery, biology, and therapeutic targeting. \n               Our research helps better understand the molecular alterations during the initiation and progression of multiple human malignancies. We perform integrative analysis to identify the best targets and work towards developing agents/drugs for specific causative targets. Many of my publications describe the identification of new targets for various cancers.  We would like to develop collaborations in order to hasten the pace of cancer research and discovery by team science approach. In order to enhance  the cancer research/target discovery, we built a target discovery platform called UALCAN (https://ualcan.path.uab.edu) for cancer genomic and proteomic data analysis, making cancer research a worldwide team effort. This portal has been visited well over a 1.5 Million times and related articles cited over 6,500 times from researchers across the globe since its release in 2017. Recently, we have released the  \"UALCAN Mobile\", free android and Apple app for gene expression analysis.  Recently , we have developed and released a comprehensive breast cancer molecular database called \"MammOnc-DB (http://resource.path.uab.edu/MammOnc-Home.html). Some of the candidate therapeutic targets that I have identified include Histone Methyltransferase EZH2, AMACR, TPD52, MTA1, ERG gene fusion, Wnt receptor FZD8, SPINK1, CtBP1, RAF kinase gene fusions, GOLM1, GLYATL1 and JAGGED1 in prostate cancer, GATA3, AGTR1, EZH2, CCN6 (WISP3) in breast cancer, MTHFD1L, TRIP13, PAICS, P4HA1, BZW2 in colorectal cancers, TRIP13, PAICS in pancreatic cancers and MTHFD1L, PAICS and PAK4 in bladder cancer among others. I have patents for targeting histone methyltransferase EZH2 and MMSET.\n            My research has resulted in prolific output with over 170 published articles and many of them in high impact factor (IF), prestigious journals including Science, Nature, New England Journal of Medicine, Nature Medicine, Cancer Cell, Cancer Discovery, Blood, PNAS, Cancer Research, Oncogene among others. Our research has been highly cited and our work has been cited by leading cancer researchers and biologists worldwide with over 50,200 citations. I was a member of the team that won the Inaugural American Association for Cancer Research (AACR) Team Science Award for the prostate cancer gene fusion discovery in 2007. I am the recipient of the Research Faculty Recognition Award from the University of Michigan in 2009. In 2021, I received the outstanding achievement award from the Society of  American Asian Scientists in Cancer Research (SAASCR). In 2023, I received the UAB Heersink School of Medicine Deans Excellence award for exceptional achievements in research.\n        I am actively involved in teaching and serve as Co-Director of the Cancer Biology Theme of UAB-Graduate Biomedical Sciences (GBS). I directed the GBS-728, Cancer Genomics, Epigenetics and Therapy course,  as the director of this course. It was designed to educate the students on the basic and novel concepts to understand cancer.  I also organize the Translational Research Group Meeting, a tri-Departmental interactive seminar series. Recently, I had the honor of graduating with MBA degree with marketing major from Collat School of Business at the University of Alabama at Birmingham.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2953-sooryanarayana-varambally",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "2953",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 32,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 284,
+      "favourites": 5
+    }
+  },
+  "firstName": "Sooryanarayana",
+  "firstNameLastName": "Sooryanarayana Varambally",
+  "equipmentLinkTypes": [],
+  "objectId": 2953,
+  "updatedWhen": "2025-05-12T12:35:52.6783203-05:00",
+  "hasCollaborationData": true,
+  "email": "soorya@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Breast Cancer Cancer Cancer Genomics Digestive Diseases Genetics Human Genome Kidney Disease Networking and Information Technology R&D (NITRD) Pancreatic Cancer Precision Medicine Rare Diseases Women's Health",
+  "grant_keywords": "Aging Biodefense Biotechnology Cancer Emerging Infectious Diseases Genetics Health Disparities Infectious Diseases Kidney Disease Minority Health Prevention Prostate Cancer Rural Health Urologic Diseases"
+}

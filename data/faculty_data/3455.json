@@ -1,0 +1,113 @@
+{
+  "lastName": "Harris",
+  "overview": "For Dr. Melissa Harris, getting a gray hair is cause for celebration! This is because Dr. Harris studies the melanocyte stem cells that reside within our hair follicles, and it is the loss of these stem cells that causes gray hair. She has found that melanocyte stem cells are an ideal somatic stem cell population to investigate the cell biology, genetics, and genomics behind the question, “Why do we age the way we do?”\n\nDr. Harris’s training makes her well suited to this task; she’s studied pigmentation from the beginning while mixing in a combination of cell biology, developmental biology, genetics, and genomics along the way. Her interest in biological research as a career began in earnest as an undergraduate at the University of California, Davis. She interned in labs studying the population genetics of Dungeness crab, and applied genetic analysis to help uncover the genetic basis of coat color in horses. Dr. Harris performed her graduate work in the Department of Cell and Developmental Biology, also at UC Davis, where she studied with Dr. Carol Erickson. Here she used the chick embryo as a model to investigate the role of transmembrane receptors in directing the migration of melanoblasts, melanocyte precursors, into the skin. In 2009 she joined the National Human Genome Research Institute of the NIH and Dr. Bill Pavan’s lab as a postdoctoral fellow. Here she found footing in the world of biomedical research and established her current approach to exploit mouse models of hair graying to study mechanisms of somatic stem cell maintenance.\n\nThroughout her time training, Dr. Harris has received numerous awards. She was recognized as a winner for the trans-institute, NIH Three-minute Talk competition where she was challenged to present her work in under three minutes in plain language. Watch her talk, and be your own judge. Notably, she was also the recipient of an NIH Pathway to Independence Award from the National Institute on Aging, a five-year grant for postdocs transitioning to faculty positions. Beyond the lab, Dr. Harris has a genuine interest in teaching and mentoring and participated as a teacher in youth programs like 'Adventures in Science', as a mentor in undergraduate programs like the NIH Community College Summer Internship Program, and as a hands-on bioinformatics instructor within Honors College at the University of Maryland. In another realm, Dr. Harris is the mother of two rough-and-tumble kids who remind her daily that she only gets to be the boss when she’s in lab.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3455-melissa-harris",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "3455",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 116,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "firstName": "Melissa",
+  "firstNameLastName": "Melissa Harris",
+  "equipmentLinkTypes": [],
+  "objectId": 3455,
+  "updatedWhen": "2025-05-10T08:09:38.3368600-05:00",
+  "hasCollaborationData": true,
+  "email": "harrisml@uab.edu",
+  "publication_keywords": "Aging Cancer Cancer Genomics Genetics Human Genome Immunotherapy Pediatric Prevention Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Aging Genetics Human Genome Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Stem Cell Research - Umbilical Cord Blood/ Placenta Stem Cell Research - Umbilical Cord Blood/ Placenta - Non-Human"
+}

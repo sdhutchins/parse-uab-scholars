@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3129",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Schwartz",
+  "firstName": "Justin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3129-justin-schwartz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Developmental & Behavioral"
+    }
+  ],
+  "firstNameLastName": "Justin Schwartz",
+  "equipmentLinkTypes": [],
+  "objectId": 3129,
+  "updatedWhen": "2025-05-10T08:08:52.9448643-05:00",
+  "hasCollaborationData": false,
+  "email": "jcschwa@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Clinical Research Pediatric"
+}

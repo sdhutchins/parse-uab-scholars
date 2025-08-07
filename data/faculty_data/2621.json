@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2621",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 202,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Keitt",
+  "firstName": "Andrew",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2621-andrew-keitt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Andrew Keitt",
+  "equipmentLinkTypes": [],
+  "objectId": 2621,
+  "updatedWhen": "2025-05-10T08:08:00.8856788-05:00",
+  "hasCollaborationData": false,
+  "email": "akeitt@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

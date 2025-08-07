@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2576",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 211,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Siegel",
+  "firstName": "Daniel",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2576-daniel-siegel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Daniel Siegel",
+  "equipmentLinkTypes": [],
+  "objectId": 2576,
+  "updatedWhen": "2025-05-10T08:07:50.5779811-05:00",
+  "hasCollaborationData": false,
+  "email": "siegel@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

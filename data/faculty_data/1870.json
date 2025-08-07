@@ -1,0 +1,132 @@
+{
+  "lastName": "Lein",
+  "overview": "Donald H. Lein Jr., PT, PhD is an Associate Professor and the Director of Continuing Education and Community Outreach in the Department of Physical Therapy at the University of Alabama at Birmingham (UAB). He continues to practice part time in the UAB Osteoporosis Prevention and Treatment Center at the Kirklin Clinic. His research interests include developing and implementing physical therapy interventions to improve the care of individuals with osteoporosis and osteoporosis-related fractures, exploring the role of physical therapists in providing health promotion and education while providing typical physical therapy services, and developing and testing educational strategies to enhance Doctor of Physical Therapy education.  He has published manuscripts in peer -review journals and presented nationally and internationally concerning his research interests. He has served as delegate and is currently the Chief Delegate of the Alabama Chapter of the APTA.  He has received several awards for patient care excellence at UAB, the 2014 Marilyn Gossman Award for Professionalism in Physical Therapy, and the Fall 2017 UAB Disability Support Services Outstanding Recognition Award.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1870-donald-lein",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Physical Therapy"
+    }
+  ],
+  "suffix": "Jr",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1870",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 181,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 106,
+      "favourites": 0
+    }
+  },
+  "firstName": "Donald",
+  "firstNameLastName": "Donald Lein",
+  "equipmentLinkTypes": [],
+  "objectId": 1870,
+  "updatedWhen": "2025-05-10T08:06:12.2934365-05:00",
+  "hasCollaborationData": true,
+  "email": "dlein@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Aging Behavioral and Social Science Clinical Research Complementary and Integrative Health Congenital Structural Anomalies Contraception/Reproduction Coronaviruses Emerging Infectious Diseases Infectious Diseases Pediatric Research Initiative Prevention Social Determinants of Health Violence Against Women Violence Research Women's Health",
+  "grant_keywords": ""
+}

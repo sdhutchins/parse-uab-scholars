@@ -1,0 +1,72 @@
+{
+  "discoveryId": "1298",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Robinson",
+  "firstName": "Michelle",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1298-michelle-robinson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Senior Vice Provost-Faculty & Academic Affairs",
+      "department": "Health Services Administration"
+    }
+  ],
+  "firstNameLastName": "Michelle Robinson",
+  "equipmentLinkTypes": [],
+  "objectId": 1298,
+  "updatedWhen": "2025-05-10T08:05:06.5128511-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mrobin@uab.edu",
+  "publication_keywords": "Clinical Research Dental/Oral and Craniofacial Disease Health Services Infectious Diseases Nutrition Obesity",
+  "grant_keywords": ""
+}

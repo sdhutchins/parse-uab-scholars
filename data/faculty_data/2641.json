@@ -1,0 +1,132 @@
+{
+  "lastName": "Sloan",
+  "overview": "John J. Sloan III is Professor Emeritus in the Department of Criminal Justice where he served as director of two graduate programs (Criminal Justice; Computer Forensics and Security Management which he co-founded) and as Interim Chair (2003-2004) and Chair (2004-2015). He also co-founded (2010-2011) served as Associate Director (2011-2013) and Director (2014-2016) of the Center for Information Assurance and Joint Forensics Research.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2641-john-sloan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Criminal Justice"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Law and Legal Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Law"
+        ],
+        "value": "Law"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Law",
+            "Law and Legal Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Legal Institutions (incl. Courts and Justice Systems)",
+          "Institutions (incl. Courts and Justice Systems)",
+          "(incl. Courts and Justice Systems)",
+          "Courts and Justice Systems)",
+          "and Justice Systems)",
+          "Justice Systems)",
+          "Systems)"
+        ],
+        "value": "Legal Institutions (incl. Courts and Justice Systems)"
+      },
+      {
+        "paths": [
+          [
+            "Criminology",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Police Administration, Procedures and Practice",
+          "Administration, Procedures and Practice",
+          "Procedures and Practice",
+          "and Practice",
+          "Practice"
+        ],
+        "value": "Police Administration, Procedures and Practice"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "2641",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 70,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 68,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Sloan",
+  "equipmentLinkTypes": [],
+  "objectId": 2641,
+  "updatedWhen": "2025-05-10T08:08:00.9426809-05:00",
+  "hasCollaborationData": true,
+  "email": "prof@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Substance Misuse Violence Research",
+  "grant_keywords": ""
+}

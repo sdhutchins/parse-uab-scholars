@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3946",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Segner",
+  "firstName": "Edmund",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3946-edmund-segner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "suffix": "Jr",
+  "firstNameLastName": "Edmund Segner",
+  "equipmentLinkTypes": [],
+  "objectId": 3946,
+  "updatedWhen": "2025-05-10T08:10:17.4777456-05:00",
+  "hasCollaborationData": false,
+  "email": "esegner@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

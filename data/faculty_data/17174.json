@@ -1,0 +1,109 @@
+{
+  "lastName": "Zhai",
+  "overview": "Dr. Yusen Zhai is an Assistant Professor of Counseling and Director of the UAB Community Counseling Clinic at the University of Alabama at Birmingham (UAB). Prior to that, he served as the lead clinic supervisor in the Edwin Herr clinic. He completed his Ph.D. in Counselor Education and Supervision at The Pennsylvania State University. His research focuses on the impact of infectious diseases on mental health and well-being, social determinants of health, multicultural and social justice issues, and career development. He has experience in clinical supervision as well as mental health, career, and substance abuse counseling, working with clients from diverse backgrounds. He has focused on employing research, teaching, and counseling to inform health policies and clinical practices to address health disparities and educational inequalities.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17174-yusen-zhai",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "17174",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 22,
+      "favourites": 2
+    }
+  },
+  "firstName": "Yusen",
+  "firstNameLastName": "Yusen Zhai",
+  "equipmentLinkTypes": [],
+  "objectId": 17174,
+  "updatedWhen": "2025-05-10T08:17:17.5032571-05:00",
+  "hasCollaborationData": true,
+  "email": "yzhai@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Coronaviruses Data Science Depression Emerging Infectious Diseases Immunization Infectious Diseases Machine Learning and Artificial Intelligence Mental Health Mental Illness Networking and Information Technology R&D (NITRD) Pediatric Research Initiative Prevention Suicide",
+  "grant_keywords": ""
+}

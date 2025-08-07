@@ -1,0 +1,71 @@
+{
+  "discoveryId": "3674",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ying",
+  "firstName": "Yedeh",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3674-yedeh-ying",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "firstNameLastName": "Yedeh Ying",
+  "equipmentLinkTypes": [],
+  "objectId": 3674,
+  "updatedWhen": "2025-05-10T08:09:49.3860744-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "yying@uab.edu",
+  "publication_keywords": "Bioengineering Cancer Clinical Research Dental/Oral and Craniofacial Disease Digestive Diseases Opioids Orphan Drug Patient Safety Radiation Oncology Rare Diseases Rehabilitation Substance Misuse Women's Health",
+  "grant_keywords": ""
+}

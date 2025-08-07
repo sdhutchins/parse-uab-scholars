@@ -1,0 +1,142 @@
+{
+  "lastName": "Xu",
+  "overview": "Interdisciplinary Research on Emerging Interactive Materials & Systems\nBridging humans, robots, the environment, and beyond...",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19476-chengyi-xu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Materials Engineering",
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Functional Materials",
+          "Materials"
+        ],
+        "value": "Functional Materials"
+      },
+      {
+        "paths": [
+          [
+            "Macromolecular and Materials Chemistry",
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Properties of Materials",
+          "Properties of Materials",
+          "of Materials",
+          "Materials"
+        ],
+        "value": "Optical Properties of Materials"
+      },
+      {
+        "paths": [
+          [
+            "Materials Engineering",
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Composite and Hybrid Materials",
+          "and Hybrid Materials",
+          "Hybrid Materials",
+          "Materials"
+        ],
+        "value": "Composite and Hybrid Materials"
+      },
+      {
+        "paths": [
+          [
+            "Neurosciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sensory Systems",
+          "Systems"
+        ],
+        "value": "Sensory Systems"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      }
+    ]
+  },
+  "discoveryId": "19476",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "firstName": "Chengyi",
+  "firstNameLastName": "Chengyi Xu",
+  "equipmentLinkTypes": [],
+  "objectId": 19476,
+  "updatedWhen": "2025-05-10T08:21:45.4158902-05:00",
+  "hasCollaborationData": false,
+  "email": "cxu@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

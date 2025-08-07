@@ -1,0 +1,113 @@
+{
+  "lastName": "Perna",
+  "overview": "Dr. Perna is the lead physician for Aspire Health in the greater Birmingham area. He also serves as the Medical Director of the Pediatric Palliative Care Team at Children’s of Alabama.  He is an Assistant Professor of Medicine the University of Alabama – Birmingham with secondary academic appointments in Nursing and Pediatrics. Dr. Perna is a graduate of Kansas City University of Medicine and Biosciences. He is board certified in both Family Practice and Hospice & Palliative Medicine.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "497-samuel-perna",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "497",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "firstName": "Samuel",
+  "firstNameLastName": "Samuel Perna",
+  "equipmentLinkTypes": [],
+  "objectId": 497,
+  "updatedWhen": "2025-05-10T08:03:12.9184290-05:00",
+  "hasCollaborationData": true,
+  "email": "sperna@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Chronic Pain Clinical Research Epilepsy Health Services Infant Mortality Neurodegenerative Neurosciences Pain Research Patient Safety Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases Sudden Infant Death Syndrome",
+  "grant_keywords": ""
+}

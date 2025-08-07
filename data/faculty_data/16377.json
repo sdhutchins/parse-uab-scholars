@@ -1,0 +1,123 @@
+{
+  "lastName": "Hardaway",
+  "overview": "We use laboratory mice to investigate the neuronal and molecular substrates that govern motivation, palatability, taste, and ingestion to develop novel and more effective treatments for obesity and eating disorders. Combined with neural circuit tools like optogenetics, chemogenetics, and biosensors, our work maps neural circuit function onto discrete aspects of conserved feeding behavior.  hardawaylab.org",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16377-james-hardaway",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "16377",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Hardaway",
+  "equipmentLinkTypes": [],
+  "objectId": 16377,
+  "updatedWhen": "2025-05-10T08:15:54.5932258-05:00",
+  "hasCollaborationData": true,
+  "email": "ahardawa@uab.edu",
+  "publication_keywords": "Anorexia Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Cocaine Digestive Diseases Drug Abuse (NIDA only) Eating Disorders Genetics Health Disparities Human Genome Mental Health Mental Illness Neurosciences Nutrition Obesity Prevention Serious Mental Illness Stimulant Use and Misuse Substance Misuse",
+  "grant_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Diabetes Digestive Diseases Eating Disorders Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Mental Illness Neurodegenerative Neurosciences Nutrition Obesity Pediatric Prevention Rare Diseases Rett Syndrome Women's Health"
+}

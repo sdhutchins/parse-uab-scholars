@@ -1,0 +1,126 @@
+{
+  "lastName": "O'Connor",
+  "overview": "Stephen J. O’Connor, Ph.D., LFACHE, is Professor Emeritus in the Department of Health Services Administration and a Scholar in the UAB Lister Hill Center for Health Policy. He directed the UAB Master of Science in Health Administration program from 2000-2009 and has been a Visiting Professor in the Master of International Health Management, Economics, and Policy program at Bocconi University in Milan, Italy, and the Gerald & Patricia Turpanjian School of Public Health at the American University of Armenia in Yerevan. He has also taught at the King Fahad Specialist Hospital in Dammam, Saudi Arabia and the National Pirogov Medical University in Ukraine. He has served on the governing boards of a number of healthcare organizations.\n\nHe previously chaired the Health Care Management Division of the Academy of Management. He has served on the editorial boards of numerous journals including the Journal of Healthcare Management and Health Care Management Review. He was editor of the Journal of Healthcare Management, the official journal of the ACHE, from 2010-2014. Additionally, he served as the United State National Representative to the European Academy of Management (EURAM) and as Chair of EURAM's Healthcare Management Research Track.\n\nO'Connor is twice the recipient of ACHE’s “Health Management Research Award” (1990 with Daniel Raab and 2001 with Richard Shewchuk and David Fine). In 2012, he received the UAB School of Health Professions Excellence in Teaching Award and the John D. and Starr A. Blair Award in Health Organization Management Research from Texas Tech University. He received the Myron D. Fottler Exceptional Service Award from the Health Care Management Division of the Academy of Management in 2013 and the Exemplary Service Award from the ACHE in 2014. In 2022 he received the Joseph F. Volker Award from UAB's School of Health Professions.\n\nHe co-edited the book (with S. Robert Hernandez): “Strategic Human Resources Management in Health Services Organizations.” His published research articles have appeared in journals such as Journal of Healthcare Management, Medical Care Research and Review, Health Services Research, Health Care Management Review, Journal of Health Administration Education, Advances in Health Care Management, World Hospitals and Health Services, BMC Health Services Research, Inquiry, Journal of Patient Experience, Quality Management in Health Care, Social Science and Medicine, Health Services Management Research, Journal of Psychological Type, Marketing Research, Journal of Services Marketing, Journal of Ambulatory Care Management, Social Justice Research, Journal of Management Policy and Practice, Health Marketing Quarterly, and Journal of Accounting and Finance.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1833-stephen-o'connor",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "1833",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 188,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 274,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 261,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stephen",
+  "firstNameLastName": "Stephen O'Connor",
+  "equipmentLinkTypes": [],
+  "objectId": 1833,
+  "updatedWhen": "2025-05-10T08:06:00.9164015-05:00",
+  "hasCollaborationData": true,
+  "email": "sjo@uab.edu",
+  "publication_keywords": "Aging Clinical Research Coronaviruses Cost Effectiveness Research Emerging Infectious Diseases Health Services Infectious Diseases",
+  "grant_keywords": ""
+}

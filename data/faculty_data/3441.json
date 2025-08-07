@@ -1,0 +1,127 @@
+{
+  "lastName": "Krishnamurthy",
+  "overview": "Dr. Krishnamurthy completed his Bachelors in Veterinary Medicine from Bangalore Veterinary College and earned his Ph.D. in Veterinary Pathology from the Indian Veterinary Research Institute, India. He held faculty appointments at the Feinberg Cardiovascular Research Institute, School of Medicine at Northwestern University in Chicago, Illinois and Houston Methodist Research Institute before joining UAB. Dr.Krishnamurthy directs a research program focusing on understanding mechanisms of cardiovascular diseases and developing novel therapeutic strategies to promote cardiac regeneration and repair. Dr. Krishnamurthy’s laboratory is supported through funds from National Institutes of Health (NIH-R01) and American Heart Association (GIA and Postdoctoral).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3441-prasanna-krishnamurthy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dept of Biomedical Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "3441",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 124,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 80,
+      "favourites": 0
+    }
+  },
+  "firstName": "Prasanna",
+  "firstNameLastName": "Prasanna Krishnamurthy",
+  "equipmentLinkTypes": [],
+  "objectId": 3441,
+  "updatedWhen": "2025-05-10T08:09:38.3212417-05:00",
+  "hasCollaborationData": true,
+  "email": "prasanak@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Cardiovascular Clinical Research Digestive Diseases Genetics Health Disparities Heart Disease Immunotherapy Liver Disease Nanotechnology Neurosciences Rare Diseases",
+  "grant_keywords": "Anxiety Disorders Atherosclerosis Bioengineering Biomedical Imaging Biotechnology Brain Disorders Cancer Cardiovascular Clinical Research Depression Diabetes Genetics Heart Disease Heart Disease - Coronary Heart Disease Hematology Infectious Diseases Mental Health Mental Illness Post-Traumatic Stress Disorder (PTSD) Prevention Radiation Oncology Rare Diseases Regenerative Medicine Sepsis Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Transplantation"
+}

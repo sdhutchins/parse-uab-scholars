@@ -1,0 +1,122 @@
+{
+  "lastName": "Schneider",
+  "overview": "I am generally interested in discovering and characterizing mechanisms by which cells control gene expression. Much of my career has focused on the regulation of ribosomal RNA synthesis, using an array of biochemical, genetic, and genomic approaches. As an independent academic investigator, I am privileged to be involved in the act of discovery every day. In addition, I take my roles as mentor and educator equally serious. Our goal is to create an environment where we can aggressively ask and answer important questions while training the next generation of scientists to be careful, critical, and content in the pursuit of knowledge.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2030-david-schneider",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Senior Associate Dean",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2030",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 373,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 94,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Schneider",
+  "equipmentLinkTypes": [],
+  "objectId": 2030,
+  "updatedWhen": "2025-05-10T08:06:35.9210091-05:00",
+  "hasCollaborationData": true,
+  "email": "dschneid@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Emerging Infectious Diseases Genetics HIV/AIDS Infectious Diseases Orphan Drug Rare Diseases Sexually Transmitted Infections Tuberculosis",
+  "grant_keywords": "Cancer Coronaviruses Coronaviruses Therapeutics and Interventions Emerging Infectious Diseases Genetics Health Disparities Infectious Diseases Minority Health"
+}

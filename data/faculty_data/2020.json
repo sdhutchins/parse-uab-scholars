@@ -1,0 +1,131 @@
+{
+  "lastName": "Krishna",
+  "overview": "Dr. Rama Krishna is a Professor Emeritus in the Department of Biochemistry and Molecular Genetics. He received his Ph.D. from the Indian Institute of Technology-Kanpur in India. He served as the Director of the NMR Core Facility of the UAB Cancer Center for 32 years (1984 - 2016) and as the first Director of the Central Alabama High-Field NMR Facility at UAB that he established with a state-of-the-art 850 MHz Bruker Biospin NMR system as its center piece. He held joint appointments in the Comprehensive Cancer Center and the Departments of Chemistry and Physics. He was a Leukemia Society of America Scholar during 1982-87, and was elected as a Fellow of the American Association for the Advancement of Science (AAAS) in 2012.  His research program was supported at various times by grants from the NIH, NSF, American Heart Association, Arthritis Foundation and the Leukemia Society of America.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2020-n-rama-krishna",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2020",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 103,
+      "favourites": 0
+    }
+  },
+  "firstName": "N. Rama",
+  "firstNameLastName": "N. Rama Krishna",
+  "equipmentLinkTypes": [],
+  "objectId": 2020,
+  "updatedWhen": "2025-05-10T08:06:35.9080078-05:00",
+  "hasCollaborationData": true,
+  "email": "nrk@uab.edu",
+  "publication_keywords": "Atherosclerosis Breast Cancer Cancer Digestive Diseases HIV/AIDS Infectious Diseases Pancreatic Cancer Rare Diseases Women's Health",
+  "grant_keywords": "Cancer Cancer Genomics Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Genetics HIV/AIDS Health Disparities Health Services Human Genome Infectious Diseases Orphan Drug Pancreatic Cancer Prevention Rare Diseases Rural Health Sexually Transmitted Infections Social Determinants of Health Women's Health"
+}

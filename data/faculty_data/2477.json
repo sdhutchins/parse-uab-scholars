@@ -1,0 +1,88 @@
+{
+  "discoveryId": "2477",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 191,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cummings",
+  "firstName": "Cathleen",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2477-cathleen-cummings",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Art and Art History"
+    }
+  ],
+  "firstNameLastName": "Cathleen Cummings",
+  "equipmentLinkTypes": [],
+  "objectId": 2477,
+  "updatedWhen": "2025-05-10T08:07:39.3669260-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Creative Arts and Writing"
+          ]
+        ],
+        "valueAnalysed": [
+          "Art Theory and Criticism",
+          "Theory and Criticism",
+          "and Criticism",
+          "Criticism"
+        ],
+        "value": "Art Theory and Criticism"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Creative Arts and Writing"
+          ]
+        ],
+        "valueAnalysed": [
+          "Visual Arts and Crafts",
+          "Arts and Crafts",
+          "and Crafts",
+          "Crafts"
+        ],
+        "value": "Visual Arts and Crafts"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "cathleen@uab.edu",
+  "publication_keywords": "Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,62 @@
+{
+  "lastName": "Colicchio",
+  "overview": "Dr. Tiago Colicchio earned his PhD in Biomedical Informatics from the University of Utah. He earned his MBA from the University of São Paulo, Brazil, and his MS in Information Systems from Grenoble Alpes University, France. He is Assistant Professor at the UAB Department of Biomedical Informatics and Data Science. Dr. Colicchio is a project management professional (PMP) certified by the project management institute (PMI) with extensive experience in health information technology (HIT) adoption, including management of large-scale EHR implementations in U.S. and non-U.S. institutions. Dr. Colicchio’s long-term goal is to improve the rigor, efficiency, reproducibility, and generalizability of HIT evaluations, particularly clinical decision support (CDS) research by developing novel informatics and data science methods to address stakeholder needs throughout the life cycle of evidence generation. As an active researcher in the field of Clinical Informatics for over 10 years, Dr. Colicchio has published extensively on data-driven optimization of HIT evaluations, CDS with a focus on reducing alert fatigue, and knowledge representation methods to improve clinical documentation, EHR navigation and CDS accuracy.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6225-tiago-colicchio",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept Of Biomedical Informatics & Data Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Library and Information Studies",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Informatics",
+          "Informatics"
+        ],
+        "value": "Health Informatics"
+      }
+    ]
+  },
+  "discoveryId": "6225",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tiago",
+  "firstNameLastName": "Tiago Colicchio",
+  "equipmentLinkTypes": [],
+  "objectId": 6225,
+  "updatedWhen": "2025-05-10T08:12:55.3591409-05:00",
+  "hasCollaborationData": true,
+  "email": "tiagokc@uab.edu",
+  "publication_keywords": "Clinical Research Coronaviruses Drug Abuse (NIDA only) Emerging Infectious Diseases Infectious Diseases Opioids Patient Safety Substance Misuse",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

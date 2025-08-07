@@ -1,0 +1,123 @@
+{
+  "lastName": "Eberhardt",
+  "overview": "Alan W. Eberhardt, PhD, is Associate Dean for the UAB School of Engineering, and a Professor within the Department of Biomedical Engineering.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2400-alan-eberhardt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Engineering",
+      "department": "Biomedical Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "discoveryId": "2400",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 792,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 153,
+      "favourites": 0
+    }
+  },
+  "firstName": "Alan",
+  "firstNameLastName": "Alan Eberhardt",
+  "equipmentLinkTypes": [],
+  "objectId": 2400,
+  "updatedWhen": "2025-05-10T08:07:28.8937221-05:00",
+  "hasCollaborationData": true,
+  "email": "aeberhar@uab.edu",
+  "publication_keywords": "Bioengineering",
+  "grant_keywords": "Behavioral and Social Science Physical Activity Physical Rehabilitation Prevention Rehabilitation"
+}

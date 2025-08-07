@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2107",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 92,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 75,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 228,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bucy",
+  "firstName": "Ralph",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2107-ralph-bucy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Laboratory Medicine"
+    }
+  ],
+  "firstNameLastName": "Ralph Bucy",
+  "equipmentLinkTypes": [],
+  "objectId": 2107,
+  "updatedWhen": "2025-05-10T08:06:50.6811661-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bucy@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biotechnology Cardiovascular Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Immunotherapy Infectious Diseases Kidney Disease Minority Health Organ Transplantation Patient Safety Transplantation Women's Health",
+  "grant_keywords": ""
+}

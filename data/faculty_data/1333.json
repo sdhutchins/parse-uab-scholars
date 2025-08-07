@@ -1,0 +1,71 @@
+{
+  "discoveryId": "1333",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 125,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hsu",
+  "firstName": "Yung-Tsung",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1333-yungtsung-hsu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Prosthodontics"
+    }
+  ],
+  "firstNameLastName": "Yung-Tsung Hsu",
+  "equipmentLinkTypes": [],
+  "objectId": 1333,
+  "updatedWhen": "2025-05-10T08:05:15.7681631-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "ythsu@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

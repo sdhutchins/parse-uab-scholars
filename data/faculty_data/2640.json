@@ -1,0 +1,124 @@
+{
+  "lastName": "Perumean-Chaney",
+  "overview": "I began my biostatistics career in 1998 as the Biostatistician and Data Manager for the Nutrition Education & Research Program at the University of Nevada, Reno.  I have worked on clinical trials examining body weight, nutrition, environment tobacco smoke, multiple sclerosis, and HIV.  In 1997, I taught my first undergraduate statistics course.  Since then, my teaching has focused on undergraduate and graduate statistics and research methods.  In 2007, I started teaching statistics on-line.     \n\nI initially joined the Department of Biostatistics in 2004 and have just recently rejoined the Department in 2016.  I have a Ph.D. in Criminal Justice from the State University of New York at Albany and an M.A. in Psychology from the University of Nevada, Reno.  My research interests include problem-based learning, teaching online statistics, adolescent at-risk behaviors, microaggression, complementary and alternative medicine, general and generalized linear models and count data.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2640-suzanne-perumeanchaney",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      }
+    ]
+  },
+  "discoveryId": "2640",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 124,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 113,
+      "favourites": 0
+    }
+  },
+  "firstName": "Suzanne",
+  "firstNameLastName": "Suzanne Perumean-Chaney",
+  "equipmentLinkTypes": [],
+  "objectId": 2640,
+  "updatedWhen": "2025-05-10T08:08:00.9346817-05:00",
+  "hasCollaborationData": true,
+  "email": "schaney@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Asthma Behavioral and Social Science Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Dementia Depression Lung Mental Health Minority Health Neurodegenerative Neurosciences Nutrition Obesity Pediatric Physical Activity Prevention Social Determinants of Health",
+  "grant_keywords": "Adolescent Sexual Activity Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) HIV/AIDS Immunization Infectious Diseases Mental Health Pediatric Pediatric AIDS Prevention Sexually Transmitted Infections Substance Misuse Vaccine Related Vaccine Related (AIDS)"
+}

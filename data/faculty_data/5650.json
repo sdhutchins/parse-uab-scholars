@@ -1,0 +1,44 @@
+{
+  "discoveryId": "5650",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 92,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Newton",
+  "firstName": "Allison",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5650-allison-newton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Instructor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Allison Newton",
+  "equipmentLinkTypes": [],
+  "objectId": 5650,
+  "updatedWhen": "2025-05-10T08:12:30.2073029-05:00",
+  "hasCollaborationData": true,
+  "email": "newtona@uab.edu",
+  "publication_keywords": "Pediatric Research Initiative",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "discoveryId": "5901",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 30,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 67,
+      "favourites": 0
+    }
+  },
+  "lastName": "Keith",
+  "firstName": "Verna",
+  "hasThumbnail": false,
+  "discoveryUrlId": "5901-verna-keith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Verna Keith",
+  "equipmentLinkTypes": [],
+  "objectId": 5901,
+  "updatedWhen": "2025-05-10T08:12:38.7060400-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Studies in Human Society",
+          "Studies in Human Society",
+          "in Human Society",
+          "Human Society",
+          "Society"
+        ],
+        "value": "Other Studies in Human Society"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "vmkeith@uab.edu",
+  "publication_keywords": "Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Mental Illness Minority Health Physical Activity Post-Traumatic Stress Disorder (PTSD) Prevention Social Determinants of Health",
+  "grant_keywords": ""
+}

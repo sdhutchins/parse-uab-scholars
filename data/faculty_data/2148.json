@@ -1,0 +1,128 @@
+{
+  "lastName": "Zayzafoon",
+  "overview": "Dr. Majd Zayzafoon is a leader in global medical education, committed to advancing UAB’s international presence and shaping future physicians to meet the challenges of an interconnected world. As Associate Dean for Global Initiatives and International Medical Education at the UAB Heersink School of Medicine, he establishes and directs initiatives that enhance international partnerships, global mobility programs, and cross-cultural medical training and service.\n\nUnder his leadership, UAB’s International Medical Education office created more than 20 international mobility programs, providing over 700 students and graduates annually with transformative clinical training, research opportunities, and global health experiences. A key recent initiative, the Recognition of Distinction in Global Health, aligns with the United Nations Sustainable Development Goals (SDGs) and empowers UAB medical students to think globally, act locally, and lead boldly. Additionally, the International Visiting Medical Student Training Program welcomes more than 200 international students each year, offering hands-on clinical exposure at UAB.\n\nWith a vision to expand UAB’s global reach, Dr. Zayzafoon is focused on developing innovative educational programs, strengthening high-impact global partnerships, and ensuring UAB medical students and faculty gain the international competencies needed to address healthcare challenges worldwide.\n\nDr. Zayzafoon earned his MD from Damascus University and completed his Internal Medicine residency and Gastroenterology Fellowship in the United Kingdom. He pursued a PhD in Molecular Physiology at Michigan State University and completed a postdoctoral fellowship in Pathology at UAB. His passion for leadership and entrepreneurship led him to earn an MBA from UAB in 2013, further equipping him to develop strategic global initiatives.\n\nBeyond education, Dr. Zayzafoon is an accomplished scientist, with research focusing on the molecular mechanisms of prostate cancer bone metastases and preclinical drug development. His work bridges the gap between scientific discovery and patient care, reinforcing his commitment to advancing global health.\n\nAs he continues to lead UAB’s international initiatives, Dr. Zayzafoon remains dedicated to building transformative learning experiences, forging strategic partnerships, and ensuring that future physicians are prepared to excel in both local and global healthcare landscapes.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2148-majd-zayzafoon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "International Medical Education"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "2148",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 53,
+      "favourites": 0
+    }
+  },
+  "firstName": "Majd",
+  "firstNameLastName": "Majd Zayzafoon",
+  "equipmentLinkTypes": [],
+  "objectId": 2148,
+  "updatedWhen": "2025-05-10T08:06:50.7368340-05:00",
+  "hasCollaborationData": true,
+  "email": "mzayzafoon@uab.edu",
+  "publication_keywords": "Aging Biotechnology Cancer Clinical Research Genetics HIV/AIDS Immunotherapy Infectious Diseases Osteoporosis Pediatric Cancer Pediatric Research Initiative Prostate Cancer Rare Diseases Transplantation Urologic Diseases",
+  "grant_keywords": ""
+}

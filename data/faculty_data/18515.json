@@ -1,0 +1,136 @@
+{
+  "lastName": "Rizzardi",
+  "overview": "Dr. Rizzardi's research involves understanding how genetic variation influences cellular function through altered gene regulation in specific cell types in the human brain. The Rizzardi lab applies single cell and long-read sequencing technologies to identify and characterize cell type-specific regulatory mechanisms disrupted in neurodegenerative and neurodevelopmental diseases. Her team uses differentiated iPSC disease models to validate their findings in disease-relevant cell types with large-scale CRISPR inhibition/activation screens and other functional genomics techniques.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18515-lindsay-rizzardi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genomics"
+        ],
+        "value": "Genomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurogenetics"
+        ],
+        "value": "Neurogenetics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epigenetics (incl. Genome Methylation and Epigenomics)",
+          "(incl. Genome Methylation and Epigenomics)",
+          "Genome Methylation and Epigenomics)",
+          "Methylation and Epigenomics)",
+          "and Epigenomics)",
+          "Epigenomics)"
+        ],
+        "value": "Epigenetics (incl. Genome Methylation and Epigenomics)"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      }
+    ]
+  },
+  "discoveryId": "18515",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lindsay",
+  "firstNameLastName": "Lindsay Rizzardi",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "Dr. Lindsay Rizzardi presents her recently published work as part of the UKDRI Neurogenomics Seminar Series.",
+      "embedLink": "https://www.youtube-nocookie.com/embed/7hJOlkUdZkE",
+      "label": "Identification of cell type-specific cis regulatory elements in Alzheimer’s disease",
+      "thumbnailLink": "https://img.youtube.com/vi/7hJOlkUdZkE/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/7hJOlkUdZkE?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 18515,
+  "updatedWhen": "2025-05-10T08:19:33.9739490-05:00",
+  "hasCollaborationData": false,
+  "email": "rizzardi@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Cancer Dementia Genetics Human Genome Mental Health Neurodegenerative Neurosciences Regenerative Medicine Stem Cell Research Stem Cell Research - Embryonic - Human Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human",
+  "grant_keywords": ""
+}

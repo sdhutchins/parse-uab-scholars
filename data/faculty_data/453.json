@@ -1,0 +1,126 @@
+{
+  "discoveryId": "453",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 33,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 96,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dutton",
+  "firstName": "Gareth",
+  "hasThumbnail": true,
+  "discoveryUrlId": "453-gareth-dutton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Gareth Dutton",
+  "equipmentLinkTypes": [],
+  "objectId": 453,
+  "updatedWhen": "2025-05-10T08:03:12.8367235-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "gdutton@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Depression Diabetes Eating Disorders Emerging Infectious Diseases HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Mental Health Mental Illness Minority Health Nutrition Obesity Physical Activity Prevention Sexual and Gender Minorities (SGM/LGBT*) Sexually Transmitted Infections Social Determinants of Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dissemination and Implementation Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hypertension Maternal Health Minority Health Nutrition Pediatric Prevention Rural Health Social Determinants of Health Women's Health"
+}

@@ -1,0 +1,127 @@
+{
+  "lastName": "Aswani",
+  "overview": "Thematically, my research is motivated by how the quality/cost tradeoff is defined, operationalized, and implemented in healthcare. Methodologically, my work employs econometric and causal inference methods. Prior to joining the School of Health Professions, I also contributed to healthcare quality and patient safety projects at Johns Hopkins University and the World Health Organization.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6747-monica-aswani",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      }
+    ]
+  },
+  "discoveryId": "6747",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 24,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 44,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 3
+    }
+  },
+  "firstName": "Monica",
+  "firstNameLastName": "Monica Aswani",
+  "equipmentLinkTypes": [],
+  "objectId": 6747,
+  "updatedWhen": "2025-05-10T08:13:42.6643022-05:00",
+  "hasCollaborationData": true,
+  "email": "aswani@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cardiovascular Prevention",
+  "grant_keywords": "Aging Behavioral and Social Science Clinical Research Health Disparities Health Services Patient Safety"
+}

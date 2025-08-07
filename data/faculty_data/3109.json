@@ -1,0 +1,126 @@
+{
+  "lastName": "Ozaydin",
+  "overview": "Bunyamin Ozaydin, PhD is an Assistant Professor in the Department of Health Services Administration and Scientist at School of Medicine Informatics Institute. He has a Master's Degree in Electrical Engineering and a PhD in Computer Engineering. Prior to his faculty appointment, he has worked in the Departments of Ophthalmology and Anesthesiology in various informatics roles for almost a decade. He mainly teaches in the Graduate Programs in Health Informatics focusing on systems analysis and design, databases, and various courses in the Data Analytics track. Dr. Ozaydin's research interests include data infrastructures that enable data mining and analytics for health research and application of machine learning techniques in healthcare.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3109-bunyamin-ozaydin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      }
+    ]
+  },
+  "discoveryId": "3109",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 80,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 79,
+      "favourites": 0
+    }
+  },
+  "firstName": "Bunyamin",
+  "firstNameLastName": "Bunyamin Ozaydin",
+  "equipmentLinkTypes": [],
+  "objectId": 3109,
+  "updatedWhen": "2025-05-10T08:08:52.9338625-05:00",
+  "hasCollaborationData": true,
+  "email": "bozaydin@uab.edu",
+  "publication_keywords": "Bioengineering Clinical Research Data Science Emergency Care Health Services Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": "Bioengineering Data Science Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)"
+}

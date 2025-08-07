@@ -1,0 +1,120 @@
+{
+  "lastName": "Cowell",
+  "overview": "SCIENTIFIC RESEARCH. My lab's long-term research mission is to elucidate the mechanisms underlying selective vulnerability in neurological and psychiatric disorders, with a focus on identifying the transcriptional programs which define neuronal identity and mitochondrial function. The majority of my lab’s recently published work has focused on determining how transcriptional dysfunction contributes to the generation of abnormal neuronal function and behavior in models of Parkinson Disease (PD), Huntington Disease, and schizophrenia. \n\nTRAINING AND MENTORSHIP. Throughout my career, I have been extensively involved in undergraduate and graduate training. I have directly mentored eight graduate students and fifty undergraduate researchers, and I have served on thesis committees of 45 additional students. In my current role as the Associate Director for Training in the Center for Neurodegeneration and Experimental Therapeutics at UAB, I am working to enhance the training experiences of graduate students, postdoctoral fellows, and undergraduate students in neurodegeneration by providing career development opportunities and building a structure for inter-lab and interdepartmental collaborations and activities. \n\nDRUG DISCOVERY AND DEVELOPMENT. In my role as Chair of Neuroscience at Southern Research (2017-2022), I coordinated neuroscience drug discovery efforts and facilitated interactions with faculty at Southern Research and UAB and with other external clients. Back at UAB, I have been charged with assisting the neuroscience community with re-envisioning their ongoing projects to incorporate strategies for target identification, prioritization, and validation, with the goal of identifying good candidates for moving into a neurodegeneration drug discovery pipeline with Southern Research.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1034-rita-cowell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      }
+    ]
+  },
+  "discoveryId": "1034",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 94,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 62,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rita",
+  "firstNameLastName": "Rita Cowell",
+  "equipmentLinkTypes": [],
+  "objectId": 1034,
+  "updatedWhen": "2025-05-10T08:04:33.7075328-05:00",
+  "hasCollaborationData": true,
+  "email": "rcowell@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Dementia Genetics Huntington's Disease Lewy Body Dementia Mental Health Neurodegenerative Neurosciences Parkinson's Disease Rare Diseases",
+  "grant_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Depression Estrogen Genetics Major Depressive Disorder Mental Health Mental Illness Neurodegenerative Neurosciences Parkinson's Disease"
+}

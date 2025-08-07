@@ -1,0 +1,131 @@
+{
+  "lastName": "Ren",
+  "overview": "The research in the Ren Laboratory seeks to determine critical molecular signaling pathways in the transdifferentiation of vascular endothelial cells, angiogenesis (the formation of new blood vessels from preexisting blood vessels), and arteriogenesis (de novo formation of small arteries),arteriolar angiogenesis in the context of Alzheimer's disease, cancers and cardiovascular diseases, and to develop molecular strategies for stimulating or inhibiting the growth of these vessels. The current research interest focuses on how extracellular signaling couples epigenetic and transcriptional regulation of arteriolar differentiation and arteriolar angiogenesis to control the development of peripheral and cerebral vessels as well as endothelial cell immunity in those disorders and the cardiovascular complications of diabetes. Elucidating the cellular and molecular mechanisms of endothelial cell differentiation and endothelial cell immunity and arteriolar  angiogenesis will aid in our understanding of the pathobiology of these conditions and in the discovery of innovative and effective therapeutic strategies to promote public health.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6274-bin-ren",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Surgery - General Surgery Vascular Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiology (incl. Cardiovascular Diseases)",
+          "(incl. Cardiovascular Diseases)",
+          "Cardiovascular Diseases)",
+          "Diseases)"
+        ],
+        "value": "Cardiology (incl. Cardiovascular Diseases)"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epigenetics (incl. Genome Methylation and Epigenomics)",
+          "(incl. Genome Methylation and Epigenomics)",
+          "Genome Methylation and Epigenomics)",
+          "Methylation and Epigenomics)",
+          "and Epigenomics)",
+          "Epigenomics)"
+        ],
+        "value": "Epigenetics (incl. Genome Methylation and Epigenomics)"
+      }
+    ]
+  },
+  "discoveryId": "6274",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 58,
+      "favourites": 0
+    }
+  },
+  "firstName": "Bin",
+  "firstNameLastName": "Bin Ren",
+  "equipmentLinkTypes": [],
+  "objectId": 6274,
+  "updatedWhen": "2025-05-10T08:13:05.3352999-05:00",
+  "hasCollaborationData": true,
+  "email": "bren98@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Cancer Digestive Diseases Neurosciences Pancreatic Cancer Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease Physical Injury - Accidents and Adverse Effects"
+}

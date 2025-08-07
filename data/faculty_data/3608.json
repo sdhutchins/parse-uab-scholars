@@ -1,0 +1,74 @@
+{
+  "discoveryId": "3608",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 0
+    }
+  },
+  "lastName": "Balch",
+  "firstName": "Margaret",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3608-margaret-balch",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "UAB Libraries"
+    }
+  ],
+  "firstNameLastName": "Margaret Balch",
+  "equipmentLinkTypes": [],
+  "objectId": 3608,
+  "updatedWhen": "2025-05-10T08:09:49.3460698-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Complementary and Alternative Medicine",
+          "and Alternative Medicine",
+          "Alternative Medicine",
+          "Medicine"
+        ],
+        "value": "Complementary and Alternative Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "pbalch@uab.edu",
+  "publication_keywords": "Complementary and Integrative Health",
+  "grant_keywords": ""
+}

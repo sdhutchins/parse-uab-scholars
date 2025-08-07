@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19199",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 34,
+      "favourites": 7
+    }
+  },
+  "lastName": "Chiou",
+  "firstName": "Kenneth",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19199-kenneth-chiou",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biology"
+    }
+  ],
+  "firstNameLastName": "Kenneth Chiou",
+  "equipmentLinkTypes": [],
+  "objectId": 19199,
+  "updatedWhen": "2025-05-10T08:21:05.7130188-05:00",
+  "hasCollaborationData": false,
+  "email": "kchiou@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Genetics HIV/AIDS Human Genome Infectious Diseases Mental Health Microbiome Neurosciences Nutrition Pediatric Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

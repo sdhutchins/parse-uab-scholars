@@ -1,0 +1,120 @@
+{
+  "lastName": "O'Kelley",
+  "overview": "Dr. O’Kelley is the Director of the Autism Spectrum Disorders (ASD) Clinic at UAB Civitan-Sparks Clinics; she is also involved in psychology and interdisciplinary clinical training as the UAB LEND training director. She currently serves as leader of a state work group focused on Developmental Screening and Surveillance for Autism Spectrum Disorders (Act Early Alabama state team). Her clinical interests include cognitive and diagnostic assessment, individual and group therapy approaches, and school consultation for children with ASD and other neurodevelopmental disabilities. Dr. O’Kelley is a certified provider of the PEERS program developed at UCLA (for more information about UAB PEERS email: PEERS@uab.edu).\n\nDr. O'Kelley has been involved in research and clinical activities with individuals with ASD and their families for 15 years. She completed her predoctoral internship at the University of Alabama at Birmingham Psychology Internship Training Consortium, and was a LEND postdoctoral fellow at UAB Civitan-Sparks Clinics. From 2006 to 2008, a portion of her postdoctoral fellowship included a position of Program Coordinator for the University of Alabama Autism Spectrum Disorders College Transition and Support program (UA-ACTS), a program she helped develop and implement. Dr. O’Kelley is a member of the International Society for Autism Research and American Psychological Association and is active in the Alabama Autism Providers Network.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2738-sarah-o'kelley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Linguistics"
+        ],
+        "value": "Linguistics"
+      }
+    ]
+  },
+  "discoveryId": "2738",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 30,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 56,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sarah",
+  "firstNameLastName": "Sarah O'Kelley",
+  "equipmentLinkTypes": [],
+  "objectId": 2738,
+  "updatedWhen": "2025-05-10T08:08:21.9893830-05:00",
+  "hasCollaborationData": true,
+  "email": "sokelley@uab.edu",
+  "publication_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Injury Clinical Research Clinical Trials and Supportive Activities Epilepsy Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Intellectual and Developmental Disabilities (IDD) Mental Health Minority Health Neurodegenerative Neurosciences Orphan Drug Patient Safety Pediatric Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Rare Diseases Tuberous Sclerosis Unintentional Childhood Injury Women's Health",
+  "grant_keywords": ""
+}

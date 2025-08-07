@@ -1,0 +1,118 @@
+{
+  "discoveryId": "3202",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 57,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 45,
+      "favourites": 0
+    }
+  },
+  "lastName": "Walker",
+  "firstName": "Jeffery",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3202-jeffery-walker",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "University Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "Jeffery Walker",
+  "equipmentLinkTypes": [],
+  "objectId": 3202,
+  "updatedWhen": "2025-05-10T08:09:04.9263138-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Law and Legal Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Law"
+        ],
+        "value": "Law"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jeffw@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Injury Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Rural Health Social Determinants of Health Substance Misuse Violence Research Youth Violence",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Prevention Rural Health Social Determinants of Health Women's Health"
+}

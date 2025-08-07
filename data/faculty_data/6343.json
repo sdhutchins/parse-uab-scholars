@@ -1,0 +1,126 @@
+{
+  "lastName": "Wijeratne",
+  "overview": "Dr. Gayan B. Wijeratne joined UAB in 2018, and is currently an Assistant Professor of Chemistry. He was born in Kandy, Sri Lanka, and received his B.Sc. (Honors) degree in chemistry from the University of Colombo, Sri Lanka, where his research on transition metal complexes of Sri Lankan natural products was recognized by the Professor R. S. Ramakrishna Memorial Gold Medal in inorganic chemistry in 2009. \n\nHe moved to the United States in 2010 and carried out his graduate research in the laboratory of Professor Timothy A. Jackson at the University of Kansas, working on bioinspired manganese complexes that bind dioxygen and its reduced derivatives, as well as on thermodynamic and kinetic studies of proton-coupled electron transfer reactivity of manganese-based oxidants. There he won the Higuchi Doctoral Progress Award in 2015, the highest graduate distinction at the University of Kansas. He carried out his postdoctoral research in the laboratory of Professor Kenneth D. Karlin at Johns Hopkins University from 2015 to 2018, where his research interests were focused on understanding heme and/or copper interactions with nitrogen oxides, primarily the mechanistic aspects involved with the reductive coupling of nitric oxide to nitrous oxide. He was also involved in dioxygen reduction and substrate oxidation reactivity studies of heme/copper assemblies. \n\nDr. Wijeratne’s research program at UAB is geared toward interrogating key mechanistic details pertaining to various crucial biologically and/or industrially relevant inorganic processes utilizing small-molecule, synthetic model compounds. This research interface between synthetic inorganic/organic chemistry, structural, spectroscopic, and theoretical characterization methodologies, and detailed thermodynamic and kinetic investigations of reactivity patterns. This research program is designed to produce all-rounded researchers with multidisciplinary chemical proficiencies, that range from traditional fundamental topics to state-of-the-art inorganic chemistry applications. The ultimate goal is aimed at comprehending the implications and significance of inorganic transformations/mechanisms of interest in human health and therapeutics, future sustainable catalysis, and next generation alternative energy applications.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6343-gayan-wijeratne",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Inorganic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Inorganic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Theoretical and Computational Chemistry",
+          "and Computational Chemistry",
+          "Computational Chemistry",
+          "Chemistry"
+        ],
+        "value": "Theoretical and Computational Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "6343",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gayan",
+  "firstNameLastName": "Gayan Wijeratne",
+  "equipmentLinkTypes": [],
+  "objectId": 6343,
+  "updatedWhen": "2025-05-10T08:13:14.7620640-05:00",
+  "hasCollaborationData": false,
+  "email": "wijeratne@uab.edu",
+  "publication_keywords": "Biomedical Imaging",
+  "grant_keywords": ""
+}

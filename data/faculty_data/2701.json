@@ -1,0 +1,126 @@
+{
+  "lastName": "Lawson",
+  "overview": "Dr. Christopher Lawson is a full Professor of Physics at the University of Alabama at Birmingham.  His research specialty is optical sensing and nonlinear optics and he has published over 70 journal articles and 10 books or book chapters in these areas.  Dr. Lawson has served as Principal Investigator (PI) for over $20M of research grants and PI or co-PI of $50M of research grant funding.  In 2004 he established the NSF funded Center for Optical Sensors and Spectroscopies (COSS) at UAB and led this Center until becoming Executive Director of Alabama Established Program to Stimulate Competitive Research (Alabama EPSCoR )in 2010.\n\nDr. Christopher Lawson was elected to Executive Director of Alabama EPSCoR (www.alepscor.org) in 2010. Alabama EPSCoR is dedicated to the advancement of economic development via scientific and engineering research through a collaborative effort among the State’s research universities. Overall, Alabama EPSCoR has been awarded 265 federal EPSCoR grants for $167M from 2009-2019.  As Alabama EPSCoR Executive Director, he oversaw the writing of Alabama’s first Science and Technology (S&T) Plan/Roadmap endorsed by all major research institutions in the state, and formally adopted by Alabama Department of Commerce (DOC) Secretary Greg Canfield. Lawson worked with the Alabama DOC to incorporate this new S&T Roadmap into Alabama’s Economic Development Plan, Accelerate Alabama 2.0, complementing it by identifying statewide research priorities and expertise that can provide target economic growth areas to create Alabama jobs. These Roadmap research capabilities are incorporated into a searchable web database (https://alepscor.org/research-capabilities/) which identifies where specific types of high tech research, along with a highly trained workforce, is available in AL to support current and emerging business enterprises across the state.\n\nDr. Lawson also serves as the Director of the State funded Graduate Research Scholars Program (GRSP), designed to increase the pool of highly trained graduates available to Alabama industry. As of December 2020, GRSP support has resulted in 204 Ph.D. and 67 Master’s degrees in high technology EPSCoR research areas. \n\nFinally, since 2016 Dr. Lawson has served as the Chair of the Coalition of EPSCoR/IDEA States, which assumes a leadership role in coordinating national EPSCoR activities.  He testified before the U.S. House Appropriations Committee on behalf of the EPSCoR Coalition in 2012 and 2013 and provided written expert witness testimony to the “Driving Innovation Through Federal Investments” full U.S. Senate Hearings in April 2014 and the House Appropriations Committee in 2019.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2701-christopher-lawson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Physics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Inorganic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Inorganic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communications Technologies",
+          "Technologies"
+        ],
+        "value": "Communications Technologies"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      }
+    ]
+  },
+  "discoveryId": "2701",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 122,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 60,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christopher",
+  "firstNameLastName": "Christopher Lawson",
+  "equipmentLinkTypes": [],
+  "objectId": 2701,
+  "updatedWhen": "2025-05-10T08:08:11.0894987-05:00",
+  "hasCollaborationData": true,
+  "email": "lawson@uab.edu",
+  "publication_keywords": "Bioengineering",
+  "grant_keywords": ""
+}

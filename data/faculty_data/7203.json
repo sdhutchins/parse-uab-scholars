@@ -1,0 +1,121 @@
+{
+  "discoveryId": "7203",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sherif",
+  "firstName": "Muhammad",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7203-muhammad-sherif",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Muhammad Sherif",
+  "equipmentLinkTypes": [],
+  "objectId": 7203,
+  "updatedWhen": "2025-05-10T08:14:20.0512731-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Building"
+        ],
+        "value": "Building"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "msherif@uab.edu",
+  "publication_keywords": "Bioengineering Machine Learning and Artificial Intelligence",
+  "grant_keywords": ""
+}

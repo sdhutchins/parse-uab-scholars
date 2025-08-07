@@ -1,0 +1,44 @@
+{
+  "discoveryId": "12543",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 24,
+      "favourites": 9
+    }
+  },
+  "lastName": "Boitet",
+  "firstName": "Laurence",
+  "hasThumbnail": true,
+  "discoveryUrlId": "12543-laurence-boitet",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept of Medical Education"
+    }
+  ],
+  "firstNameLastName": "Laurence Boitet",
+  "equipmentLinkTypes": [],
+  "objectId": 12543,
+  "updatedWhen": "2025-05-12T03:31:01.6635097-05:00",
+  "hasCollaborationData": true,
+  "email": "lmblac@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Coronaviruses Depression Infectious Diseases Kidney Disease Mental Health Mental Illness Physical Injury - Accidents and Adverse Effects Suicide",
+  "grant_keywords": "Kidney Disease"
+}

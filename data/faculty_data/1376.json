@@ -1,0 +1,127 @@
+{
+  "lastName": "Kau",
+  "overview": "Dr Chung H. Kau is Professor and Chair at the Department of Orthodontics, University of Alabama at Birmingham. He also holds academic appointments as Senior Scientist at the Global Center for Craniofacial, Oral and Dental Disorders and UAB Microbiome Center. He is a Diplomate of the American Board of Orthodontics(US), Specialist Orthodontist on the Singapore Dental Council and the General Dental Council (United Kingdom). He holds full licenses to practice in Arizona, California, Minnesota, Missouri, Washington State and Vermont. In addition, he also has faculty licenses in Alabama and Texas. He serves as the Director of the Craniofacial Orthodontia Clinic in partnership with the Children’s Rehabilitation Service and Medicaid of Alabama and is the craniofacial orthodontist on the Cleft Craniofacial Team at Children’s Hospital of Alabama. He enjoys practicing clinical orthodontics has a special interest in craniofacial anomalies and dento-facial deformities. He is also a researcher with a keen interest in clinical translational research focusing on technology driven orthodontic applications, dent-facial deformities, juvenile idiopathic arthritis, accelerated tooth movement and 4D jaw tracking. At present, he is Principal Investigator on several NIH and Industry grants and has a research involvement in excess of US$4+ million dollars. He actively contributes and publishes in the orthodontic literature and has over 450 peer-reviewed publications, conference papers and lectures. He has over 175 invited presentations and lectures in over 50 countries. In 2011, he was awarded the King James IV Professor by the Royal College of Surgeons of Edinburgh where he also served as the International Advisor for the USA and examiner for the MFDS and MOrth examinations. He holds visiting Professorships at the University of Debrecen, Nanjing Medical University, University of Szeged and Xi'an Jiao Tong University. He has also been featured on CBS Nightly News, WBRC (Alabama) and ABC33 (Alabama) on various Orthodontic topics.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1376-chung-kau",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Chairperson of Dentistry",
+      "department": "Orthodontics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "1376",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 157,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 193,
+      "favourites": 0
+    }
+  },
+  "firstName": "Chung",
+  "firstNameLastName": "Chung Kau",
+  "equipmentLinkTypes": [],
+  "objectId": 1376,
+  "updatedWhen": "2025-05-10T08:05:15.7878404-05:00",
+  "hasCollaborationData": true,
+  "email": "ckau@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Clinical Research Dental/Oral and Craniofacial Disease Patient Safety Rare Diseases",
+  "grant_keywords": ""
+}

@@ -1,0 +1,131 @@
+{
+  "lastName": "Anantharamaiah",
+  "overview": "Gattadahalli M. Anantharamaiah, Ph.D., professor in the University of Alabama at Birmingham School of Medicine, has been elected as a 2019 National Academy of Inventors fellow.\n\nRegarded as the highest professional distinction for leading academic inventors, NAI fellows are recognized for their contributions to society. \n\nAnantharamaiah has dedicated his nearly 50-year career to the advancement of peptide synthesis and protein analysis and is an international expert in the structure and function of plasma apolipoproteins. He holds appointments in the Comprehensive Center for Healthy Aging, O’Neal Comprehensive Cancer Center, UAB Center for AIDS Research, and UAB Nutrition Obesity Research Center. He is associate director of the Atherosclerosis Research Unit, and director of its peptide laboratory. \n\nAmong the university’s most patented inventors, Anantharamaiah holds 19 issued United States patents and 45 issued foreign patents in the field of peptide synthesis. Seventeen of his discoveries have been licensed, generating nearly $2.1 million in license fees and royalties to date. He has published 228 peer-reviewed papers, two books and book chapters and has published or presented more than 70 abstracts on apolipoprotein structure and function and peptide synthesis. He has served as an investigator on more than 30 grant awards throughout his career.\n\nDevelopment of his novel discovery shows significant potential as therapies for Alzheimer’s disease, heart disease, cancer, asthma, systemic inflammation and other diseases. A partnership with LipimetiX Development, Inc., a clinical stage biotechnology company, has resulted in development of potent Apo E mimetics that Anantharamaiah believes may be the most powerful lipid reduction agents yet discovered. The newer generation analogues insert into cholesterol-rich lipoproteins to direct them to the liver for removal, resulting in dramatically decreased blood cholesterol levels in animal models. The technology is currently being pursued worldwide as a therapy for treating hypercholesterolemia and is on track for first-in-human studies.  \n\nAnantharamaiah joins the seven UAB faculty previously elected to the NAI fellows program. The complete list of NAI Fellows is available on the NAI website.\n\nThe 2019 class of NAI fellows includes 168 academic inventors representing 135 research universities. Since its 2012 program launch, NAI has inducted 1,228 fellows worldwide from more than 250 universities and research institutes. Collectively, NAI fellows hold more than 41,500 issued U.S. patents, have generated more than 11,000 licensed technologies and companies, generated more than $1.6 trillion in revenue, and created more than 36 million jobs.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "471-gattadahalli-anantharamaiah",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "471",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 230,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gattadahalli",
+  "firstNameLastName": "Gattadahalli Anantharamaiah",
+  "equipmentLinkTypes": [],
+  "objectId": 471,
+  "updatedWhen": "2025-05-10T08:03:12.8824251-05:00",
+  "hasCollaborationData": true,
+  "email": "ananth@uab.edu",
+  "publication_keywords": "Atherosclerosis Bioengineering Biotechnology Cardiovascular Nanotechnology",
+  "grant_keywords": "Atherosclerosis Biotechnology Clinical Research Digestive Diseases Hematology Infectious Diseases Liver Disease Sepsis Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health"
+}

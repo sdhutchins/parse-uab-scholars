@@ -1,0 +1,125 @@
+{
+  "lastName": "Hurst",
+  "overview": "Anna C.E. Hurst, MD, MS, is an associate professor of medical genetics in the department of genetics at the University of Alabama at Birmingham and an adjunct faculty member at the HudsonAlpha Institute for Biotechnology. She trained as a genetic counselor at the University of South Carolina School of Medicine (Columbia) and then completed her medical degree at the Medical University of South Carolina (Charleston). She is a board-certified pediatrician who completed pediatrics residency at Wake Forest Baptist Health (Winston-Salem, NC) and a medical genetics residency at UAB. \n\nDr. Hurst is a clinician for the UAB Undiagnosed Disease Program, Turner syndrome clinic, and general genetics, and she provides genetic inpatient hospital consultations for patients at UAB and Children’s of Alabama. Her clinical interests include dysmorphology and congenital anomaly syndrome delineation, and she serves on the Scientific Advisory Board for Facial Dysmorphology Novel Analysis (FDNA). Her research focuses on expanding the availability of genomic sequencing for children with complex healthcare needs and incorporating phenotypic information into the interpretation of genomic data. She also has an interest in education and serves as the residency program director for the UAB Medical Genetics Residency Programs and as the medical director of the UAB Genetic Counseling Training Program.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3398-anna-hurst",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Clinical Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "3398",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "firstName": "Anna",
+  "firstNameLastName": "Anna Hurst",
+  "equipmentLinkTypes": [],
+  "objectId": 3398,
+  "updatedWhen": "2025-05-10T08:09:28.0311199-05:00",
+  "hasCollaborationData": true,
+  "email": "acehurst@uab.edu",
+  "publication_keywords": "Brain Disorders Cancer Clinical Research Genetic Testing Genetics Health Services Hematology Human Genome Intellectual and Developmental Disabilities (IDD) Machine Learning and Artificial Intelligence Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": ""
+}

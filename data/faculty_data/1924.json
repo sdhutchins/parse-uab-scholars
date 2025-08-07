@@ -1,0 +1,93 @@
+{
+  "lastName": "Cofield",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1924-stacey-cofield",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          []
+        ],
+        "valueAnalysed": [
+          "Education"
+        ],
+        "value": "Education"
+      },
+      {
+        "paths": [
+          [
+            "Statistics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biostatistics"
+        ],
+        "value": "Biostatistics"
+      }
+    ]
+  },
+  "discoveryId": "1924",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 205,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 18,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 134,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stacey",
+  "firstNameLastName": "Stacey Cofield",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "Biostatistics Faculty Spotlight | Stacey Cofield, PhD | UAB School of Public Health",
+      "embedLink": "https://www.youtube-nocookie.com/embed/IBsVhBfg_Vo",
+      "label": "Biostatistics Faculty Spotlight | Stacey Cofield, PhD | UAB School of Public Health",
+      "thumbnailLink": "https://img.youtube.com/vi/IBsVhBfg_Vo/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/IBsVhBfg_Vo?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 1924,
+  "updatedWhen": "2025-05-10T08:06:12.3709886-05:00",
+  "hasCollaborationData": true,
+  "email": "scofield@uab.edu",
+  "publication_keywords": "Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Mental Health Mental Illness Minority Health Multiple Sclerosis Neurodegenerative Neurosciences Nutrition Pediatric Physical Injury - Accidents and Adverse Effects Prevention Schizophrenia Serious Mental Illness Social Determinants of Health Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Adolescent Sexual Activity Arthritis Autoimmune Disease Behavioral and Social Science Chronic Pain Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) HIV/AIDS Immunization Infectious Diseases Mental Health Pain Research Pediatric Pediatric AIDS Prevention Rheumatoid Arthritis Sexually Transmitted Infections Substance Misuse Vaccine Related Vaccine Related (AIDS) Women's Health"
+}

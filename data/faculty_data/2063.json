@@ -1,0 +1,124 @@
+{
+  "lastName": "Moldoveanu",
+  "overview": "Zina Moldoveanu is a Professor in the Department of Microbiology at the University of Alabama at Birmingham (UAB), Birmingham, AL, USA. She received MS in Biochemistry from University of Bucharest, Romania and PhD in Biology from the Institute of Biological Sciences, Bucharest, Romania.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2063-zina-moldoveanu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "2063",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 224,
+      "favourites": 0
+    }
+  },
+  "firstName": "Zina",
+  "firstNameLastName": "Zina Moldoveanu",
+  "equipmentLinkTypes": [],
+  "objectId": 2063,
+  "updatedWhen": "2025-05-10T08:06:35.9590209-05:00",
+  "hasCollaborationData": true,
+  "email": "zinam@uab.edu",
+  "publication_keywords": "Autoimmune Disease Clinical Research Genetics Immunization Kidney Disease Rare Diseases",
+  "grant_keywords": "Autoimmune Disease Clinical Research HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Kidney Disease Minority Health Pediatric Research Initiative Rare Diseases Sexually Transmitted Infections Women's Health"
+}

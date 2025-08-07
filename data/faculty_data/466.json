@@ -1,0 +1,131 @@
+{
+  "lastName": "Scarinci-Searles",
+  "overview": "Isabel Scarinci, Ph.D., MPH, is a behavioral scientist with a deep commitment to the elimination of cancer disparities in the U.S. and in low- and middle-income countries. The focus of her work is on the application of behavioral science to public health by promoting behavior change at the population level. Her primary area of interest is cancer prevention and control (including tobacco control) among low-income, racial/ethnic minorities, and immigrant populations (particularly Latinos and African Americans). She is particularly interested in the development, implementation, and evaluation of community-based programs that are theory based and culturally relevant to underserved populations in the U.S. and abroad.\n\nIn terms of methodological approaches to research, she has expertise in Community-Based Participatory Research (CBPR) and use of mixed methodology (qualitative/quantitative), particularly as it relates to culturally relevant needs/assets assessments. She also leads a number of training programs in health disparities targeting undergraduate and graduate students, post-doctoral fellows, and junior faculty in collaboration with other universities in the US and abroad.\n\nScarinci is also very dedicated to community service. One example of her community work is a 15-year program to promote breast and cervical cancer screening among Latina immigrants in Alabama that relies 100 percent on the work of committed volunteers – Sowing the Seeds of Health. She has served on the Board of Directors for United Way of Central Alabama and Girls Scouts of North-Central Alabama and on the Advisory Board for the Women’s Fund of Greater Birmingham. She is a member of the Rotary Club of Birmingham, and the Honorary Consul of Brazil to Alabama.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "466-isabel-scarincisearles",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "OB/GYN"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "466",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 103,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 184,
+      "favourites": 0
+    }
+  },
+  "firstName": "Isabel",
+  "firstNameLastName": "Isabel Scarinci-Searles",
+  "equipmentLinkTypes": [],
+  "objectId": 466,
+  "updatedWhen": "2025-05-10T08:03:12.8754299-05:00",
+  "hasCollaborationData": true,
+  "email": "scarinci@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Breast Cancer Cancer Cervical Cancer Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Lung Lung Cancer Minority Health Physical Activity Prevention Rehabilitation Rural Health Sexually Transmitted Infections Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Women's Health",
+  "grant_keywords": ""
+}

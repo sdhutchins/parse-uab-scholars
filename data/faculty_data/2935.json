@@ -1,0 +1,122 @@
+{
+  "lastName": "Morris",
+  "overview": "Dr. Morris studied aquatic ecology with Joseph Dirnberger at Kennesaw State University in North Georgia as an undergraduate before moving into marine microbiology during his graduate studies at the University of Tennessee under Dr. Erik Zinser. He was a NASA Astrobiology Institute postdoctoral fellow working in Richard Lenski’s lab at Michigan State University until 2014, where he studied the role of reductive evolution in structuring microbial communities.\n\nJeff is currently an assistant professor in the Department of Biology at the University of Alabama at Birmingham. He brews his own beer and mead and entertains himself in his spare time listening to very loud and unpleasant music. He’s very happily married to an organic farmer and has two children, Hippolyta and Eirik. Jeff Tweets about microbiology, evolution, and academic life at @ASDarwinist.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2935-jeffrey-morris",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "2935",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 144,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 51,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jeffrey",
+  "firstNameLastName": "Jeffrey Morris",
+  "equipmentLinkTypes": [],
+  "objectId": 2935,
+  "updatedWhen": "2025-05-10T08:08:32.6638993-05:00",
+  "hasCollaborationData": true,
+  "email": "evolve@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Emerging Infectious Diseases Genetics Infectious Diseases",
+  "grant_keywords": "Health Disparities Minority Health"
+}

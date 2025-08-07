@@ -1,0 +1,125 @@
+{
+  "lastName": "Taub",
+  "overview": "Edward Taub is a University Professor in the Department of Psychology and is the director of the CI Therapy Research Group and Taub Training Clinic. He received his PhD in psychology from New York University in 1970 under the supervision of Dr. Edgar E. Coons and later worked with Dr. Neil E. Miller.\n\nDr. Taub is a behavioral neuroscientist who developed a family of techniques — Constraint-Induced Movement therapy (or CI therapy) — that have been shown to be effective in improving the rehabilitation of movement after stroke, traumatic brain injury, cerebral palsy in young children, multiple sclerosis, and other neurological injuries. He also has developed a form that is efficacious in the treatment of post-stroke aphasia. This work is associated with his study of the nature of the plastic brain reorganization induced by CI therapy and the ways it can be harnessed to produce new treatments in neurorehabilitation. An important part of his laboratory’s work is devoted to identifying these processes in the patients receiving CI therapy, using such structural imaging methods as voxel-based morphometry (VBM) and Diffusion Tensor Imaging (DTI), and most recently magnetic resonance spectroscopy (MRS).\n\nResearch with pediatric patients with cerebral palsy and adults with MS is ongoing. Pilot work has begun using a progression of training techniques to enable motor complete tetraplegic patients paralyzed from the neck down to operate their wheelchair by hand movements applied to an armrest-based toggle switch and to feed themselves by raising hand to mouth.\n\nOver 700 papers have been published on the effects of CI therapy in its various forms, and the treatment was the subject of the first successful multi-center randomized clinical trial for upper extremity stroke rehabilitation funded by NIH. Dr. Taub is the recipient of nine national society awards for his research. His body of CI therapy research was named by the Society of Neuroscience as one of the top 10 Translational Neuroscience Accomplishments of the 20th century and one of the 10 “most exciting lines of neuroscience” being carried out. He is past president of the Biofeedback Society of America, has been on the Board of Directors of four scientific societies and is a Past President, Section J (Psychology) of AAAS.\n\nThe research training in Dr. Taub’s laboratory is based on the Method of Strong Inference: experiments are designed on the basis of “logic trees” and consider multiple alternate hypotheses. Graduate students are strongly encouraged to publish their results. In the past, students have averaged two senior-authored papers, three co-authorships, and multiple society presentations.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2748-edward-taub",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "University Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "2748",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 236,
+      "favourites": 0
+    }
+  },
+  "firstName": "Edward",
+  "firstNameLastName": "Edward Taub",
+  "equipmentLinkTypes": [],
+  "objectId": 2748,
+  "updatedWhen": "2025-05-10T08:08:22.0070853-05:00",
+  "hasCollaborationData": true,
+  "email": "etaub@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Behavioral and Social Science Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Coronaviruses Minority Health Neurodegenerative Neurosciences Rehabilitation Stroke",
+  "grant_keywords": "Aging Aphasia Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Cerebral Palsy Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Neurosciences Pediatric Perinatal Period - Conditions Originating in Perinatal Period Physical Rehabilitation Rehabilitation Stroke"
+}

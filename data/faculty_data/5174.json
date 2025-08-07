@@ -1,0 +1,127 @@
+{
+  "discoveryId": "5174",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 29,
+      "favourites": 0
+    }
+  },
+  "lastName": "Thomas",
+  "firstName": "Stephen",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5174-stephen-thomas",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Stephen Thomas",
+  "equipmentLinkTypes": [],
+  "objectId": 5174,
+  "updatedWhen": "2025-05-10T08:12:02.7590855-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sjthomas@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cardiovascular Chronic Pain Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health HIV/AIDS Heart Disease Hematology Mental Health Minority Health Neurosciences Pain Research Pediatric Research Initiative Prevention Rare Diseases Sickle Cell Disease Sleep Research",
+  "grant_keywords": "Aging Behavioral and Social Science Cardiovascular Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Hypertension Kidney Disease Minority Health Physical Activity Prevention Sleep Research"
+}

@@ -1,0 +1,126 @@
+{
+  "lastName": "Mirman",
+  "overview": "Dr. Mirman is a scientist, educator, and mentor in the Lifespan Developmental Psychology program who conducts basic and applied research in the area of child and adolescent health and development. Dr. Mirman attended the University of Delaware from 1998-2002 earning a BA in Psychology, and Fordham University from 2002-2006 earning a PhD in Applied Developmental Psychology. She completed her practicum training at The Children's Aid Society of New York focusing on the development and evaluation of health promotion programs for children and their parents. Dr. Mirman then spent two years in the non-profit sector developing and evaluating positive youth development programs for at-risk youth in Philadelphia. Prior to joining the faculty at UAB, she was a Scientist at The Children's Hospital of Philadelphia's Research Institute and Division of Adolescent Medicine from 2008-2016.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3631-jessica-mirman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Transportation and Freight Services",
+          "and Freight Services",
+          "Freight Services",
+          "Services"
+        ],
+        "value": "Transportation and Freight Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Automotive Engineering",
+          "Engineering"
+        ],
+        "value": "Automotive Engineering"
+      }
+    ]
+  },
+  "discoveryId": "3631",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 57,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jessica",
+  "firstNameLastName": "Jessica Mirman",
+  "equipmentLinkTypes": [],
+  "objectId": 3631,
+  "updatedWhen": "2025-05-10T08:09:49.3570706-05:00",
+  "hasCollaborationData": true,
+  "email": "jhmirman@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Childhood Injury Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Mind and Body Minority Health Pediatric Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Unintentional Childhood Injury Violence Research",
+  "grant_keywords": ""
+}

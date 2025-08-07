@@ -1,0 +1,44 @@
+{
+  "discoveryId": "4888",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mastin",
+  "firstName": "Michelle",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4888-michelle-mastin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Assistant Professor",
+      "department": "Pediatric - Gastroenterology, Hepatology, & Nutrition"
+    }
+  ],
+  "firstNameLastName": "Michelle Mastin",
+  "equipmentLinkTypes": [],
+  "objectId": 4888,
+  "updatedWhen": "2025-05-10T08:11:33.9732638-05:00",
+  "hasCollaborationData": false,
+  "email": "mastme@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

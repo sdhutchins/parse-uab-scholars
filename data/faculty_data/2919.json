@@ -1,0 +1,124 @@
+{
+  "lastName": "McFarland",
+  "overview": "My research interests have always been centered on glioblastoma (GBM) tumors, a particularly devastating brain tumor. My current research interests are centered around discovering new therapies for patients with GBM, which include pharmacological inhibition of the JAK/STAT pathway in patient-derived xenograft models, exploiting inflammatory (anti-tumor) macrophages to enhance standard of care in immunocompetent models, and understanding how the gut microbiome is altered by the diet as well as by certain drug therapies in mouse models of glioma.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2919-braden-mcfarland",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "2919",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 69,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 43,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 48,
+      "favourites": 0
+    }
+  },
+  "firstName": "Braden",
+  "firstNameLastName": "Braden McFarland",
+  "equipmentLinkTypes": [],
+  "objectId": 2919,
+  "updatedWhen": "2025-05-10T08:08:32.6449023-05:00",
+  "hasCollaborationData": true,
+  "email": "bdcox@uab.edu",
+  "publication_keywords": "Brain Cancer Brain Disorders Cancer Cancer Genomics Genetics Human Genome Immunotherapy Microbiome Neurosciences Rare Diseases",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Clinical Research Genetics Human Genome Immunotherapy Microbiome Neurosciences Radiation Oncology Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human"
+}

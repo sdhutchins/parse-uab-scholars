@@ -1,0 +1,129 @@
+{
+  "lastName": "Brown",
+  "overview": "Dr. Brown is an Associate Professor of Medicine in the UAB Division of Cardiovascular Disease.  He attended medical school at the Louisiana State University (LSU) Health Sciences Center in New Orleans, LA and completed his Internal Medicine training at the LSU Internal Medicine Residency in Baton Rouge, LA where he served as Chief Medical Resident.  After finishing his training at LSU, he came to UAB to pursue his Cardiovascular Disease training.  While at UAB, he completed a MSPH in health services and outcomes research and also served as Chief Fellow during his final year of fellowship.  After fellowship, Dr. Brown joined the UAB faculty in the Preventive Cardiology Section of the UAB Division of Cardiovascular Disease where he is an Associate Professor and also serves as the Director of Outpatient Services and Associate Program Director of the Cardiovascular Disease Fellowship Program.  In addition to his clinical responsibilities, he is actively involved in research focusing on the epidemiology and secondary prevention of cardiovascular diseases including studying the utilization and benefits of cardiac rehabilitation. He also currently serves on the American Association of Cardiovascular and Pulmonary Rehabilitation (AACVPR) Board of Directors as well as national committees for the American Heart Association and American College of Cardiology. In recent years, he has been heavily involved in the AACVPR cardiac and pulmonary rehabilitation registries.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "331-todd-brown",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "331",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 37,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 268,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 123,
+      "favourites": 0
+    }
+  },
+  "firstName": "Todd",
+  "firstNameLastName": "Todd Brown",
+  "equipmentLinkTypes": [],
+  "objectId": 331,
+  "updatedWhen": "2025-05-10T08:02:47.6198774-05:00",
+  "hasCollaborationData": true,
+  "email": "tmbrown@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Behavioral and Social Science Cardiovascular Clinical Research Heart Disease Minority Health Nutrition Obesity Physical Activity Physical Rehabilitation Prevention Rehabilitation Women's Health",
+  "grant_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Genetics Health Disparities Human Genome Minority Health Precision Medicine Prevention"
+}

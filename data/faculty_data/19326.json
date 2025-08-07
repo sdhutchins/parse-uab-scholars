@@ -1,0 +1,132 @@
+{
+  "discoveryId": "19326",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hensley",
+  "firstName": "Christopher",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19326-christopher-hensley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Christopher Hensley",
+  "equipmentLinkTypes": [],
+  "objectId": 19326,
+  "updatedWhen": "2025-05-10T08:21:21.6262904-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Cancer Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Therapy (excl. Chemotherapy and Radiation Therapy)",
+          "Therapy (excl. Chemotherapy and Radiation Therapy)",
+          "(excl. Chemotherapy and Radiation Therapy)",
+          "Chemotherapy and Radiation Therapy)",
+          "and Radiation Therapy)",
+          "Radiation Therapy)",
+          "Therapy)"
+        ],
+        "value": "Cancer Therapy (excl. Chemotherapy and Radiation Therapy)"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Diagnosis",
+          "Diagnosis"
+        ],
+        "value": "Cancer Diagnosis"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nuclear Medicine",
+          "Medicine"
+        ],
+        "value": "Nuclear Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Radiation Therapy",
+          "Therapy"
+        ],
+        "value": "Radiation Therapy"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cell Metabolism",
+          "Metabolism"
+        ],
+        "value": "Cell Metabolism"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "cthensle@uab.edu",
+  "publication_keywords": "Biomedical Imaging Breast Cancer Cancer Clinical Research Lung Lung Cancer Nutrition Women's Health",
+  "grant_keywords": ""
+}

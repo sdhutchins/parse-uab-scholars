@@ -1,0 +1,128 @@
+{
+  "lastName": "Huh",
+  "overview": "Warner K. Huh, MD, MSHA is Chair of the Department of Obstetrics and Gynecology and holds the Charles E. Flowers, Jr. Endowed Chair in the Department of Obstetrics and Gynecology at the University of Alabama at Birmingham (UAB). He is also Professor in the Department of Surgery and Professor in the Department of Epidemiology in the UAB School of Public Health. He was previously the Division Director of Gynecologic Oncology, Vice Chair of Gynecology, and Chief Medical Officer of the UAB Cancer Service Line/O’Neal Comprehensive Cancer Center.  His research interests include screening and prevention of HPV related diseases as well as novel immunotherapeutic approaches for pre-invasive disease of the cervix as well as cervical cancer. He has authored or co-authored over 300 articles in journals including The New England Journal of Medicine, Lancet, Lancet Oncology, Journal of the National Cancer Institute Cancer, Clinical Cancer Research, Gynecologic Oncology, Obstetrics & Gynecology, and the American Journal of Obstetrics & Gynecology (h-index: 70). Dr. Huh serves as co-PI of the Johns Hopkins-UAB-University of Colorado Cervical Cancer Specialized Programs of Research Excellence (SPORE) program (2P50CA098252-06A1). Dr. Huh serves as a Deputy Editor of Gynecologic Oncology and serves as an Associate Editor of The Journal of Lower Genital Tract Disease.  He is on the steering committee for the ASCCP treatment guidelines and was co-chair of the ASCCP colposcopy standards effort. He is Past President of the Society of Gynecologic Oncology (SGO) and ASCCP. He is currently serves on the American Board of Obstetrics and Gynecology (ABOG) Division of Gynecologic Oncology. He recently completed the Executive Master of Science in Health Administration (MSHA) Program at UAB (2022-2024).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "769-warner-huh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "OB/GYN"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "769",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 128,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 370,
+      "favourites": 0
+    }
+  },
+  "firstName": "Warner",
+  "firstNameLastName": "Warner Huh",
+  "equipmentLinkTypes": [],
+  "objectId": 769,
+  "updatedWhen": "2025-05-10T08:04:02.5057387-05:00",
+  "hasCollaborationData": true,
+  "email": "whuh@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Bioengineering Biomedical Imaging Cancer Cervical Cancer Clinical Research Health Disparities Health Services Infectious Diseases Minority Health Prevention Sexually Transmitted Infections Women's Health",
+  "grant_keywords": ""
+}

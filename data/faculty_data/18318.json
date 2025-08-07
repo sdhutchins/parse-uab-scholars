@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18318",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Unnikrishnan",
+  "firstName": "Avinash",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18318-avinash-unnikrishnan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Avinash Unnikrishnan",
+  "equipmentLinkTypes": [],
+  "objectId": 18318,
+  "updatedWhen": "2025-05-10T08:19:08.9488850-05:00",
+  "hasCollaborationData": false,
+  "email": "aunnikri@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

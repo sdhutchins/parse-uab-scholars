@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2762",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 79,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 56,
+      "favourites": 3
+    }
+  },
+  "lastName": "Baker",
+  "firstName": "Elizabeth",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2762-elizabeth-baker",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Anesthesiology"
+    }
+  ],
+  "firstNameLastName": "Elizabeth Baker",
+  "equipmentLinkTypes": [],
+  "objectId": 2762,
+  "updatedWhen": "2025-05-12T03:21:24.6316076-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Demography"
+        ],
+        "value": "Demography"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ebaker@uab.edu",
+  "publication_keywords": "Aging Cancer Clinical Research Colo-Rectal Cancer Cystic Fibrosis Digestive Diseases Lung Organ Transplantation Prevention Rare Diseases Tobacco Tobacco Smoke and Health Transplantation",
+  "grant_keywords": "Clinical Research Health Disparities Obesity Precision Medicine Rural Health"
+}

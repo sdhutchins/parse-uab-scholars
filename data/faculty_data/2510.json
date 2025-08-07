@@ -1,0 +1,128 @@
+{
+  "lastName": "Atigadda",
+  "overview": "I am originally from Hyderabad, a city located in southern part of India. After a BS degree in pharmacy I came to the US for graduate education at Auburn University. I obtained a PhD in medicinal chemistry from the Harrison School of Pharmacy, Auburn University.  \n\nAfter my PhD, I came to UAB in pursuit of a post-doctoral fellowship. After completing my post-doctoral work, I accepted a research faculty position at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2510-venkatram-atigadda",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Dermatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2510",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 52,
+      "favourites": 0
+    }
+  },
+  "firstName": "Venkatram",
+  "firstNameLastName": "Venkatram Atigadda",
+  "equipmentLinkTypes": [],
+  "objectId": 2510,
+  "updatedWhen": "2025-05-10T08:07:50.4793012-05:00",
+  "hasCollaborationData": true,
+  "email": "venkatra@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Biotechnology Brain Disorders Cancer Cancer Genomics Complementary and Integrative Health Dementia Digestive Diseases Genetics Human Genome Lewy Body Dementia Liver Disease Neurodegenerative Neurosciences Parkinson's Disease Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": "Aging Biotechnology Breast Cancer Cancer Climate-Related Exposures and Conditions Estrogen Genetics Human Genome Nutrition Obesity Prevention Women's Health"
+}

@@ -1,0 +1,123 @@
+{
+  "discoveryId": "6769",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 34,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 61,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 210,
+      "favourites": 0
+    }
+  },
+  "lastName": "Berkowitz",
+  "firstName": "Dan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6769-dan-berkowitz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Anesthesiology"
+    }
+  ],
+  "firstNameLastName": "Dan Berkowitz",
+  "equipmentLinkTypes": [],
+  "objectId": 6769,
+  "updatedWhen": "2025-05-10T08:13:42.6863040-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dberkow1@uab.edu",
+  "publication_keywords": "Bioengineering Cardiovascular Contraception/Reproduction Genetics Hypertension Lung Machine Learning and Artificial Intelligence Maternal Health Networking and Information Technology R&D (NITRD) Pediatric Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Pregnancy Pulmonary Hypertension Women's Health",
+  "grant_keywords": ""
+}

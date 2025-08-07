@@ -1,0 +1,123 @@
+{
+  "lastName": "Harms",
+  "overview": "My lab's overall research goal is to understand and investigate the cellular and immunological mechanisms underlying the initiation and progression of synucleinopathy disorders. Specifically, my lab research focuses on how the protein alpha-synuclein contributes to microglial activation, peripheral immune cell infiltration, and subsequent activation of the immune response in Parkinson disease (PD) and Multiple System Atrophy (MSA) models. In the lab we work  with multiple immune cell types, including myeloid cell subsets and T cells  to pursue research regarding these mechanisms. Therapeutic strategies targeting and blocking immune system activation have been neuroprotective, however, differentially targeting immune cell subsets in the central nervous system (CNS), specifically microglia, without undesirable effects on extra-CNS immunity has been a challenge. By combining transgenic animals with an alpha-synuclein viral models of PD and MSA to study the role of immune cells subsets, we aim to  dissect mechanisms of immune-mediated disease pathogenesis in synucleinopathy disorders.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2992-ashley-harms",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "2992",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 35,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 47,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ashley",
+  "firstNameLastName": "Ashley Harms",
+  "equipmentLinkTypes": [],
+  "objectId": 2992,
+  "updatedWhen": "2025-05-10T08:08:43.2789171-05:00",
+  "hasCollaborationData": true,
+  "email": "anharms@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Dementia Genetics Immunotherapy Microbiome Neurodegenerative Neurosciences Parkinson's Disease Rare Diseases",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Biotechnology Brain Disorders Dementia Frontotemporal Dementia (FTD) Gene Therapy Genetics Neurodegenerative Neurosciences Orphan Drug Rare Diseases"
+}

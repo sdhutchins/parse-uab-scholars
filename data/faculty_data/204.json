@@ -1,0 +1,121 @@
+{
+  "discoveryId": "204",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 43,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 97,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 94,
+      "favourites": 1
+    }
+  },
+  "lastName": "Bolding",
+  "firstName": "Mark",
+  "hasThumbnail": true,
+  "discoveryUrlId": "204-mark-bolding",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Mark Bolding",
+  "equipmentLinkTypes": [],
+  "objectId": 204,
+  "updatedWhen": "2025-05-10T08:02:34.9890606-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mbolding@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Epilepsy Eye Disease and Disorders of Vision Mental Health Neurodegenerative Neurosciences Patient Safety Physical Injury - Accidents and Adverse Effects Radiation Oncology Rehabilitation Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury",
+  "grant_keywords": "Biotechnology Brain Disorders Cerebrovascular Childhood Obesity Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Diabetes Digestive Diseases Hepatitis Liver Disease Neurosciences Nutrition Obesity Pediatric Prevention Stroke"
+}

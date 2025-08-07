@@ -1,0 +1,119 @@
+{
+  "discoveryId": "2210",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 100,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dybvig",
+  "firstName": "Kevin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2210-kevin-dybvig",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Research Professor",
+      "department": "Pediatric - Allergy & Immunology"
+    }
+  ],
+  "firstNameLastName": "Kevin Dybvig",
+  "equipmentLinkTypes": [],
+  "objectId": 2210,
+  "updatedWhen": "2025-05-10T08:07:03.7214455-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dybvig@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Genetics Human Genome Infectious Diseases Lung Pneumonia Pneumonia & Influenza",
+  "grant_keywords": "Arthritis Autoimmune Disease Biotechnology Genetics Immunization Infectious Diseases Prevention Rare Diseases Vaccine Related"
+}

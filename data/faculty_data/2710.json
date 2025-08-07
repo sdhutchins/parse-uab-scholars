@@ -1,0 +1,121 @@
+{
+  "lastName": "Vohra",
+  "overview": "Dr, Yogesh Vohra is a Professor and University Scholar in the Department of Physics at UAB. Dr. Vohra is the founding Director of the UAB Center for Nanoscale Materials and Biointegration (CNMB) and also serves as an Associate Dean in the UAB college of Arts and Sciences (CAS). Dr. Vohra is a Chartered Physicist and Fellow of the Institute of Physics, United Kingdom. Dr. Vohra has a BS and MS degree from the University of Delhi and a PhD in physics from the University of Mumbai, India and conducted postdoctoral research at Cornell University in Ithaca, New York and was a postdoctoral Humboldt Fellow at the University of Paderborn in Germany. Dr. Vohra directs the NSF and NASA supported Research Experiences for Undergraduates (REU)-Site program on UAB campus. Dr. Vohra serves as the UAB Campus Director for the NASA-Alabama Space Grant Program (ASGC) program and is the UAB Member Councilor for the Oak Ridge Associate Universities (ORAU).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2710-yogesh-vohra",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Physics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nanotechnology"
+        ],
+        "value": "Nanotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "2710",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 48,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 251,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 443,
+      "favourites": 0
+    }
+  },
+  "firstName": "Yogesh",
+  "firstNameLastName": "Yogesh Vohra",
+  "equipmentLinkTypes": [],
+  "objectId": 2710,
+  "updatedWhen": "2025-05-10T08:08:11.1141651-05:00",
+  "hasCollaborationData": true,
+  "email": "ykvohra@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

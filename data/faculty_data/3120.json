@@ -1,0 +1,120 @@
+{
+  "lastName": "Orihuela",
+  "overview": "Dr. Orihuela obtained his Bachelor of Science degree from Baylor University in 1996. He subsequently earned his PhD in Microbiology and Immunology from the University of Texas Medical Branch at Galveston where he was the recipient of a National Science Foundation Predoctoral Fellowship and a Kempner Scholar. From 2001 to 2005, Dr. Orihuela completed his postdoctoral research training in the Department of Infectious Diseases at St. Jude Children's Research Hospital in Memphis TN. He returned to Texas in 2005, as an Assistant Professor in the Department of Microbiology and Immunology at The University of Texas Health Science Center at San Antonio. While at San Antonio, Dr. Orihuela was promoted with tenure to Associate Professor and recipient of the Presidential Junior Research Scholar Award, Distinguished Hispanic Faculty Award from the Graduate School, and Glenn Award for Research in Biological Mechanisms of Aging. In Fall of 2015 Dr. Orihuela joined the Department of Microbiology at UAB where he is now a full Professor, Vice-Chair of Faculty Development, and Interim-Chair of the Department. Dr. Orihuela is an elected member of the American Academy of Microbiology and has served as a Distinguished Speaker for the American Society of Microbiology. He has served as member of the Host Interactions with Bacterial Pathogens Study Section for the NIH, is currently an Associate Editor for the journals PLoS Pathogens, mBIO, and Infection and Immunity, and was the senior editor of a book on the molecular mechanisms of Streptococcus pneumoniae pathogenesis.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3120-carlos-orihuela",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "3120",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 46,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 154,
+      "favourites": 0
+    }
+  },
+  "firstName": "Carlos",
+  "firstNameLastName": "Carlos Orihuela",
+  "equipmentLinkTypes": [],
+  "objectId": 3120,
+  "updatedWhen": "2025-05-10T08:08:52.9408644-05:00",
+  "hasCollaborationData": true,
+  "email": "corihuel@uab.edu",
+  "publication_keywords": "Biotechnology Cardiovascular Clinical Research Genetics Heart Disease Heart Disease - Coronary Heart Disease Immunization Infectious Diseases Kidney Disease Lung Pneumonia Pneumonia & Influenza Vaccine Related",
+  "grant_keywords": "Biodefense Cardiovascular Emerging Infectious Diseases Heart Disease Heart Disease - Coronary Heart Disease Infectious Diseases Influenza Lung Pneumonia Pneumonia & Influenza"
+}

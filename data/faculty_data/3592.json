@@ -1,0 +1,75 @@
+{
+  "lastName": "Dagley",
+  "overview": "Scholarship\n\nI am fascinated by a variety of topics relevant to educational leadership, yet spend the majority of my time in research related to school law. I am particularly interested in First Amendment speech rights of employees and students, immorality, privacy, and how legislation and policies impact education systems.\n\nService\n\nI provide presentations for school groups and professional associations in school law. I serve on the faculty editorial board of the Education Law and Policy Review, and serve as a member of the monograph committee for the Education Law Association.\n\nPersonal\n\nMy natural curiosity and penchant for research, combined with my love of teaching, make my career the perfect choice for me. Outside of work I stay busy with my family. When I find some time to myself I enjoy reading a good book, and pursuing artistic endeavors.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3592-amy-dagley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      }
+    ]
+  },
+  "discoveryId": "3592",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 161,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "firstName": "Amy",
+  "firstNameLastName": "Amy Dagley",
+  "equipmentLinkTypes": [],
+  "objectId": 3592,
+  "updatedWhen": "2025-05-10T08:09:49.3390696-05:00",
+  "hasCollaborationData": false,
+  "email": "dagley@uab.edu",
+  "publication_keywords": "Minority Health",
+  "grant_keywords": ""
+}

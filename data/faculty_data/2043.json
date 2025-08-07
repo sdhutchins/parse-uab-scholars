@@ -1,0 +1,123 @@
+{
+  "lastName": "Burrows",
+  "overview": "In 2016, I became a Professor Emeritus of Microbiology with four decades of experience as a B cell biologist and molecular immunologist.  I obtained my PhD and completed my first postdoctoral studies at UAB with Drs. Sandy Lawton, John Kearney and Max Cooper, working on B cell development.  I then pursued further post-doctoral training with Dr. Matthias Wabl at the Max Planck Institute, Tübingen, Germany, elucidating the molecular mechanisms underlying immunoglobulin heavy chain class switching and allelic exclusion in preB cells.  I was recruited back to UAB in 1983 and rose through the ranks to full professor, continuing to work on mechanisms of early and late B cell development in humans and mice. Although emeritus, I continue to be active in research, teaching and departmental/university functions. I am also a consultant for a biotech firm, Trianni/AbCellera, and for a research institute in Yokohama Japan, The RIKEN Center for Integrative Medical Sciences.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2043-peter-burrows",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2043",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 240,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 113,
+      "favourites": 0
+    }
+  },
+  "firstName": "Peter",
+  "firstNameLastName": "Peter Burrows",
+  "equipmentLinkTypes": [],
+  "objectId": 2043,
+  "updatedWhen": "2025-05-10T08:06:35.9310109-05:00",
+  "hasCollaborationData": true,
+  "email": "peterb@uab.edu",
+  "publication_keywords": "Aging Asthma Biotechnology Eczema / Atopic Dermatitis Food Allergies Genetics Lung Osteoporosis",
+  "grant_keywords": "Autoimmune Disease Biotechnology Clinical Research Genetics HIV/AIDS Immunization Infectious Diseases Kidney Disease Lupus Prevention Sexually Transmitted Infections Stem Cell Research Stem Cell Research - Embryonic - Non-Human Vaccine Related Vaccine Related (AIDS)"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1384",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Carr",
+  "firstName": "Kimberly",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1384-kimberly-carr",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "firstNameLastName": "Kimberly Carr",
+  "equipmentLinkTypes": [],
+  "objectId": 1384,
+  "updatedWhen": "2025-05-10T08:05:15.7878404-05:00",
+  "hasCollaborationData": false,
+  "email": "krcarr97@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

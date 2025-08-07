@@ -1,0 +1,45 @@
+{
+  "discoveryId": "12139",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Allen Watts",
+  "overview": "Dr. Watts obtained her PhD from the University of Alabama in 2018, became a postdoctoral fellow at UAB in 2019, and then took a position as an Assistant Professor at Indiana University in 2022. Her research interest is examining the unique self-management needs of diabetes multi-morbidity   (i.e. chronic pain, cardiovascular disease, HIV, and cognitive impairment) among under-resourced/under-represented communities. The ultimate goal is improving patient self-management and self-efficacy by focusing on self-identified needs.",
+  "firstName": "Kristen",
+  "hasThumbnail": true,
+  "discoveryUrlId": "12139-kristen-allen-watts",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Kristen Allen Watts",
+  "equipmentLinkTypes": [],
+  "objectId": 12139,
+  "updatedWhen": "2025-05-10T08:15:10.8598989-05:00",
+  "hasCollaborationData": false,
+  "email": "krallen@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

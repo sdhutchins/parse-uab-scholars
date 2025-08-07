@@ -1,0 +1,120 @@
+{
+  "lastName": "Powell",
+  "overview": "I don’t have any aquaria at home because we maintain several hundred in our lab. Over the years I have had the opportunity to work with some very unique organisms. During my post doc I worked with hagfish and lampreys — some of the earliest vertebrates. I currently work with sea urchins, zebrafish, and our newest model a small killifish (Nothobranchius furrier) that has the distinction of being the shortest lived vertebrate in captivity.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2501-mickie-powell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2501",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 125,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 49,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mickie",
+  "firstNameLastName": "Mickie Powell",
+  "equipmentLinkTypes": [],
+  "objectId": 2501,
+  "updatedWhen": "2025-05-10T08:07:39.3909272-05:00",
+  "hasCollaborationData": true,
+  "email": "mpowell@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biotechnology Brain Disorders Chronic Pain Complementary and Integrative Health Depression Digestive Diseases Genetics Mental Health Mental Illness Nutrition Obesity Pain Research Prevention Women's Health",
+  "grant_keywords": "Aging Clinical Research Health Disparities Minority Health"
+}

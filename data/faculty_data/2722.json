@@ -1,0 +1,125 @@
+{
+  "lastName": "Cook",
+  "overview": "The general focus and goal of Dr. Cook's research is the application of psychophysiological methods to improve understanding of psychological and biological factors related to emotion, personality, and mental disorders. Current research uses in the startle response as a tool for exploring changes in emotional and sensory information processing that occur with changes in anxiety and mood. Startle is readily measured from humans in the laboratory, typically as contractions of the muscles surrounding the eye in response to an abrupt noise or airpuff.\n\nAlthough startle is a relatively fast and simple reflexive response, its magnitude (roughly equivalent to force or vigor) is altered by emotional state. Thus, startle responses are larger during unpleasant emotional states and smaller during pleasant emotional states. Research conducted in Dr. Cook's laboratory indicates that the degree to which these changes occur varies with personality characteristics (such as fearfulness and tendencies toward dissociative or schizotypal thinking). Complementary findings from other laboratories indicate similar differences among anxiety disordered groups and among psychopaths. Because the neural basis of startle modulation is well-researched in animals, startle modulation abnormalities in humans can be used to suggest neural mechanisms and abnormalities that lead to or are associated with personality problems and mental illnesses. A current project examines this hypothesis using functional neuroimaging. \n\nDr. Cook's research has primarily been funded by the National Institute of Mental Health, with smaller grants coming from the National Institute on Aging and the National Institute of Dental Research, as well as the Graduate School and the Center for Neuroimaging Research at UAB.\n\nDr. Cook is a licensed clinical psychologist who maintains a small private practice, primarily providing treatment for anxiety and depressive disorders.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2722-edwin-cook",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychology"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "2722",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 387,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 56,
+      "favourites": 0
+    }
+  },
+  "firstName": "Edwin",
+  "firstNameLastName": "Edwin Cook",
+  "equipmentLinkTypes": [],
+  "objectId": 2722,
+  "updatedWhen": "2025-05-10T08:08:11.1271686-05:00",
+  "hasCollaborationData": true,
+  "email": "ecook@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Childhood Leukemia Childhood Obesity Clinical Research Clinical Trials and Supportive Activities Health Disparities Hematology Mental Health Mental Illness Mind and Body Minority Health Neurodegenerative Neurosciences Nutrition Obesity Pediatric Pediatric Cancer Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Post-Traumatic Stress Disorder (PTSD) Prevention Rare Diseases Sleep Research Social Determinants of Health Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury Violence Research Youth Violence Youth Violence Prevention",
+  "grant_keywords": ""
+}

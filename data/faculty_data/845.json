@@ -1,0 +1,110 @@
+{
+  "discoveryId": "845",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 36,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 20,
+      "favourites": 0
+    }
+  },
+  "lastName": "Romp",
+  "firstName": "Robb",
+  "hasThumbnail": false,
+  "discoveryUrlId": "845-robb-romp",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Cardiology"
+    }
+  ],
+  "firstNameLastName": "Robb Romp",
+  "equipmentLinkTypes": [],
+  "objectId": 845,
+  "updatedWhen": "2025-05-10T08:04:12.9576202-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rromp@uab.edu",
+  "publication_keywords": "Brain Disorders Cardiovascular Clinical Research Congenital Heart Disease Congenital Structural Anomalies Diabetes Genetics Heart Disease Neurosciences Orphan Drug Pediatric Cardiomyopathy Pediatric Research Initiative Prevention Rare Diseases Transplantation Tuberous Sclerosis",
+  "grant_keywords": ""
+}

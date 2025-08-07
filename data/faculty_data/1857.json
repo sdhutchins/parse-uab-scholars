@@ -1,0 +1,130 @@
+{
+  "lastName": "Moellering",
+  "overview": "Douglas “Doug” Moellering, Ph.D., is a Professor at the University of Alabama at Birmingham, School of Health Professions, and Department of Nutrition Sciences. He is the Director of the UAB IRCP/DRC/NORC/Heersink School of Medicine-supported Bioanalytical Redox Biology (BARB) Core, serving multiple investigators in measuring functional mitochondrial physiology, bioenergetics, enzyme activity, markers of oxidative stress, and/or reactive oxygen species formation along with measures of chronic stress using a non-invasive collection of hair or fingernails.  Doug espouses and thinks education, either formal or informal, is meant to inspire us to think and positively influence a learner’s desire to ask questions and learn. Doug shares and disseminates knowledge from benchtop and clinical research not only in his published manuscripts and courses but to Birmingham and Alabama communities and has served as a representative on the One Great Community Council, which is the community engagement component for UAB’s Center for Clinical and Translational Science. He has been an invited speaker at local libraries to speak about Cities for Life for a Healthier Birmingham, through the American Academy of Family Physicians Foundation, the Birmingham-Jefferson Food Policy Summit, local schools and other organizations. He briefly served as the Interim Director of the School of Health Professions Office of Student Services and Advising. He is a past Director of the Nutrition Sciences B.S. in Biobehavioral Nutrition and Wellness and undergraduate Nutrition Sciences minor. He is a past Chairperson of the UAB Faculty Senate Undergraduate Curriculum Committee and the School of Health Professions Academic Affairs Committee.  The School of Health Professions recognized him with an award in 2019 for “Excellence in Service” and UAB recognized Doug with the President's Award for \"Excellence in Teaching\" in the School of Health Professions in 2023.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1857-douglas-moellering",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "1857",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 65,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 86,
+      "favourites": 0
+    }
+  },
+  "firstName": "Douglas",
+  "firstNameLastName": "Douglas Moellering",
+  "equipmentLinkTypes": [],
+  "objectId": 1857,
+  "updatedWhen": "2025-05-10T08:06:12.2778178-05:00",
+  "hasCollaborationData": true,
+  "email": "dmoellering@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Hypertension Mental Health Microbiome Minority Health Nutrition Physical Activity Prevention Rehabilitation Social Determinants of Health Women's Health",
+  "grant_keywords": "Aging Antimicrobial Resistance Biodefense Breast Cancer Cachexia Cancer Chronic Obstructive Pulmonary Disease Clinical Research Diabetes Dietary Supplements Emerging Infectious Diseases Genetics Health Disparities Infectious Diseases Lung Minority Health Nutrition Obesity Orphan Drug Prevention Rare Diseases Tuberculosis Women's Health"
+}

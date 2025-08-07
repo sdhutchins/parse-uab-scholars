@@ -1,0 +1,122 @@
+{
+  "lastName": "Mestecky",
+  "overview": "Jiri Mestecky (b. 1941), Professor in the Department of Microbiology and Medicine, graduated from the School of Medicine, Charles University in Prague, Czechoslovakia in 1964. Postdoctoral studies were then performed at the Czechoslovak Academy of Sciences, Prague in the Department of Immunology headed by Professor J. Sterzl, and at UAB with Professor F.W. Kraus. A sabbatical was spent in 1976 at Rockefeller University, New York, in the laboratory of Professor H.G. Kunkel. Dr. Mestecky has served as a member of the editorial boards of the Journal of Immunology, Immunochemistry (Molecular Immunology), Infection and Immunity, Journal of Clinical Immunology, Oral Microbiology and Immunology, and International Archives of Allergy and Immunology. Outside interest include classical music and traveling.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2062-jiri-mestecky",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "2062",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 624,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jiri",
+  "firstNameLastName": "Jiri Mestecky",
+  "equipmentLinkTypes": [],
+  "objectId": 2062,
+  "updatedWhen": "2025-05-10T08:06:35.9570147-05:00",
+  "hasCollaborationData": true,
+  "email": "mestecky@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Biotechnology Clinical Research Coronaviruses Digestive Diseases Emerging Infectious Diseases Health Disparities Immunization Infectious Diseases Influenza Kidney Disease Lung Minority Health Pediatric Pneumonia & Influenza Prevention Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": "Autoimmune Disease Biotechnology Clinical Research HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunization Infectious Diseases Kidney Disease Minority Health Pediatric Research Initiative Prevention Rare Diseases Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS) Women's Health"
+}

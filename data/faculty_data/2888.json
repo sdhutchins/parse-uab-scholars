@@ -1,0 +1,73 @@
+{
+  "lastName": "Somerall",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2888-william-somerall",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "suffix": "Jr.",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "2888",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 368,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 25,
+      "favourites": 0
+    }
+  },
+  "firstName": "William",
+  "firstNameLastName": "William Somerall",
+  "equipmentLinkTypes": [],
+  "objectId": 2888,
+  "updatedWhen": "2025-05-10T08:08:32.6258977-05:00",
+  "hasCollaborationData": true,
+  "email": "wsomeral@uab.edu",
+  "publication_keywords": "Clinical Research",
+  "grant_keywords": ""
+}

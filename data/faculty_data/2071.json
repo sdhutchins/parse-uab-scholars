@@ -1,0 +1,127 @@
+{
+  "lastName": "Thompson",
+  "overview": "Dr. Thompson received her graduate training in Marvin Wickens’ laboratory on translational control during early development. As a post-doctoral fellow in Peter Sarnow's laboratory, she developed her expertise in internal ribosome entry site (IRES) mediated mechanisms of translation initiation. She is interested in understanding how IRESs recruit ribosomes and initiate translation. She discovered that a ribosomal protein S25 (eS25/RPS25) on the small ribosomal subunit was essential for IRES-mediated translation, but its knockdown or deletion had no effect on cap-dependent translation initiation. Importantly, her group was the first to show that a cellular protein was essential for diverse mechanisms of non-canonical initiation when they demonstrated that eS25 is also required for ribosomal shunting. Dr. Thompson's group is also interested in understanding the role of host factors in viral amplification. They identified 66 and 79 novel host factors for poliovirus and dengue virus using our thio-uridine cross-linking-mass spectrometry method (TUX-MS). This method has a remarkably low false discovery rate of <12%. Mechanistic studies of these host factors have revealed that they are indeed important for viral amplification. More recently, Dr. Thompson has initiated studies on understanding how polyomaviruses regulated the cell cycle for viral replication.  Her group demonstrated that BK polyomavirus activates the DNA damage response to prolong S phase, which both allows for viral replication and prevents host DNA damage from premature mitosis.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2071-sunnie-thompson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "2071",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 90,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sunnie",
+  "firstNameLastName": "Sunnie Thompson",
+  "equipmentLinkTypes": [],
+  "objectId": 2071,
+  "updatedWhen": "2025-05-10T08:06:35.9590917-05:00",
+  "hasCollaborationData": true,
+  "email": "sunnie@uab.edu",
+  "publication_keywords": "Emerging Infectious Diseases Genetics Infectious Diseases Sexually Transmitted Infections Transplantation",
+  "grant_keywords": "Biodefense Biotechnology Emerging Infectious Diseases Genetics Infectious Diseases Rare Diseases Vector-Borne Diseases"
+}

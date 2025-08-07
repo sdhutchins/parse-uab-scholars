@@ -1,0 +1,111 @@
+{
+  "discoveryId": "2455",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 51,
+      "favourites": 0
+    }
+  },
+  "lastName": "McDaniel",
+  "firstName": "David",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2455-david-mcdaniel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Research Associate Professor"
+    }
+  ],
+  "firstNameLastName": "David McDaniel",
+  "equipmentLinkTypes": [],
+  "objectId": 2455,
+  "updatedWhen": "2025-05-10T08:07:39.3499236-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Numerical and Computational Mathematics",
+          "and Computational Mathematics",
+          "Computational Mathematics",
+          "Mathematics"
+        ],
+        "value": "Numerical and Computational Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Distributed Computing",
+          "Computing"
+        ],
+        "value": "Distributed Computing"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "drmcd@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

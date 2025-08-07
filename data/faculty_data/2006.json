@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2006",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "lastName": "Banerjee",
+  "firstName": "Nilam",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2006-nilam-banerjee",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Nilam Banerjee",
+  "equipmentLinkTypes": [],
+  "objectId": 2006,
+  "updatedWhen": "2025-05-10T08:06:24.5193276-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "banerjee@uab.edu",
+  "publication_keywords": "Biotechnology Brain Cancer Brain Disorders Breast Cancer Cancer Cancer Genomics Cervical Cancer Clinical Research Digestive Diseases Genetics HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Infectious Diseases Orphan Drug Prevention Rare Diseases Sexually Transmitted Infections Women's Health",
+  "grant_keywords": "Biotechnology Cancer Cervical Cancer Clinical Research Genetics HIV/AIDS Immunization Infectious Diseases Orphan Drug Prevention Rare Diseases Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS) Women's Health"
+}

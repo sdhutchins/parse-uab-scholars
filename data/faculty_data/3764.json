@@ -1,0 +1,121 @@
+{
+  "discoveryId": "3764",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 556,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 38,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cinnella",
+  "firstName": "Pasquale",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3764-pasquale-cinnella",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Engineering"
+    }
+  ],
+  "firstNameLastName": "Pasquale Cinnella",
+  "equipmentLinkTypes": [],
+  "objectId": 3764,
+  "updatedWhen": "2025-05-10T08:09:59.9506112-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Interdisciplinary Engineering",
+          "Engineering"
+        ],
+        "value": "Interdisciplinary Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Numerical and Computational Mathematics",
+          "and Computational Mathematics",
+          "Computational Mathematics",
+          "Mathematics"
+        ],
+        "value": "Numerical and Computational Mathematics"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "pc1@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

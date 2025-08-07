@@ -1,0 +1,45 @@
+{
+  "discoveryId": "18039",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ianov",
+  "overview": "Dr. Ianov has considerable formal training in genetics, neuroscience, omics sequencing approaches, and bioinformatics analyses and development. Dr. Ianov is the Managing Director of the UAB Biological Data Science Core (U-BDS - https://www.uab.edu/cores/ircp/bds) and bioinformatics specialist of the Neurodevelopmental Bioinformatics Initiative from the CIRC. Dr. Ianov provides assistance to researchers in the biomedical community from UAB in the design, execution, and analysis of high-throughput sequencing studies with a focus on transcriptomics, epigenomics, single-cell/nuclei approaches. She and her team also provides support for the development of secondary pipelines and custom web applications.",
+  "firstName": "Lara",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18039-lara-ianov",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Lara Ianov",
+  "equipmentLinkTypes": [],
+  "objectId": 18039,
+  "updatedWhen": "2025-05-10T08:18:35.8204553-05:00",
+  "hasCollaborationData": true,
+  "email": "lianov@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Data Science Drug Abuse (NIDA only) Epilepsy Genetics Human Genome Mental Health Neurodegenerative Neurosciences Substance Misuse",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Autism Behavioral and Social Science Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Data Science Dementia Epilepsy Genetics Human Genome Intellectual and Developmental Disabilities (IDD) Machine Learning and Artificial Intelligence Mental Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Orphan Drug Pediatric Physical Activity Precision Medicine Prevention Rare Diseases Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human"
+}

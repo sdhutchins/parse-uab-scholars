@@ -1,0 +1,125 @@
+{
+  "lastName": "Ford",
+  "overview": "(Ph.D. – UAB; MPH – South Carolina; BS – Cornell School of Hotel Administration) Since 2017, Eric has been a Professor in the School of Public Health with a joint appointment in the Collat School of Business. Prior to that, he served as the Associate Chair and MHA Program Director in the Health Policy and Management Department in the Bloomberg School of Public Health at Johns Hopkins University. Earlier positions include serving as the Forsyth Medical Center Distinguished Professor of Healthcare at the University of North Carolina Greensboro’s Bryan School of Business. Strategic management, health information technologies, value-based programs, service integration and their combined effects on performance (both financial and population health related) are Eric’s primary areas of research. In particular, he has focused on making the link between Personal Health Record (PHR) use and its impact on care coordination.\n\nEric is the current editor of the Journal of Healthcare Management. He has served as the Academy of Management’s Healthcare Management Division’s Chair and on the board of the Association of University Programs in Health Administration (AUPHA). With his research colleagues, Eric has won numerous publication awards including two Best Theory to Practice Paper recognitions. In addition, he won the 2014 Health Care Management Division’s Teaching Award as part of the Academy of Management.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5156-eric-ford",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Public Health",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "5156",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 166,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 117,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 321,
+      "favourites": 0
+    }
+  },
+  "firstName": "Eric",
+  "firstNameLastName": "Eric Ford",
+  "equipmentLinkTypes": [],
+  "objectId": 5156,
+  "updatedWhen": "2025-05-10T08:12:02.7372471-05:00",
+  "hasCollaborationData": true,
+  "email": "ewford@uab.edu",
+  "publication_keywords": "Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

@@ -1,0 +1,125 @@
+{
+  "discoveryId": "7199",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wilroy",
+  "firstName": "Jereme",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7199-jereme-wilroy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physical Medicine & Rehabilitation"
+    }
+  ],
+  "firstNameLastName": "Jereme Wilroy",
+  "equipmentLinkTypes": [],
+  "objectId": 7199,
+  "updatedWhen": "2025-05-10T08:14:20.0512731-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jdwilroy@uab.edu",
+  "publication_keywords": "Assistive Technology Autoimmune Disease Behavioral and Social Science Bioengineering Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Multiple Sclerosis Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Nutrition Physical Activity Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Prevention Rehabilitation Social Determinants of Health Telehealth Traumatic Head and Spine Injury",
+  "grant_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Depression Mental Health Mental Illness Mind and Body Neurosciences Physical Activity Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Rehabilitation Spinal Cord Injury Traumatic Head and Spine Injury"
+}

@@ -1,0 +1,109 @@
+{
+  "lastName": "Cingolani",
+  "overview": "My lab uses biophysical, biochemical, and cellular techniques to study the structure and function of biological macromolecules. We employ rigorous chemical and physical methodologies to solve medically relevant problems that help to decipher the most fundamental mechanisms of life and contribute to improving human health.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18636-gino-cingolani",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Structural Biology (incl. Macromolecular Modelling)",
+          "Biology (incl. Macromolecular Modelling)",
+          "(incl. Macromolecular Modelling)",
+          "Macromolecular Modelling)",
+          "Modelling)"
+        ],
+        "value": "Structural Biology (incl. Macromolecular Modelling)"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Protein Trafficking",
+          "Trafficking"
+        ],
+        "value": "Protein Trafficking"
+      },
+      {
+        "paths": [
+          [
+            "Microbiology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Virology"
+        ],
+        "value": "Virology"
+      },
+      {
+        "paths": [
+          [
+            "Medical Biotechnology",
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Molecular Engineering of Nucleic Acids and Proteins",
+          "Molecular Engineering of Nucleic Acids and Proteins",
+          "Engineering of Nucleic Acids and Proteins",
+          "of Nucleic Acids and Proteins",
+          "Nucleic Acids and Proteins",
+          "Acids and Proteins",
+          "and Proteins",
+          "Proteins"
+        ],
+        "value": "Medical Molecular Engineering of Nucleic Acids and Proteins"
+      }
+    ]
+  },
+  "discoveryId": "18636",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 24,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 128,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gino",
+  "firstNameLastName": "Gino Cingolani",
+  "equipmentLinkTypes": [],
+  "objectId": 18636,
+  "updatedWhen": "2025-05-10T08:19:51.0604580-05:00",
+  "hasCollaborationData": true,
+  "email": "gcingola@uab.edu",
+  "publication_keywords": "ALS Acquired Cognitive Impairment Aging Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Bioengineering Biotechnology Brain Disorders Dementia Frontotemporal Dementia (FTD) Genetics Infectious Diseases Neurodegenerative Neurosciences Orphan Drug Rare Diseases",
+  "grant_keywords": ""
+}

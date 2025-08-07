@@ -1,0 +1,124 @@
+{
+  "lastName": "Ivankova",
+  "overview": "Nataliya V. Ivankova, PhD, MPH, is Professor in the Department of Health Services Administration with a dual appointment in the School of Nursing at the University of Alabama at Birmingham (UAB). She received her PhD in Administration, Curriculum, and Instruction from the University of Nebraska-Lincoln (UNL) in 2004 and MPH in Epidemiology from UAB in 2014. During her doctoral studies at UNL, she worked as Research Associate and Research Projects Coordinator in the Office of Qualitative and Mixed Methods Research. Dr. Ivankova is nationally and internationally recognized for her scholarly publications addressing empirical and methodological aspects of qualitative and mixed methods research and her authorship of two books (Mixed Methods Applications in Action Research: From Methods to Community Action, 2015, Sage; and Mixed Methods Research: A Guide to the Field, 2016, Sage, co-authored with Vicki Plano Clark). As an applied research methodologist, she teaches courses in mixed methods and qualitative research, mentors doctoral students, post-doctoral fellows and junior faculty, and serves as a key personnel on funded projects across disciplines. She also directs a graduate certificate program in Applications of Mixed Methods Research.\n\nDr. Ivankova is a founding Co-editor of the Mixed Methods Research Series with Sage Publishing. She serves as Associate Editor for the Journal of Mixed Methods Research and Qualitative Research Editor for the American Journal of Health Behavior. She is a section editor for qualitative and mixed methods research of the International Encyclopedia of Education (4th edition) with Elsevier. She has also provided leadership to a Special Interest Group Mixed Methods Research, Division D Measurements and Research Methodology with American Educational Research Association (AERA) and to the Mixed Methods International Research Association (MMIRA). Currently, she is active with AcademyHealth serving on Advisory Committee for Translation and Communication Interest Group. Dr. Ivankova serves on the Board of Directors for Horizons School in Birmingham, AL (post-secondary institution for young adults with learning difficulties). During the first eighteen years of her professional career, she served as a member of the faculty and also as Dean of Admissions at the Izmail State University of Humanities in Ukraine.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1836-nataliya-ivankova",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "1836",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 346,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 255,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 448,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nataliya",
+  "firstNameLastName": "Nataliya Ivankova",
+  "equipmentLinkTypes": [],
+  "objectId": 1836,
+  "updatedWhen": "2025-05-10T08:06:00.9294041-05:00",
+  "hasCollaborationData": true,
+  "email": "nivankov@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Adolescent Sexual Activity Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Breast Cancer Cancer Caregiving Research Clinical Research Colo-Rectal Cancer Congenital Structural Anomalies Contraception/Reproduction Diabetes Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Mental Health Mind and Body Minority Health Neurodegenerative Neurosciences Patient Safety Pediatric Pediatric Research Initiative Prevention Rare Diseases Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Cancer Caregiving Research Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dementia Depression Dissemination and Implementation Research Emergency Care Health Disparities Health Services Mental Health Mental Illness Minority Health Neurodegenerative Neurosciences Prevention Rural Health Social Determinants of Health Stroke"
+}

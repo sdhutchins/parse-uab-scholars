@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18481",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "lastName": "Schoonover",
+  "firstName": "Kirsten",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18481-kirsten-schoonover",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Kirsten Schoonover",
+  "equipmentLinkTypes": [],
+  "objectId": 18481,
+  "updatedWhen": "2025-05-10T08:19:33.9583326-05:00",
+  "hasCollaborationData": true,
+  "email": "kschoon1@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Eye Disease and Disorders of Vision Genetics Mental Health Mental Illness Neurosciences Schizophrenia Serious Mental Illness Substance Misuse",
+  "grant_keywords": "Behavioral and Social Science Brain Disorders Genetics Health Disparities Mental Health Mental Illness Minority Health Neurosciences Schizophrenia Serious Mental Illness"
+}

@@ -1,0 +1,123 @@
+{
+  "lastName": "Mishra",
+  "overview": "Virendra Mishra, Ph.D. is an Associate Professor and leads Employing Neuroimaging for Diagnosing Dementia (EN4D2) laboratory in the Department of Radiology at The University of Alabama at Birmingham. The lab’s efforts are dedicated to developing and applying novel computational tools using machine learning and artificial intelligence to identify biomarkers predicting dementia or cognitive decline due to aging and repeated head impacts. The objective of the lab is to approach the identification of biomarkers predicting dementia or cognitive decline through a multimodality approach by utilizing clinical measures, genetics, demographic measures, biofluid measures, MRI measures (T1-weighted, high spatial and angular resolution diffusion MRI, high temporal resolution resting-state functional MRI, and cerebral blood flow measures through pseudo-continuous arterial spin labeling MRI). The lab’s efforts are also dedicated to developing reproducible MRI protocols that are insensitive to the manufacturer, scanner type, and protocols used for routine clinical research. His research is funded by the National Institute of Health and philanthropic organizations.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18095-virendra-mishra",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Radiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Theoretical and Computational Chemistry",
+          "and Computational Chemistry",
+          "Computational Chemistry",
+          "Chemistry"
+        ],
+        "value": "Theoretical and Computational Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "18095",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 91,
+      "favourites": 0
+    }
+  },
+  "firstName": "Virendra",
+  "firstNameLastName": "Virendra Mishra",
+  "equipmentLinkTypes": [],
+  "objectId": 18095,
+  "updatedWhen": "2025-05-10T08:18:44.1641395-05:00",
+  "hasCollaborationData": false,
+  "email": "vrmishra@uab.edu",
+  "publication_keywords": "Aging Bioengineering Biomedical Imaging Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Neurodegenerative Neurosciences Parkinson's Disease Prostate Cancer Rare Diseases Urologic Diseases",
+  "grant_keywords": "Aging Brain Disorders Clinical Research Immunotherapy Neurodegenerative Neurosciences Parkinson's Disease"
+}

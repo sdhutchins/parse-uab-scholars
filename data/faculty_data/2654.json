@@ -1,0 +1,98 @@
+{
+  "discoveryId": "2654",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 148,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 31,
+      "favourites": 0
+    }
+  },
+  "lastName": "Navasca",
+  "firstName": "Carmeliza",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2654-carmeliza-navasca",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Carmeliza Navasca",
+  "equipmentLinkTypes": [],
+  "objectId": 2654,
+  "updatedWhen": "2025-05-10T08:08:00.9733956-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Numerical and Computational Mathematics",
+          "and Computational Mathematics",
+          "Computational Mathematics",
+          "Mathematics"
+        ],
+        "value": "Numerical and Computational Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pure Mathematics",
+          "Mathematics"
+        ],
+        "value": "Pure Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "cnavasca@uab.edu",
+  "publication_keywords": "Bioengineering",
+  "grant_keywords": ""
+}

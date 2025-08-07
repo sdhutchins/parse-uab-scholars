@@ -1,0 +1,126 @@
+{
+  "lastName": "Kerby",
+  "overview": "Dr. Kerby was named director of the Division of Acute Care Surgery in November 2014. A native of Missouri, Dr. Kerby received both his undergraduate degree and medical degree from the University of Missouri at Kansas City in 1989. He completed his surgical residency in general surgery at the University of Alabama at Birmingham in 1999, along with a postdoctoral research fellowship in 1996, earning a Ph.D. in Biochemistry and Molecular Genetics from UAB in 1997. Following residency, Dr. Kerby served in the United States Air Force as an active duty surgeon until 2003, deploying as a combat trauma surgeon in support of Operation Enduring Freedom in 2002. Dr. Kerby returned to UAB in 2003. Since his return, he has served as a clinically active acute care surgeon and was the chief of general surgery at the Birmingham VA Medical Center from 2009 through 2014. An active researcher, Dr. Kerby served as the principal investigator for the Alabama Resuscitation Center of the Resuscitation Outcomes Center network, an NIH funded multicenter trials network focused on outcomes of hospital clinical trials in trauma and cardiac arrest, from 2005 through 2015. \n\nDr. Kerby has established military-civilian partnerships between UAB and the U.S. Air Force and U.S. Army, developing trauma-training programs for Air Force Pararescue personnel and Army 18 Deltas. In addition, the Division of Acute Care Surgery hosts three teams of Air Force Special Operations Surgeons on a permanent basis through a training affiliation agreement with Air Force Special Operations Command. Dr. Kerby serves on the Editorial Board of Shock and The American Journal of Surgery.\n\nDr. Kerby’s clinical interests include trauma, critical care, and emergency general surgery. His research interests are focused on interventional trials in the pre-hospital emergency care setting. A current focus of his research interests are in the effect of blood storage age on outcomes in trauma patients.  His collaborative group has published extensively in this area and has investigated potential mechanisms of the blood storage lesion through NIH funded research. A major area of emphasis currently is on clinical trials development to evaluate the effect of blood storage age on clinical outcomes in trauma patients requiring large blood volume replacement. In addition, his group has a robust trauma outcomes effort through the UAB Center for Injury Sciences (CIS) and participates as an active investigative site in the Crash Injury Research and Engineering Network (CIREN).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1127-jeffrey-kerby",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Trauma Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "1127",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 29,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 225,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jeffrey",
+  "firstNameLastName": "Jeffrey Kerby",
+  "equipmentLinkTypes": [],
+  "objectId": 1127,
+  "updatedWhen": "2025-05-10T08:04:44.6477289-05:00",
+  "hasCollaborationData": true,
+  "email": "jkerby@uab.edu",
+  "publication_keywords": "Clinical Research Emergency Care Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Physical Injury - Accidents and Adverse Effects Prevention",
+  "grant_keywords": ""
+}

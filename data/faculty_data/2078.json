@@ -1,0 +1,122 @@
+{
+  "lastName": "Zajac",
+  "overview": "I love studying immune responses, especially to viral infections!  As a graduate student, under the mentorship of Dr. Jeffery Frelinger at the University of North Carolina, I investigated the direct anti-viral roles of CD4 T cells and how they adopt cytotoxic effector activities.  These were significant as they illustrated the plasticity of effector anti-viral CD4 T cells and highlighted that they could develop pathogenic cytolytic capabilities, which was arguably under-appreciated at the time.  As a Postdoctoral Fellow in the laboratory of Dr. Rafi Ahmed at Emory University, I performed pioneering studies using MHC class I tetramers and discovered that anti-viral CD8 T cells were not necessarily deleted during chronic viral infections but could instead persist in a functionally inept, exhausted state.  This discovery of T cell exhaustion had profound implications for understanding why cell-mediated immunity is ineffective during certain infections and tumors, and for devising checkpoint blockade and other strategies to rejuvenate T cell responses under these conditions.  As I established my independent research group at UAB, I went on to show that T cell exhaustion develops in a step-wise and progressive manner and that exhausted T cells are molecularly distinct from their conventional effector and memory counterparts.  We also determined how anti-viral CD4 T cells help CD8 T cell responses via the manufacture of IL-21.  Our interest in anti-viral CD8 T cell responses goes beyond T cell exhaustion.  In published and ongoing studies we are defining the parameters that dictate the development of highly successful, protective CD8 T cell populations, including tumor reactive cells.  Our current interests include determining how the functional diversity of the CD8 T cell pool is controlled and contributes to infection and tumor clearance, which is important for the development of immunotherapeutic approaches.  In addition to my research activities, I enjoy didactic teaching as well as mentoring undergraduate, graduate, and postdoctoral trainees in the laboratory.  I also participate in a variety of committee and service activities that help support my colleagues and foster institutional development.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2078-allan-zajac",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "2078",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 100,
+      "favourites": 0
+    }
+  },
+  "firstName": "Allan",
+  "firstNameLastName": "Allan Zajac",
+  "equipmentLinkTypes": [],
+  "objectId": 2078,
+  "updatedWhen": "2025-05-10T08:06:35.9590917-05:00",
+  "hasCollaborationData": true,
+  "email": "azajac@uab.edu",
+  "publication_keywords": "Biodefense Cancer Emerging Infectious Diseases Genetics Immunotherapy Infectious Diseases",
+  "grant_keywords": "Aging Behavioral and Social Science Biodefense Biotechnology Cancer Clinical Research Coronaviruses Drug Abuse (NIDA only) Emerging Infectious Diseases Genetics HIV/AIDS Health Disparities Immunization Immunotherapy Infectious Diseases Minority Health Prevention Rare Diseases Sexually Transmitted Infections Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Substance Misuse Vaccine Related Vector-Borne Diseases Women's Health"
+}

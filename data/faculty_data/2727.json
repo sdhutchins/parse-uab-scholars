@@ -1,0 +1,126 @@
+{
+  "lastName": "Goodin",
+  "overview": "Dr. Goodin is a clinical health psychologist with specialization in pain-related behavioral medicine. He examines the interactions of psychosocial and biobehavioral characteristics in relation to the experience of pain through the key pathways of stress-related hormones (neuroendocrine function) and immune function. His previous and ongoing projects are conducted in collaboration with colleagues at the Johns Hopkins School of Medicine, the University of Florida, as well as UAB.\n\nOver the years, Dr. Goodin has been involved with several different studies that afforded him the opportunity to become very familiar with experimental models of evoked pain using quantitative sensory testing. As part of these studies, he has developed and refined methods to assess pain sensitivity and modulation (e.g., endogenous pain inhibition and facilitation) using dynamic experimental pain stimuli. This has led him to the next step in his research, which is to begin evaluating the impact of factors such as sleep disturbance and neuropeptides (e.g., oxytocin) on pain sensitivity and modulation across the adult lifespan.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2727-burel-goodin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2727",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 66,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 178,
+      "favourites": 0
+    }
+  },
+  "firstName": "Burel",
+  "firstNameLastName": "Burel Goodin",
+  "equipmentLinkTypes": [],
+  "objectId": 2727,
+  "updatedWhen": "2025-05-10T08:08:11.1381637-05:00",
+  "hasCollaborationData": true,
+  "email": "bgoodin1@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Chronic Pain Clinical Research Depression HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Machine Learning and Artificial Intelligence Mental Health Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Pain Research Pediatric Prevention Social Determinants of Health Substance Misuse Women's Health",
+  "grant_keywords": "Chronic Pain Clinical Research Drug Abuse (NIDA only) HIV/AIDS Infectious Diseases Neurosciences Opioids Pain Research Sexually Transmitted Infections Substance Misuse"
+}

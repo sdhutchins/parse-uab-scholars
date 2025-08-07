@@ -1,0 +1,119 @@
+{
+  "discoveryId": "6520",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 45,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bentley",
+  "firstName": "Nicole",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6520-nicole-bentley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurosurgery"
+    }
+  ],
+  "firstNameLastName": "Nicole Bentley",
+  "equipmentLinkTypes": [],
+  "objectId": 6520,
+  "updatedWhen": "2025-05-10T08:13:23.3903485-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nbentl@uab.edu",
+  "publication_keywords": "Aging Anxiety Disorders Assistive Technology Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Cost Effectiveness Research Epilepsy Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Mental Health Mental Illness Minority Health Neurodegenerative Neurosciences Parkinson's Disease Rehabilitation Serious Mental Illness",
+  "grant_keywords": "Aging Assistive Technology Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Neurodegenerative Neurosciences Parkinson's Disease Rehabilitation Women's Health"
+}

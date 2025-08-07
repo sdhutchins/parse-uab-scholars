@@ -1,0 +1,44 @@
+{
+  "discoveryId": "5075",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Grant",
+  "firstName": "Maria",
+  "hasThumbnail": false,
+  "discoveryUrlId": "5075-maria-grant",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Ophthalmology"
+    }
+  ],
+  "firstNameLastName": "Maria Grant",
+  "equipmentLinkTypes": [],
+  "objectId": 5075,
+  "updatedWhen": "2025-05-10T08:11:53.0569661-05:00",
+  "hasCollaborationData": false,
+  "email": "mabgrant@uab.edu",
+  "publication_keywords": "Biotechnology Eye Disease and Disorders of Vision Gene Therapy Genetics Neurodegenerative Neurosciences",
+  "grant_keywords": "Biotechnology Diabetes Eye Disease and Disorders of Vision Macular Degeneration Neurodegenerative Neurosciences"
+}

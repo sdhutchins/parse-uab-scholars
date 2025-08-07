@@ -1,0 +1,89 @@
+{
+  "lastName": "Watson",
+  "overview": "Dr. Dayna Watson completed a Ph.D. in Counseling and Counselor Education from the University of Florida. She has extensive experience and training in clinical supervision and mental health counseling, specializing in counseling children, adolescents, and young adults. Dr. Watson’s clinical areas include play therapy techniques and creative interventions with children and adolescents, group therapy with young children, and cognitive therapy. Her research interests include school based mental health, play therapy with young children, and trauma informed schools.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3189-dayna-watson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "3189",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "firstName": "Dayna",
+  "firstNameLastName": "Dayna Watson",
+  "equipmentLinkTypes": [],
+  "objectId": 3189,
+  "updatedWhen": "2025-05-10T08:09:04.9163191-05:00",
+  "hasCollaborationData": true,
+  "email": "watsondm@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Mental Health Pediatric Research Initiative",
+  "grant_keywords": ""
+}

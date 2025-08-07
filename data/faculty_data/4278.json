@@ -1,0 +1,62 @@
+{
+  "discoveryId": "4278",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 3,
+      "favourites": 0
+    }
+  },
+  "lastName": "Oh",
+  "firstName": "M",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4278-m-oh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Pediatric - Academic General Pediatrics"
+    }
+  ],
+  "firstNameLastName": "M Oh",
+  "equipmentLinkTypes": [],
+  "objectId": 4278,
+  "updatedWhen": "2025-05-10T08:10:51.2676624-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "mkoh@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Contraception/Reproduction Infectious Diseases Pediatric Research Initiative Prevention Sexually Transmitted Infections Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,125 @@
+{
+  "lastName": "Payami",
+  "overview": "Dr. Payami is the founder and Lead Investigator of the NeuroGenetics Research Consortium, a collaborative effort since 1992, formalized in 2004 as a Michael J Fox Foundation Global Genetics Consortium.  Dr. Payami received her PhD in Genetics from UC Berkeley.  She was a faculty member at the Oregon Health Sciences for 15 years, during which she developed independently-funded research program in Alzheimer and Parkinson genetics, won teaching awards for graduate and medical courses, and served as science faculty for the 9th Circuit and the Federal Judicial Education. She moved to New York in 2002, during which she served as the Director of the Genomics Institute at NY State Department of Health.   In 2015 she was named the Juanelle D. Strain Endowed Chair in Neurology at the University of Alabama at Birmingham, where she continues her research, leads NGRC, and mentors students and young scientists. Her current research is focused on deciphering the interaction of human genome, gut microbiome and environmental factors in causation, progression and treatment of Parkinson's disease.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2966-haydeh-payami",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "2966",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 145,
+      "favourites": 0
+    }
+  },
+  "firstName": "Haydeh",
+  "firstNameLastName": "Haydeh Payami",
+  "equipmentLinkTypes": [],
+  "objectId": 2966,
+  "updatedWhen": "2025-05-10T08:08:43.2633015-05:00",
+  "hasCollaborationData": true,
+  "email": "hpayami@uab.edu",
+  "publication_keywords": "Aging Brain Disorders Cancer Cancer Genomics Clinical Research Genetics Human Genome Microbiome Neurodegenerative Neurosciences Parkinson's Disease Precision Medicine Prevention",
+  "grant_keywords": "Aging Brain Disorders Clinical Research Genetics Human Genome Immunotherapy Neurodegenerative Neurosciences Nutrition Parkinson's Disease Patient Safety Prevention Tobacco Tobacco Smoke and Health"
+}

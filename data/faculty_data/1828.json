@@ -1,0 +1,128 @@
+{
+  "lastName": "Zengul",
+  "overview": "Ferhat Zengul, Ph.D., MBA, MAcc is a full-time Associate Professor in the Department of Health Services Administration, School of Health Professions (SHP) at the University of Alabama at Birmingham (UAB). Prior to joining the Health Care Management Program, he worked as a financial/managerial accountant at UAB Hospital Finance and UABHS Facilities Planning and Capital Projects Office. He has over ten years of experience in the financial management of capital projects.\nDr. Zengul’s overarching research goal is improving organizations' financial health and peoples' health and quality of life through data analytics and multidisciplinary approaches.  To achieve this goal, his research focuses on three interest areas: 1) Accounting,  Finance, and Data/Text Analytics, 2) Healthcare Management, and Informatics, 3) Infrastructure Projects. He is particularly interested in applying machine learning approaches in developing predictive models for the financial and clinical performance research domain. He has used data/text mining techniques in a variety of disciplines such as accounting, finance, informatics, and clinical research domains. Dr. Zengul is a Certified Revenue Cycle Specialist from Healthcare Financial Management Association. He has been teaching courses such as Accounting and Finance for Healthcare, Healthcare Economics, Finance,  Revenue Cycle Management, Business Intelligence, Statistics, and Ethics both in undergraduate and masters and doctoral programs.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1828-ferhat-zengul",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Artificial Intelligence and Image Processing",
+          "Intelligence and Image Processing",
+          "and Image Processing",
+          "Image Processing",
+          "Processing"
+        ],
+        "value": "Artificial Intelligence and Image Processing"
+      }
+    ]
+  },
+  "discoveryId": "1828",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 137,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 131,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ferhat",
+  "firstNameLastName": "Ferhat Zengul",
+  "equipmentLinkTypes": [],
+  "objectId": 1828,
+  "updatedWhen": "2025-05-10T08:06:00.9064068-05:00",
+  "hasCollaborationData": true,
+  "email": "ferhat@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Clinical Research Dementia Health Services Neurodegenerative Neurosciences",
+  "grant_keywords": "Bioengineering Data Science Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)"
+}

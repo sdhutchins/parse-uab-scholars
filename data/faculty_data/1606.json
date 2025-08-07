@@ -1,0 +1,125 @@
+{
+  "lastName": "Turner-Henson",
+  "overview": "Dr. Turner-Henson has provided visionary leadership in children's environmental health. Empowering communities through building grassroots initiatives to reduce children’s environmental risk and promote healthy communities is a key focus of her work. Through the interplay of her interdisciplinary research, programmatic development, grassroots and community empowerment and policymaking efforts she has focused national and state level attention to improving the lives of children and families.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1606-anne-turnerhenson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "1606",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 278,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 204,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 322,
+      "favourites": 0
+    }
+  },
+  "firstName": "Anne",
+  "firstNameLastName": "Anne Turner-Henson",
+  "equipmentLinkTypes": [],
+  "objectId": 1606,
+  "updatedWhen": "2025-05-10T08:05:50.0642161-05:00",
+  "hasCollaborationData": true,
+  "email": "turnhena@uab.edu",
+  "publication_keywords": "Clinical Research Foodborne Illness Pediatric Research Initiative",
+  "grant_keywords": ""
+}

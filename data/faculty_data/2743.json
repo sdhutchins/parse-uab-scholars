@@ -1,0 +1,128 @@
+{
+  "lastName": "Schwebel",
+  "overview": "David C. Schwebel has published over 350 peer-reviewed manuscripts, most focusing on understanding and preventing unintentional injury in children, adolescents, and young adults. Specific risk factors of interest include temperament and personality, overestimation of physical ability and cognitive development, and adult supervision of children. \n\nFrom a prevention perspective, Dr. Schwebel has developed and implemented injury prevention techniques for a range of situations, including pedestrian safety training in virtual reality environments, preschool playground safety via behavioral strategies targeting teachers, drowning prevention through lifeguard training at public swimming pools, dog bite prevention in rural China and the US, safer car seat installation through interactive merged reality, and kerosene safety in low-income South African neighborhoods. \n\nDr. Schwebel is a Woodrow Wilson Scholar, a Fulbright Award winner, and a Fellow of the American Psychological Association. He won the 2019 Award for Distinguished Professional Contributions to Applied Research from the American Psychological Association; served from 2017-2021 on the Board of Scientific Counselors, National Center for Injury Prevention and Control; and authored the popular book, Raising Kids Who Choose Safety: The TAMS Method for Child Accident Prevention.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2743-david-schwebel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Vice President-Research Fac & Infrastr",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Transportation and Freight Services",
+          "and Freight Services",
+          "Freight Services",
+          "Services"
+        ],
+        "value": "Transportation and Freight Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2743",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 36,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 109,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 437,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Schwebel",
+  "equipmentLinkTypes": [],
+  "objectId": 2743,
+  "updatedWhen": "2025-05-10T08:08:21.9893830-05:00",
+  "hasCollaborationData": true,
+  "email": "schwebel@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Burden of Illness Childhood Injury Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Networking and Information Technology R&D (NITRD) Pediatric Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Social Determinants of Health Telehealth Unintentional Childhood Injury",
+  "grant_keywords": "Childhood Injury Clinical Research Pediatric Physical Injury - Accidents and Adverse Effects Unintentional Childhood Injury"
+}

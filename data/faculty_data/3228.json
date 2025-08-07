@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3228",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 61,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "McCornack",
+  "firstName": "Kelly",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3228-kelly-mccornack",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Communication Studies"
+    }
+  ],
+  "firstNameLastName": "Kelly McCornack",
+  "equipmentLinkTypes": [],
+  "objectId": 3228,
+  "updatedWhen": "2025-05-10T08:09:16.1903534-05:00",
+  "hasCollaborationData": false,
+  "email": "kmmcc@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

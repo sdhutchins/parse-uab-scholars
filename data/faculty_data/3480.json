@@ -1,0 +1,128 @@
+{
+  "lastName": "Carroll",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3480-andrew-carroll",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Genetics"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "3480",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 366,
+      "favourites": 0
+    }
+  },
+  "firstName": "Andrew",
+  "firstNameLastName": "Andrew Carroll",
+  "equipmentLinkTypes": [],
+  "objectId": 3480,
+  "updatedWhen": "2025-05-10T08:09:38.3635851-05:00",
+  "hasCollaborationData": true,
+  "email": "acarroll@uab.edu",
+  "publication_keywords": "Brain Disorders Cancer Childhood Leukemia Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Down Syndrome Genetics Hematology Human Genome Infectious Diseases Intellectual and Developmental Disabilities (IDD) Minority Health Orphan Drug Patient Safety Pediatric Pediatric Cancer Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": "Cancer Clinical Research Genetics Hematology Human Genome Rare Diseases"
+}

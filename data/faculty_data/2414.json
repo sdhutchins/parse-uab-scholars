@@ -1,0 +1,127 @@
+{
+  "lastName": "Fouad",
+  "overview": "Dr. Fouad H. Fouad is Professor and Chairman of the Civil Engineering Department at the University of Alabama at Birmingham, USA. He teaches and conducts research in the area of reinforced concrete structures and concrete materials, and has published numerous technical papers in the field. His research efforts have led to the development of national standards and specifications for a number of sustainable green concrete products and building systems. Fouad currently chairs the PCI committee on Prestressed Concrete Poles and the ASTM committee on Autoclaved Aerated Concrete. He is the past chair of ACI committee on Cellular Concrete and the founding chair of its subcommittee on AAC. Fouad is a fellow of ACI and ASCE and has received a number of prestigious awards due to his professional services in the civil engineering field.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2414-fouad-fouad",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair Emeritus",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Urban and Regional Planning",
+          "and Regional Planning",
+          "Regional Planning",
+          "Planning"
+        ],
+        "value": "Urban and Regional Planning"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Transportation and Freight Services",
+          "and Freight Services",
+          "Freight Services",
+          "Services"
+        ],
+        "value": "Transportation and Freight Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Engineering",
+          "Engineering"
+        ],
+        "value": "Environmental Engineering"
+      }
+    ]
+  },
+  "discoveryId": "2414",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 272,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 80,
+      "favourites": 0
+    }
+  },
+  "firstName": "Fouad",
+  "firstNameLastName": "Fouad Fouad",
+  "equipmentLinkTypes": [],
+  "objectId": 2414,
+  "updatedWhen": "2025-05-10T08:07:28.9127227-05:00",
+  "hasCollaborationData": true,
+  "email": "ffouad@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

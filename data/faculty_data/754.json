@@ -1,0 +1,123 @@
+{
+  "lastName": "Volpicelli-Daley",
+  "overview": "Biographical Sketch  \t\n\nI grew up in Albuquerque, NM, and studied Math and English Literature in college. My PhD in Neuroscience was earned at Emory University in the lab of Allan Levey, MD, PhD expert in Alzheimer’s disease and dementias. I also trained in Cell Biology at Yale University and Neurodegenerative disease at the University of Pennsylvania.   \n\nNow, I am an Associate Professor in Neurology with tenure at the University of Alabama at Birmingham (UAB), and proud to be selected as Parkinson Association of Alabama Endowed Professor.  I love collaborating with scientists and colleagues in academia, industry, and foundations who all have the same goal of curing Parkinson’s disease and Lewy Body Dementias. I am the director of a Graduate Neuroanatomy course, and a MD/PhD course in fundamentals of basic science. I am passionate about mentoring the next generation of scientists. One of the most rewarding aspects of my job is seeing my students achieve their dreams. \n\nI was awarded the Dean's Excellence in Mentorship Award and the Roadmap Scholar Program Research Mentor Award.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "754-laura-volpicellidaley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "754",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 45,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 55,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 93,
+      "favourites": 0
+    }
+  },
+  "firstName": "Laura",
+  "firstNameLastName": "Laura Volpicelli-Daley",
+  "equipmentLinkTypes": [],
+  "objectId": 754,
+  "updatedWhen": "2025-05-10T08:04:02.4927375-05:00",
+  "hasCollaborationData": true,
+  "email": "volpicel@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Dementia Genetics Kidney Disease Lewy Body Dementia Neurodegenerative Neurosciences Parkinson's Disease",
+  "grant_keywords": ""
+}

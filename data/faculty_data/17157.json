@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17157",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Tant",
+  "firstName": "Cynthia",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17157-cynthia-tant",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biology"
+    }
+  ],
+  "firstNameLastName": "Cynthia Tant",
+  "equipmentLinkTypes": [],
+  "objectId": 17157,
+  "updatedWhen": "2025-05-10T08:17:09.0383240-05:00",
+  "hasCollaborationData": false,
+  "email": "ctant@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

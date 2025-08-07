@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18412",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "lastName": "Nelson-Brantley",
+  "firstName": "Heather",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18412-heather-nelsonbrantley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "firstNameLastName": "Heather Nelson-Brantley",
+  "equipmentLinkTypes": [],
+  "objectId": 18412,
+  "updatedWhen": "2025-05-10T08:19:25.2567684-05:00",
+  "hasCollaborationData": true,
+  "email": "hvnelson@uab.edu",
+  "publication_keywords": "Cancer Clinical Research Women's Health",
+  "grant_keywords": ""
+}

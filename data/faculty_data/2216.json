@@ -1,0 +1,124 @@
+{
+  "discoveryId": "2216",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 64,
+      "favourites": 0
+    }
+  },
+  "lastName": "Liu",
+  "firstName": "Runhua",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2216-runhua-liu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "firstNameLastName": "Runhua Liu",
+  "equipmentLinkTypes": [],
+  "objectId": 2216,
+  "updatedWhen": "2025-05-10T08:07:03.7214455-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "runhua@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Biotechnology Brain Disorders Breast Cancer Cancer Cerebrovascular Coronaviruses Coronaviruses Therapeutics and Interventions Dementia Digestive Diseases Emerging Infectious Diseases Genetics Immunization Immunotherapy Infectious Diseases Liver Cancer Liver Disease Lung Nanotechnology Neurodegenerative Neurosciences Pneumonia Pneumonia & Influenza Prostate Cancer Rare Diseases Tuberous Sclerosis Urologic Diseases Vaccine Related Vascular Cognitive Impairment/Dementia Women's Health",
+  "grant_keywords": "Biotechnology Breast Cancer Cancer Cancer Genomics Genetics Health Disparities Human Genome Women's Health"
+}

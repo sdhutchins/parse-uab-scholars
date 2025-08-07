@@ -1,0 +1,113 @@
+{
+  "lastName": "Whitley",
+  "overview": "Richard Whitley, M.D., is a Distinguished Professor of Pediatrics, Professor of Microbiology, Medicine and Neurosurgery; Loeb Eminent Scholar Chair in Pediatrics; Co-Director, Division of Pediatric Infectious Diseases; Vice-Chair, Department of Pediatrics; Senior Scientist, Department of Gene Therapy; Scientist, Cancer Research and Training Center; Faculty, Gene Therapy Center; Associate Director for Drug Discovery and Development and Senior Leader, Pediatric Oncology Program, O’Neal Comprehensive Cancer Center at UAB; and Co-Founder of the Alabama Drug Discovery Alliance, now administered by Southern Research.\n\nDr. Whitley's research interest is in the translation of molecular biology to clinical application, particularly in the development of human monoclonal antibodies for therapy of herpesvirus infections and engineering of herpes simplex virus for gene therapy. In these latter studies, he and his colleagues have engineered herpes simplex virus to serve as a vector for foreign gene expression.\n\nHe received his B.A. in chemistry from Duke University and his M.D. from the George Washington University. He subsequently completed an internship in pediatrics and a fellowship in infectious diseases/virology at UAB. He has published more than 410 articles. He participates in numerous Data Safety and Monitoring Boards for ongoing clinical studies. He is a past President of the Infectious Diseases Society of America (IDSA) and received the UAB President’s Medal in 2007. In 2013, he was named as the inaugural recipient of the Distinguished Clinical Research Scholar and Educator in Residence at the NIH Clinical Center. He has received numerous other awards and lectureships, including the 2016 UAB SOM Dean’s Excellence Award in Research for Senior Faculty, the Department of Pediatrics Lifetime Achievement Award in Pediatric Healthcare in 2016, and Honorary Fellowship of the Royal College of Physicians of Ireland, Irish Academy of Medicine in 2018. Dr. Whitley received the Alexander Fleming Award for Lifetime Achievement from the Infectious Diseases Society at their annual meeting in 2018.  He received the 2020 National Foundation for Infectious Diseases John P. Utz Leadership Award for his work in the field of clinical virology in December 2020 and served as the chair of the NIH-NIAID COVID-19 Data Safety and Monitoring Board.  In 2022 he received the John Howland Award from the American Pediatric Society.  He continues his work with NIH-funded COVID research as a Principal Investigator for the RECOVER Initiative, which is investing resources and developing clinical trials to bring relief to those burdened by Long COVID.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "944-richard-whitley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Pediatric - Infectious Disease"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "944",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 45,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 109,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 46,
+      "favourites": 1
+    },
+    "publications": {
+      "all": 662,
+      "favourites": 0
+    }
+  },
+  "firstName": "Richard",
+  "firstNameLastName": "Richard Whitley",
+  "equipmentLinkTypes": [],
+  "objectId": 944,
+  "updatedWhen": "2025-05-10T08:04:23.0514900-05:00",
+  "hasCollaborationData": true,
+  "email": "rwhitley@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Emerging Infectious Diseases Health Disparities Hearing Loss Infectious Diseases Kidney Disease Minority Health Neurosciences Organ Transplantation Orphan Drug Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Prevention Rare Diseases Sexually Transmitted Infections Transplantation Women's Health",
+  "grant_keywords": ""
+}

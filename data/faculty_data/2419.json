@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2419",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 332,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 210,
+      "favourites": 0
+    }
+  },
+  "lastName": "Peters",
+  "firstName": "Robert",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2419-robert-peters",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Robert Peters",
+  "equipmentLinkTypes": [],
+  "objectId": 2419,
+  "updatedWhen": "2025-05-10T08:07:28.9187287-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Engineering",
+          "Engineering"
+        ],
+        "value": "Environmental Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Science and Management",
+          "Science and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Environmental Science and Management"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Manufacturing Engineering",
+          "Engineering"
+        ],
+        "value": "Manufacturing Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Automotive Engineering",
+          "Engineering"
+        ],
+        "value": "Automotive Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rwpeters@uab.edu",
+  "publication_keywords": "Coronaviruses Emerging Infectious Diseases Infectious Diseases",
+  "grant_keywords": ""
+}

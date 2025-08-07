@@ -1,0 +1,127 @@
+{
+  "discoveryId": "2901",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 131,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 107,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hidalgo",
+  "firstName": "Bertha",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2901-bertha-hidalgo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor & Associate Dean",
+      "department": "Epidemiology"
+    }
+  ],
+  "firstNameLastName": "Bertha Hidalgo",
+  "equipmentLinkTypes": [],
+  "objectId": 2901,
+  "updatedWhen": "2025-05-10T08:08:32.6378985-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bhidalgo@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biotechnology Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Human Genome Lung Minority Health Precision Medicine Prevention Social Determinants of Health",
+  "grant_keywords": "Cardiovascular Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Human Genome Hypertension Maternal Health Maternal Morbidity and Mortality Minority Health Pediatric Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Rural Health Social Determinants of Health Women's Health"
+}

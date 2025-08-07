@@ -1,0 +1,83 @@
+{
+  "discoveryId": "1356",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 181,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 48,
+      "favourites": 0
+    }
+  },
+  "lastName": "Louis",
+  "firstName": "Patrick",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1356-patrick-louis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "firstNameLastName": "Patrick Louis",
+  "equipmentLinkTypes": [],
+  "objectId": 1356,
+  "updatedWhen": "2025-05-10T08:05:15.7722252-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "plouis@uab.edu",
+  "publication_keywords": "Arthritis Assistive Technology Bioengineering Chronic Pain Dental/Oral and Craniofacial Disease Neurosciences Pain Research Patient Safety Prevention Temporomandibular Muscle/Joint Disorder (TMJD) Women's Health",
+  "grant_keywords": ""
+}

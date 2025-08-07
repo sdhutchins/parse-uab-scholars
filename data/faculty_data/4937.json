@@ -1,0 +1,122 @@
+{
+  "lastName": "Rana",
+  "overview": "Dr. Aadia Rana is  Professor of Medicine at the University of Alabama-Birmingham and  Director of the Implementation and Community Sciences Core at the UAB Center for AIDS Research.  She received her medical degree from UAB, completed a residency at Case Western Reserve University and a fellowship in infectious diseases and HIV health services research from Brown University. Dr. Rana's  extensive NIH-funded research focuses primarily on disparities in access and adherence to medical treatment among people living with HIV, and implementation of behavioral and biomedical interventions to improve engagement with HIV care in collaboration with community partners and public health agencies. She also has extensive experience with HIV and Hepatitis C therapeutic clinical trials and is chair of  the AIDS Clinical Trials Group Protocol 5359 LATITUDE study, a  randomized control trial testing a strategy of long-acting injectable antiretroviral therapy with conditional economic incentives in HIV-infected patients with a history of adherence challenges.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4937-aadia-rana",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "4937",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 38,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 79,
+      "favourites": 0
+    }
+  },
+  "firstName": "Aadia",
+  "firstNameLastName": "Aadia Rana",
+  "equipmentLinkTypes": [],
+  "objectId": 4937,
+  "updatedWhen": "2025-05-10T08:11:43.7306303-05:00",
+  "hasCollaborationData": true,
+  "email": "rana@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Comparative Effectiveness Research Depression Dissemination and Implementation Research HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Mental Health Mental Illness Prevention Sexually Transmitted Infections Social Determinants of Health Substance Misuse Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Immunization Infectious Diseases Prevention Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS)"
+}

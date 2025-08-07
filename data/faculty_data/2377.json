@@ -1,0 +1,127 @@
+{
+  "lastName": "Forbes",
+  "overview": "Scholarship\n\nScholarly work is attained through a variety of mechanisms (publications, presentation, and grants) and this work requires much time and dedication; however there are always new opportunities that keep the pursuits of collaborative endeavors fresh and rewarding. I enjoy working with diverse colleagues and on a variety of topics related to health behaviors.\n\nService\n\nService to profession of health education and to services of others must be at the forefront of one's regular decisions as a scholar. I have opted to serve nationally and in several capacities with my most recent work being for the American College Health Association and the National Commission for Health Education Credentialing.\n\nPersonal\n\nAway from my career in academia, I am quite normal. I like to spend time with my family; especially my daughter and to take her to all sorts of events and new places. I am a sports fan and love basketball.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2377-laura-forbes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      }
+    ]
+  },
+  "discoveryId": "2377",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 438,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 22,
+      "favourites": 0
+    }
+  },
+  "firstName": "Laura",
+  "firstNameLastName": "Laura Forbes",
+  "equipmentLinkTypes": [],
+  "objectId": 2377,
+  "updatedWhen": "2025-05-12T03:21:24.6276104-05:00",
+  "hasCollaborationData": true,
+  "email": "ltalbott@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Behavioral and Social Science Breastfeeding, Lactation and Breast Milk Cancer Cervical Cancer Clinical Research Clinical Trials and Supportive Activities HPV and/or Cervical Cancer Vaccines Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunization Infectious Diseases Minority Health Neurosciences Nutrition Pediatric Research Initiative Prevention Rare Diseases Sexually Transmitted Infections Sleep Research Social Determinants of Health Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,148 @@
+{
+  "lastName": "Zierold",
+  "overview": "Dr. Zierold is a Professor in the Department of Environmental Health Sciences. She received a BS in Chemical Engineering (1994) from Worcester Polytechnic Institute and an MS in Chemical Engineering (1996) from Vanderbilt University.  Dr. Zierold earned her PhD in Public Health (specializing in Environmental/Occupational Health Sciences and Epidemiology) form the University of Illinois at Chicago in 2001. After finishing her PhD, Dr. Zierold was an Epidemic Intelligence Service (EIS) Officer with the Centers for Disease Control and Prevention (2001-2003). The EIS is an elite team of doctoral level scientists who work on the frontlines of public health to investigate disease outbreaks, clusters, occupational and environmental hazards, and to respond to natural disasters, emergencies, and public health problems throughout the world. It is a two-year program.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6121-kristina-zierold",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Environmental Health Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Science and Management",
+          "Science and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Environmental Science and Management"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Engineering",
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Engineering not elsewhere classified",
+          "Engineering not elsewhere classified",
+          "not elsewhere classified",
+          "elsewhere classified",
+          "classified"
+        ],
+        "value": "Environmental Engineering not elsewhere classified"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Community Child Health",
+          "Child Health",
+          "Health"
+        ],
+        "value": "Community Child Health"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental and Occupational Health and Safety",
+          "and Occupational Health and Safety",
+          "Occupational Health and Safety",
+          "Health and Safety",
+          "and Safety",
+          "Safety"
+        ],
+        "value": "Environmental and Occupational Health and Safety"
+      }
+    ]
+  },
+  "discoveryId": "6121",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 58,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 56,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 49,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kristina",
+  "firstNameLastName": "Kristina Zierold",
+  "equipmentLinkTypes": [],
+  "objectId": 6121,
+  "updatedWhen": "2025-05-10T08:12:55.3090588-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

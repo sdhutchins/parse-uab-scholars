@@ -1,0 +1,127 @@
+{
+  "lastName": "Ernest",
+  "overview": "James Ernest is a native of Wales, received his Ph.D. from the University of Alabama at Birmingham, his M.Ed. from the University of New Orleans, and his BA(Ed.) Hons. Exon. from the University of Exeter (UK). After finishing his Ph.D. at UAB, James worked at SUNY Buffalo in New York and Valdosta State in Georgia before returning to UAB. His professional interests relate to varied opportunities and experiences for young children and their educators. James teaches courses for bachelor, master, and doctoral degree students in the Early Childhood Education and Elementary Education Programs and has taught a variety of coursework from bachelor's to the doctoral level in early childhood education, elementary education, and special education. \n\nJames' research explores the effectiveness of varied recommended practice in early childhood education. More recently, he has worked at the preservice level (future teachers) and the inservice level (professionals already working in the field). This includes work to (1) develop the Alabama Reflective Coach as a professional development model in Pre-K programs at the local and state level, expanding the professional development model from just over 200 teachers and classrooms in 2012 to over 1,600 classrooms/teachers in 2023 and (2) Develop databases and then evaluate the efficacy of First Class, the Alabama state-funded high quality Pre-K program, providing findings from studies of teacher and child outcomes to support the expansion of the program. @ http://bit.ly/jernest",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2344-james-ernest",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Education",
+          "Education"
+        ],
+        "value": "Other Education"
+      }
+    ]
+  },
+  "discoveryId": "2344",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 201,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 90,
+      "favourites": 1
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Ernest",
+  "equipmentLinkTypes": [],
+  "objectId": 2344,
+  "updatedWhen": "2025-05-10T08:07:28.8350188-05:00",
+  "hasCollaborationData": true,
+  "email": "jernest@uab.edu",
+  "publication_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Intellectual and Developmental Disabilities (IDD) Mental Health Pediatric Research Initiative Physical Activity Prevention",
+  "grant_keywords": ""
+}

@@ -1,0 +1,123 @@
+{
+  "lastName": "Fontaine",
+  "overview": "I am a Professor in the Department of Health Behavior in the School of Public Health at the University of Alabama at Birmingham (UAB) and the Antoine Lavoisier Endowed Professor of Energetics and Healthy Lifestyles. I have also served as an adjunct faculty member in the Division of Clinical and Molecular Rheumatology at the Johns Hopkins University School of Medicine and in the Department of Health, Behavior, and Society at the Johns Hopkins University Bloomberg School of Public Health. I have 30 years of experience conducting obesity-related lifestyle modification trials, serving as PI, Co-PI, co-Investigator or interventionist on numerous private foundation and NIH grants.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1998-kevin-fontaine",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Behavior"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "1998",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 30,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 215,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 193,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kevin",
+  "firstNameLastName": "Kevin Fontaine",
+  "equipmentLinkTypes": [],
+  "objectId": 1998,
+  "updatedWhen": "2025-05-10T08:06:24.5193276-05:00",
+  "hasCollaborationData": true,
+  "email": "kfontai1@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Autoimmune Disease Behavioral and Social Science Brain Disorders Cancer Caregiving Research Clinical Research Clinical Trials and Supportive Activities Diabetes Mental Health Multiple Sclerosis Neurodegenerative Neurosciences Nutrition Obesity Prevention",
+  "grant_keywords": ""
+}

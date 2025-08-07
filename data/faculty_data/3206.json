@@ -1,0 +1,125 @@
+{
+  "discoveryId": "3206",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 34,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jones",
+  "firstName": "Peter",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3206-peter-jones",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Government"
+    }
+  ],
+  "firstNameLastName": "Peter Jones",
+  "equipmentLinkTypes": [],
+  "objectId": 3206,
+  "updatedWhen": "2025-05-10T08:09:04.9443184-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Accounting, Auditing and Accountability",
+          "Auditing and Accountability",
+          "and Accountability",
+          "Accountability"
+        ],
+        "value": "Accounting, Auditing and Accountability"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pajones5@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

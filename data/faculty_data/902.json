@@ -1,0 +1,44 @@
+{
+  "discoveryId": "902",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Khatri",
+  "firstName": "Snehal",
+  "hasThumbnail": false,
+  "discoveryUrlId": "902-snehal-khatri",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Developmental & Behavioral"
+    }
+  ],
+  "firstNameLastName": "Snehal Khatri",
+  "equipmentLinkTypes": [],
+  "objectId": 902,
+  "updatedWhen": "2025-05-10T08:04:23.0109564-05:00",
+  "hasCollaborationData": false,
+  "email": "skhatri@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

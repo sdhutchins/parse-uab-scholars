@@ -1,0 +1,123 @@
+{
+  "lastName": "Alexander",
+  "overview": "Dr. Alexander earned his PhD in Genetics and Developmental Biology in the laboratory of Dr. Daniel Garry at the University of Texas Southwestern Medical Center at Dallas. His graduate training focused on the characterization of forkhead transcription factors in skeletal muscle and cardiac progenitor cells. He moved to Boston in 2008 to join the laboratory of Dr. Louis Kunkel as a postdoctoral fellow where he focused on characterizing the role of non-coding RNAs in skeletal muscle diseases. He was promoted to an Instructor in Pediatrics and Genetics & Genomics in 2013. His laboratory in the Department of Pediatrics, division of Neurology, at Children’s of Alabama will be focused on exploring the roles of epigenetic modifiers of human neuromuscular diseases in addition to generating novel zebrafish models of muscular dystrophies for drug library screens.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3303-matthew-alexander",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "3303",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 30,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 62,
+      "favourites": 2
+    }
+  },
+  "firstName": "Matthew",
+  "firstNameLastName": "Matthew Alexander",
+  "equipmentLinkTypes": [],
+  "objectId": 3303,
+  "updatedWhen": "2025-05-11T15:22:59.2612829-05:00",
+  "hasCollaborationData": true,
+  "email": "malex3@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biotechnology Digestive Diseases Duchenne/ Becker Muscular Dystrophy Genetics Human Genome Liver Disease Mental Health Muscular Dystrophy Neurosciences Orphan Drug Pediatric Pediatric Research Initiative Precision Medicine Rare Diseases",
+  "grant_keywords": "Aging Biotechnology Cardiovascular Clinical Research Duchenne/ Becker Muscular Dystrophy Genetics Health Disparities Minority Health Muscular Dystrophy Neurosciences Nutrition Orphan Drug Pediatric Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human"
+}

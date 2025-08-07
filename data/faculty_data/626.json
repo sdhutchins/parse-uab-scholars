@@ -1,0 +1,122 @@
+{
+  "lastName": "Antony",
+  "overview": "Dr. Antony is Professor of Medicine at the University of Alabama at Birmingham (UAB).  Dr. Antony's medical training began at Christian Medical College in Ludhiana, India. Following medical school, Dr. Antony progressed to an internship and residency at New York's Kingsbrook Jewish Medical Center. Following her Pulmonary and Critical Care Medicine Fellowship training in the University of Colorado's School of Medicine, Dr. Antony worked in Pulmonary Medicine at the University of Colorado Health Sciences Center, the Indiana University School of Medicine, and the University of Florida before beginning her work at UAB in 2010.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "626-veena-antony",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "626",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 42,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 241,
+      "favourites": 0
+    }
+  },
+  "firstName": "Veena",
+  "firstNameLastName": "Veena Antony",
+  "equipmentLinkTypes": [],
+  "objectId": 626,
+  "updatedWhen": "2025-05-10T08:03:37.8793046-05:00",
+  "hasCollaborationData": true,
+  "email": "vantony@uab.edu",
+  "publication_keywords": "Aging Chronic Obstructive Pulmonary Disease Lung Pulmonary Fibrosis",
+  "grant_keywords": "Aging Autoimmune Disease Clinical Research Lung Rare Diseases"
+}

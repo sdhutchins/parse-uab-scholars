@@ -1,0 +1,122 @@
+{
+  "lastName": "Zhao",
+  "overview": "Rui Zhao is an Associate Professor of Biochemistry and Molecular Genetics. Dr. Zhao received his B.S. degree from Peking University in China (1998) and Ph.D. degree from the University of Iowa (2004). He received his postdoctoral training at Children’s Hospital Boston and Harvard Medical School, and joined the UAB faculty in 2012.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2038-rui-zhao",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "2038",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rui",
+  "firstNameLastName": "Rui Zhao",
+  "equipmentLinkTypes": [],
+  "objectId": 2038,
+  "updatedWhen": "2025-05-10T08:06:35.9250089-05:00",
+  "hasCollaborationData": true,
+  "email": "ruizhao@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Clinical Research Cystic Fibrosis Dementia Diabetes Genetics Human Genome Intellectual and Developmental Disabilities (IDD) Lung Mucopolysaccharidoses (MPS) Neurodegenerative Neurosciences Orphan Drug Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human",
+  "grant_keywords": "Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Clinical Research Genetics Human Genome Neurosciences Radiation Oncology Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Embryonic - Human Stem Cell Research - Nonembryonic - Human Transplantation"
+}

@@ -1,0 +1,123 @@
+{
+  "lastName": "Pozzo-Miller",
+  "overview": "Dr. Lucas Pozzo-Miller completed his university studies in Biology (1986) and earned his Doctorate in Biology (1989), both from the Universidad Nacional de Córdoba, Argentina. He trained as postdoctoral fellow at Case Western Reserve University, Cleveland OH (1990-1992), and at the former Roche Institute of Molecular Biology, Nutley NJ (1992-1995). Dr. Pozzo-Miller performed summer research at the Marine Biological Laboratory, Woods Hole MA (1994 Grass Foundation Fellow and 1995 Lakian Foundation Fellow), and was a Senior Staff Fellow at NINDS, NIH, Bethesda MD (1995-1998). Dr. Pozzo-Miller joined the Department of Neurobiology at the University of Alabama at Birmingham in 1998, and is currently Professor of Neurobiology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2187-lucas-pozzomiller",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2187",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 33,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 134,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 101,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lucas",
+  "firstNameLastName": "Lucas Pozzo-Miller",
+  "equipmentLinkTypes": [],
+  "objectId": 2187,
+  "updatedWhen": "2025-05-10T08:07:03.6912339-05:00",
+  "hasCollaborationData": true,
+  "email": "lucaspm@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Genetics Human Genome Intellectual and Developmental Disabilities (IDD) Mental Health Neurodegenerative Neurosciences Orphan Drug Pediatric Pediatric Research Initiative Rare Diseases Rett Syndrome Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Women's Health",
+  "grant_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Depression Genetics Intellectual and Developmental Disabilities (IDD) Machine Learning and Artificial Intelligence Mental Health Mental Illness Mind and Body Neurodegenerative Neurosciences Pediatric Rare Diseases Rett Syndrome Women's Health"
+}

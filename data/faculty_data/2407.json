@@ -1,0 +1,129 @@
+{
+  "discoveryId": "2407",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 227,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 69,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jun",
+  "firstName": "Ho-Wook",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2407-howook-jun",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Ho-Wook Jun",
+  "equipmentLinkTypes": [],
+  "objectId": 2407,
+  "updatedWhen": "2025-05-10T08:07:28.9047212-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "hwjun@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Atherosclerosis Bioengineering Biotechnology Cardiovascular Diabetes Digestive Diseases Genetics Heart Disease Heart Disease - Coronary Heart Disease Liver Disease Nutrition Obesity Orphan Drug Rare Diseases Regenerative Medicine",
+  "grant_keywords": "Aging Assistive Technology Atherosclerosis Bioengineering Biotechnology Cardiovascular Clinical Research Dental/Oral and Craniofacial Disease Heart Disease Heart Disease - Coronary Heart Disease Infectious Diseases Kidney Disease Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human"
+}

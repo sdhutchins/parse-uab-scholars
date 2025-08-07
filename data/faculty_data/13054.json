@@ -1,0 +1,118 @@
+{
+  "lastName": "Fowler",
+  "overview": "Dr. Fowler is an epidemiologist focused on the overlap between cancer and geriatrics / aging. Her career goal involves working with interdisciplinary teams investigating and implementing evidence-based strategies for advancing health equity in cancer outcomes among older adults across the cancer continuum with specific focus on rural and urban health disparities. \n\nDr. Fowler has conducted research with a variety of data sources including \"big\" data, observational data, clinical trial data, and clinical / electronic health record data to evaluate geriatric outcomes among older adults with cancer including: cognitive impairment/decline, functional impairment, and frailty. She has also evaluated differences in cancer-related mortality and geriatric outcomes by geography and social determinants of health.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "13054-mackenzie-fowler",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epidemiology"
+        ],
+        "value": "Epidemiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geriatrics and Gerontology",
+          "and Gerontology",
+          "Gerontology"
+        ],
+        "value": "Geriatrics and Gerontology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health and Community Services",
+          "and Community Services",
+          "Community Services",
+          "Services"
+        ],
+        "value": "Health and Community Services"
+      }
+    ]
+  },
+  "discoveryId": "13054",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 29,
+      "favourites": 15
+    }
+  },
+  "firstName": "Mackenzie",
+  "firstNameLastName": "Mackenzie Fowler",
+  "equipmentLinkTypes": [],
+  "objectId": 13054,
+  "updatedWhen": "2025-05-10T08:15:18.9140859-05:00",
+  "hasCollaborationData": true,
+  "email": "mefowler@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Neurosciences Prevention Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Clinical Research Clinical Trials and Supportive Activities Dementia Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences"
+}

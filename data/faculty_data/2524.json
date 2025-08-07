@@ -1,0 +1,130 @@
+{
+  "lastName": "Velu",
+  "overview": "Dr. Velu did his postdoctoral research at the University of Alabama at Tuscaloosa and at Clemson University. He joined the Medicinal Chemistry division of the Center for Biophysical Sciences and Engineering at UAB in 1997 and worked as a Staff Scientist through 2004. He held a joined appointment in the Chemistry department as a Research Faculty during the period 2002-2004. He joined the Chemistry department as an Assistant Professor in August of 2004, was tenured and promoted to Associate Professor in 2010 and later on got promoted to the rank of Full Professor Rank in 2020.\n\nDr. Velu holds co-appointments as a Scientist at the UAB O’Neal Comprehensive Cancer Center Experimental Therapeutics Program and as an Associate Scientist at the UAB Center for Clinical and Translational Sciences. His research, funded by NIH and AHA focuses on drug discovery and development. His research interests are in the areas of medicinal chemistry, anti-cancer and anti-infective agents, structure based drug design, in-silico screening, directed combinatorial synthesis, structure activity relationship studies, lead optimization and synthesis of marine natural products. He is the author/co-author of >65 peer reviewed research publications and the inventor/co-inventor of 6 issued US/European patents.  He serves on the editorial board and edited special issues for the journal Marine Drugs. He serves on the NIH and AHA study sections. He teaches both graduate and undergraduate courses and is a recipient of the National Award for Excellence in Teaching given by the Center for Educational Policy Research, College Board. He currently serves as the Co-Director of the Undergraduate Program in Cancer Biology at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2524-sadanandan-velu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2524",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 225,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 85,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sadanandan",
+  "firstNameLastName": "Sadanandan Velu",
+  "equipmentLinkTypes": [],
+  "objectId": 2524,
+  "updatedWhen": "2025-05-10T08:07:50.5200204-05:00",
+  "hasCollaborationData": true,
+  "email": "svelu@uab.edu",
+  "publication_keywords": "Bioengineering Cancer Colo-Rectal Cancer Complementary and Integrative Health Dental/Oral and Craniofacial Disease Digestive Diseases Infectious Diseases Microbiome Nanotechnology Prevention Rare Diseases",
+  "grant_keywords": "Dental/Oral and Craniofacial Disease Infectious Diseases Microbiome Prevention"
+}

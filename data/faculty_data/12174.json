@@ -1,0 +1,85 @@
+{
+  "lastName": "Davis",
+  "overview": "Committed to providing high quality learning experiences to students in face-to-face and online courses. My research embodies this interest in teaching - training students to conduct research in the community setting using both qualitative and quantitative methods.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "12174-elizabeth-davis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of SHRP",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      }
+    ]
+  },
+  "discoveryId": "12174",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 127,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "firstName": "Elizabeth",
+  "firstNameLastName": "Elizabeth Davis",
+  "equipmentLinkTypes": [],
+  "objectId": 12174,
+  "updatedWhen": "2025-05-10T08:15:10.8619010-05:00",
+  "hasCollaborationData": true,
+  "email": "kroeger@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Health Disparities and Racial or Ethnic Minority Health Research Minority Health Neurodegenerative Neurosciences Nutrition Obesity Physical Activity Physical Injury - Accidents and Adverse Effects Prevention Social Determinants of Health Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Prevention Rural Health Social Determinants of Health"
+}

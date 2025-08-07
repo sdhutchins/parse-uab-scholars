@@ -1,0 +1,120 @@
+{
+  "lastName": "Biga",
+  "overview": "Dr. Peggy Biga is a broadly trained comparative endocrine physiologist, with primary research interests focusing on the mechanisms regulating growth patterns in animals. Her research questions revolve around what molecular and epigenetic mechanisms regulate skeletal muscle proliferation, differentiation, and atrophy. She uses comparative biology to understand the plasticity of regulatory mechanisms and how they translate to variability in overall organismal growth.\n\nFor example, most, and arguably all, terrestrial mammals reach a growth plateau around the time they reach sexual maturity which is characterized by a lack of nascent (or new) muscle fiber development post-embryonic growth. Alternatively, many aquatic vertebrates exhibit an opposing growth paradigm where no true growth plateau is reached, and skeletal muscle continues to growth through the addition of nascent muscle fibers throughout their life. The main focus of Dr. Biga’s lab for many years has been to identify molecular pathways and mechanisms that regulate the ability of some animals to continually grow (by adding NEW muscle fibers) throughout their lives. As a post-doctoral scientist, Dr. Biga identified and verified a comparative model system that can be used to ask these questions. She demonstrated that two closely related fish species, the zebrafish and giant danio, exhibit differential growth paradigms. The zebrafish, a commonly used model organism, exhibits a growth pattern that closely mirrors what is seen in human muscle growth, where muscle growth is accomplished post-birth/hatch with little to no addition of new muscle fibers, but instead through the enlargement of pre-existing fibers. Alternatively, a close relative to the zebrafish, the giant danio, exhibit continual addition of nascent muscle fibers throughout their lives. By juxtaposing the growth of these two fish species, Dr. Biga has identified transcription factors and myogenic regulatory factors that are differentially regulated between the growth types.\n\nDr. Biga’s research interests also focus on the endocrine regulation of growth biology, with particular focus on the GH-IGF system in relation to myostatin control of cell proliferation, cell differentiation, and energy metabolism. Myostatin is a negative regulator of muscle growth, and is known to be sensitive to GH and IGF signaling in muscle tissue. In addition, Dr. Biga has shown that myostatin is also responsive to stress hormones, like cortisol, which is likely to be involved in stress-induced muscle atrophy. Also, Dr. Biga is interested in the direct action GH might have on muscle cells in relation to cell proliferation and differentiation, and cellular respiration. This work is primarily conducted using the rainbow trout as a model, as this fish species is an important species for the US aquaculture industry.\n\nIn addition, Dr. Biga’s research also focuses on how diet influences the mechanisms that regulation growth and metabolism. Her lab researches questions related to how individual nutrients influence growth and metabolic physiology, and how these nutrients alter the epigenome to regulate changes in physiology. Within this area of research, Dr. Biga has demonstrated that amino acid (ex., methionine) restriction alters muscle cell proliferation and induces autophagy in vitro. In addition, Dr. Biga’s lab has also demonstrated that methionine restriction affects glucose metabolism that is likely regulated through changes in miRNA expression in a tissue-specific manner. On the other side of the diet-epigenetic interaction research focus, Dr. Biga is interested in evaluating how methyl-donor amino acid supplementation can affect growth physiology through maternal imprinting.\n\nDr. Biga participates in several collaborations with scientists in France, Canada, and the US on research projects that focus on how endocrinology, molecular biology, epigenetics, and physiology interact to regulate growth physiology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2489-peggy-biga",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2489",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 2
+    },
+    "teachingActivities": {
+      "all": 155,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 54,
+      "favourites": 0
+    }
+  },
+  "firstName": "Peggy",
+  "firstNameLastName": "Peggy Biga",
+  "equipmentLinkTypes": [],
+  "objectId": 2489,
+  "updatedWhen": "2025-05-10T08:07:39.3779273-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

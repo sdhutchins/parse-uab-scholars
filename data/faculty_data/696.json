@@ -1,0 +1,122 @@
+{
+  "lastName": "Reynolds",
+  "overview": "Dr Reynolds is an Assistant Professor of Medicine in the Division of Clinical Immunology and Rheumatology. His current research interests include genetic epidemiology of gout and associated comorbidities and the genetic and epigenetic causes of gout flares. Dr. Reynolds earned his Ph.D. from the University of Maryland College Park's Department of Biology in 2008. He completed a post doctoral fellowship in UAB's Department of Biostatistics, section on Statistical Genetics in 2010 and thereafter joined the faculty at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "696-richard-reynolds",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "suffix": "IV",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "696",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 62,
+      "favourites": 0
+    }
+  },
+  "firstName": "Richard",
+  "firstNameLastName": "Richard Reynolds",
+  "equipmentLinkTypes": [],
+  "objectId": 696,
+  "updatedWhen": "2025-05-10T08:03:50.0191373-05:00",
+  "hasCollaborationData": true,
+  "email": "rjriv@uab.edu",
+  "publication_keywords": "Arthritis Cardiovascular Clinical Research Clinical Trials and Supportive Activities Genetics Health Disparities Human Genome Hypertension Minority Health Neurosciences",
+  "grant_keywords": "Arthritis Autoimmune Disease Biotechnology Clinical Research Genetics Human Genome Rheumatoid Arthritis Women's Health"
+}

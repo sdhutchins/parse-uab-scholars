@@ -1,0 +1,119 @@
+{
+  "discoveryId": "2766",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 173,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cockerham",
+  "firstName": "William",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2766-william-cockerham",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor Emeritus",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "William Cockerham",
+  "equipmentLinkTypes": [],
+  "objectId": 2766,
+  "updatedWhen": "2025-05-10T08:08:22.0191480-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Linguistics"
+        ],
+        "value": "Linguistics"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Literary Studies",
+          "Studies"
+        ],
+        "value": "Literary Studies"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "wcocker@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Health Services Heart Disease Mental Health Mental Illness Nutrition Physical Activity Prevention Social Determinants of Health",
+  "grant_keywords": ""
+}

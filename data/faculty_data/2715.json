@@ -1,0 +1,118 @@
+{
+  "lastName": "Amthor",
+  "overview": "My career has been devoted to understanding neural computation, both for its own sake and for the sake of making neural prosthesis that restore and augment human function. My specific research has been to investigate complex neural computations in retinal ganglion cells, the first locus in the visual system of highly specific and nonlinear analyses such as motion and directional selectivity.\n\nThe first task I took on as a retinal researcher was to identify, by intracellular recording and staining, all the major ganglion cell classes in a mammalian retina (rabbit), including directionally selective, orientation-selective and edge-detecting ganglion cells. My colleagues and I have shown that the morphologies of at least 20 different physiological classes of rabbit retinal ganglion cells are distinct, and typically associated with important physiological properties of each class. Most of these classes are likely to be highly conserved across mammals, including primates. Following this necessary, pioneering, and now classic work, I investigated the retinal circuitry and mechanisms underlying complex receptive field properties such as directional selectivity, including the receptor types exhibited by various ganglion cell classes, and their projection targets in the brain in order to understand the role of different ganglion cell classes in various aspects of visual acuity and perception. \n\nThese investigations have used virtually the entire suite of single cell neurophysiological techniques, including single cell extracellular recording, sharp electrode intracellular recording and staining, patch clamp recording, optical imaging with both calcium and potentiometric dyes, dual electrode recording, and, most recently, microelectrode array recording. This research has been supported by the NEI over a continuous, 20-year period of support. Some computational aspects were also supported by the Sloan Foundation and the Office of Naval Research, while the EyeSight Foundation of Alabama has supported some efforts that have clinical implications.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2715-franklin-amthor",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      }
+    ]
+  },
+  "discoveryId": "2715",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 147,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 72,
+      "favourites": 0
+    }
+  },
+  "firstName": "Franklin",
+  "firstNameLastName": "Franklin Amthor",
+  "equipmentLinkTypes": [],
+  "objectId": 2715,
+  "updatedWhen": "2025-05-10T08:08:11.1191627-05:00",
+  "hasCollaborationData": true,
+  "email": "amthorfr@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Eating Disorders Eye Disease and Disorders of Vision Mental Health Neurosciences Nutrition Obesity",
+  "grant_keywords": ""
+}

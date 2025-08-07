@@ -1,0 +1,127 @@
+{
+  "lastName": "Gray",
+  "overview": "I have been a member of the faculty of the UAB Microbiology Department since January of 2016. My interests are focused on the molecular mechanisms by which bacteria sense and respond to changes in their environments. My lab is currently exploring how bacteria regulate inorganic polyphosphate synthesis in response to starvation and how pro-inflammatory enterobacteria use the RclA, RclB, and RclC proteins to resist antimicrobial oxidants used by the innate immune system to kill bacteria during inflammation.\n\nPrior to starting my own lab, I was a postdoctoral fellow in the lab of Dr. Ursula Jakob at the University of Michigan, where I began my studies of bacterial responses to reactive chlorine stress and the role of the ancient biomolecule inorganic polyphosphate in stress response. I received my Ph.D. at the University of Wisconsin - Madison, in the lab of Dr. Jorge Escalante, studying the synthesis and salvage of the lower ligand of vitamin B12 in bacteria, and my Master's degree at the University of California - Davis, in the lab of Dr. Valley Stewart. Between those degrees, I worked as a technician in Dr. Kathryn Boor's lab at Cornell University, which was also my undergraduate alma mater.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3276-michael-gray",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "3276",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 61,
+      "favourites": 5
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Gray",
+  "equipmentLinkTypes": [],
+  "objectId": 3276,
+  "updatedWhen": "2025-05-10T08:09:16.2154321-05:00",
+  "hasCollaborationData": true,
+  "email": "mjgray@uab.edu",
+  "publication_keywords": "Emerging Infectious Diseases Genetics Human Genome Infectious Diseases",
+  "grant_keywords": "Genetics Infectious Diseases Microbiome"
+}

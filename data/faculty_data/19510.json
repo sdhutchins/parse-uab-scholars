@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19510",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Muchimba",
+  "firstName": "Maureen",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19510-maureen-muchimba",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "firstNameLastName": "Maureen Muchimba",
+  "equipmentLinkTypes": [],
+  "objectId": 19510,
+  "updatedWhen": "2025-05-10T08:21:53.0191814-05:00",
+  "hasCollaborationData": false,
+  "email": "mmuch@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

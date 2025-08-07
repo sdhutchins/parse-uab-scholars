@@ -1,0 +1,117 @@
+{
+  "discoveryId": "16701",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 7
+    }
+  },
+  "lastName": "Brocato",
+  "firstName": "Brian",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16701-brian-brocato",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "OB/GYN - Maternal & Fetal Medicine"
+    }
+  ],
+  "firstNameLastName": "Brian Brocato",
+  "equipmentLinkTypes": [],
+  "objectId": 16701,
+  "updatedWhen": "2025-05-10T08:16:22.9033691-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bbrocato@uab.edu",
+  "publication_keywords": "Brain Disorders Breastfeeding, Lactation and Breast Milk Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Conditions Affecting the Embryonic and Fetal Periods Contraception/Reproduction Diabetes Drug Abuse (NIDA only) Health Services Infant Mortality Lung Maternal Health Maternal Morbidity and Mortality Mental Health Neonatal Respiratory Distress Neurosciences Opioid Misuse and Addiction Opioids Patient Safety Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Prevention Substance Misuse Women's Health",
+  "grant_keywords": ""
+}

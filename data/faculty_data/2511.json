@@ -1,0 +1,98 @@
+{
+  "lastName": "Brande",
+  "overview": "I grew up in Altoona, Pennsylvania, on the westernmost valley and ridge in the Appalachian Mountains. Coal deliveries to our home for stoking the basement furnace during the cold winter months became the first geological quarry of my collecting career — the pyrite veins were irresistible in my eyes. Just blocks from my house stood an entire hillside of fossiliferous stone in which I collected trilobites and other fossils of the Paleozoic Era. As a guest investigator at an archeological site in Israel, I found a hippopotamus tooth that documented these animals living in the Jordan River some 780,000 years ago. However, I was most excited when, as a college student, I stumbled upon a boulder that later revealed a new genus and species of ancient fish, eventually given my family name — Sterropterygion brandei. \n\nThe UAB geology department, in which I taught a diversity of undergraduate geology courses for 19 years, closed in 1998 and I joined the chemistry department. I don’t believe in knowledge silos. My wide-ranging interests in geoscience, biology, and technology for education have driven me through departmental and disciplinary walls like an asteroid through the roof. I have a secondary appointment in the department of electrical and computer engineering, and I serve on graduate committees across campus, from biology to engineering. I collaborate with colleagues in Turkey and Israel. And I engage in public service, speaking to local clubs, school groups from kindergarten through high school. I am an entrepreneur, having co-invented and continue to develop with Kursat Arslan, my Turkish colleague, web software for teaching and learning, which the UAB Research Foundation nominated to 2012 Alabama Launchpad competition. Our project made it to the finals, but we didn’t win the $100,000. Bummer. For more detailed information, check out my social network profiles on LinkedIn and Google+.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2511-scott-brande",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geology"
+        ],
+        "value": "Geology"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Technology",
+          "Technology"
+        ],
+        "value": "Other Technology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      }
+    ]
+  },
+  "discoveryId": "2511",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 227,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "firstName": "Scott",
+  "firstNameLastName": "Scott Brande",
+  "equipmentLinkTypes": [],
+  "objectId": 2511,
+  "updatedWhen": "2025-05-10T08:07:50.4793012-05:00",
+  "hasCollaborationData": false,
+  "email": "sbrande@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19448",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Falci",
+  "firstName": "Christina",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19448-christina-falci",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Christina Falci",
+  "equipmentLinkTypes": [],
+  "objectId": 19448,
+  "updatedWhen": "2025-05-10T08:21:45.3908872-05:00",
+  "hasCollaborationData": false,
+  "email": "cfalci@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

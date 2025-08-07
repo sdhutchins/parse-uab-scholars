@@ -1,0 +1,98 @@
+{
+  "discoveryId": "9032",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 92,
+      "favourites": 0
+    }
+  },
+  "lastName": "Murchison",
+  "firstName": "Chad",
+  "hasThumbnail": true,
+  "discoveryUrlId": "9032-chad-murchison",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Chad Murchison",
+  "equipmentLinkTypes": [],
+  "objectId": 9032,
+  "updatedWhen": "2025-05-12T03:21:24.6196072-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Statistics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biostatistics"
+        ],
+        "value": "Biostatistics"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      },
+      {
+        "paths": [
+          [
+            "Information Systems",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Database Management",
+          "Management"
+        ],
+        "value": "Database Management"
+      },
+      {
+        "paths": [
+          [
+            "Applied Mathematics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Operations Research",
+          "Research"
+        ],
+        "value": "Operations Research"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cfmurch@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Clinical Research Dementia Eye Disease and Disorders of Vision Health Disparities Minority Health Neurodegenerative Neurosciences Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Autoimmune Disease Brain Disorders Dementia Health Disparities Minority Health Multiple Sclerosis Neurodegenerative Neurosciences Organ Transplantation Prevention Rural Health Social Determinants of Health Transplantation"
+}

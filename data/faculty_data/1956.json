@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1956",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 71,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 124,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 99,
+      "favourites": 0
+    }
+  },
+  "lastName": "Rucks",
+  "firstName": "Andrew",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1956-andrew-rucks",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "firstNameLastName": "Andrew Rucks",
+  "equipmentLinkTypes": [],
+  "objectId": 1956,
+  "updatedWhen": "2025-05-10T08:06:24.4642778-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "arucks@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Dental/Oral and Craniofacial Disease Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Pediatric Research Initiative Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

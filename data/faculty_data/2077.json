@@ -1,0 +1,82 @@
+{
+  "discoveryId": "2077",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 123,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 57,
+      "favourites": 0
+    }
+  },
+  "lastName": "Yother",
+  "firstName": "Janet",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2077-janet-yother",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Microbiology",
+      "department": "Microbiology"
+    }
+  ],
+  "firstNameLastName": "Janet Yother",
+  "equipmentLinkTypes": [],
+  "objectId": 2077,
+  "updatedWhen": "2025-05-10T08:06:35.9590917-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jyother@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biotechnology Clinical Research Genetics HIV/AIDS Immunization Infectious Diseases Kidney Disease Lung Pneumonia Pneumonia & Influenza Prevention Vaccine Related Vaccine Related (AIDS)",
+  "grant_keywords": "Autoimmune Disease Biodefense Diabetes Emerging Infectious Diseases Genetics HIV/AIDS Infectious Diseases Lung Nutrition Pneumonia Pneumonia & Influenza Sexually Transmitted Infections"
+}

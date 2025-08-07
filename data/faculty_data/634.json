@@ -1,0 +1,131 @@
+{
+  "lastName": "Cheng",
+  "overview": "Dr. Cheng completed his medical education at Hunan Medical University in 1985. Later, he continued his graduate training at the Chinese Academy of Medical Sciences & Peking Union Medical College, and Hunan Medical University, where he later became a faculty member.  Dr. Cheng served as vice chairman of the Center for Molecular Biology at Hunan Medical University from 1993 to 1996. He completed additional postdoctoral training at the Kimball Research Institute (New York Blood Center) and Emory University School of Medicine. At Emory University, he was promoted to the rank of Instructor and later, Assistant Professor of Pathology and Laboratory Medicine.\n\nIn 2009, he was recruited to the Division of Pulmonary, Allergy & Critical Care Medicine at the University of Alabama at Birmingham at the rank of Associate Professor of Medicine. Dr. Cheng has spent more than two decades in biochemistry, molecular biology, and cell biology research and has discovered nine new human genes in the NADPH oxidase and heme-containing peroxidase families. He holds nine patents issued by the United States Patent and Trademark Office.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "634-guangjie-cheng",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "634",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 52,
+      "favourites": 0
+    }
+  },
+  "firstName": "Guangjie",
+  "firstNameLastName": "Guangjie Cheng",
+  "equipmentLinkTypes": [],
+  "objectId": 634,
+  "updatedWhen": "2025-05-10T08:03:37.8953026-05:00",
+  "hasCollaborationData": true,
+  "email": "gjcheng@uab.edu",
+  "publication_keywords": "Aging Antimicrobial Resistance Atherosclerosis Autoimmune Disease Biodefense Cardiovascular Diabetes Emerging Infectious Diseases Heart Disease Heart Disease - Coronary Heart Disease Infectious Diseases Lung Rare Diseases",
+  "grant_keywords": "Biodefense Biotechnology Emerging Infectious Diseases Infectious Diseases Lung Pneumonia Pneumonia & Influenza"
+}

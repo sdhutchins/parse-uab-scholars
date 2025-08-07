@@ -1,0 +1,128 @@
+{
+  "lastName": "Hook",
+  "overview": "Dr. Edward Hook III is Professor of Medicine and Epidemiology and Director of the STD Control Program for the Jefferson County (Alabama) Department of Health.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "563-edward-hook",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "563",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 124,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 441,
+      "favourites": 0
+    }
+  },
+  "firstName": "Edward",
+  "firstNameLastName": "Edward Hook",
+  "equipmentLinkTypes": [],
+  "objectId": 563,
+  "updatedWhen": "2025-05-10T08:03:25.3182454-05:00",
+  "hasCollaborationData": true,
+  "email": "ehook@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biotechnology Clinical Research Dental/Oral and Craniofacial Disease Emerging Infectious Diseases Health Disparities Infectious Diseases Rare Diseases Sexually Transmitted Infections",
+  "grant_keywords": ""
+}

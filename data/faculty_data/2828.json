@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2828",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Houser",
+  "firstName": "Howard",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2828-howard-houser",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Health Services Administration"
+    }
+  ],
+  "firstNameLastName": "Howard Houser",
+  "equipmentLinkTypes": [],
+  "objectId": 2828,
+  "updatedWhen": "2025-05-10T08:08:22.0534650-05:00",
+  "hasCollaborationData": false,
+  "email": "hhouser@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

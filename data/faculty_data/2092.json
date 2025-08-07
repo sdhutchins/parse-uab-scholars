@@ -1,0 +1,108 @@
+{
+  "discoveryId": "2092",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 47,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hatton",
+  "firstName": "Robin",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2092-robin-hatton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Anatomic Pathology"
+    }
+  ],
+  "firstNameLastName": "Robin Hatton",
+  "equipmentLinkTypes": [],
+  "objectId": 2092,
+  "updatedWhen": "2025-05-10T08:06:35.9747090-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rdzialo@uab.edu",
+  "publication_keywords": "Digestive Diseases Genetics Immunotherapy Infectious Diseases",
+  "grant_keywords": "Autoimmune Disease Clinical Research Crohn's Disease Digestive Diseases Genetics Infectious Diseases Inflammatory Bowel Disease"
+}

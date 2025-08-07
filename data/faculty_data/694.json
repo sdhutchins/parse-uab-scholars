@@ -1,0 +1,137 @@
+{
+  "lastName": "Raman",
+  "overview": "Dr. Raman’s laboratory interrogates molecular and cellular mechanisms driving the immunopathogenesis of autoinflammatory and inflammatory diseases with a special emphasis on multiple sclerosis (MS), hidradenetis suppurativa (HS) and rheumatoid arthritis (RA). Within this are of research, the current studies focus on molecular mechanisms underlying activation and differentiation of effector and regulatory adaptive and innate immune cells in the pathogenesis of these autoimmune diseases. Current investigations involve human immunology bridged with mouse models to study HS, MS, RA and SLE. The major area of investigation is immunopathogenesis of hidradenitis asuppurativa and multiple sclerosis. We have several interrelated projects in this area of investigation:\n\ni. Innate lymphcyte (ILCs), NK and NKT cell immunomodualtory and regulatory networks in skin inflammatory diseases.\n\nii. Canonical and non-canonical vitamin D activation and signaling in immunity and cancer.\n\niii. Type 1 IFNs (IFN-α and IFN-β), type 2 IFN (IFN-γ) and type 3 IFNs (IFN-λ) in pathogenesis and regulation of inflammatory and autoinflammatory diseases.\n\niv. Role of CD5 in modulation of immune responses in T cells, B cells and dendritic cells. \n\nv. TGFβR3/betaglycan dependent regulation of adaptive immune effector cells in the pathogenesis of autoimmune diseases",
+  "hasThumbnail": true,
+  "discoveryUrlId": "694-chander-raman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dermatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Immunology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Autoimmunity"
+        ],
+        "value": "Autoimmunity"
+      }
+    ]
+  },
+  "discoveryId": "694",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 89,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 145,
+      "favourites": 0
+    }
+  },
+  "firstName": "Chander",
+  "firstNameLastName": "Chander Raman",
+  "equipmentLinkTypes": [],
+  "objectId": 694,
+  "updatedWhen": "2025-05-10T08:03:50.0191373-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

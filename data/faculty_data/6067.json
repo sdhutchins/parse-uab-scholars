@@ -1,0 +1,128 @@
+{
+  "discoveryId": "6067",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 61,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 71,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 313,
+      "favourites": 0
+    }
+  },
+  "lastName": "Odom",
+  "firstName": "J. Nicholas",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6067-j-nicholas-odom",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "firstNameLastName": "J. Nicholas Odom",
+  "equipmentLinkTypes": [],
+  "objectId": 6067,
+  "updatedWhen": "2025-05-10T08:12:46.7364422-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dionneod@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Cancer Caregiving Research Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Pediatric Research Initiative Prevention Rehabilitation Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dissemination and Implementation Research Health Disparities Health Services Heart Disease Minority Health Networking and Information Technology R&D (NITRD) Pain Research Prevention Rural Health Social Determinants of Health"
+}

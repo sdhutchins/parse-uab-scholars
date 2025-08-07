@@ -1,0 +1,126 @@
+{
+  "lastName": "Norian",
+  "overview": "Professional Summary: Dr. Norian is an Associate Professor in the Department of Nutrition Sciences at the University of Alabama at Birmingham (UAB). She is also jointly affiliated with the UAB O’Neal Comprehensive Cancer Center and the UAB Nutrition Obesity Research Center. Prior to joining UAB in 2015, Dr. Norian performed her graduate work at The University of Iowa in the laboratory of Dr. Gary Koretzky, where she studied T cell signal transduction.  She then performed her post-doctoral training at the Washington University School of Medicine in St. Louis, where she studied suppressive tumor-infiltrating dendritic cells in the laboratory of Dr. Paul Allen. Upon completion of her training, Dr. Norian was recruited to The University of Iowa Department of Urology in the Carver College of Medicine, where she began to study the effects of obesity on immune responses to renal tumors. She has continued and expanded upon this line of research at UAB, where her research is currently focused on two main areas: 1) defining the mechanisms of tumor-induced immune dysfunction; and 2) understanding how diet and obesity alter the quality and magnitude of anti-tumor immune responses and immunotherapy outcomes. The Norian laboratory performs translational immuno-oncology research using multiple pre-clinical tumor models, as well as biospecimens and outcome data from human subjects.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3132-lyse-norian",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "3132",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 98,
+      "favourites": 10
+    }
+  },
+  "firstName": "Lyse",
+  "firstNameLastName": "Lyse Norian",
+  "equipmentLinkTypes": [],
+  "objectId": 3132,
+  "updatedWhen": "2025-05-10T08:08:52.9468646-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

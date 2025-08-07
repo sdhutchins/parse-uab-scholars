@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16863",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Holley",
+  "firstName": "Sharon",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16863-sharon-holley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "firstNameLastName": "Sharon Holley",
+  "equipmentLinkTypes": [],
+  "objectId": 16863,
+  "updatedWhen": "2025-05-10T08:16:42.3660409-05:00",
+  "hasCollaborationData": false,
+  "email": "sharonholley@uab.edu",
+  "publication_keywords": "Clinical Research Emerging Infectious Diseases Health Services Infectious Diseases Influenza Malaria Patient Safety Pneumonia & Influenza Prevention Rare Diseases Vector-Borne Diseases",
+  "grant_keywords": ""
+}

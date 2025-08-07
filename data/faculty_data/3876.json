@@ -1,0 +1,89 @@
+{
+  "lastName": "Buchalter",
+  "overview": "Scott Buchalter completed his medical residency and pulmonary fellowship at UAB in the late 1970s and early 1980s, joining the division immediately after his training. After joining as a junior faculty member, he began focused work on the division’s critical care efforts as the medical director for UAB’s MICU. In the early 1990s, Dick Briggs asked Dr. Buchalter and Dr. Randy Young to run the division as co-directors to better serve the division’s growing clinical and research practices. Not long after this new position, Dr. Buchalter was recruited to start critical care programs for the University of Nebraska. Dr. Buchalter did this work for three years, returning to UAB after it was completed. After further work in pulmonary medicine, Dr. Buchalter assumed broader responsibility as UAB Hospital’s Vice President of Chief Strategy and Quality Officer.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3876-scott-buchalter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "UAB Medicine Quality Education Officer",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "3876",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "firstName": "Scott",
+  "firstNameLastName": "Scott Buchalter",
+  "equipmentLinkTypes": [],
+  "objectId": 3876,
+  "updatedWhen": "2025-05-10T08:10:09.0772445-05:00",
+  "hasCollaborationData": true,
+  "email": "buchalt1@uab.edu",
+  "publication_keywords": "Patient Safety",
+  "grant_keywords": ""
+}

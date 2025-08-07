@@ -1,0 +1,122 @@
+{
+  "lastName": "Schwiebert",
+  "overview": "Lisa M. Schwiebert received a BS degree in Chemistry from Bates College in 1986 and a PhD in Biochemistry from Dartmouth College in 1993. After completing her postdoctoral training in Clinical Immunology at Johns Hopkins University, she was appointed as an instructor in the Department of Medicine at Johns Hopkins University. Dr. Schwiebert joined the faculty of the Department of Physiology and Biophysics at UAB in 1997 as an Assistant Professor and was promoted to Associate Professor with tenure in 2003; she was promoted to Professor in 2013. In 2007, she was appointed Associate Dean for Postdoctoral Education.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2258-lisa-schwiebert",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "2258",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 98,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 63,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lisa",
+  "firstNameLastName": "Lisa Schwiebert",
+  "equipmentLinkTypes": [],
+  "objectId": 2258,
+  "updatedWhen": "2025-05-10T08:07:03.7810935-05:00",
+  "hasCollaborationData": true,
+  "email": "lschwieb@uab.edu",
+  "publication_keywords": "Asthma Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Lung Mental Health Mental Illness Minority Health Social Determinants of Health",
+  "grant_keywords": "Health Disparities Minority Health"
+}

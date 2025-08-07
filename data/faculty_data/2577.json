@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2577",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 133,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Slaughter",
+  "firstName": "Lauren",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2577-lauren-slaughter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Lauren Slaughter",
+  "equipmentLinkTypes": [],
+  "objectId": 2577,
+  "updatedWhen": "2025-05-10T08:07:50.5779811-05:00",
+  "hasCollaborationData": false,
+  "email": "lgslaugh@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

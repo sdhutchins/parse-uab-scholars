@@ -1,0 +1,44 @@
+{
+  "discoveryId": "4318",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Riser",
+  "firstName": "Emily",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4318-emily-riser",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Associate Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Emily Riser",
+  "equipmentLinkTypes": [],
+  "objectId": 4318,
+  "updatedWhen": "2025-05-10T08:11:00.2622232-05:00",
+  "hasCollaborationData": false,
+  "email": "eriser@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

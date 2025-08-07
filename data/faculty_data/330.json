@@ -1,0 +1,126 @@
+{
+  "lastName": "Brott",
+  "overview": "Dr. Brott came to UAB in November, 2000 as an Assistant Professor of Medicine in the Division of Cardiovascular Disease.  She obtained a Bachelor of Science in Materials Science and Engineering from the Massachusetts Institute of Technology.  She then completed her medical degree at Loyola University, Stritch School of Medicine in Maywood, IL in 1988 and completed an Internal Medicine residency (1991) at Beth Israel Medical Center – Harvard Medical School in Boston, MA.  Dr. Brott completed both a General Cardiology fellowship (1994) and an Interventional Cardiology fellowship (1995) at Duke University, Durham, NC.  Afterwards, she was hired on with Vanderbilt University and stayed there for four years before joining us the Division of Cardiovascular Disease at UAB.  \n\nDr. Brott is an active member of the Interventional Cardiology section, and serves as the Director of the Interventional Cardiology Fellowship Program.\n\nDr. Brott serves on the editorial boards of the Journal of the American College of Cardiology and JACC: Cardiovascular Interventions, and is a reviewer of numerous journals.  Dr. Brott serves on several councils and grant review committees including the American Heart Association Council on Clinical Cardiology (2004 – present), NIH BMBI Study Section (Biomaterials and Biointerfaces) (2009 – 2016), NIH SBIB Study Section (Surgical Sciences, Biomedical Imaging, and Bioengineering) (2013 – present), and the NIH Special Emphasis Panel - Biomedical Imaging and Engineering Area Review.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "330-brigitta-brott",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "330",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 70,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 135,
+      "favourites": 0
+    }
+  },
+  "firstName": "Brigitta",
+  "firstNameLastName": "Brigitta Brott",
+  "equipmentLinkTypes": [],
+  "objectId": 330,
+  "updatedWhen": "2025-05-10T08:02:47.6138764-05:00",
+  "hasCollaborationData": true,
+  "email": "bbrott@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Bioengineering Biomedical Imaging Biotechnology Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Orphan Drug Rare Diseases",
+  "grant_keywords": "Assistive Technology Atherosclerosis Bioengineering Cardiovascular Heart Disease Heart Disease - Coronary Heart Disease"
+}

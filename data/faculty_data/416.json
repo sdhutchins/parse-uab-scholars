@@ -1,0 +1,122 @@
+{
+  "discoveryId": "416",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 34,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 64,
+      "favourites": 0
+    }
+  },
+  "lastName": "Smythies",
+  "firstName": "Lesley",
+  "hasThumbnail": false,
+  "discoveryUrlId": "416-lesley-smythies",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Gastroenterology"
+    }
+  ],
+  "firstNameLastName": "Lesley Smythies",
+  "equipmentLinkTypes": [],
+  "objectId": 416,
+  "updatedWhen": "2025-05-10T08:03:00.8557686-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lesmy@uab.edu",
+  "publication_keywords": "Biodefense Breastfeeding, Lactation and Breast Milk Clinical Research Digestive Diseases Digestive Diseases - (Peptic Ulcer) Emerging Infectious Diseases Genetics HIV/AIDS Immunization Infectious Diseases Microbiome Nutrition Pediatric AIDS Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Prevention Rare Diseases Vaccine Related Vaccine Related (AIDS) Women's Health",
+  "grant_keywords": "Autoimmune Disease Biodefense Cancer Clinical Research Crohn's Disease Digestive Diseases Emerging Infectious Diseases Infectious Diseases Inflammatory Bowel Disease Pancreatic Cancer Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health"
+}

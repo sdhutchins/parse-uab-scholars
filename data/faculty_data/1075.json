@@ -1,0 +1,126 @@
+{
+  "discoveryId": "1075",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 52,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 57,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 124,
+      "favourites": 0
+    }
+  },
+  "lastName": "Willey",
+  "firstName": "Christopher",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1075-christopher-willey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiation Oncology"
+    }
+  ],
+  "firstNameLastName": "Christopher Willey",
+  "equipmentLinkTypes": [],
+  "objectId": 1075,
+  "updatedWhen": "2025-05-10T08:04:44.5932552-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cwilley@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Clinical Research Genetics Human Genome Immunotherapy Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurosciences Orphan Drug Precision Medicine Radiation Oncology Rare Diseases",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

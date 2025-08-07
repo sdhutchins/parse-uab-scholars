@@ -1,0 +1,131 @@
+{
+  "lastName": "Dransfield",
+  "overview": "Dr. Dransfield is Professor of Medicine and the Director of the Division of Pulmonary, Allergy and Critical Care.  He completed his medical degree at the University of North Carolina at Chapel Hill in 1997, followed by residency in internal medicine and fellowship training in pulmonary and critical care medicine at the University of Alabama at Birmingham, where he served as Chief Fellow.  He has been on the faculty at UAB since 2003.  Dr. Dransfield is also the Ben Branscomb Endowed Chair in Pulmonary Disease and the Medical Director of the UAB Lung Health Center and a member of the both the American Society of Clinical Investigation and Southern Society of Clinical Investigation.  Dr. Dransfield's primary clinical interests include chronic obstructive pulmonary disease (COPD) and lung cancer.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "640-mark-dransfield",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "640",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 148,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 635,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mark",
+  "firstNameLastName": "Mark Dransfield",
+  "equipmentLinkTypes": [],
+  "objectId": 640,
+  "updatedWhen": "2025-05-10T08:03:37.9073128-05:00",
+  "hasCollaborationData": true,
+  "email": "mdrans99@uab.edu",
+  "publication_keywords": "Chronic Obstructive Pulmonary Disease Clinical Research Lung Patient Safety Tobacco Tobacco Smoke and Health",
+  "grant_keywords": ""
+}

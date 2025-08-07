@@ -1,0 +1,121 @@
+{
+  "discoveryId": "16681",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 99,
+      "favourites": 0
+    }
+  },
+  "lastName": "Holmes",
+  "firstName": "Jeffrey",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16681-jeffrey-holmes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Dean-School of Engineering",
+      "department": "Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Jeffrey Holmes",
+  "equipmentLinkTypes": [],
+  "objectId": 16681,
+  "updatedWhen": "2025-05-10T08:16:22.8973689-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "holmesjw@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Cardiovascular Clinical Research Heart Disease Heart Disease - Coronary Heart Disease",
+  "grant_keywords": "Bioengineering Cardiovascular Clinical Research Heart Disease Networking and Information Technology R&D (NITRD)"
+}

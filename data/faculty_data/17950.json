@@ -1,0 +1,95 @@
+{
+  "lastName": "Smith",
+  "overview": "Epilepsy is a chronic neurological disease that affects nearly 60 million people worldwide and is defined by recurrent and unprovoked seizures. If the patient’s seizures are not controlled with anti-epileptic medications, they often lose their independence, and can experience profound behavioral, psychological, cognitive, social, and ﬁnancial burdens. Currently, diagnosis and treatment of epilepsy involves visual inspection, channel by channel, of electroencephalographic (EEG) signals recorded noninvasively from the scalp or invasively through intracranial monitoring. These methods of EEG assessment are extremely time-consuming, subjective, and disregard the network phenomena that drive seizure genesis. My research has focused on the development of novel computational tools that investigate epilepsy with a network framework to characterize the disease more objectively and accurately. Incorporation of such computational tools into clinical practice will advance current clinical decision support systems, and has the potential to significantly improve treatment outcomes.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17950-rachel-smith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Engineering",
+      "department": "Electrical & Computer Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "17950",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 14,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rachel",
+  "firstNameLastName": "Rachel Smith",
+  "equipmentLinkTypes": [],
+  "objectId": 17950,
+  "updatedWhen": "2025-05-10T08:18:27.5053420-05:00",
+  "hasCollaborationData": true,
+  "email": "rjsmith2@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Brain Disorders Clinical Research Epilepsy Health Disparities and Racial or Ethnic Minority Health Research Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Rehabilitation",
+  "grant_keywords": ""
+}

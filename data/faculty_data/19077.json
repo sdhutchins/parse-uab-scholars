@@ -1,0 +1,105 @@
+{
+  "lastName": "Vendrell Llopis",
+  "overview": "I’m a neuroscientist and neuro-engineer fascinated by neuroprosthetic learning. My passion lies in crafting innovative neuro-stimulation approaches to artificially restore and enhance cognitive skills. I earned an equivalent to a B.S. and M.S. degrees in Telecommunication Engineering from the UPV (Spain) in 2010, followed by a Ph.D. in Biomedical Science from KU Leuven (Belgium) in 2015.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19077-nuria-vendrell-llopis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Engineering",
+      "department": "Electrical & Computer Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Cognitive Sciences",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Knowledge Representation and Machine Learning",
+          "Representation and Machine Learning",
+          "and Machine Learning",
+          "Machine Learning",
+          "Learning"
+        ],
+        "value": "Knowledge Representation and Machine Learning"
+      },
+      {
+        "paths": [
+          [
+            "Artificial Intelligence and Image Processing",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pattern Recognition and Data Mining",
+          "Recognition and Data Mining",
+          "and Data Mining",
+          "Data Mining",
+          "Mining"
+        ],
+        "value": "Pattern Recognition and Data Mining"
+      },
+      {
+        "paths": [
+          [
+            "Zoology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Neurobiology",
+          "Neurobiology"
+        ],
+        "value": "Animal Neurobiology"
+      }
+    ]
+  },
+  "discoveryId": "19077",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nuria",
+  "firstNameLastName": "Nuria Vendrell Llopis",
+  "equipmentLinkTypes": [],
+  "objectId": 19077,
+  "updatedWhen": "2025-05-10T08:20:49.0310839-05:00",
+  "hasCollaborationData": false,
+  "email": "nvl2@uab.edu",
+  "publication_keywords": "Assistive Technology Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Brain Disorders Mental Health Neurosciences",
+  "grant_keywords": ""
+}

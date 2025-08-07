@@ -1,0 +1,125 @@
+{
+  "lastName": "Xie",
+  "overview": "While pursuing basic medical research training, he realized how strong his desire was to couple clinical practice with fundamental and translational research. It is for that reason that he matched at UT Southwestern for clinical training and was pleased that his performance there led to being accepted into the prestigious cardiology fellowship at UT Southwestern started in July 2010. During his three years of research, he worked on the cardioprotective effects of histone deacetylase inhibitor (HDAC inhibitor) on ischemia/reperfusion (I/R) injury. He found that SAHA, an FDA-approved anti-cancer HDAC inhibitor, reduced infarct size by 40% when given at the time of reperfusion in a rabbit I/R model (large animal model). Mechanistically, SAHA induces autophagy in the infarct border zone to prevent cardiomyocyte death. This work has been presented at AHA, ACC, HFSA and Northwestern Cardiovascular Young Investigators' Forum and has won two awards. This study has led to a Circulation publication. Aside of the published work, he has also done pilot studies with novel autophagy-inducing agents, Tat-Beclin peptides, and also with cardiac-specific knockout mice of essential autophagy genes, ATG7 an ATG5, which led to a K08, mentored physician-scientist award. \nAfter graduation from his cardiology fellowship, he joined the faculty at the University of Alabama at Birmingham (UAB). His studies supported by K08 led to an NHLBI R03 award studying ketone bodies function in cardiac I/R injury.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3140-min-xie",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "3140",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 114,
+      "favourites": 0
+    }
+  },
+  "firstName": "Min",
+  "firstNameLastName": "Min Xie",
+  "equipmentLinkTypes": [],
+  "objectId": 3140,
+  "updatedWhen": "2025-05-10T08:09:04.8773127-05:00",
+  "hasCollaborationData": true,
+  "email": "mxie@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Cardiovascular Emerging Infectious Diseases Heart Disease Heart Disease - Coronary Heart Disease Hematology Infectious Diseases Lung Orphan Drug Rare Diseases Regenerative Medicine Sepsis",
+  "grant_keywords": "Biotechnology Cardiovascular Clinical Research Genetics Heart Disease Heart Disease - Coronary Heart Disease Infectious Diseases Lung Minority Health Pneumonia Pneumonia & Influenza Women's Health"
+}

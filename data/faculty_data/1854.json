@@ -1,0 +1,128 @@
+{
+  "lastName": "Gower",
+  "overview": "Barbara Gower is Professor and Vice-Chair for Research in the Department of Nutrition Sciences, and serves as Director of the Metabolism Core for the Nutrition Obesity Research Center and the Center for Clinical and Translational Science, and the Human Physiology Core for the Diabetes Research Center. Her research focus is on the interplay between diet, endocrinology, and metabolism and their relation to chronic metabolic disease, with expertise in evaluation of body composition, body fat distribution, insulin sensitivity and beta-cell function. Her two major research areas are nutrition interventions for obesity and metabolic health, and risk for type 2 diabetes in African-Americans. She recently completed two NIH-funded studies concerning the role of diet macronutrient composition on reproductive and metabolic outcomes.  She currently is conducting two NIH-funded research studies to 1) test the hypothesis that in patients with type 2 diabetes, a low glycemic diet will enable return of beta-cell function by depleting pancreas lipid, even in the absence of weight loss, and 2) test the hypothesis that in obese African American women, an insulin-lowering diet will improve loss of fat mass during weight loss and result in greater weight loss maintenance, in part by increasing energy expenditure.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1854-barbara-gower",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1854",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 75,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 158,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 382,
+      "favourites": 0
+    }
+  },
+  "firstName": "Barbara",
+  "firstNameLastName": "Barbara Gower",
+  "equipmentLinkTypes": [],
+  "objectId": 1854,
+  "updatedWhen": "2025-05-10T08:06:12.2778178-05:00",
+  "hasCollaborationData": true,
+  "email": "bgower@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biomedical Imaging Cardiovascular Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Diabetes Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Liver Disease Minority Health Nutrition Obesity Physical Activity Prevention Women's Health",
+  "grant_keywords": "Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Genetics Health Disparities Minority Health Nutrition Obesity Physical Activity Prevention Women's Health"
+}

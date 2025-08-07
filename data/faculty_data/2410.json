@@ -1,0 +1,126 @@
+{
+  "discoveryId": "2410",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 120,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 34,
+      "favourites": 0
+    }
+  },
+  "lastName": "Song",
+  "firstName": "Yuhua",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2410-yuhua-song",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Yuhua Song",
+  "equipmentLinkTypes": [],
+  "objectId": 2410,
+  "updatedWhen": "2025-05-10T08:07:28.9087206-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Manufacturing Engineering",
+          "Engineering"
+        ],
+        "value": "Manufacturing Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "yhsong@uab.edu",
+  "publication_keywords": "Coronaviruses Coronaviruses Therapeutics and Interventions Digestive Diseases Emerging Infectious Diseases Genetics Infectious Diseases Liver Disease Nutrition Orphan Drug Rare Diseases",
+  "grant_keywords": "Cancer Cardiovascular Digestive Diseases Digestive Diseases - (Gallbladder) Genetics Hypertension Liver Cancer Liver Disease Prevention Rare Diseases"
+}

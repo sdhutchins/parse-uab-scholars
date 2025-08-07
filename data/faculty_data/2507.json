@@ -1,0 +1,122 @@
+{
+  "lastName": "Watson",
+  "overview": "Professor Watson is Associate Chair of the Department of Biology. His research interests are in the field of endocrinology ⎯ the study of hormone chemical messengers that influence life from embryonic development through old age. He has published numerous research articles on the endocrine regulation of growth and development in invertebrates.\n\nWatson is a recipient of the UAB President’s Award for Excellence in Teaching. He teaches General Endocrinology and Comparative Animal Physiology, and occasionally Introductory Biology and Introductory Human Physiology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2507-r-douglas-watson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "2507",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 291,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 60,
+      "favourites": 0
+    }
+  },
+  "firstName": "R. Douglas",
+  "firstNameLastName": "R. Douglas Watson",
+  "equipmentLinkTypes": [],
+  "objectId": 2507,
+  "updatedWhen": "2025-05-10T08:07:39.3999278-05:00",
+  "hasCollaborationData": true,
+  "email": "rdwatson@uab.edu",
+  "publication_keywords": "Genetics",
+  "grant_keywords": ""
+}

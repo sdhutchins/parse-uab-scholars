@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1442",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 546,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sims",
+  "firstName": "Janene",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1442-janene-sims",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Optometry",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Janene Sims",
+  "equipmentLinkTypes": [],
+  "objectId": 1442,
+  "updatedWhen": "2025-05-10T08:05:25.8213047-05:00",
+  "hasCollaborationData": true,
+  "email": "jasims@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Neurosciences Pediatric Research Initiative Prevention",
+  "grant_keywords": ""
+}

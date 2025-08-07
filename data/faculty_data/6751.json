@@ -1,0 +1,45 @@
+{
+  "discoveryId": "6751",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 30,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wiesen",
+  "overview": "Jonathan Wiesen, Ph.D., an authority on modern European history, including histories of racism and antisemitism, and the history of advertising and consumerism, is the new chair of the Department of History.\n\nWiesen comes to the department from Southern Illinois University’s Department of History, for which he has been department chair since 2016 and a member of the faculty since 1998.\n\n“It’s an honor to be named the chair of the Department of History,” Wiesen said. “I am thrilled to be joining the College of Arts and Sciences at such an exciting time for UAB, and I look forward to contributing to the history department’s bright future, as well as to sharing my passion for my discipline with students, members of the university community and the wider public. Both CAS and the department have a first-class faculty, and I hope to work alongside colleagues to foster cross-campus dialogues and to champion the humanities and social sciences as central to the university mission. Above all, as an educator, I am excited to spark students’ excitement about the past while teaching them the skills they need for an intellectually and professionally rich life today.”\n\nWiesen has received numerous fellowships and grants from organizations such as the Gerda Henkel Foundation, the German Academic Exchange Service and the Alexander von Humboldt Foundation.\n\nHe has also authored, co-authored and edited many publications, including three books: “Creating the Nazi Marketplace: Commerce and Consumption in the Third Reich,” “Selling Modernity: German Advertising in the Twentieth Century” and “West German Industry and the Challenge of the Nazi Past, 1945-1955,” which earned the Hagley Prize in Business History in 2002. His current projects include articles and a future book on German views of American anti-black racism from 1918 to 1968, plus a textbook on Nazi Germany.\n\nIn 2008, Wiesen received SIU’s Outstanding Teaching Award. In addition, his world history course was selected a top example of best practices in a national study of world history by the Center for Educational Policy Research, a partnership among districts, states, foundations and university-based researchers to leverage data to address education policy questions and improve outcomes for students.\n\nWiesen is active in a number of professional organizations, including the American Historical Association, the German Studies Association, the Central European History Society and the Working Group for the Critical History of Business and Industry in Germany.",
+  "firstName": "Jonathan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6751-jonathan-wiesen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Jonathan Wiesen",
+  "equipmentLinkTypes": [],
+  "objectId": 6751,
+  "updatedWhen": "2025-05-10T08:13:42.6673070-05:00",
+  "hasCollaborationData": false,
+  "email": "jwiesen@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,129 @@
+{
+  "lastName": "Frank",
+  "overview": "Stuart J. Frank (b. 1958, Wilkes-Barre, PA), Professor of Medicine, Cell Biology, and Physiology, received his B.A. summa cum laude in 1980 as a Benjamin Franklin Scholar at the University of Pennsylvania. He earned his M.D. in 1984 from Harvard Medical School. After residency in Internal Medicine at Washington University in St. Louis, Dr. Frank began fellowship training at the National Institutes of health from 1987 to 1991. His research there in Dr. Richard Klausner’s laboratory focused on T-cell antigen receptor signal transduction. Dr. Frank has been a UAB faculty member since 1991 in the Division of Endocrinology and Metabolism in the Department of Medicine, where his studies are aimed at understanding growth hormone (GH) receptor signal transduction and structure/function relationships and mechanisms of generation of the GH binding protein. He is also Chief of the Endocrinology Section in the Medical Service at the Birmingham Veterans Affairs Medical Center. His research is supported by grants from NIH and the Department of Veterans Affairs.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "383-stuart-frank",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "383",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 159,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 149,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stuart",
+  "firstNameLastName": "Stuart Frank",
+  "equipmentLinkTypes": [],
+  "objectId": 383,
+  "updatedWhen": "2025-05-10T08:03:00.8124151-05:00",
+  "hasCollaborationData": true,
+  "email": "sjfrank@uab.edu",
+  "publication_keywords": "Cardiovascular Dietary Supplements Genetics Heart Disease Heart Disease - Coronary Heart Disease Nutrition Obesity Prevention Sleep Research",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Disparities Health Services Infectious Diseases Minority Health Sexually Transmitted Infections"
+}

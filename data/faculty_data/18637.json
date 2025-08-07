@@ -1,0 +1,117 @@
+{
+  "discoveryId": "18637",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sato",
+  "firstName": "Priscila",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18637-priscila-sato",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Priscila Sato",
+  "equipmentLinkTypes": [],
+  "objectId": 18637,
+  "updatedWhen": "2025-05-10T08:19:51.0614575-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cell Metabolism",
+          "Metabolism"
+        ],
+        "value": "Cell Metabolism"
+      },
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiology (incl. Cardiovascular Diseases)",
+          "(incl. Cardiovascular Diseases)",
+          "Cardiovascular Diseases)",
+          "Diseases)"
+        ],
+        "value": "Cardiology (incl. Cardiovascular Diseases)"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Receptors and Membrane Biology",
+          "and Membrane Biology",
+          "Membrane Biology",
+          "Biology"
+        ],
+        "value": "Receptors and Membrane Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Signal Transduction",
+          "Transduction"
+        ],
+        "value": "Signal Transduction"
+      },
+      {
+        "paths": [
+          [
+            "Electrical and Electronic Engineering",
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Signal Processing",
+          "Processing"
+        ],
+        "value": "Signal Processing"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "psato@uab.edu",
+  "publication_keywords": "Autoimmune Disease Cardiovascular Diabetes Heart Disease Nutrition Obesity",
+  "grant_keywords": "Cardiovascular Heart Disease Heart Disease - Coronary Heart Disease"
+}

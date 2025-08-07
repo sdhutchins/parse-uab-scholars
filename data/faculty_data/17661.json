@@ -1,0 +1,45 @@
+{
+  "discoveryId": "17661",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gezon",
+  "overview": "I am a Professor of Anthropology specializing in cultural anthropology. I came to UAB in 2022 after teaching for 25 years at the University of West Georgia. My areas of research include in health and environment, with a focus on sustainability, social justice, and transformation. I have done research in Madagascar, Guatemala, and the United States. In Madagascar, my first research project focused on conservation and development, and my next one centered on cultural politics and political ecology of the drug khat. I have generally been interested in topics related to health and wellness: I have studied young adult travelers exploring holistic health in Guatemala, health effects of the Greenbelt bicycle-pedestrian trail in Carrollton, GA and the effects of yoga as a pedagogical tool in the classroom. Theoretically, I have written on political ecology, degrowth and critical medical anthropology. In my current research and scholarship, I am analyzing local responses to COVID-19 and I plan to return to Madagascar to study pluralistic approaches to health. I teach courses on drugs, health, environment, and gender, with social justice as a core framing device.\n\nI have published two monographs (in addition to edited volumes and peer-reviewed articles): Global Visions, Local Landscapes: A Political Ecology of Conservation, Conflict, and Control in Northern Madagascar (Lanham, MD: AltaMira Press, 2006) and Drug Effects: Khat in Biocultural and Socioeconomic Perspective (Left Coast Press, 2012). I am currently writing a book to be called Anthropology of Drugs. I have been funded by the National Science Foundation, NASA, the Wenner-Gren Foundation, the U.S. Department of Education Fulbright-Hays Faculty Research Abroad Fellowship, and the National Geographic Society.",
+  "firstName": "Lisa",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17661-lisa-gezon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Anthropology"
+    }
+  ],
+  "firstNameLastName": "Lisa Gezon",
+  "equipmentLinkTypes": [],
+  "objectId": 17661,
+  "updatedWhen": "2025-05-10T08:18:01.3292321-05:00",
+  "hasCollaborationData": false,
+  "email": "lgezon@uab.edu",
+  "publication_keywords": "Complementary and Integrative Health Physical Activity Rehabilitation",
+  "grant_keywords": ""
+}

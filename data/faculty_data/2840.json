@@ -1,0 +1,160 @@
+{
+  "lastName": "Sethu",
+  "overview": "I am a Biomedical Engineer by training with a PhD from the University of Michigan where I worked with Dr. Carlos, H. Mastrangelo developing new polymer based lab-on-a-chip technologies for genomic and proteomic assays. I completed my postdoctoral training in the laboratory of Dr. Mehmet Toner at the Center for Engineering in Medicine at Massachusetts General Hospital, Harvard Medical School and Shriners Burns Hospital working on label-free approaches to isolate leukocyte sub-populations from whole blood. After spending the 1st 7 years of my career at the University of Louisville, I am currently an Professor of Medicine and Biomedical Engineering within the Division of Cardiovascular Disease at the University of Alabama-Birmingham. I also serve as the Section Chief for Basic and Translational Sciences within the Division of Cardiovascular Diseases and as the Program Director for the Engineering Education in Medicine Program within the Department of Biomedical Engineering.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2840-palaniappan-sethu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiology (incl. Cardiovascular Diseases)",
+          "(incl. Cardiovascular Diseases)",
+          "Cardiovascular Diseases)",
+          "Diseases)"
+        ],
+        "value": "Cardiology (incl. Cardiovascular Diseases)"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical Biotechnology",
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Regenerative Medicine (incl. Stem Cells and Tissue Engineering)",
+          "Medicine (incl. Stem Cells and Tissue Engineering)",
+          "(incl. Stem Cells and Tissue Engineering)",
+          "Stem Cells and Tissue Engineering)",
+          "Cells and Tissue Engineering)",
+          "and Tissue Engineering)",
+          "Tissue Engineering)",
+          "Engineering)"
+        ],
+        "value": "Regenerative Medicine (incl. Stem Cells and Tissue Engineering)"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "2840",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 108,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 126,
+      "favourites": 0
+    }
+  },
+  "firstName": "Palaniappan",
+  "firstNameLastName": "Palaniappan Sethu",
+  "equipmentLinkTypes": [],
+  "objectId": 2840,
+  "updatedWhen": "2025-05-10T08:08:22.0534650-05:00",
+  "hasCollaborationData": true,
+  "email": "psethu@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Biotechnology Cardiovascular Digestive Diseases Genetics Heart Disease Hematology Kidney Disease Nutrition",
+  "grant_keywords": "Atherosclerosis Bioengineering Biotechnology Cardiovascular Diabetes Heart Disease Heart Disease - Coronary Heart Disease Infectious Diseases Kidney Disease Lung Nutrition Obesity Pneumonia Pneumonia & Influenza Prevention Regenerative Medicine Sleep Research Tobacco Tobacco Smoke and Health"
+}

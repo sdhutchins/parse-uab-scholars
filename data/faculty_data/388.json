@@ -1,0 +1,130 @@
+{
+  "lastName": "Ovalle",
+  "overview": "Dr. Ovalle is a Professor of Medicine and Director of the Division of Endocrinology, Diabetes & Metabolism at the University of Alabama at Birmingham (UAB) School of Medicine. In addition to maintaining a large and busy clinical practice, he serves as the Director of the Multidisciplinary Comprehensive Diabetes Clinic, and Director of Diabetes and Glycemic Control Programs at UAB Hospital. \n\nHe is a Fellow of the American College of Endocrinology (FACE), and an active member of the American Association of Clinical Endocrinologists (AACE) where he has served in multiple national committees and is Past-President of the Southern States Chapter of the American Association of Clinical Endocrinologists (AACE). \n\nDr. Ovalle has published extensively in the areas of diabetes and metabolism, serves as a member of the editorial board of multiple scientific publications, and is currently the U.S. Editor-in-Chief for the journal Diabetes Therapy.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "388-fernando-ovalle",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "388",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 111,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 122,
+      "favourites": 3
+    }
+  },
+  "firstName": "Fernando",
+  "firstNameLastName": "Fernando Ovalle",
+  "equipmentLinkTypes": [],
+  "objectId": 388,
+  "updatedWhen": "2025-05-10T08:03:00.8204130-05:00",
+  "hasCollaborationData": true,
+  "email": "fovalle@uab.edu",
+  "publication_keywords": "Autoimmune Disease Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Minority Health Nutrition Obesity Patient Safety Prevention Primary Health Care Rare Diseases Sickle Cell Disease Transplantation Women's Health",
+  "grant_keywords": ""
+}

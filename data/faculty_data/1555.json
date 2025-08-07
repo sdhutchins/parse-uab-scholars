@@ -1,0 +1,122 @@
+{
+  "lastName": "Selleck",
+  "overview": "Dr. Cindy Selleck’s career has centered on primary care and developing the workforce to meet the needs of our most diverse and underserved populations.  She has led 45 grant funded projects to expand the number of health professionals who provide primary care, particularly in rural and inner-city underserved areas. Her deep commitment to diversity, the elimination of health disparities, and care of medically needy populations has led to the creation of innovative interprofessional programs at the local, state and national levels.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1555-cynthia-selleck",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Nursing Academic Support"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cultural Studies",
+          "Studies"
+        ],
+        "value": "Cultural Studies"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "1555",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 92,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 229,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 242,
+      "favourites": 0
+    }
+  },
+  "firstName": "Cynthia",
+  "firstNameLastName": "Cynthia Selleck",
+  "equipmentLinkTypes": [],
+  "objectId": 1555,
+  "updatedWhen": "2025-05-10T08:05:38.5781975-05:00",
+  "hasCollaborationData": true,
+  "email": "cselleck@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Coronaviruses Coronaviruses Diagnostics and Prognostics Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Depression Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Infectious Diseases Mental Health Mental Illness Minority Health Nutrition Patient Safety Prevention Primary Health Care Rare Diseases Rural Health Social Determinants of Health Vaccine Related",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Prevention"
+}

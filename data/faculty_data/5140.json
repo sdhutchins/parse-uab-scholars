@@ -1,0 +1,121 @@
+{
+  "lastName": "Lindeman",
+  "overview": "Brenessa Lindeman, MD, MEHP, is an Associate Professor of Surgery and Medical Education, and Assistant Dean for Graduate Medical Education at the University of Alabama at Birmingham. A native of eastern Kentucky, she completed her undergraduate training summa cum laude at the University of Louisville and graduated Alpha Omega Alpha as the Founder’s Medalist at the Vanderbilt University School of Medicine in 2009.  She completed residency training in General Surgery at Johns Hopkins Hospital, where she served as an Administrative Chief Resident, and completed a fellowship in Endocrine Surgery at Brigham and Women’s Hospital/Harvard Medical School.  At UAB, she also serves as the Section Chief and Fellowship Director for Endocrine Surgery, Wellness Champion for the Department of Surgery and Co-Director of the Multi-Disciplinary Endocrine Tumor Clinic. \n\nDr. Lindeman earned a Masters of Education in the Health Professions from Johns Hopkins University and completed Surgical Education Research Fellowships with the Association for Surgical Education and Massachusetts General Hospital.  She served as a member of Drafting Panels for EPAs with the AAMC Core EPAs for Entering Residency, the American Board of Surgery, and American Association of Endocrine Surgeons. She is a Councilor for the American Board of Surgery, Director of the General Surgery Board, and Associate Member of the American College of Surgeons Academy of Master Surgeon Educators. She is a member of the Editorial Board for Academic Medicine and Associate Editor for Education at American Journal of Surgery.  \n\nHer research interests are in development and assessment of competency in surgical trainees and evaluation of the learning climate/physician wellbeing.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5140-brenessa-lindeman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "University of Alabama Health Services Foundation (UAHSF)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      }
+    ]
+  },
+  "discoveryId": "5140",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 200,
+      "favourites": 0
+    }
+  },
+  "firstName": "Brenessa",
+  "firstNameLastName": "Brenessa Lindeman",
+  "equipmentLinkTypes": [],
+  "objectId": 5140,
+  "updatedWhen": "2025-05-10T08:12:02.7205586-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Heart Disease Patient Safety Pediatric Physical Injury - Accidents and Adverse Effects Rare Diseases",
+  "grant_keywords": ""
+}

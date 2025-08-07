@@ -1,0 +1,122 @@
+{
+  "lastName": "Li",
+  "overview": "Dr. Li graduated from China Medical University with a M.D. degree and from Yamaguchi University with a Ph.D. degree in 2005. He completed his postdoctoral training in the University of Alabama at Birmingham and was appointed as Instructor in the Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine in 2014.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "652-fu-jun-li",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "652",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 38,
+      "favourites": 0
+    }
+  },
+  "firstName": "Fu Jun",
+  "firstNameLastName": "Fu Jun Li",
+  "equipmentLinkTypes": [],
+  "objectId": 652,
+  "updatedWhen": "2025-05-10T08:03:37.9293070-05:00",
+  "hasCollaborationData": true,
+  "email": "fujunli@uab.edu",
+  "publication_keywords": "Biotechnology Chronic Obstructive Pulmonary Disease Clinical Research Genetics Lung Prevention Tobacco Tobacco Smoke and Health",
+  "grant_keywords": "Chronic Obstructive Pulmonary Disease Clinical Research Lung Prevention"
+}

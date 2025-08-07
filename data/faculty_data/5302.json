@@ -1,0 +1,127 @@
+{
+  "lastName": "Rose",
+  "overview": "Dr. J. Bart Rose joined the faculty of the UAB Department of Surgery Division of Surgical Oncology in 2017 as an Assistant Professor. He has a combined research and clinical appointment. He has been engaged in scientific research for fifteen years. Over this time he contributed to scientific knowledge in the fields of molecular genetics, enzymology, oncologic biomarkers, and clinical outcomes. His focus since entering the field of surgery has been on biomarker research for hepatopancreatobiliary cancers. He has presented on novel uses of established biomarkers in pancreatic cancer and was the first to investigate the clinical utility of a bile based biomarker in patients with bile duct cancer (cholangiocarcinoma).\n\nHe is originally from a small logging town in Northern California, but has enjoyed his time during training in the Midwest and Pacific Northwest. He is excited to explore everything Alabama has to offer with his wife and two daughters. His hobbies include working on classic cars, hiking, and has recently started fly fishing.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5302-j-bart-rose",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Surgery - General Surgery Oncology Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "5302",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 127,
+      "favourites": 0
+    }
+  },
+  "firstName": "J. Bart",
+  "firstNameLastName": "J. Bart Rose",
+  "equipmentLinkTypes": [],
+  "objectId": 5302,
+  "updatedWhen": "2025-05-11T21:49:25.2876812-05:00",
+  "hasCollaborationData": true,
+  "email": "jbrose3@uab.edu",
+  "publication_keywords": "Biomedical Imaging Cancer Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Orphan Drug Pancreatic Cancer Rare Diseases Social Determinants of Health",
+  "grant_keywords": ""
+}

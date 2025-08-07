@@ -1,0 +1,45 @@
+{
+  "discoveryId": "6608",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 51,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 329,
+      "favourites": 0
+    }
+  },
+  "lastName": "Li",
+  "overview": "Dr. Li's major research interest includes design, management, conduct, analysis and interpretation of clinical trials, epidemiologic studies and evaluation research, with particular expertise in cluster-randomized trials. He has broad collaborative experience with researchers from multidiscipline including clinicians and biologists, involving in study design, power and sample size calculation, data management and analysis.",
+  "firstName": "Peng",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6608-peng-li",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "firstNameLastName": "Peng Li",
+  "equipmentLinkTypes": [],
+  "objectId": 6608,
+  "updatedWhen": "2025-05-12T03:21:24.6166086-05:00",
+  "hasCollaborationData": true,
+  "email": "pli@uab.edu",
+  "publication_keywords": "Aging Anxiety Disorders Behavioral and Social Science Brain Disorders Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Eye Disease and Disorders of Vision Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Human Genome Mental Health Minority Health Neurosciences Pediatric Cardiomyopathy Pediatric Research Initiative Physical Activity Post-Traumatic Stress Disorder (PTSD) Prevention Rare Diseases Rehabilitation",
+  "grant_keywords": "Behavioral and Social Science Cancer Cardiovascular Chronic Pain Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Diabetes Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hypertension Minority Health Nutrition Obesity Pain Research Physical Activity Physical Rehabilitation Prevention Rare Diseases Rehabilitation Rural Health Social Determinants of Health Women's Health"
+}

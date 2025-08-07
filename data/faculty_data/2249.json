@@ -1,0 +1,121 @@
+{
+  "discoveryId": "2249",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 48,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 261,
+      "favourites": 0
+    }
+  },
+  "lastName": "Morrow",
+  "firstName": "Casey",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2249-casey-morrow",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Casey Morrow",
+  "equipmentLinkTypes": [],
+  "objectId": 2249,
+  "updatedWhen": "2025-05-10T08:07:03.7776979-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "caseym@uab.edu",
+  "publication_keywords": "Brain Cancer Brain Disorders Breast Cancer Cancer Cancer Genomics Clinical Research Colo-Rectal Cancer Complementary and Integrative Health Coronaviruses Diabetes Dietary Supplements Digestive Diseases Emerging Infectious Diseases Genetics Health Disparities Hematology Human Genome Immunotherapy Infectious Diseases Microbiome Minority Health Neurosciences Nutrition Obesity Prevention Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human Women's Health",
+  "grant_keywords": "Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Clinical Research Crohn's Disease Digestive Diseases Emerging Infectious Diseases Immunization Immunotherapy Infectious Diseases Inflammatory Bowel Disease Mental Health Mental Illness Microbiome Neurosciences Prevention"
+}

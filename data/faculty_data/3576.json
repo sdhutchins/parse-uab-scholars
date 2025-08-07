@@ -1,0 +1,123 @@
+{
+  "discoveryId": "3576",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 58,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 66,
+      "favourites": 0
+    }
+  },
+  "lastName": "Andrabi",
+  "firstName": "Syed Shaida",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3576-syed-shaida-andrabi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Syed Shaida Andrabi",
+  "equipmentLinkTypes": [],
+  "objectId": 3576,
+  "updatedWhen": "2025-05-10T08:09:49.3180704-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sandrabi@uab.edu",
+  "publication_keywords": "ALS Acquired Cognitive Impairment Acute Respiratory Distress Syndrome Aging Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Cancer Dementia Genetics Immunotherapy Lewy Body Dementia Lung Neurodegenerative Neurosciences Orphan Drug Parkinson's Disease Physical Injury - Accidents and Adverse Effects Rare Diseases Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Biodefense Biotechnology Brain Disorders Cerebrovascular Emerging Infectious Diseases Genetics Infectious Diseases Lung Neurosciences Rare Diseases Stroke"
+}

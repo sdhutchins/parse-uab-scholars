@@ -1,0 +1,111 @@
+{
+  "discoveryId": "2653",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 449,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 21,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mayer",
+  "firstName": "John",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2653-john-mayer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "John Mayer",
+  "equipmentLinkTypes": [],
+  "objectId": 2653,
+  "updatedWhen": "2025-05-10T08:08:00.9577529-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pure Mathematics",
+          "Mathematics"
+        ],
+        "value": "Pure Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Mathematical Sciences",
+          "Mathematical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Mathematical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Economic Theory",
+          "Theory"
+        ],
+        "value": "Economic Theory"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jcmayer@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Pediatric"
+}

@@ -1,0 +1,119 @@
+{
+  "discoveryId": "972",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 93,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ness",
+  "firstName": "Jayne",
+  "hasThumbnail": false,
+  "discoveryUrlId": "972-jayne-ness",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Neurology"
+    }
+  ],
+  "firstNameLastName": "Jayne Ness",
+  "equipmentLinkTypes": [],
+  "objectId": 972,
+  "updatedWhen": "2025-05-10T08:04:33.6545301-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jness@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Behavioral and Social Science Brain Disorders Cancer Clinical Research Genetics Health Disparities Human Genome Immunization Immunotherapy Minority Health Multiple Sclerosis Neurodegenerative Neurosciences Nutrition Pediatric Pediatric Cancer Pediatric Research Initiative Rare Diseases Social Determinants of Health",
+  "grant_keywords": ""
+}

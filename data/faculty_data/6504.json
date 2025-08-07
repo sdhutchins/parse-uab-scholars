@@ -1,0 +1,118 @@
+{
+  "lastName": "Scoffield",
+  "overview": "Dr. Jessica A. Scoffield is an Associate Professor in the Department of Microbiology at the University of Alabama at Birmingham. She received her BS and MS degrees in Biology from Tuskegee University and her PhD in Microbiology from Auburn University.  She completed her postdoctoral training with Dr. Hui Wu at UAB as a Dental Academic Research Training Scholar, where she studied the antimicrobial roles of oral commensal bacteria. Dr. Scoffield’s group at UAB currently studies the role of oral commensal streptococci on microbial pathogenesis and host immunity during polymicrobial infections in the oral cavity and cystic fibrosis airway. Her research program utilizes molecular genetics and high-throughput technologies (RNA sequencing, Tn-sequencing, proteomics, and metabolomics) in combination with oral and lung rat infection models to answer fundamental questions about how commensal bacteria safeguard against oral and respiratory pathogens.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6504-jessica-scoffield",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "discoveryId": "6504",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 8
+    },
+    "teachingActivities": {
+      "all": 35,
+      "favourites": 12
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 24
+    }
+  },
+  "firstName": "Jessica",
+  "firstNameLastName": "Jessica Scoffield",
+  "equipmentLinkTypes": [],
+  "objectId": 6504,
+  "updatedWhen": "2025-05-10T08:13:23.3743482-05:00",
+  "hasCollaborationData": true,
+  "email": "jscoff@uab.edu",
+  "publication_keywords": "Cystic Fibrosis Dental/Oral and Craniofacial Disease Genetics Infectious Diseases Lung Microbiome Orphan Drug Pediatric Pneumonia Pneumonia & Influenza Rare Diseases",
+  "grant_keywords": "Clinical Research Cystic Fibrosis Dental/Oral and Craniofacial Disease Genetics Infectious Diseases Lung Microbiome Rare Diseases"
+}

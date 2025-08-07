@@ -1,0 +1,124 @@
+{
+  "lastName": "Graham",
+  "overview": "I am a VA Health Science Specialist at the Birmingham VAMC and an assistant professor in the department of Cell, Developmental, and Integrative Biology. My research interests look into how paralysis changes muscle mitochondrial function and systemic metabolism. We use transgenic mice with a muscle specific knockout of connexin43/45 hemichannels to systematically understand their role in creating muscle dysfunction after paralysis. Additional studies in our lab repurpose current drugs and test nutraceuticals after contusion spinal cord injury. Metabolomics, high resolution microscopy, mouse behavioral tests and standard protein and RNA biochemistry/molecular biology are the primary outcomes of our studies.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6802-zachary-graham",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "6802",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 66,
+      "favourites": 0
+    }
+  },
+  "firstName": "Zachary",
+  "firstNameLastName": "Zachary Graham",
+  "equipmentLinkTypes": [],
+  "objectId": 6802,
+  "updatedWhen": "2025-05-10T08:13:42.7003110-05:00",
+  "hasCollaborationData": true,
+  "email": "zgraham@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Biotechnology Clinical Research Clinical Trials and Supportive Activities Genetics Minority Health Physical Activity Physical Rehabilitation Precision Medicine Prevention Rehabilitation Women's Health",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Minority Health Pediatric Physical Activity Prevention"
+}

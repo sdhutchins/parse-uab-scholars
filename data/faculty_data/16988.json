@@ -1,0 +1,45 @@
+{
+  "discoveryId": "16988",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sheek",
+  "overview": "Lesley Ewing Sheek is an assistant professor in the University of Alabama at Birmingham’s School of Education. She currently serves as the Assistant Dean for Accreditation and Assessment. In this appointment, she supports national and state accreditation efforts and manages program review and approval. \n\nPrior to working at UAB, Dr. Sheek served as the Chair of the Professional Studies Division and as Head of the Department of Education at Judson College in Marion, Alabama. She began her career teaching elementary school in Baldwin County and Hoover City Schools. Dr. Sheek is interested in empowering teachers to create nurturing classroom environments focused on developing autonomous learners.",
+  "firstName": "Lesley",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16988-lesley-sheek",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Lesley Sheek",
+  "equipmentLinkTypes": [],
+  "objectId": 16988,
+  "updatedWhen": "2025-05-10T08:17:00.2618096-05:00",
+  "hasCollaborationData": false,
+  "email": "lsheek@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

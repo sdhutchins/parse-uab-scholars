@@ -1,0 +1,123 @@
+{
+  "lastName": "Bailey",
+  "overview": "My research program studies how genetic, environmental, and/or lifestyle factors influence the initiation, progression, and severity of liver and cardiovascular diseases using experimental animal model systems. Our goal is to identify molecular factors and mechanisms that enhance alcohol and obesity-related fatty liver disease. Principal areas are focused on understanding how disruption in lipid and glycogen metabolism, redox signaling, and mitochondrial bioenergetic function contribute to pathology. We also investigate the importance of circadian rhythms and the molecular circadian clock in regulation of hepatic energy metabolism. Recent interests also include studies focused on how the liver distally regulates vascular function through cross-talk mechanisms with cardiovascular systems and other tissues.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2123-shannon-bailey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "2123",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 104,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 94,
+      "favourites": 0
+    }
+  },
+  "firstName": "Shannon",
+  "firstNameLastName": "Shannon Bailey",
+  "equipmentLinkTypes": [],
+  "objectId": 2123,
+  "updatedWhen": "2025-05-10T08:06:50.7031666-05:00",
+  "hasCollaborationData": true,
+  "email": "sbailey@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cardiovascular Digestive Diseases Genetics Heart Disease Hypertension Kidney Disease Liver Disease Neurodegenerative Neurosciences Nutrition Obesity Prevention Sleep Research Women's Health",
+  "grant_keywords": "Alcoholism, Alcohol Use and Health Cardiovascular Chronic Liver Disease and Cirrhosis Dietary Supplements Digestive Diseases Eye Disease and Disorders of Vision Genetics Health Disparities Heart Disease Liver Disease Minority Health Nutrition Obesity Substance Misuse"
+}

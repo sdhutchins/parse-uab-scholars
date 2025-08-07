@@ -1,0 +1,125 @@
+{
+  "lastName": "Melkani",
+  "overview": "Dr. Melkani acquired a Ph.D. degree from Central Drug Research Institute, Lucknow, India (A CSIR premier Drug Institute) & Kumaun University, Nainital, India. For his Ph.D. dissertation, he studied lipoproteins under oxidative stress (in vitro and in vivo) and their cardiovascular implication in humans. After acquiring his Ph.D., he became interested in naturally occurring defense mechanisms involving heat shock proteins, which play a critical role in maintaining protein structure and function during cellular processes and stresses. He drew from his background in oxidative stress in lipoproteins for his postdoctoral position (at the Cal State San Marcos, CA) which focused on how GroEL (heat shock protein HSP-60 analog of E. coli) performs its chaperone function under multiple stress conditions.  At the San Diego State University, he then went on to further study the role of chaperones in vivo, particularly in the regulation of cardiac and skeletal muscle as well as in protein folding diseases. For these purposes, he used Drosophila as a model system using genetics, molecular biology, cell biology, cardiac physiology, and gene transfer techniques.\n \nFor his Independent faculty career at SDSU, he used the Drosophila model to explore the mechanism of cardiac failure associated with amyloid accumulation in the cardiomyocytes (referred to as cardiac amyloidosis). He continued his faculty tenure at SDSU before joining the University of Alabama at Birmingham on Oct 1st, 2020, and with multiple collaborations over the years, his research projects are currently supported by three R01 grants. During this tenure, his research group has been at the forefront of developing and using clinically relevant Drosophila models to address the pathophysiological basis of human circadian/metabolic disorders linked to cardiometabolic disease, myofibrillar-myopathies, proteinopathies neuropathies, sleep, and aging disruptions. He also integrates physiological, cell-molecular, genetics, and nutritional approaches to understanding how lifestyle (including, chrono-nutrition, circadian rhythms, and eating/sleeping patterns) and genetic factors act to maintain the structural integrity of cells, tissues, and organs that in turn dictates organismal physiology. Additionally, using strategic collaborations, he applies the findings to higher mammals or even humans to develop therapies for human metabolic and myofibrillar and misfolding protein disorders. \n\nIn addition to his research involvement, he is deeply committed to the academic excellence of undergraduate and graduate students with diverse backgrounds through classroom teaching and lab training.  For his university and other services, he has served on various committees and grant review panels. He has also delivered invited talks at various national and international platforms including various universities, institutes, seminars, and conferences. He has reviewed scientific manuscripts for over 35 journals and served/serving on the editorial board of four journals.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16771-girish-melkani",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "16771",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 60,
+      "favourites": 0
+    }
+  },
+  "firstName": "Girish",
+  "firstNameLastName": "Girish Melkani",
+  "equipmentLinkTypes": [],
+  "objectId": 16771,
+  "updatedWhen": "2025-05-10T08:16:32.4582776-05:00",
+  "hasCollaborationData": true,
+  "email": "gmelkani@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Biotechnology Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Dementia Genetics Heart Disease Heart Disease - Coronary Heart Disease Microbiome Neurodegenerative Neurosciences Nutrition Obesity Prevention Sleep Research",
+  "grant_keywords": ""
+}

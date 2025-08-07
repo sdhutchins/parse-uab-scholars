@@ -1,0 +1,113 @@
+{
+  "discoveryId": "3675",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 3,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dashti Hubbard",
+  "firstName": "Nassrin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3675-nassrin-dashti-hubbard",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Department of Medicine"
+    }
+  ],
+  "firstNameLastName": "Nassrin Dashti Hubbard",
+  "equipmentLinkTypes": [],
+  "objectId": 3675,
+  "updatedWhen": "2025-05-10T08:09:49.3870748-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Production",
+          "Production"
+        ],
+        "value": "Animal Production"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Food Sciences",
+          "Sciences"
+        ],
+        "value": "Food Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ndashti@uab.edu",
+  "publication_keywords": "Atherosclerosis Cardiovascular",
+  "grant_keywords": "Atherosclerosis Cardiovascular Digestive Diseases Genetics Liver Disease"
+}

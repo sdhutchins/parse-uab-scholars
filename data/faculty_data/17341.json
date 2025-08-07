@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17341",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 3,
+      "favourites": 0
+    }
+  },
+  "lastName": "Rampe",
+  "firstName": "Rebecca",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17341-rebecca-rampe",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychiatry - Adult"
+    }
+  ],
+  "firstNameLastName": "Rebecca Rampe",
+  "equipmentLinkTypes": [],
+  "objectId": 17341,
+  "updatedWhen": "2025-05-10T08:17:34.3946279-05:00",
+  "hasCollaborationData": false,
+  "email": "rrampe@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Prevention",
+  "grant_keywords": ""
+}

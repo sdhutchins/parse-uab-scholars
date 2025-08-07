@@ -1,0 +1,125 @@
+{
+  "lastName": "Sen",
+  "overview": "Dr Bisakha (Pia) Sen is tenured Professor and the Blue Cross Blue Shield Endowed Chair in Health Economics. Her primary interest is investigating the determinants of health for vulnerable populations, with a focus on the role of policy and interventions at institutional, state and federal levels. Particularly, she has developed an extensive research agenda focusing on health outcomes among Alabama residents, with funding support from Alabama Medicaid and Alabama Children's Health Insurance Program. She has also received funding support from NIH, CDC, The Robert Wood Johnson Foundation, and has published in leading journals in her field, such as New England Journal of Medicine, JAMA Pediatrics, Health Services Research, Pediatrics, Social Science & Medicine, American Journal of Public Health, Journal of Policy Analysis & Management, Journal of Health Economics and Health Economics.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1957-bisakha-sen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      }
+    ]
+  },
+  "discoveryId": "1957",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 43,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 229,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 179,
+      "favourites": 0
+    }
+  },
+  "firstName": "Bisakha",
+  "firstNameLastName": "Bisakha Sen",
+  "equipmentLinkTypes": [],
+  "objectId": 1957,
+  "updatedWhen": "2025-05-10T08:06:24.4662786-05:00",
+  "hasCollaborationData": true,
+  "email": "bsen@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Biotechnology Brain Disorders Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Cost Effectiveness Research Emerging Infectious Diseases HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Infectious Diseases Kidney Disease Mental Health Mental Illness Minority Health Networking and Information Technology R&D (NITRD) Organ Transplantation Pediatric Prevention Social Determinants of Health Substance Misuse Telehealth Transplantation Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

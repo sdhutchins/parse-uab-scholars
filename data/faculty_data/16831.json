@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16831",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Watson",
+  "firstName": "Amy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16831-amy-watson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Amy Watson",
+  "equipmentLinkTypes": [],
+  "objectId": 16831,
+  "updatedWhen": "2025-05-10T08:16:42.3569883-05:00",
+  "hasCollaborationData": false,
+  "email": "watsonae@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

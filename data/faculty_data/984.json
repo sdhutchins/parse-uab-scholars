@@ -1,0 +1,142 @@
+{
+  "lastName": "Saadoon Alishlash",
+  "overview": "Associate Professor Pediatric Pulmonologist at the University of Alabama at Birmingham, AL, USA. He is an attending physician at Children's of Alabama and Physician-Scientist with NIH funding. Experienced in Translational and Clinical Research of Pediatric Pulmonary Diseases. HIs research focuses on pulmonary complications of Sickle Cell Disease and Pediatric Pulmonary Hypertension. \nHe is the Medical Director of the Pulmonary Sickle Cell Disease Program and the Pediatric Pulmonary Hypertension Program at UAB and Children's of Alabama. His research funded by the NIH in addition to other funding sources. He has American Board certification in Pediatrics and Pediatric Pulmonology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "984-ammar-saadoon-alishlash",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Pulmonary & Sleep Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "984",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ammar",
+  "firstNameLastName": "Ammar Saadoon Alishlash",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "Improving Lung Health of Patients with Sickle Cell Disease (SCD): Alabama Perspective",
+      "embedLink": "https://www.youtube-nocookie.com/embed/XtxOM_mAY-w",
+      "label": "Improving Lung Health of Patients with Sickle Cell Disease (SCD): Alabama Perspective",
+      "thumbnailLink": "https://img.youtube.com/vi/XtxOM_mAY-w/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/XtxOM_mAY-w?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 984,
+  "updatedWhen": "2025-05-10T08:04:33.6615258-05:00",
+  "hasCollaborationData": true,
+  "email": "asaadoon@uab.edu",
+  "publication_keywords": "Chronic Pain Clinical Research Emergency Care Health Disparities Health Services Hematology Infectious Diseases Kidney Disease Lung Neurosciences Pain Research Pediatric Pediatric Research Initiative Prevention Rare Diseases Sickle Cell Disease Sleep Research",
+  "grant_keywords": ""
+}

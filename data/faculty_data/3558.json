@@ -1,0 +1,127 @@
+{
+  "lastName": "Feldman",
+  "overview": "Sue Feldman is a Professor and Director of Graduate Programs in Health Informatics in Health Services Administration in the School of Health Professions at the University of Alabama at Birmingham. She teaches in the Clinical Informatics program, the Master of Science in Health Informatics program, and in the PhD program. She has a dual appointment in the School of Medicine, where she is a Senior Scientist in the Informatics Institute, and is a Fellow at the Center for the Study of Community Health at UAB. \n\nDr. Feldman has been involved with CAHIIM (Commission for Accreditation for Health Informatics and Information Management) since 2007; she chairs accreditation site visits. She is also 2023-2024 Chair of the Academic Forum for the American Medical Informatics Association (AMIA). Her research is primarily centered around health information systems for social protections. \n\nAs a Registered Nurse (RN) for over 30 years, she brings a unique clinical and informatics blend to everything she does, grounding policy and theory with practice. Dr. Feldman has published in a variety of top-tier peer-reviewed journals and conference proceedings, and served as program chair for several national forums.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3558-sue-feldman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communication and Media Studies",
+          "and Media Studies",
+          "Media Studies",
+          "Studies"
+        ],
+        "value": "Communication and Media Studies"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      }
+    ]
+  },
+  "discoveryId": "3558",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 174,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 95,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 244,
+      "favourites": 3
+    }
+  },
+  "firstName": "Sue",
+  "firstNameLastName": "Sue Feldman",
+  "equipmentLinkTypes": [],
+  "objectId": 3558,
+  "updatedWhen": "2025-05-10T08:09:38.3792140-05:00",
+  "hasCollaborationData": true,
+  "email": "sfeldman@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Drug Abuse (NIDA only) Harm Reduction for Substance Misuse Opioid Misuse and Addiction Opioids Patient Safety Physical Injury - Accidents and Adverse Effects Prevention Substance Misuse",
+  "grant_keywords": ""
+}

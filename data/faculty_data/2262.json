@@ -1,0 +1,122 @@
+{
+  "lastName": "Sztul",
+  "overview": "Elizabeth Sztul obtained a BS in Biology from Brooklyn College, CUNY, studying the ecology of marine arthropods and the renewing nature of the plant meristem. She initiated her graduate studies with a M.Sc. in Plant Physiology from University of Maryland, studying chloroplast biogenesis. She continued her graduate education in Cell Biology at Yale University School of Medicine, working on membrane trafficking pathways in the laboratory of Nobel Prize winner, Dr. George Palade, and was awarded a Ph.D. in 1984. She continued training as a Postdoctoral Fellow of the American Cancer Society in Human Genetics at Yale University School of Medicine, studying mitochondrial biogenesis in the laboratory of Dr. Leon Rosenberg. During her postdoctoral work at Yale, she was also a Visiting Scientist at the European Molecular Biology Laboratory in Heidelberg, Germany, in the laboratory of Dr. Kathryn Howell. She was appointed Assistant Professor of Molecular Biology at Princeton University (1989-1995), where she received the National Science Foundation Presidential Young Investigator Award. Dr. Sztul joined the faculty in the Department of Cell Biology at UAB as an Associate Professor in Fall of 1995 and was promoted to Full Professor in 2003. She is a member of the UAB Comprehensive Cancer Center, the Diabetes Center and the Fleming Cystic Fibrosis Center. She spent a sabbatical year (2000-01) at the Wellcome Center for Human Genetics in Oxford, United Kingdom, in the laboratory of Dr. Yvonne Jones, and another sabbatical year (2008-9) as a Program Director at the National Science Foundation. At the national level, she has served or serves multiple Scientific Advisory Panels, including those for the National Institute of Health, American Cancer Society, National Science Foundation, and the American Heart Association.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2262-elizabeth-sztul",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "2262",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 122,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 85,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 131,
+      "favourites": 0
+    }
+  },
+  "firstName": "Elizabeth",
+  "firstNameLastName": "Elizabeth Sztul",
+  "equipmentLinkTypes": [],
+  "objectId": 2262,
+  "updatedWhen": "2025-05-10T08:07:17.5704756-05:00",
+  "hasCollaborationData": true,
+  "email": "esztul@uab.edu",
+  "publication_keywords": "Bioengineering Genetics Pediatric Regenerative Medicine",
+  "grant_keywords": "Atherosclerosis"
+}

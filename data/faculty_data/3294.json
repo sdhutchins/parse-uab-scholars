@@ -1,0 +1,110 @@
+{
+  "lastName": "Jeyarajan",
+  "overview": "Dr. Jeyarajan joins our faculty from Melbourne, Australia. His background is diverse with fellowship and subspecialty training in several key areas including head and neck oncology (UAB), skull base surgery (London, UK) and airway reconstruction (London, UK). We were fortunate to recruit Dr. Jeyarajan back to UAB as a surgical hospitalist. He will take the lead for difficult airway patients and will be positioned to provide care for patients requiring urgent transfer to UAB, in-house consults and additional head and neck and skull base cases. He has hit the ground running and we believe our referring community will notice a difference in ease of access for complex patients requiring care at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3294-harishanker-jeyarajan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Otolaryngology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "discoveryId": "3294",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "firstName": "Harishanker",
+  "firstNameLastName": "Harishanker Jeyarajan",
+  "equipmentLinkTypes": [],
+  "objectId": 3294,
+  "updatedWhen": "2025-05-10T08:09:16.2492340-05:00",
+  "hasCollaborationData": true,
+  "email": "harij1@uab.edu",
+  "publication_keywords": "Cancer Cancer Genomics Coronaviruses Emerging Infectious Diseases Genetics Human Genome Infectious Diseases Lung Pneumonia Pneumonia & Influenza",
+  "grant_keywords": "Biomedical Imaging Cancer Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Health Disparities Minority Health Patient Safety Rare Diseases"
+}

@@ -1,0 +1,97 @@
+{
+  "discoveryId": "18094",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gajos",
+  "firstName": "Jamie",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18094-jamie-gajos",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Family & Community Medicine"
+    }
+  ],
+  "firstNameLastName": "Jamie Gajos",
+  "equipmentLinkTypes": [],
+  "objectId": 18094,
+  "updatedWhen": "2025-05-10T08:18:44.1631399-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jmgajos@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Behavioral and Social Science Brain Disorders Cancer Cannabinoid Research Child Abuse and Neglect Research Childhood Injury Clinical Research Clinical Trials and Supportive Activities Depression Drug Abuse (NIDA only) Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Mental Illness Minority Health Pediatric Research Initiative Prevention Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Violence Research Women's Health Youth Violence",
+  "grant_keywords": ""
+}

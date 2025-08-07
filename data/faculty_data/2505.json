@@ -1,0 +1,126 @@
+{
+  "lastName": "Tollefsbol",
+  "overview": "Dr. Tollefsbol is a professor of Biology and a senior scientist in the UAB Comprehensive Cancer Center, Comprehensive Center for Healthy Aging, Nutrition Obesity Research Center, and the Comprehensive Diabetes Center. He is director of the UAB Cell Senescence Culture Facility, which he established in 1999.\n\nDr. Tollefsbol holds doctorate degrees in molecular biology and osteopathic medicine and has published over 120 articles related to the fields of epigenetics, telomerase, aging, and cancer. He has received generous funding from the National Institutes of Health as well as the Glenn Foundation for Medical Research, Susan G. Komen for the Cure, the American Federation for Aging Research (AFAR), and the American Institute for Cancer Research (AICR), among other sources. Work from his laboratory has been featured in Women’s Health, Shape, AICR Newsletter, Nutrition Action HealthLetter, More Magazine, and AARP The Magazine, among others, with a total readership of over 30 million. He has been a Scientist in the Spotlight in ScienceNow.\n\nDr. Tollefsbol is series editor for Translational Epigenetics published by Elsevier. In addition, he serves as an associate editor for Frontiers in Epigenomics and for Clinical Epigenetics. He is a contributing editor of Lewin’s GENES, the classic textbook on molecular biology, and is on the editorial board of Molecular Biotechnology. Dr. Tollefsbol has been invited to give presentations on his research in many countries including Germany, China, Italy, Switzerland, the Netherlands, and Sweden, as well as at various leading institutions in the US. His research has received considerable media attention both nationally and internationally and has been highlighted in eScience News and ScienceDaily. He has published over 14 co-authored and edited books on varied topics such as epigenetics, telomerase, aging, cancer, and molecular biology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2505-trygve-tollefsbol",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "2505",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 181,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 295,
+      "favourites": 0
+    }
+  },
+  "firstName": "Trygve",
+  "firstNameLastName": "Trygve Tollefsbol",
+  "equipmentLinkTypes": [],
+  "objectId": 2505,
+  "updatedWhen": "2025-05-10T08:07:39.3979274-05:00",
+  "hasCollaborationData": true,
+  "email": "trygve@uab.edu",
+  "publication_keywords": "Brain Disorders Breast Cancer Cancer Cancer Genomics Cerebrovascular Complementary and Integrative Health Dietary Supplements Genetics Health Disparities Human Genome Minority Health Neurosciences Nutrition Precision Medicine Prevention Stroke Women's Health",
+  "grant_keywords": "Aging Autoimmune Disease Back Pain Behavioral and Social Science Breast Cancer Cancer Cancer Genomics Chronic Obstructive Pulmonary Disease Chronic Pain Climate-Related Exposures and Conditions Clinical Research Complementary and Integrative Health Dietary Supplements Genetics Health Disparities Human Genome Lung Minority Health Nutrition Obesity Orphan Drug Pain Research Pediatric Prevention Rare Diseases Social Determinants of Health Tobacco Tobacco Smoke and Health Women's Health"
+}

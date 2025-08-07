@@ -1,0 +1,61 @@
+{
+  "discoveryId": "2339",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 146,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 8,
+      "favourites": 0
+    }
+  },
+  "lastName": "Clabough",
+  "firstName": "Jeremiah",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2339-jeremiah-clabough",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Jeremiah Clabough",
+  "equipmentLinkTypes": [],
+  "objectId": 2339,
+  "updatedWhen": "2025-05-10T08:07:17.7014837-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "jclabou2@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

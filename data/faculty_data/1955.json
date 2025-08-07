@@ -1,0 +1,98 @@
+{
+  "lastName": "Preskitt",
+  "overview": "Julie Preskitt, MSOT, MPH, PhD is an Associate Professor in the Maternal and Child Health Concentration, Department of Health Care Organization and Policy at the University of Alabama at Birmingham’s School of Public Health (UAB-SOPH).  Dr. Preskitt holds a PhD in public administration and public policy at Auburn University; a master’s of public health in maternal and child health from UAB-SOPH; and a master’s of science in occupational therapy from UAB School of Health Professions.  Prior to joining the faculty of UAB-SOPH, she was employed as the Special Programs Coordinator for Children’s Rehabilitation Service, a division of the Alabama Department of Rehabilitation Services and Alabama’s Title V Children with Special Health Care Needs Program (CSHCN).  In that role, she was responsible for coordination of the CSHCN portions of the Maternal and Child Health (MCH) Block Grant and needs assessment, liaison activities for all MCH initiatives, coordination of the children’s traumatic brain injury (TBI) program, and policy issues related to physical therapy, occupational therapy, durable medical equipment, and TBI.  Her previous experience includes provision of occupational therapy services to children in hospital and early intervention settings through Children’s of Alabama.  Dr. Preskitt’s current projects include needs assessment, program evaluation, and research in Alabama related to the Maternal, Infant, Early Childhood Home Visiting (MIECHV) Program, Title V MCH and CSHCN Programs, Voluntary Preschool Program, Alabama’s Early Intervention System, Alabama Child Health Improvement Alliance, Family to Family Health Information Center, and State-based Disability and Health Program.  Her research and practice interests include children with special health care needs, child health, early childhood education, disability and health policy, access to care issues for vulnerable populations, adequacy of insurance, family engagement, needs assessment, and program evaluation.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1955-julie-preskitt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      }
+    ]
+  },
+  "discoveryId": "1955",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 107,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 219,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "firstName": "Julie",
+  "firstNameLastName": "Julie Preskitt",
+  "equipmentLinkTypes": [],
+  "objectId": 1955,
+  "updatedWhen": "2025-05-10T08:06:24.4582843-05:00",
+  "hasCollaborationData": true,
+  "email": "preskitt@uab.edu",
+  "publication_keywords": "Autism Brain Disorders Clinical Research Coronaviruses Depression Health Services Infectious Diseases Intellectual and Developmental Disabilities (IDD) Mental Health Mental Illness Pediatric Pediatric Research Initiative Prevention Serious Mental Illness Women's Health",
+  "grant_keywords": ""
+}

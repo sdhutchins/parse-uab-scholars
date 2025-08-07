@@ -1,0 +1,123 @@
+{
+  "lastName": "Unlap",
+  "overview": "Dr Unlap received his PhD in Biochemistry/Molecular Biology from Kansas State University followed by postdoctoral trainings in Oncology and Behavioral Neurobiology under Drs Andrew Kraft and Richard Jope at the University of Alabama at Birmingham studying the roles that immediate early genes play in the pathogenesis of malignancy and neuronal degeneration, respectively. Dr Unlap was given a faculty appointment in the Department of Medicine where he began his study of the role that the Na+/Ca2+ exchanger might play in the pathogenesis of salt sensitive hypertension. From 1997-2007, Dr Unlap directed the Heritage Center Biotech Curriculum for high school students and codirected BioTek Works, a biotechnology workforce development program funded by Jefferson County and the State of Alabama. From 2007-2008 he was a faculty member at the Tulane Medical School in the Department of Medical Physiology but relocated to the University of Alabama at Birmingham to start the Biotechnology Program where he currently serves as the Director.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1896-m-tino-unlap",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biotechnology Program"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "1896",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 342,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "firstName": "M. Tino",
+  "firstNameLastName": "M. Tino Unlap",
+  "equipmentLinkTypes": [],
+  "objectId": 1896,
+  "updatedWhen": "2025-05-10T08:06:12.3402552-05:00",
+  "hasCollaborationData": true,
+  "email": "unlap@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Emerging Infectious Diseases Genetics Infectious Diseases Lung Orphan Drug Rare Diseases Tuberculosis",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2639",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 183,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Morgan",
+  "firstName": "Kathryn",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2639-kathryn-morgan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "Kathryn Morgan",
+  "equipmentLinkTypes": [],
+  "objectId": 2639,
+  "updatedWhen": "2025-05-10T08:08:00.9306810-05:00",
+  "hasCollaborationData": false,
+  "email": "kmorgan@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

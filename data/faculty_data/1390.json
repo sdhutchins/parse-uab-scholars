@@ -1,0 +1,120 @@
+{
+  "discoveryId": "1390",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 384,
+      "favourites": 0
+    }
+  },
+  "lastName": "Katz",
+  "firstName": "Jannet",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1390-jannet-katz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "firstNameLastName": "Jannet Katz",
+  "equipmentLinkTypes": [],
+  "objectId": 1390,
+  "updatedWhen": "2025-05-10T08:05:15.8165266-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "meow@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Dementia Dental/Oral and Craniofacial Disease Digestive Diseases Genetics Human Genome Infectious Diseases Liver Disease Neurodegenerative Neurosciences Osteoporosis Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Biodefense Biotechnology Dental/Oral and Craniofacial Disease Emerging Infectious Diseases Immunization Infectious Diseases Prevention Vaccine Related"
+}

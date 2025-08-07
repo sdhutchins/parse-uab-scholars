@@ -1,0 +1,62 @@
+{
+  "lastName": "Raut",
+  "overview": "Sami Raut, by training, is an environmental toxicologist who came to the United States many years ago as a first-generation international graduate student in STEM. After finishing her PhD at UAB, she embarked on her professional career at a Hispanic institution in north-west Georgia before returning to UAB in 2012 as one of the primary course masters for the gateway courses in the department of biology. As a proud Blazer Alumnus, she now finds her calling in teaching various undergraduate classes by embracing the realms of scientific teaching. Furthermore, this immersion has led to the exploration of a new passion - pursuing biology education research. This research to date has engaged many undergraduate students in various capacities who are now successfully enrolled in professional schools. Some of these research endeavors pursued by undergraduate students have been translated into publications and various national level recognitions. Finally, she envisions that an interested college student can build a career in STEM that can pave way towards an empowering future that helps to push the frontiers of science towards novel discoveries and inventions.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2502-samiksha-raut",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "2502",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 101,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "firstName": "Samiksha",
+  "firstNameLastName": "Samiksha Raut",
+  "equipmentLinkTypes": [],
+  "objectId": 2502,
+  "updatedWhen": "2025-05-10T08:07:39.3949280-05:00",
+  "hasCollaborationData": false,
+  "email": "sraut@uab.edu",
+  "publication_keywords": "Contraception/Reproduction Endocrine Disruptors Estrogen Women's Health",
+  "grant_keywords": "Health Disparities Minority Health"
+}

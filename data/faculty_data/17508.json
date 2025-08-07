@@ -1,0 +1,90 @@
+{
+  "discoveryId": "17508",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 302,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kowatra",
+  "firstName": "Ritu",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17508-ritu-kowatra",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "firstNameLastName": "Ritu Kowatra",
+  "equipmentLinkTypes": [],
+  "objectId": 17508,
+  "updatedWhen": "2025-05-10T08:17:51.4634831-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "raneja@uab.edu",
+  "publication_keywords": "Aging Alcoholism, Alcohol Use and Health Behavioral and Social Science Bioengineering Biotechnology Breast Cancer Cancer Cancer Genomics Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Immunotherapy Minority Health Networking and Information Technology R&D (NITRD) Patient Safety Precision Medicine Prevention Rehabilitation Substance Misuse Women's Health",
+  "grant_keywords": "Breast Cancer Cancer Clinical Research Genetics Health Disparities Human Genome Minority Health Precision Medicine Social Determinants of Health Women's Health"
+}

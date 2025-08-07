@@ -1,0 +1,45 @@
+{
+  "discoveryId": "17644",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 177,
+      "favourites": 0
+    }
+  },
+  "lastName": "Akce",
+  "overview": "Dr. Akce is the Director of Phase I and Precision Medicine Program at UAB and Associate Director of Hugh Kaul Precision Medicine Institute, Heersink School of Medicine.  \n\nDr. Akce`s research focuses on developing novel and effective therapies for all solid tumors, particularly for gastrointestinal cancers, hepatocellular carcinoma (HCC) and cholangiocarcinoma. He leads multiple early phase clinical trials with novel agents.  He leads several multi-institutional investigator-initiated clinical trials examining role of novel immunotherapy combinations in neoadjuvant and immunotherapy refractory HCC and in metastatic cholangiocarcinoma. He is committed to researching and providing innovative treatment options for cancer patients.\n\nDr. Akce received his medical degree from Marmara University School of Medicine in Istanbul, Turkey. He completed internship and residency in internal medicine at St. Joseph Mercy Hospital in Ann Arbor, Michigan, where he also served as Chief Medical Resident. He then completed a fellowship in hematology/oncology at Baylor College of Medicine, Dan L. Duncan Comprehensive Cancer Center in Houston, Texas.",
+  "firstName": "Mehmet",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17644-mehmet-akce",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "firstNameLastName": "Mehmet Akce",
+  "equipmentLinkTypes": [],
+  "objectId": 17644,
+  "updatedWhen": "2025-05-10T08:18:01.3232314-05:00",
+  "hasCollaborationData": true,
+  "email": "makce@uab.edu",
+  "publication_keywords": "Cancer Cancer Genomics Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Esophageal Cancer Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Immunization Lung Lung Cancer Minority Health Pancreatic Cancer Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

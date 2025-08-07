@@ -1,0 +1,124 @@
+{
+  "lastName": "Szalai",
+  "overview": "Alexander J. Szalai, PhD (Alex) has a long history of excellence in  research and a strong record of funding from the National Institutes of Health (NIH), Department of Defense, and various private foundations.. He is internationally recognized for his work on the biology of C-reactive protein and its contribution to the maintenance of health, the propagation of disease, and the tissue response to injury. In addition to his research activities, Alex has excelled at teaching and has made significant contributions to UAB education at all levels.  Currently he serves as the Division of Clinical Immunology and Rheumatology’s Associate Director for Research. He also serves on the Department of Medicine Research Development Group, the School of Medicine Faculty Council, and the  UAB University Wide Grievance and Termination Committee.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "702-alexander-szalai",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      }
+    ]
+  },
+  "discoveryId": "702",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 46,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 126,
+      "favourites": 0
+    }
+  },
+  "firstName": "Alexander",
+  "firstNameLastName": "Alexander Szalai",
+  "equipmentLinkTypes": [],
+  "objectId": 702,
+  "updatedWhen": "2025-05-10T08:03:50.0347560-05:00",
+  "hasCollaborationData": true,
+  "email": "sandor@uab.edu",
+  "publication_keywords": "Arthritis Autoimmune Disease Cancer Cardiovascular Clinical Research Genetics Human Genome Prevention Rheumatoid Arthritis Women's Health",
+  "grant_keywords": "Aging Autoimmune Disease Clinical Research Eye Disease and Disorders of Vision Genetics Health Disparities Kidney Disease Lupus Minority Health Women's Health"
+}

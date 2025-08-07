@@ -1,0 +1,127 @@
+{
+  "lastName": "Fatima",
+  "overview": "Dr. Fatima was born and raised in Pakistan. She received her MBBS degree from Rawalpindi Medical College, Rawalpindi, Pakistan and was an officer in medicine and surgery, 6 months each, in Pakistan. Afterwards, she came to the United States to complete her residency in pathology at the University of Toledo, Toledo Ohio (2002-2006) followed by fellowships in cytology (2006-2007) at William Beaumont Hospital, Royal Oak, MI and renal pathology (2009-2011) at Vanderbilt University, Nashville, TN. During her pathology residency, she was elected to Alpha Omega Alpha, the national medical honor society. She joined the Department of Pathology at the University of Alabama at Birmingham in 2011, following being certified by the Anatomic Board of Pathology, Inc. In Anatomic Pathology and Clinical Pathology with added qualification in Cytopathology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2085-huma-fatima",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Anatomic Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2085",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 49,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 38,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 93,
+      "favourites": 0
+    }
+  },
+  "firstName": "Huma",
+  "firstNameLastName": "Huma Fatima",
+  "equipmentLinkTypes": [],
+  "objectId": 2085,
+  "updatedWhen": "2025-05-10T08:06:35.9747090-05:00",
+  "hasCollaborationData": true,
+  "email": "hfatima@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Cancer Digestive Diseases Genetics HIV/AIDS Hypertension Infectious Diseases Kidney Disease Minority Health Nanotechnology Orphan Drug Pancreatic Cancer Rare Diseases Sexually Transmitted Infections Stem Cell Research Stem Cell Research - Nonembryonic - Human Transplantation Urologic Diseases",
+  "grant_keywords": "Clinical Research Genetics HIV/AIDS Health Disparities Infectious Diseases Kidney Disease Minority Health Prevention Sexually Transmitted Infections Transplantation"
+}

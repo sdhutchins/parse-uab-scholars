@@ -1,0 +1,127 @@
+{
+  "lastName": "Chanda",
+  "overview": "Dr. Chanda received his BSc from University of Calcutta, his MSc from Visva Bharati University, and his PhD from Banaras Hindu University.  He completed postdoctoral training at the Morehouse School of Medicine and the University of Alabama at Birmingham. Dr. Chanda also previously held appointments as lecturer at Darjeeling Government College and as research associate at UAB. He has published on cancer gene therapy using recombinant adeno-associated virus vectors and gene modified bone marrow-derived mesenchymal stem cells, and cellular adhesion regulators during cancer metastasis.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2943-diptiman-chanda",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Licensing Associate",
+      "department": "School of Health Professions"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "2943",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 34,
+      "favourites": 0
+    }
+  },
+  "firstName": "Diptiman",
+  "firstNameLastName": "Diptiman Chanda",
+  "equipmentLinkTypes": [],
+  "objectId": 2943,
+  "updatedWhen": "2025-05-10T08:08:32.6699008-05:00",
+  "hasCollaborationData": true,
+  "email": "dchanda@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Biotechnology Genetics Lung Orphan Drug Rare Diseases Regenerative Medicine Stem Cell Research",
+  "grant_keywords": "Aging Autoimmune Disease Clinical Research Lung Rare Diseases"
+}

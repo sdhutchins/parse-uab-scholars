@@ -1,0 +1,124 @@
+{
+  "discoveryId": "923",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 84,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 50,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "lastName": "Whelan",
+  "firstName": "Kimberly",
+  "hasThumbnail": false,
+  "discoveryUrlId": "923-kimberly-whelan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Hematology-Oncology"
+    }
+  ],
+  "firstNameLastName": "Kimberly Whelan",
+  "equipmentLinkTypes": [],
+  "objectId": 923,
+  "updatedWhen": "2025-05-10T08:04:23.0316577-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kifowler@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Childhood Leukemia Clinical Research Digestive Diseases Genetics Hematology Liver Cancer Liver Disease Lymphatic Research Lymphoma Neuroblastoma Neurosciences Orphan Drug Pediatric Cancer Pediatric Research Initiative Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human",
+  "grant_keywords": ""
+}

@@ -1,0 +1,136 @@
+{
+  "lastName": "Zindl",
+  "overview": "Dr. Carlene L. Zindl received her B.S. in Biology and B.A. in Mathematics from the State University of New York (SUNY) at New Paltz, and then her Ph.D. in Immunology from the Department of Pathology and Immunology at Washington University (WashU) in St. Louis, Missouri. After her graduate study, she completed her first post-doctoral training with Dr. David D. Chaplin in the Department of Microbiology at the University of Alabama at Birmingham (UAB), and then accepted a second post-doctoral position under the mentorship of Dr. Casey T. Weaver in the Department of Pathology at UAB. She continued her research studies focused on the protective role of IL-22 in the intestines with Dr. Weaver as a senior scientist, and then in January 2024, she was promoted to Assistant Professor in the Department of Molecular and Cellular Pathology at UAB.\n\nDr. Zindl's research interests include investigating the interplay between CD4 T cells and intestinal epithelial cells (IECs) in intestinal barrier defense at homeostasis and during enteric infection. Her current research focuses on the mechanism(s) by which T cell-derived IL-22 signaling to IECs restricts pathogen encroachment deep in the crypts, and how intraepithelial T cells and the microbiota contribute to barrier protection in the colon.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19117-carlene-l-zindl",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Immunology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cellular Immunology",
+          "Immunology"
+        ],
+        "value": "Cellular Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Infectious Diseases",
+          "Diseases"
+        ],
+        "value": "Infectious Diseases"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cellular Interactions (incl. Adhesion, Matrix, Cell Wall)",
+          "Interactions (incl. Adhesion, Matrix, Cell Wall)",
+          "(incl. Adhesion, Matrix, Cell Wall)",
+          "Adhesion, Matrix, Cell Wall)",
+          "Matrix, Cell Wall)",
+          "Cell Wall)",
+          "Wall)"
+        ],
+        "value": "Cellular Interactions (incl. Adhesion, Matrix, Cell Wall)"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cell Development, Proliferation and Death",
+          "Development, Proliferation and Death",
+          "Proliferation and Death",
+          "and Death",
+          "Death"
+        ],
+        "value": "Cell Development, Proliferation and Death"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Zoology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Cell and Molecular Biology",
+          "Cell and Molecular Biology",
+          "and Molecular Biology",
+          "Molecular Biology",
+          "Biology"
+        ],
+        "value": "Animal Cell and Molecular Biology"
+      }
+    ]
+  },
+  "discoveryId": "19117",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "firstName": "Carlene L.",
+  "firstNameLastName": "Carlene L. Zindl",
+  "equipmentLinkTypes": [],
+  "objectId": 19117,
+  "updatedWhen": "2025-05-10T08:20:49.0578535-05:00",
+  "hasCollaborationData": true,
+  "email": "clzindl@uab.edu",
+  "publication_keywords": "Digestive Diseases Immunotherapy Infectious Diseases",
+  "grant_keywords": "Genetics HIV/AIDS Infectious Diseases Sexually Transmitted Infections"
+}

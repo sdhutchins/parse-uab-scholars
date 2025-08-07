@@ -1,0 +1,123 @@
+{
+  "lastName": "Alarcon",
+  "overview": "I joined the Faculty at UAB in 1981 after being a Research Fellow for about 18 months. I am currently Emeritus Professor and although not in Birmingham, I am still involved in mentoring fellows and collaborating with the LFA, LCTC, and GLADEL, as the need arises. During my stay at UAB and prior to that at my alma mater (Universidad Peruana Cayetano Heredia in Lima, Perú), I have been involved in the training of clinical and research fellows. In fact, after my US training (1968-1972), I started the first training program in Rheumatology and the first Rheumatology Unit in Perú. Whether in Perú or in the US, I have attended their clinics, have rounded with them, and foremost I have been stimulating them to always keep an open and inquisitive mind in dealing with their day-to-day activities being those in the clinic or in the research setting. I can say that over 60% of the fellows graduating from UAB between 1981 and the early 2000's, when I became more involved in the training of clinical research fellows (vide infra), have had the opportunity to publish their clinical experience under my mentorship and with my unconditional support. Of course, not all of them have become academicians or researchers in their own right, but I have been quick to point out to all of them that the proper appreciation of what research entails or the amount of work that goes into a published paper, can only come from personally going through the same experience.\n\nAlthough I have been involved in mentoring Junior Faculty and clinical research fellows in the past, it has been only since 2002 that I have had the opportunity to have the funding to support them for the conduct of research in lupus. These fellows have used the very rich database from LUMINA, a multi-ethnic cohort of lupus patients established in collaboration with Drs. John Reveille (UT-Houston, TX) and Luis Vilá (U- Puerto Rico, San Juan, PR) in the early 1990's. Participating in the training of these young physicians while continuing to mentor Junior Faculty and clinical fellows, as time permits, has been, and continues to be, one of the most rewording but also challenging experiences of my academic life as a rheumatologist. For the most part, these trainees have come with limited research experience; despite that, they have performed spectacularly well. In addition to participating in data collection on patients from the cohort, they have generated their own sub-projects and taken them to completion including the publication of their findings in prestigious rheumatology journals. The fruits of LUMINA have been summarized in a special article published in the Journal Lupus in 2008. Moreover, the salient finding from the LUMINA study were highlighted in an article published in The Rheumatologist in the Spring of 2011. At the present time, I continue to be involved in the work of the fellows that trained with me over the last few years (Drs. Durán-Barragán, González, Pons-Estel, Bertoli and Burgos) and with new ones that I have agreed to mentor (Drs. Ugarte-Gil, Gamboa, Pimentel, Elera-Fitzcarrald, Reategui, and Borgia) who are conducting research in lupus in their country of origin (México, Colombia, Argentina, Chile and Perú). In parallel I am assisting the LCTC in the establishment of a national registry of lupus patients (US and Canada). Finally, over the last few years I have developed a very close relationship with GLADEL (for Grupo Latinoamericano de Estudio de Lupus or Latin American Group for the Study of Lupus), assisting them in the utilization of their rich database. This group with the support of PANLAR has developed the Latin American treatment guidelines for lupus, effort in which I was quite involved.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4267-graciela-alarcon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "4267",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 664,
+      "favourites": 0
+    }
+  },
+  "firstName": "Graciela",
+  "firstNameLastName": "Graciela Alarcon",
+  "equipmentLinkTypes": [],
+  "objectId": 4267,
+  "updatedWhen": "2025-05-10T08:10:51.2586606-05:00",
+  "hasCollaborationData": true,
+  "email": "galarcon@uab.edu",
+  "publication_keywords": "Arthritis Autoimmune Disease Clinical Research Eye Disease and Disorders of Vision Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Lupus Minority Health Neurosciences Patient Safety Women's Health",
+  "grant_keywords": ""
+}

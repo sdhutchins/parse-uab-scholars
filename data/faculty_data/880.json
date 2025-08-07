@@ -1,0 +1,129 @@
+{
+  "lastName": "White",
+  "overview": "Dr. Marjorie Lee White is a Professor in the School of Medicine, Departments of Pediatrics and Medical Education and in the School of Health Professions, Department of Health Services Administration. She is board certified in Pediatrics, Pediatric Critical Care and Pediatric Emergency Medicine and practices Pediatric Emergency Medicine at Children’s of Alabama. She was awarded a bachelor's in history and American studies from Princeton University. She obtained her medical degree from the University of Alabama at Birmingham (UAB). She also obtained her Master's in education from UAB and her Master's in Public and Private Management from Birmingham-Southern College. She is currently Vice President for Clinical Simulation, UAB Medicine and Assistant Dean for Clinical Simulation, UAB School of Medicine.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "880-marjorie-white",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Emergency Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "880",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 93,
+      "favourites": 0
+    }
+  },
+  "firstName": "Marjorie",
+  "firstNameLastName": "Marjorie White",
+  "equipmentLinkTypes": [],
+  "objectId": 880,
+  "updatedWhen": "2025-05-10T08:04:12.9888634-05:00",
+  "hasCollaborationData": true,
+  "email": "mlwhite@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Arrant",
+  "overview": "Dr. Arrant graduated with a B.S. in Toxicology from the University of Louisiana at Monroe in 2007. He then entered the Integrated Toxicology and Environmental Health Program at Duke University, and in 2012 earned a PhD in Pharmacology in the laboratory of Dr. Cynthia Kuhn. In 2013, Dr. Arrant joined the laboratory of Dr. Erik Roberson at the University of Alabama at Birmingham for postdoctoral training with mouse models of frontotemporal dementia. Dr. Arrant was promoted to a Scientist position in 2017, and in 2019 joined the Center for Neurodegeneration and Experimental Therapeutics in UAB’s Department of Neurology as an Assistant Professor.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6976-andrew-arrant",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "6976",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 31,
+      "favourites": 0
+    }
+  },
+  "firstName": "Andrew",
+  "firstNameLastName": "Andrew Arrant",
+  "equipmentLinkTypes": [],
+  "objectId": 6976,
+  "updatedWhen": "2025-05-10T08:14:00.1671131-05:00",
+  "hasCollaborationData": true,
+  "email": "aearrant@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Dementia Frontotemporal Dementia (FTD) Genetics Neurodegenerative Neurosciences Rare Diseases Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Dementia Depression Frontotemporal Dementia (FTD) Gene Therapy Genetics Maternal Health Mental Health Mental Illness Neurodegenerative Neurosciences Orphan Drug Pediatric Rare Diseases Social Determinants of Health Women's Health"
+}

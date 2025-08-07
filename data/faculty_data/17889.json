@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17889",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 22,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ferguson",
+  "firstName": "Christine",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17889-christine-ferguson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "firstNameLastName": "Christine Ferguson",
+  "equipmentLinkTypes": [],
+  "objectId": 17889,
+  "updatedWhen": "2025-05-10T08:18:19.4787184-05:00",
+  "hasCollaborationData": true,
+  "email": "cfergus2@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Neurodegenerative Neurosciences Nutrition Physical Injury - Accidents and Adverse Effects Prevention Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": ""
+}

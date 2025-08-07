@@ -1,0 +1,98 @@
+{
+  "lastName": "Danila",
+  "overview": "Dr. Danila is a Professor of Medicine in the Department of Medicine, Division of Clinical Immunology and Rheumatology at the University of Alabama at Birmingham, where she serves as Associate Division Director for Clinical Research assisting with the clinical trial management and operations. She She also holds an appointment as Physician Scientist with the Geriatric Research Education and Clinical Center, Birmingham Atlanta VA Medical Center, Birmingham, AL. \n\nDr. Danila is an implementation scientist and health services researcher, focused on improving the quality, effectiveness and delivery of medical care. Her research program centers on: i) the design and evaluation of multi-modal interventions to improve outcomes for patients with chronic conditions (e.g. infection prevention, comorbidities’ management); ii) re-designing healthcare services and leveraging new technologies (e.g., whole genome sequencing, telehealth, infrared thermography) in clinical practice to increase effectiveness of care delivery; iii) developing a robust infrastructure for translational immunology and rheumatology research. She has been leading research projects funded by the National Institutes of Health, the Patient Centered Outcomes Institute, and the Rheumatology Research Foundation.  Dr. Danila is an expert in evaluating and treating people living with various types of inflammatory arthritis and connective tissue disease associated interstitial lung disease.\n\nDr. Danila has been actively involved as volunteer for the American College of Rheumatology (ACR). She served on the ACR Insurance Subcommittee (ISC) from 2012-2016, as a member of the ACR Committee on Quality of Care from 2018-2021, and the Scientific Advisory Council for the Rheumatology Research Foundation (2021-2024) . She currently serves on the Leadership Development Council for the Rheumatology Research Foundation, and is an Associate Editor for the Arthritis Care and Research journal of the ACR.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "675-maria-danila",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "675",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 50,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 119,
+      "favourites": 0
+    }
+  },
+  "firstName": "Maria",
+  "firstNameLastName": "Maria Danila",
+  "equipmentLinkTypes": [],
+  "objectId": 675,
+  "updatedWhen": "2025-05-12T03:21:24.6216120-05:00",
+  "hasCollaborationData": true,
+  "email": "mdanila@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Biodefense Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Therapeutics and Interventions Coronaviruses Vaccines Emergency Care Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Infectious Diseases Lung Lupus Minority Health Networking and Information Technology R&D (NITRD) Patient Safety Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID Prevention Rural Health Social Determinants of Health Telehealth Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

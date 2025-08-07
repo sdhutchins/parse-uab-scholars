@@ -1,0 +1,130 @@
+{
+  "lastName": "Muccio",
+  "overview": "I was raised in a small town in northeast Ohio. My parents were either first or second generation Italian-Americans. We had an extended family where my aunts and uncles were like parents, and my cousins were my sisters and brothers. Our motto was family, food, and fun. My parents were never formally educated but they valued it greatly. They instilled a sense of hard work that only a middleclass immigrant family can, while we played and watched sports. My brothers and I worked hard and when we went to college we were expected to get a solid education. I still carry these principles with me today; work hard and have fun doing so.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2520-donald-muccio",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      }
+    ]
+  },
+  "discoveryId": "2520",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 119,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 81,
+      "favourites": 0
+    }
+  },
+  "firstName": "Donald",
+  "firstNameLastName": "Donald Muccio",
+  "equipmentLinkTypes": [],
+  "objectId": 2520,
+  "updatedWhen": "2025-05-10T08:07:50.5189692-05:00",
+  "hasCollaborationData": true,
+  "email": "muccio@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Cardiovascular Climate-Related Exposures and Conditions Clinical Research Clinical Trials and Supportive Activities Diabetes Dietary Supplements Digestive Diseases Genetics Liver Disease Nutrition Obesity Patient Safety Prevention",
+  "grant_keywords": "Aging Biotechnology Breast Cancer Cancer Estrogen Genetics Nutrition Obesity Prevention Women's Health"
+}

@@ -1,0 +1,126 @@
+{
+  "lastName": "Collawn",
+  "overview": "James F. Collawn, Professor of Cell Biology, received his B.S. degree from the University of South Carolina and his Ph.D. degree in Biochemistry from the Medical University of South Carolina (1986). He completed his postdoctoral training in cellular immunology at The Scripps Research Institute and in cell biology at The Salk Institute in La Jolla, California. After working for two years as a Staff Scientist at The Salk Institute, Dr. Collawn joined the Department of Cell Biology in 1993. Dr. Collawn was an Established Investigator of the American Heart Association and Director of the Cell Biology Graduate Program from 2000 to 2017. He was an Associate Editor for the American Journal of Physiology-Lung Cellular and Molecular Physiology from 2011 to 2018 and is Vice-chairman of the Department of Cell, Developmental and Integrative Biology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2233-james-collawn",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "2233",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 322,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 162,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 181,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Collawn",
+  "equipmentLinkTypes": [],
+  "objectId": 2233,
+  "updatedWhen": "2025-05-10T08:07:03.7527078-05:00",
+  "hasCollaborationData": true,
+  "email": "jcollawn@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Congenital Structural Anomalies Genetics Kidney Disease Pediatric Polycystic Kidney Disease",
+  "grant_keywords": "Aging Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Heart Disease Hypertension Neurodegenerative Neurosciences Parkinson's Disease Physical Activity Physical Rehabilitation Precision Medicine Prevention Rehabilitation"
+}

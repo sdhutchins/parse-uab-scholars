@@ -1,0 +1,125 @@
+{
+  "discoveryId": "3452",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 2
+    }
+  },
+  "lastName": "Rahman",
+  "firstName": "AKM Fazlur",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3452-akm-fazlur-rahman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "AKM Fazlur Rahman",
+  "equipmentLinkTypes": [],
+  "objectId": 3452,
+  "updatedWhen": "2025-05-12T03:21:24.6386126-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "frahman@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Biomedical Imaging Brain Cancer Brain Disorders Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Neurosciences Nutrition Obesity Pediatric Research Initiative Prevention Rare Diseases Substance Misuse Tobacco Tobacco Smoke and Health Women's Health",
+  "grant_keywords": "Autoimmune Disease Clinical Research Clinical Trials and Supportive Activities Lung Orphan Drug Precision Medicine Rare Diseases Women's Health"
+}

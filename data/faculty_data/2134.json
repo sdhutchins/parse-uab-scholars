@@ -1,0 +1,108 @@
+{
+  "discoveryId": "2134",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 39,
+      "favourites": 11
+    }
+  },
+  "lastName": "Maynard",
+  "firstName": "Craig",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2134-craig-maynard",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "firstNameLastName": "Craig Maynard",
+  "equipmentLinkTypes": [],
+  "objectId": 2134,
+  "updatedWhen": "2025-05-10T08:06:50.7171660-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "clmaynard@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Breast Cancer Cancer Cancer Genomics Cardiovascular Clinical Research Congenital Structural Anomalies Digestive Diseases Genetics Health Disparities Human Genome Hypertension Inflammatory Bowel Disease Kidney Disease Microbiome Minority Health Nutrition Pediatric Pediatric Research Initiative Polycystic Kidney Disease Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": "Aging Autoimmune Disease Biotechnology Clinical Research Crohn's Disease Digestive Diseases Emerging Infectious Diseases Immunization Immunotherapy Infectious Diseases Inflammatory Bowel Disease Microbiome Nutrition Prevention"
+}

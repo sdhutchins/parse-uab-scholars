@@ -1,0 +1,124 @@
+{
+  "lastName": "Riddle",
+  "overview": "Dr. Riddle obtained her undergraduate degree from the University of Missouri in Columbia, carrying out research in a maize lab. During her graduate work at Washington University in St. Louis, she first learned about epigenetics, a research field that focuses on heritable changes in phenotypes that are not associated with changes in the DNA. At the time, epigenetics was poorly understood, and her fascination with this field has grown with the scientific community’s increasing appreciation for the influence of epigenetics on other aspects of biology.\n\nIn her scientific career, Dr. Riddle has studied various aspects of epigenetics in plants and animals. Her lab at UAB utilizes a classical genetics model system, the fruit fly Drosophila melanogaster, to study various open questions in the area of epigenetics and chromatin.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2503-nicole-riddle",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2503",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 195,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 64,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nicole",
+  "firstNameLastName": "Nicole Riddle",
+  "equipmentLinkTypes": [],
+  "objectId": 2503,
+  "updatedWhen": "2025-05-10T08:07:39.3959270-05:00",
+  "hasCollaborationData": true,
+  "email": "riddlenc@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cancer Estrogen Genetics Physical Activity Prevention Women's Health",
+  "grant_keywords": "Aging Genetics Human Genome Women's Health"
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Muzny",
+  "overview": "Dr. Christina Muzny obtained her medical degree at the Texas A&M University Health Sciences Center College of Medicine. She completed an internal medicine residency and an infectious diseases fellowship at the University of Mississippi Medical Center prior to joining the infectious diseases faculty at UAB in 2010. Dr. Muzny currently has R01 and R21 funding from the National Institute of Allergy and Infectious Diseases to study the pathogenesis of bacterial vaginosis. She has recently participated in multiple clinical trials regarding use of 5-nitroimidazoles, including secnidazole, for the treatment of trichomoniasis in women. She is currently a Professor of Medicine in the Division of Infectious Diseases at UAB with secondary appointments in Epidemiology and Obstetrics & Gynecology. She is Medical Director of the UAB ID Vaginitis Clinic. She is also an Associate Scientist for the UAB Center for AIDS Research and a Scientist in the UAB Center for Clinical and Translational Research. In addition, Dr. Muzny is Chair of the UAB Institutional Review Board.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "570-christina-muzny",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "570",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 97,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 166,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christina",
+  "firstNameLastName": "Christina Muzny",
+  "equipmentLinkTypes": [],
+  "objectId": 570,
+  "updatedWhen": "2025-05-10T08:03:25.3252505-05:00",
+  "hasCollaborationData": true,
+  "email": "cmuzny@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Cancer Clinical Research Emerging Infectious Diseases Genetics Infectious Diseases Microbiome Prevention Sexually Transmitted Infections Urologic Diseases Women's Health",
+  "grant_keywords": ""
+}

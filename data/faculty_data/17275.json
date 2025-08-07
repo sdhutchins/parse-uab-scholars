@@ -1,0 +1,114 @@
+{
+  "lastName": "Khanal",
+  "overview": "Safal Khanal, OD, PhD, FAAO is an Assistant Professor in the Department of Optometry and Vision Science at the University of Alabama at Birmingham. He also holds secondary appointments as an Associate Scientist in the Center for Clinical and Translational Sciences, Comprehensive Neuroscience Center, and Civitan International Research Center. At UAB School of Optometry, Dr. Khanal leads an independent myopia research program, runs the visual electrodiagnostic clinic, and teaches optometry and vision science courses in the professional and graduate programs.\n\nDr. Khanal received his optometry and vision science training in Nepal and the Philippines and earned his Bachelor of Optometry and Doctor of Optometry degrees. After working as a consultant in a conjoint optometry/ophthalmology practice in Nepal, he moved to the University of Auckland Myopia Lab in New Zealand where he pursued his PhD under the supervision of John Phillips Dr. John Phillips, BSc (M Eng), BSc (Optom), MSc, PhD, MCOptom, FAAO. During his time at the University of Auckland, he also served as an educator in the Bachelor of Optometry degree program, teaching clinical optometry courses and supervising undergraduate students in summer research and honors projects. After completing his first postdoctoral fellowship at the University of Auckland Myopia Lab, he moved to the United States for his second postdoctoral fellowship in the laboratories of Timothy Gawne, PhD and Jason Nichols, OD, MPH, PhD, FAAO, at the UAB School of Optometry. In 2021, Dr. Khanal became a faculty member and established his independent research laboratory focused on myopia and visual electrophysiology. His research program is supported by grants from E. Matilda Ziegler Foundation for the Blind Inc., American Academy of Optometry Foundation, Reality Labs Research, and UAB Vision Science Research Center. \n\nDr. Khanal is a recipient of several awards, and honors, including a fellowship from the American Academy of Optometry (AAO), Emerging Vision Scientist award from the National Alliance for Eye and Vision Research, and Eberhard Dodt Memorial Award from the International Society for Clinical Electrophysiology of Vision (ISCEV). In 2022, he received the AAO Career Development Award and became one of only six faculty members nationwide to receive this honor. Dr. Khanal holds active professional membership in several organizations, including International Myopia Institute, Association for Research in Vision and Ophthalmology (ARVO), and ISCEV. He serves on several national and international professional committees, including ARVO Annual Meeting Program and Ethics and Regulations in Human Research Committees, AAO Scientific Program Committee, and Association of School and Colleges of Optometry (ASCO) Research Committee. He also serves on the Editorial Board of Scientific Reports and Frontiers of Human Neuroscience and volunteers as an ad-hoc reviewer for several leading journals in the field, including Proceedings of the National Academy of Sciences of the United States of America, Investigative Ophthalmology and Visual Science, Ophthalmic and Physiological Optics, Contact Lens and Anterior Eye, Eye and Contact Lens, Optometry and Vision Science, Documenta Ophthalmologica, Clinical and Experimental Optometry, Journal of Optometry, BMC Ophthalmology, Scientific Reports, and Experimental Eye Research. Dr. Khanal regularly publishes, speaks, and presents on topics related to eye growth regulation, emmetropization, refractive errors, myopia development and progression, and visual electrophysiology.\n\nResearch interests:\n\nDr. Khanal’s laboratory conducts basic, clinical, and translational research related to myopia (nearsightedness) mechanisms and treatment. His current research interests lie in understanding the mechanistic basis of emmetropisation, eye growth regulation, and refractive development, through a combination of imaging, electrophysiology, and molecular techniques in animal models (tree shrews) and humans. The overall goal is to inform how the eye detects the sign of defocus and regulates its growth and what causes this regulatory mechanism to malfunction leading to the genesis of refractive errors like myopia in children. Dr. Khanal aims to use the knowledge gained to devise novel, effective strategies (optical, pharmacological, and behavioral) targeted at preventing the onset and slowing the progression of myopia in children.\n\nPlease visit https://sites.uab.edu/skhanal/ to learn more about Dr. Khanal's research program at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17275-safal-khanal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "17275",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 8
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 43,
+      "favourites": 22
+    }
+  },
+  "firstName": "Safal",
+  "firstNameLastName": "Safal Khanal",
+  "equipmentLinkTypes": [],
+  "objectId": 17275,
+  "updatedWhen": "2025-05-10T08:17:26.0642005-05:00",
+  "hasCollaborationData": true,
+  "email": "skhanal@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Eye Disease and Disorders of Vision Neurosciences Pediatric Prevention",
+  "grant_keywords": "Bioengineering Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities and Racial or Ethnic Minority Health Research Neurosciences Pediatric Research Initiative"
+}

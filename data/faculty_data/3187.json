@@ -1,0 +1,82 @@
+{
+  "discoveryId": "3187",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 91,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "lastName": "Verbeek",
+  "firstName": "Peter",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3187-peter-verbeek",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Anthropology"
+    }
+  ],
+  "firstNameLastName": "Peter Verbeek",
+  "equipmentLinkTypes": [],
+  "objectId": 3187,
+  "updatedWhen": "2025-05-10T08:09:04.9123135-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "pverbeek@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Mental Health Violence Research",
+  "grant_keywords": ""
+}

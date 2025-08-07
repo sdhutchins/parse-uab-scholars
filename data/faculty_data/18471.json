@@ -1,0 +1,74 @@
+{
+  "lastName": "Sen",
+  "overview": "Dr. Arko Sen completed his Ph.D. training in Pharmacology from Wayne State School of Medicine in Detroit, Michigan, and then completed his postdoctoral training at the Salk Institute for Biological Studies in San Diego, California. He joined the Department of Genetics in August 2023 and his lab studies how non-coding genetic variations drive tumorigenesis of pediatric tumors.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18471-arko-sen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Genetics",
+          "Genetics"
+        ],
+        "value": "Cancer Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      }
+    ]
+  },
+  "discoveryId": "18471",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 14,
+      "favourites": 2
+    }
+  },
+  "firstName": "Arko",
+  "firstNameLastName": "Arko Sen",
+  "equipmentLinkTypes": [],
+  "objectId": 18471,
+  "updatedWhen": "2025-05-10T08:19:33.9532704-05:00",
+  "hasCollaborationData": false,
+  "email": "asen@uab.edu",
+  "publication_keywords": "Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Childhood Leukemia Genetics Hematology Human Genome Neuroblastoma Neurosciences Orphan Drug Pediatric Pediatric Cancer Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human",
+  "grant_keywords": ""
+}

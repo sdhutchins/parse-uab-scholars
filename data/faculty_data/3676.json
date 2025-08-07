@@ -1,0 +1,126 @@
+{
+  "discoveryId": "3676",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 78,
+      "favourites": 3
+    }
+  },
+  "lastName": "Leier",
+  "firstName": "Andre",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3676-andre-leier",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "firstNameLastName": "Andre Leier",
+  "equipmentLinkTypes": [],
+  "objectId": 3676,
+  "updatedWhen": "2025-05-10T08:09:49.3880747-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Information and Computing Sciences",
+          "Information and Computing Sciences",
+          "and Computing Sciences",
+          "Computing Sciences",
+          "Sciences"
+        ],
+        "value": "Other Information and Computing Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "leier@uab.edu",
+  "publication_keywords": "Aging Bioengineering Biotechnology Brain Disorders Genetics Neurodegenerative Neurofibromatosis Neurosciences Orphan Drug Parkinson's Disease Precision Medicine Rare Diseases",
+  "grant_keywords": "Biotechnology Genetics Neurofibromatosis Neurosciences Pediatric Research Initiative Rare Diseases"
+}

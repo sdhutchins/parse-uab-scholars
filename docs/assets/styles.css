@@ -89,6 +89,17 @@ body {
     margin-left: 0.25rem;
 }
 
+.email-link {
+    color: #17a2b8;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.email-link:hover {
+    color: #138496;
+    text-decoration: underline;
+}
+
 .research-areas {
     font-size: 0.9rem;
     line-height: 1.4;
@@ -98,7 +109,16 @@ body {
 .students {
     font-size: 0.9rem;
     line-height: 1.4;
-    color: #333;
+}
+
+.current-student {
+    color: #28a745 !important;
+    font-weight: 500 !important;
+}
+
+.students .current-student {
+    color: #28a745 !important;
+    font-weight: 500 !important;
 }
 
 .no-results {

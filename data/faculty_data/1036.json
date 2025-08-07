@@ -1,0 +1,122 @@
+{
+  "discoveryId": "1036",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 137,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dwivedi",
+  "firstName": "Yogesh",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1036-yogesh-dwivedi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Yogesh Dwivedi",
+  "equipmentLinkTypes": [],
+  "objectId": 1036,
+  "updatedWhen": "2025-05-10T08:04:33.7135286-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ydwivedi@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Clinical Research Depression Genetics Human Genome Major Depressive Disorder Mental Health Mental Illness Neurosciences Pediatric Pediatric Research Initiative Prevention Serious Mental Illness Social Determinants of Health Suicide Suicide Prevention Women's Health",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Child Abuse and Neglect Research Childhood Injury Clinical Research Clinical Trials and Supportive Activities Depression Genetics Major Depressive Disorder Mental Health Mental Illness Neurosciences Pediatric Precision Medicine Prevention Serious Mental Illness Social Determinants of Health Suicide Violence Research"
+}

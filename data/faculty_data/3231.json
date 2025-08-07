@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3231",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Zheng",
+  "firstName": "Yuliang",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3231-yuliang-zheng",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Yuliang Zheng",
+  "equipmentLinkTypes": [],
+  "objectId": 3231,
+  "updatedWhen": "2025-05-10T08:09:16.1923520-05:00",
+  "hasCollaborationData": false,
+  "email": "yzheng@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,130 @@
+{
+  "lastName": "Lapi",
+  "overview": "Suzanne E. Lapi, Ph.D. is the  Emmet O’Neal II Professor, O’Neal Comprehensive Cancer Center and Professor of Radiology and Chemistry and Cyclotron Facility Director at the University of Alabama at Birmingham. She is also the Vice Chair of Research in the Department of Radiology.  Her research interests are in the development and translation of new PET radionuclides and molecular imaging agents.  She has over 150 peer- reviewed publications and is PI on active research grants from NIH and DOE as well as industry partners. She oversees production of PET radionuclides and imaging radiopharmaceuticals for preclinical research and clinical trials.  Her group holds >15 approved INDs and supplies 64Cu, 89Zr, 203Pb and other isotopes to groups across the USA and internationally.  She is a Fellow of the SNMMI and a strong advocate of radiopharmaceutical sciences and the training of future nuclear and radiochemists at the graduate, postdoctoral and faculty levels.  In 2024 she received the Micheal J Welch award from the SNMMI for her scientific and mentorship activities in the field of radiopharmaceutical chemistry.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3283-suzanne-lapi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+          "Molecular, Nuclear, Particle and Plasma Physics",
+          "Nuclear, Particle and Plasma Physics",
+          "Particle and Plasma Physics",
+          "and Plasma Physics",
+          "Plasma Physics",
+          "Physics"
+        ],
+        "value": "Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "3283",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 69,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 64,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 215,
+      "favourites": 0
+    }
+  },
+  "firstName": "Suzanne",
+  "firstNameLastName": "Suzanne Lapi",
+  "equipmentLinkTypes": [],
+  "objectId": 3283,
+  "updatedWhen": "2025-05-10T08:09:16.2310464-05:00",
+  "hasCollaborationData": true,
+  "email": "lapi@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Breast Cancer Cancer Immunization Immunotherapy Neurosciences Nutrition Obesity Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

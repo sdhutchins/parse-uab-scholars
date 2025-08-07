@@ -1,0 +1,125 @@
+{
+  "lastName": "Lim",
+  "overview": "Dr. Steve Lim received his BS and MS from Seoul National University in South Korea, and then his Ph.D. from the Department of Cell Biology at the University of Alabama at Birmingham (UAB). After his graduate study, he moved to the University of California, San Diego and completed his postdoctoral training in the laboratory of Dr. David Schlaepfer at the Scripps Research Institute and UCSD Moores Cancer Center. In January 2012, he started his Assistant Professor position at the University of South Alabama where he was promoted to Associate Professor with tenure. In April 2022, he moved to the Department of Pathology, Division of Molecular Cellular Pathology at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17519-steve-lim",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "17519",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 69,
+      "favourites": 0
+    }
+  },
+  "firstName": "Steve",
+  "firstNameLastName": "Steve Lim",
+  "equipmentLinkTypes": [],
+  "objectId": 17519,
+  "updatedWhen": "2025-05-10T08:17:51.4634831-05:00",
+  "hasCollaborationData": true,
+  "email": "stevelim@uab.edu",
+  "publication_keywords": "Atherosclerosis Biotechnology Brain Disorders Breast Cancer Cancer Cancer Genomics Cardiovascular Congenital Structural Anomalies Genetics Hematology Human Genome Intellectual and Developmental Disabilities (IDD) Orphan Drug Pediatric Research Initiative Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Women's Health",
+  "grant_keywords": "Aging Atherosclerosis Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease"
+}

@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2357",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 216,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 30,
+      "favourites": 0
+    }
+  },
+  "lastName": "Prado",
+  "overview": "Currently, I am Assistant Professor of English Learner Education in UAB's Department of Curriculum and Instruction. My responsibilities include teaching EESL 615Grammar for ESL Teachers and EESL 610 Second Language Acquisition in the Master of Arts in Education program for teaching English as a Second Language (ESL). I also manage the grant for Southeast ECHO: ELs Charting new Horizons and Opportunities. I hold a Ph.D. in Secondary Curriculum and Instruction with a focus in Educational Linguistics from the University of Alabama where I developed my current research interests of language use, identity, and the relationship between school and community. I received a Masters of Arts in Teaching English to Speakers of Other Languages (MA-TESOL) from the University of Alabama, which focused on academic writing in higher educational settings. My Bachelor of Arts degree is in German language and literature from Agnes Scott College in Decatur, Georgia.\n\nMy fascination with the intersection of identity, language, and culture has been encouraged through my life and professional experiences. As a 6th grader, I lived in Zürich Switzerland where I was a GSL student (German as a Second Language) in public school. In college, as a German major, I lived in Marburg Germany for more than a year studying at the Phillips Universität. Each of those experiences afforded me important insights into perspectives outside of the United States. However, working at the United Nations Headquarters in New York as a German-speaking tour guide set my foundation for a much broader understanding of the cultural world we live in. While my experiences with the UN sparked new global perspectives, living in Ecuador for five years instilled in me a profound appreciation and respect for the ingenuity of cultural practices, including those that were both familiar and unfamiliar to me.\n\nMy respect for the professionalization of teaching English as a second/foreign language began when I accepted a position as an \"English teacher\" in Ecuador on the merits of being a native speaker, and found myself to be woefully unprepared. Through my degree programs and my work as a K-12 ESL Specialist, I have had numerous opportunities to teach ESL/EFL students in a variety of contexts, from pre-k children in their first school setting all the way through high school, university and professional levels, to adults taking conversational English. I look forward to working with Alabama educators so that, together, we can continue strengthening positive, effective learning environments for English learners in classrooms across the state.",
+  "firstName": "Josephine",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2357-josephine-prado",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Josephine Prado",
+  "equipmentLinkTypes": [],
+  "objectId": 2357,
+  "updatedWhen": "2025-05-10T08:07:28.8577120-05:00",
+  "hasCollaborationData": true,
+  "email": "jprado@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

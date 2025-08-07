@@ -1,0 +1,123 @@
+{
+  "discoveryId": "1928",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 54,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 909,
+      "favourites": 0
+    }
+  },
+  "lastName": "Howard",
+  "firstName": "George",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1928-george-howard",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "George Howard",
+  "equipmentLinkTypes": [],
+  "objectId": 1928,
+  "updatedWhen": "2025-05-12T13:55:13.0916815-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ghoward@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Atherosclerosis Behavioral and Social Science Bioengineering Brain Disorders Cardiovascular Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Neurosciences Prevention Rehabilitation Stroke Substance Misuse Tobacco Tobacco Smoke and Health Women's Health",
+  "grant_keywords": "Aging Behavioral and Social Science Cardiovascular Clinical Research Health Disparities Heart Disease Hypertension Minority Health Prevention Social Determinants of Health Women's Health"
+}

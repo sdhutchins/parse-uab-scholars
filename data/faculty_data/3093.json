@@ -1,0 +1,128 @@
+{
+  "lastName": "Wolfson",
+  "overview": "Julie Wolfson, MD, MSHS joined UAB in 2015 in the Division of Pediatric Hematology-Oncology and the Institute for Cancer Outcomes and Survivorship. She also founded and serves as the Director of the UAB-COA-O’Neal Adolescent and Young Adult (AYA) Oncology & Oncofertility Program, where she supports pediatric and adult oncology patients across UAB. Dr. Wolfson is a pediatric oncologist and health services researcher, with clinical expertise in hematologic malignancies and histiocytoses. After an undergraduate degree in English from Harvard, she completed medical school at the University of Florida, pediatrics residency at Massachusetts General Hospital and fellowship training at Children’s Hospital Los Angeles during which she completed additional research training (MSHS) in health services research at the UCLA School of Public Health. Dr. Wolfson leads a program in AYA research that is funded by the National Cancer Institute, with over a decade of funding from St. Baldrick’s Foundation, Hyundai Hope on Wheels, Rally Foundation, Concern Foundation, and others, with work consistently published in highly respected peer-reviewed journals. She has leadership and committee roles in national organizations including Children’s Oncology Group, American Society of Hematology, and Teen Cancer America among others.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3093-julie-wolfson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Hematology-Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "3093",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 33,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 52,
+      "favourites": 0
+    }
+  },
+  "firstName": "Julie",
+  "firstNameLastName": "Julie Wolfson",
+  "equipmentLinkTypes": [],
+  "objectId": 3093,
+  "updatedWhen": "2025-05-10T08:08:52.9168623-05:00",
+  "hasCollaborationData": true,
+  "email": "wolfsonj@uab.edu",
+  "publication_keywords": "Brain Disorders Cancer Childhood Leukemia Clinical Research Contraception/Reproduction Coronaviruses Coronaviruses Disparities and At-Risk Populations Down Syndrome Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Immunization Infectious Diseases Infertility Intellectual and Developmental Disabilities (IDD) Lung Minority Health Pediatric Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

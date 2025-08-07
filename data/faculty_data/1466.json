@@ -1,0 +1,123 @@
+{
+  "discoveryId": "1466",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 58,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 110,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pittler",
+  "firstName": "Steven",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1466-steven-pittler",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Vision Sciences",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Steven Pittler",
+  "equipmentLinkTypes": [],
+  "objectId": 1466,
+  "updatedWhen": "2025-05-10T08:05:25.8369190-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "pittler@uab.edu",
+  "publication_keywords": "Eye Disease and Disorders of Vision Genetic Testing Genetics Macular Degeneration Neurodegenerative Neurosciences Rare Diseases",
+  "grant_keywords": "Biotechnology Eye Disease and Disorders of Vision Genetics Neurodegenerative Neurosciences Orphan Drug Rare Diseases"
+}

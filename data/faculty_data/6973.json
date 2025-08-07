@@ -1,0 +1,44 @@
+{
+  "discoveryId": "6973",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Juergensen",
+  "firstName": "Miyoshi",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6973-miyoshi-juergensen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "firstNameLastName": "Miyoshi Juergensen",
+  "equipmentLinkTypes": [],
+  "objectId": 6973,
+  "updatedWhen": "2025-05-10T08:14:00.1621119-05:00",
+  "hasCollaborationData": false,
+  "email": "mjuerge2@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

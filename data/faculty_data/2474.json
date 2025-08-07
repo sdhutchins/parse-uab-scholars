@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2474",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 266,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Baulos",
+  "firstName": "Douglas",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2474-douglas-baulos",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Art and Art History"
+    }
+  ],
+  "firstNameLastName": "Douglas Baulos",
+  "equipmentLinkTypes": [],
+  "objectId": 2474,
+  "updatedWhen": "2025-05-10T08:07:39.3619262-05:00",
+  "hasCollaborationData": false,
+  "email": "dbaulos@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

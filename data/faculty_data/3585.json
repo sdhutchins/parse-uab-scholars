@@ -1,0 +1,128 @@
+{
+  "lastName": "Zhang",
+  "overview": "I started my research career at Tsinghua University in Dr. Yongbin Yan's and Dr. Haimeng Zhou’s research group as a master student. During my masters degree I used FT-infrared and other spectroscopic methods to study protein unfolding and aggregation of RNAse A. In 2006 I joined the PhD program at the University of North Carolina (Chapel Hill) in the Department of Biochemistry and Biophysics. My work focused on protein dynamics probed by NMR relaxation, under supervision of Dr. Andrew Lee.\n\nI obtained my PhD in 2011 and began my postdoctoral training in Dr. Traci Hall’s group at National Institute of Environmental Health Sciences. My research focused on structural and functional studies of RNA-binding proteins. This postdoc training not only extended my training to crystallography and RNA biology, but also gave me an opportunity to make use of my expertise in NMR dynamics (acquired during my PhD studies). I joined the UAB Chemistry Department as an Assistant Professor in 2016. \n\nMy lab will build on research projects developed during my postdoctoral training, focusing on the structure and function of intrinsically disordered proteins. Furthermore, the integration of crystallography, NMR, and other spectroscopic methods greatly widens my research scope and enables me characterize both protein structure and dynamics.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3585-jun-zhang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "3585",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 88,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jun",
+  "firstNameLastName": "Jun Zhang",
+  "equipmentLinkTypes": [],
+  "objectId": 3585,
+  "updatedWhen": "2025-05-10T20:01:33.9723934-05:00",
+  "hasCollaborationData": true,
+  "email": "zhanguab@uab.edu",
+  "publication_keywords": "Genetics",
+  "grant_keywords": "Genetics"
+}

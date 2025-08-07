@@ -1,0 +1,108 @@
+{
+  "discoveryId": "2982",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 22,
+      "favourites": 0
+    }
+  },
+  "lastName": "Li",
+  "firstName": "Wei",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2982-wei-li",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Wei Li",
+  "equipmentLinkTypes": [],
+  "objectId": 2982,
+  "updatedWhen": "2025-05-10T08:08:43.2789171-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "weili7@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Mental Illness Neurodegenerative Neurosciences Orphan Drug Pediatric Research Initiative Rare Diseases Rett Syndrome Women's Health",
+  "grant_keywords": "Autism Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Genetics Intellectual and Developmental Disabilities (IDD) Machine Learning and Artificial Intelligence Mental Health Neurodegenerative Neurosciences Pediatric Rare Diseases Rett Syndrome Women's Health"
+}

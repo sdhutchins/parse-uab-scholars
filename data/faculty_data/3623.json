@@ -1,0 +1,107 @@
+{
+  "lastName": "Thirumalai",
+  "overview": "Dr. Mohanraj Thirumalai is an Associate Professor in the Division of Preventive Medicine at the University of Alabama at Birmingham (UAB) and serves as the Director of Health Technology. In his current roles, he leads groundbreaking research at the intersection of technology and health, with a focus on creating scalable, accessible, and impactful solutions for underserved populations, including people with disabilities. Dr. Thirumalai’s work emphasizes leveraging innovative technologies such as telehealth platforms, interactive voice response systems, and adaptive gaming devices to address chronic disease management and promote physical activity. His leadership extends to large-scale federally funded projects where he serves as the Principal Investigator, driving multi-year studies aimed at advancing health equity and improving the quality of life for marginalized communities.\n\nDr. Thirumalai’s research career is significantly focused on user-centered design, ensuring that the technologies he develops are accessible, inclusive, and effective for the intended population. He directs a rehabilitation engineering research center focused on recreational and exercise technologies for people with disabilities through which multiple interventions are designed and delivered. Dr. Thirumalai leads a participatory research project utilizing advanced technologies, including Large Language Models (LLMs), to analyze clinical trial records and monitor the inclusion of people with disabilities (PWD) in research. The project develops an innovative dashboard that combines AI-driven quantitative data analysis with qualitative insights to identify trends, address barriers, and promote equitable participation of PWD in clinical trials. Through such initiatives, he is addressing critical gaps in healthcare access and creating sustainable models for health technology adoption.\n\nWith an extensive background in engineering and bioengineering, Dr. Thirumalai has applied his technical expertise to health research, publishing widely in leading journals and contributing to fields such as telerehabilitation, gamified health interventions, and behavioral health. His ability to bridge disciplines has enabled him to design innovative solutions, such as tele-exercise applications tailored for people with multiple sclerosis and interactive systems to promote cancer prevention in rural communities. By scaling these interventions, Dr. Thirumalai has demonstrated his commitment to creating a broader societal impact through technology-driven healthcare by combining health, technology, and community engagement to inspire transformative changes in healthcare delivery, particularly for underserved populations.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3623-mohanraj-thirumalai",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Library and Information Studies",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Informatics",
+          "Informatics"
+        ],
+        "value": "Health Informatics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Artificial Intelligence and Image Processing",
+          "Intelligence and Image Processing",
+          "and Image Processing",
+          "Image Processing",
+          "Processing"
+        ],
+        "value": "Artificial Intelligence and Image Processing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Specialist Studies in Education",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Special Education and Disability",
+          "Education and Disability",
+          "and Disability",
+          "Disability"
+        ],
+        "value": "Special Education and Disability"
+      }
+    ]
+  },
+  "discoveryId": "3623",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 104,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mohanraj",
+  "firstNameLastName": "Mohanraj Thirumalai",
+  "equipmentLinkTypes": [],
+  "objectId": 3623,
+  "updatedWhen": "2025-05-10T08:09:49.3510695-05:00",
+  "hasCollaborationData": true,
+  "email": "mohanraj@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Nutrition Physical Activity Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Prevention Rehabilitation Social Determinants of Health Spinal Cord Injury Telehealth Traumatic Head and Spine Injury",
+  "grant_keywords": "Behavioral and Social Science Bioengineering Clinical Research Clinical Trials and Supportive Activities Diabetes Health Disparities Health Services Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Nutrition Physical Activity Physical Rehabilitation Prevention Rehabilitation Rural Health Social Determinants of Health Telehealth"
+}

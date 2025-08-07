@@ -1,0 +1,126 @@
+{
+  "discoveryId": "452",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 46,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 100,
+      "favourites": 0
+    }
+  },
+  "lastName": "Durant",
+  "firstName": "Raegan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "452-raegan-durant",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Raegan Durant",
+  "equipmentLinkTypes": [],
+  "objectId": 452,
+  "updatedWhen": "2025-05-10T08:03:12.8367235-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rdurant@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cardiovascular Clinical Research Health Services Heart Disease Prevention Women's Health",
+  "grant_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Heart Disease Minority Health Pain Research Rural Health Social Determinants of Health"
+}

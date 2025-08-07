@@ -1,0 +1,120 @@
+{
+  "discoveryId": "1200",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 85,
+      "favourites": 0
+    }
+  },
+  "lastName": "Warram",
+  "firstName": "Jason",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1200-jason-warram",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Otolaryngology"
+    }
+  ],
+  "firstNameLastName": "Jason Warram",
+  "equipmentLinkTypes": [],
+  "objectId": 1200,
+  "updatedWhen": "2025-05-10T08:04:55.7260837-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mojack@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Biotechnology Brain Cancer Brain Disorders Cancer Clinical Research Dental/Oral and Craniofacial Disease Digestive Diseases Gene Therapy Genetics Immunization Immunotherapy Neurosciences Orphan Drug Patient Safety Rare Diseases Vaccine Related",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Health Disparities Minority Health Patient Safety Radiation Oncology Rare Diseases"
+}

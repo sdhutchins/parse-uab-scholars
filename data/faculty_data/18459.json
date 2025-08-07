@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18459",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 110,
+      "favourites": 0
+    }
+  },
+  "lastName": "Alonge",
+  "firstName": "Olakunle",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18459-olakunle-alonge",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "firstNameLastName": "Olakunle Alonge",
+  "equipmentLinkTypes": [],
+  "objectId": 18459,
+  "updatedWhen": "2025-05-10T08:19:25.2880160-05:00",
+  "hasCollaborationData": false,
+  "email": "oalonge@uab.edu",
+  "publication_keywords": "Cancer Clinical Research Contraception/Reproduction Dissemination and Implementation Research Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Kidney Disease Minority Health Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases Vaccine Related",
+  "grant_keywords": ""
+}

@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2566",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 127,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hutchings",
+  "firstName": "John",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2566-john-hutchings",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "English"
+    }
+  ],
+  "suffix": "Jr",
+  "firstNameLastName": "John Hutchings",
+  "equipmentLinkTypes": [],
+  "objectId": 2566,
+  "updatedWhen": "2025-05-10T08:07:50.5623651-05:00",
+  "hasCollaborationData": false,
+  "email": "hutching@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

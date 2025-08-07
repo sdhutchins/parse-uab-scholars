@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2549",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 101,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bacha",
+  "firstName": "Jeffrey",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2549-jeffrey-bacha",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Jeffrey Bacha",
+  "equipmentLinkTypes": [],
+  "objectId": 2549,
+  "updatedWhen": "2025-05-10T08:07:50.5613086-05:00",
+  "hasCollaborationData": false,
+  "email": "jbacha@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

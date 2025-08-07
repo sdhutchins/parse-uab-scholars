@@ -1,0 +1,44 @@
+{
+  "discoveryId": "4356",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 88,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Martin",
+  "firstName": "Kathleen",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4356-kathleen-martin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor Emeritus",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Kathleen Martin",
+  "equipmentLinkTypes": [],
+  "objectId": 4356,
+  "updatedWhen": "2025-05-10T08:11:00.2778419-05:00",
+  "hasCollaborationData": false,
+  "email": "kathmart@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

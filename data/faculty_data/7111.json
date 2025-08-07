@@ -1,0 +1,125 @@
+{
+  "lastName": "Edwards",
+  "overview": "Dr Edwards serves as Director of Bioinformatics. Dr Edwards has 25 years of leadership experience in Bioinformatics research and development in world renowned medical research organizations such as the NIH National Cancer Institute, Bethesda, Maryland, US and the Medical Research Council, England, UK. Dr Edwards has expertise in the application of next-generation sequencing technologies to study genetic variation in human health and disease at the genome, transcriptome, and proteome levels. Dr Edwards has a track record of making highly recognized research contributions and enabling next generation sequencing technologies to support clinical research to study various types of cancers, (pancreatic, ovarian, breast, melanoma, renal, colorectal, cervical), and other complex medical conditions such as Cystic Fibrosis, COPD, Cystic Kidney Disease, metabolic syndromes, deafness syndromes and HIV infectious disease. Dr Edwards is a scientific contributor of approximately 60 peer-reviewed PubMed publications and has co-authored an additional 60 book reviews, book chapters, conference abstracts and presentations. Dr Edwards serves as Associate Editor and Editorial Board member for Briefings in Bioinformatics ranked #1 for Mathematical and Computational Biology and #3 for Biochemical Research Methods (Impact Factor 13.99, 2021).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7111-yvonne-edwards",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "7111",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 70,
+      "favourites": 0
+    }
+  },
+  "firstName": "Yvonne",
+  "firstNameLastName": "Yvonne Edwards",
+  "equipmentLinkTypes": [],
+  "objectId": 7111,
+  "updatedWhen": "2025-05-10T08:14:10.3260608-05:00",
+  "hasCollaborationData": true,
+  "email": "yedwards@uab.edu",
+  "publication_keywords": "Biotechnology Breast Cancer Cancer Clinical Research Congenital Structural Anomalies Cystic Fibrosis Digestive Diseases Genetics Kidney Disease Lung Orphan Drug Pancreatic Cancer Pediatric Pediatric Research Initiative Polycystic Kidney Disease Rare Diseases Women's Health",
+  "grant_keywords": "Autoimmune Disease Crohn's Disease Digestive Diseases Inflammatory Bowel Disease Microbiome Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Non-Human"
+}

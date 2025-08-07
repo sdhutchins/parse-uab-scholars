@@ -1,0 +1,146 @@
+{
+  "lastName": "Calix",
+  "overview": "Dr. Juan Jose Calix obtained his Bachelor of Science Degree from Loyola University New Orleans in 2005. After working a year in Hurricane Katrina relief efforts, he earned his MD and PhD in Microbiology from the Medical Scientist Training Program at the University of Alabama at Birmingham (UAB) between 2006-2014. He performed his doctoral thesis work in the laboratory of Moon Nahm, MD with the support of a NIAID F31 Fellowship. He subsequently joined the Physician Scientist Training Program at Washington University in St. Louis (WUSTL) to complete his Internal Medicine residency and Infectious Diseases fellowship, during which he worked in the laboratories of Mario Feldman, PhD (2017-2019) and then Gautam Dantas, PhD (2019-2021).  In August 2021, he returned to UAB as Assistant Professor in the Division of Infectious Diseases and the Division of Pulmonology/Allergy/Critical Care and opened the Calix Lab. His NIAID-funded research takes pre-clinical and translational approaches to investigate the link between microbial surface glycans and the propagation of bacterial pathogens among at-risk hosts.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17147-juan-calix",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "suffix": "Jr.",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Infectious Diseases",
+          "Diseases"
+        ],
+        "value": "Infectious Diseases"
+      },
+      {
+        "paths": [
+          [
+            "Microbiology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbial Genetics",
+          "Genetics"
+        ],
+        "value": "Microbial Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Population, Ecological and Evolutionary Genetics",
+          "Ecological and Evolutionary Genetics",
+          "and Evolutionary Genetics",
+          "Evolutionary Genetics",
+          "Genetics"
+        ],
+        "value": "Population, Ecological and Evolutionary Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Structural Biology (incl. Macromolecular Modelling)",
+          "Biology (incl. Macromolecular Modelling)",
+          "(incl. Macromolecular Modelling)",
+          "Macromolecular Modelling)",
+          "Modelling)"
+        ],
+        "value": "Structural Biology (incl. Macromolecular Modelling)"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "17147",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 26,
+      "favourites": 0
+    }
+  },
+  "firstName": "Juan",
+  "firstNameLastName": "Juan Calix",
+  "equipmentLinkTypes": [],
+  "objectId": 17147,
+  "updatedWhen": "2025-05-10T08:17:09.0363365-05:00",
+  "hasCollaborationData": true,
+  "email": "jjcalix@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Biotechnology Emerging Infectious Diseases Genetics Immunization Infectious Diseases Lung Pneumonia Pneumonia & Influenza Prevention Vaccine Related",
+  "grant_keywords": "Biotechnology Clinical Research Immunization Infectious Diseases Lung Pneumonia Pneumonia & Influenza Prevention Urologic Diseases Vaccine Related"
+}

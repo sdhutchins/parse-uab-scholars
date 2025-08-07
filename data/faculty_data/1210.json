@@ -1,0 +1,129 @@
+{
+  "lastName": "Rogers",
+  "overview": "Dr. David A. Rogers is a professor in the Departments of Surgery, Medical Education and Pediatrics and the Senior Associate Dean of Faculty Affairs and Professional Development in the School of Medicine at UAB.  He received his medical degree from the University of South Florida and completed his general surgery training at the Medical College of Georgia. He subsequently completed his pediatric general surgery training at the University of Tennessee and a pediatric surgery oncology fellowship at St. Jude Children's Research Hospital. He received a Master of Health Professions Education degree (MHPE) from the University of Illinois at Chicago and has also completed the Surgical Education Research Fellowship program sponsored by the Association for Surgical Education. Dr. Rogers has an ongoing educational research program focused on the role of education in improving surgeon conflict management in the operating room.\n\nOutside of his research and clinical activities, Dr. Rogers has served in a number of educational administrative roles and is currently the Course Chair of the American College of Surgeon’s Resident as Teachers and Leaders course. A recipient of numerous department and institutional teaching awards, Dr. Rogers is a 2012 recipient of an Association for Surgical Education Distinguished Educator Award.\n\nDr. Rogers came to UAB in 2012 from the Southern Illinois University School of Medicine where he was professor of surgery and pediatrics. In his role at UAB, Dr. Rogers is responsible for helping faculty physicians and scientists successfully meet their individual professional goals and helping UAB attract and retain the highest caliber educators, clinicians and researchers. He is also co-director of the UAB Healthcare Leadership Academy.\n\nIn his non-academic life, he is married to Laura Rogers, M.D., M.P.H., an internist with a National Institutes of Health-funded program of research focused on exercise in oncology patients; she is a faculty member in UAB’s Department of Nutrition Sciences in UAB’s School of Health Professions. They have two adult sons, Andrew and Charles.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1210-david-rogers",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Senior Associate Dean",
+      "department": "Surgery - Pediatric"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Resources Engineering and Extractive Metallurgy",
+          "Engineering and Extractive Metallurgy",
+          "and Extractive Metallurgy",
+          "Extractive Metallurgy",
+          "Metallurgy"
+        ],
+        "value": "Resources Engineering and Extractive Metallurgy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "1210",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 115,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Rogers",
+  "equipmentLinkTypes": [],
+  "objectId": 1210,
+  "updatedWhen": "2025-05-11T20:58:37.3728037-05:00",
+  "hasCollaborationData": true,
+  "email": "darogers@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Health Services Mental Health",
+  "grant_keywords": ""
+}

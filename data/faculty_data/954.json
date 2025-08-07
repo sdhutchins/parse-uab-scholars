@@ -1,0 +1,127 @@
+{
+  "lastName": "Philips",
+  "hasThumbnail": true,
+  "discoveryUrlId": "954-joseph-philips",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Pediatrics",
+      "department": "Pediatric - Neonatology"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "954",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 104,
+      "favourites": 0
+    }
+  },
+  "firstName": "Joseph",
+  "firstNameLastName": "Joseph Philips",
+  "equipmentLinkTypes": [],
+  "objectId": 954,
+  "updatedWhen": "2025-05-10T08:04:23.0585538-05:00",
+  "hasCollaborationData": true,
+  "email": "jphilips@uab.edu",
+  "publication_keywords": "Brain Disorders Clinical Research Congenital Structural Anomalies Down Syndrome Eye Disease and Disorders of Vision Genetic Testing Genetics Infant Mortality Intellectual and Developmental Disabilities (IDD) Lung Neurodegenerative Neurosciences Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases",
+  "grant_keywords": ""
+}

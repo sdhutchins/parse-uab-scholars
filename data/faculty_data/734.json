@@ -1,0 +1,125 @@
+{
+  "lastName": "Nabors",
+  "overview": "Dr. Nabors, originally from Columbus, Mississippi, obtained his Bachelor of Science degree in Engineering from Mississippi State University in 1985. He then obtained his Medical Doctorate from the University of Tennessee in 1991.  Dr. Nabors was active in the United States Navy as a Flight Surgeon from 1992-95. Afterwards, he completed a Neuro-oncology fellowship at the University of Alabama at Birmingham in 2000 and is board certified with the American Board of Psychiatry and Neurology.  \n\nDr. Nabors is currently Professor and Vice-Chair of Research of Neurology and Director for the UAB Division of Neuro-oncology. He is an active participating member of the medical staff with the Neurology Service for UAB Hospital and an Associate Scientist in the Neuro-oncology Program at the UAB Comprehensive Cancer Center. He has secondary appointments with the Department of Biomedical Engineering and the Department of Cell Biology.  He is the Director of UAB’s Center for Clinical Translational Science’s Clinical Research Unit.\n\nDr. Nabors’ subspecialty is Neuro-Oncology, the main focus of which is the Comprehensive Cancer Center Neuro-Oncology Program, which consists of Neuro-oncology, Neurosurgery, Radiation Oncology, Neuropathology, Research Scientists, Nurse Practitioners, and Neuropsychologists.  \n\nMedical therapy is an integral part of treatment for patients with brain tumors and includes conventional chemotherapy as well as the use of novel, experimental therapies that are designed to destroy tumors that cannot be removed by surgery or radiation therapy. Dr. Nabors oversees this part of the treatment plan for patients with brain tumors. In addition, he takes care of the medical and neurologic problems that many patients with brain tumors develop, including seizures, infections, and emotional problems.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "734-louis-nabors",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "734",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 154,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 218,
+      "favourites": 0
+    }
+  },
+  "firstName": "Louis",
+  "firstNameLastName": "Louis Nabors",
+  "equipmentLinkTypes": [],
+  "objectId": 734,
+  "updatedWhen": "2025-05-10T08:04:02.4617378-05:00",
+  "hasCollaborationData": true,
+  "email": "bnabors@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Brain Cancer Brain Disorders Cancer Clinical Research Genetics Health Disparities Human Genome Minority Health Neurodegenerative Neurosciences Orphan Drug Physical Injury - Accidents and Adverse Effects Radiation Oncology Rare Diseases Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

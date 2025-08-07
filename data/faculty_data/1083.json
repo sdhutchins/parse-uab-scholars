@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1083",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 127,
+      "favourites": 0
+    }
+  },
+  "lastName": "Chen",
+  "firstName": "Yu-Ying",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1083-yuying-chen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Physical Medicine & Rehabilitation"
+    }
+  ],
+  "firstNameLastName": "Yu-Ying Chen",
+  "equipmentLinkTypes": [],
+  "objectId": 1083,
+  "updatedWhen": "2025-05-10T08:04:44.6167249-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "yychen@uab.edu",
+  "publication_keywords": "Childhood Injury Clinical Research Maternal Health Neurodegenerative Neurosciences Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Physical Injury - Accidents and Adverse Effects Pregnancy Preterm, Low Birth Weight and Health of the Newborn Spinal Cord Injury Traumatic Head and Spine Injury Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Rehabilitation Spinal Cord Injury Traumatic Head and Spine Injury"
+}

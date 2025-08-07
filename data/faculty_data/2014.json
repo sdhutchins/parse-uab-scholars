@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2014",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Elgavish",
+  "firstName": "Gabriel",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2014-gabriel-elgavish",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Gabriel Elgavish",
+  "equipmentLinkTypes": [],
+  "objectId": 2014,
+  "updatedWhen": "2025-05-10T08:06:24.5349437-05:00",
+  "hasCollaborationData": false,
+  "email": "gabi@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

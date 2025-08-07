@@ -1,0 +1,45 @@
+{
+  "discoveryId": "272",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "DeLaney",
+  "overview": "With a heart for healing, Dr. DeLaney has always been drawn to those that are suffering.  This is what led her to medicine and specifically family medicine.  Born and raised along the Gulf Coast of Alabama, Dr. DeLaney remained local for most of her early training.  She received her bachelors of science from Spring Hill College.  Then, received her medical degree from the University of South Alabama.  From coast to coast, she then moved to Portland, ME to complete her family medicine residency at Maine Medical Center.  There, she worked in the community in private practice for a year as a board-certified family physician, and also served as the physician leader for a community outreach program and a residency preceptor.   She returned to Alabama and became an assistant professor in the department of Family & Community Medicine in 2013, and has been there since.  She sees patients in the busy outpatient practice at UAB Highlands and precepts medical students.  She also serves as the medical director and medical quality officer for UAB Family & Community Medicine – Highlands.  \nShe is interested in keeping her community healthy with preventative medicine, which she believes will help all reach their full potential.  Family Medicine is the perfect avenue for this.  She feels privileged to be a part of peoples’ lives as a family physician and truly enjoys her relationships with her patients.  As medical director, she strives for an improved practice and delivery of medicine for both patients and medical providers.   She continues to enjoy a focus in women’s health, dermatologic procedures and management of chronic illness.  \nIn her time off, she enjoys spending time with her husband and two young daughters.  She also enjoys travel, reading, gardening, water activities, outside adventures and the ballet.",
+  "firstName": "Erin",
+  "hasThumbnail": true,
+  "discoveryUrlId": "272-erin-delaney",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Family & Community Medicine"
+    }
+  ],
+  "firstNameLastName": "Erin DeLaney",
+  "equipmentLinkTypes": [],
+  "objectId": 272,
+  "updatedWhen": "2025-05-10T08:02:47.5138719-05:00",
+  "hasCollaborationData": false,
+  "email": "edelaney@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Prevention Rural Health Social Determinants of Health"
+}

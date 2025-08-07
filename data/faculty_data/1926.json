@@ -1,0 +1,125 @@
+{
+  "discoveryId": "1926",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 154,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 101,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1191,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cutter",
+  "firstName": "Gary",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1926-gary-cutter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Gary Cutter",
+  "equipmentLinkTypes": [],
+  "objectId": 1926,
+  "updatedWhen": "2025-05-10T19:54:32.2807745-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cutterg@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Behavioral and Social Science Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Coronaviruses Cost Effectiveness Research Dissemination and Implementation Research Emerging Infectious Diseases Health Services Infectious Diseases Multiple Sclerosis Neurodegenerative Neurosciences",
+  "grant_keywords": "Behavioral and Social Science Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Cost Effectiveness Research Health Disparities Health Services Lung Networking and Information Technology R&D (NITRD) Patient Safety Physical Activity Physical Rehabilitation Rehabilitation Rural Health Social Determinants of Health Telehealth"
+}

@@ -1,0 +1,126 @@
+{
+  "lastName": "Agarwal",
+  "overview": "Dr. Anupam Agarwal is Senior Vice President for Medicine and Dean, Heersink School of Medicine at the University of Alabama at Birmingham (UAB). He served as Executive Vice Dean for the Heeersink School of Medicine (2014-2022) and served as the Director for the Division of Nephrology from Jan 1, 2008 to Sept 30, 2021. He also serves as the Program Director of the NIH/NIDDK funded O’Brien Center for Acute Kidney Injury Research. He has graduate faculty status in the Departments of Biochemistry and Molecular Genetics, Pathology and Cell, Developmental and Integrative Biology at UAB.\n\nDr. Agarwal has an active role in clinical medicine, teaching, research and administration. He is intensively involved in the teaching of medical students, internal medicine house staff and nephrology fellows and has been a recipient of Outstanding Teaching Awards from the Department of Medicine at the University of Florida (2003) as well as at UAB (2005, 2007). Dr. Agarwal has been responsible for the training of 23 pre- and 23 post-doctoral fellows in his laboratory, several of whom have been successful in obtaining post-doctoral fellowships from the American Heart Association and the National Kidney Foundation and have continued to pursue active academic careers.\n\nDr. Agarwal’s research program has provided critical insights regarding the protective nature and significance of heme oxygenase-1 (HO-1) in vascular and renal inflammation, and the molecular regulation of the human HO-1 gene. In collaboration with Dr. James George, his laboratory is also studying macrophage subpopulations in the kidney during acute kidney injury.  Through VA funding, his laboratory is also exploring the mechanisms of lymphangiogenesis in acute kidney injury. His bibliography includes >200 peer-reviewed papers and >50 invited reviews/book chapters, the former appearing in journals such as the Journal of Clinical Investigation, Journal of Experimental Medicine, Proceedings of the National Academy of Sciences, Journal of Biological Chemistry, Circulation, Circulation Research, Journal of the American Society of Nephrology, American Journal of Pathology as well as others. He has been recognized by the Max Cooper award for excellence in research, the Thomas Andreoli Professorship in Nephrology, election to membership in the American Society of Clinical Investigation (ASCI), American Clinical and Climatological Association (ACCA), Association of American Physicians (AAP) the Marie S. Ingalls Endowed Chair in Nephrology leadership, a Dean’s Excellence award for leadership and the 2013 Graduate Dean’s Excellence in Mentorship award at UAB. He is the recipient of the UAB National Alumni Society Honorary Alumnus award and a Laureate Recipient for the Alabama Chapter of the American College of Physicians (2014).\n\nDr. Agarwal has been invited to present at national and international meetings including the Annual Gifford Symposium, American Society of Nephrology, International Society of Nephrology, International conferences on HO in Italy, Sweden and Krakow, International Biometals Congress in Germany, Dutch Society of Nephrology, National Eye Institute, a state-of-the-art lecture at the Southern Society for Clinical Investigation and several prestigious named lectureships. He has been recognized for his leadership by several awards including Young Investigator awards from the National Kidney Foundation, election to the Council of the Society for Free Radical Biology and Fellow of the American Heart Association’s Council on the Kidney in Cardiovascular Disease, his serving on national and international review panels and editorial boards of prestigious journals. Dr. Agarwal served as Chair, Organizing Committee for the 6th International Congress on Heme Oxygenases in 2009. He has served on the Program Committee of the American Society of Nephrology (ASN) and was the Chair of this committee for the 2013 Annual Meeting and served as an elected member of the ASN Council. He served as President of the ASN in 2020, during the height of the COVID-19 pandemic and as subsequently served a two year term as Past President (2021 and 2022).\n\nDr. Agarwal enjoys golf, gardening and SEC college football. He plays Indian classical violin and enjoys attending the Alabama Symphony Orchestra.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "589-anupam-agarwal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Senior Vice President Medicine & Dean Heersink SOM",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "589",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 105,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 273,
+      "favourites": 0
+    }
+  },
+  "firstName": "Anupam",
+  "firstNameLastName": "Anupam Agarwal",
+  "equipmentLinkTypes": [],
+  "objectId": 589,
+  "updatedWhen": "2025-05-10T08:03:25.3682594-05:00",
+  "hasCollaborationData": true,
+  "email": "agarwal@uab.edu",
+  "publication_keywords": "Biodefense Duchenne/ Becker Muscular Dystrophy Genetics Human Genome Kidney Disease Muscular Dystrophy Orphan Drug Pediatric Research Initiative Physical Activity Physical Injury - Accidents and Adverse Effects Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Wound Healing and Care",
+  "grant_keywords": "Kidney Disease"
+}

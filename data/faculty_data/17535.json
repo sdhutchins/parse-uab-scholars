@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17535",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "lastName": "Marsiglia",
+  "firstName": "William",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17535-william-marsiglia",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "firstNameLastName": "William Marsiglia",
+  "equipmentLinkTypes": [],
+  "objectId": 17535,
+  "updatedWhen": "2025-05-10T08:17:51.4791022-05:00",
+  "hasCollaborationData": false,
+  "email": "wmmarsig@uab.edu",
+  "publication_keywords": "Breast Cancer Cancer Women's Health",
+  "grant_keywords": ""
+}

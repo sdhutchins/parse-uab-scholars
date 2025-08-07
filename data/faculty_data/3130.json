@@ -1,0 +1,73 @@
+{
+  "lastName": "Swetz",
+  "overview": "Dr. Keith M. Swetz is a Professor of Medicine at the UAB Heersink School of Medicine. He previously served Medical Director of UAB Medicine’s Supportive Care Clinic. He works as an ad hoc attending physician at UAB Hospital in the UAB Palliative Care and Comfort Unit.\n\nDr. Swetz received his M.D. degree from the Penn State College of Medicine in Hershey, Pennsylvania in 2003. He completed his internal medicine residency at the Mayo Clinic, Rochester, Minnesota and a Hospice and Palliative Medicine fellowship at the Virginia Commonwealth University in Richmond, Virginia.  Dr. Swetz also earned a Master of Arts degree in Bioethics and Health Policy from Loyola University Chicago in 2012.  \n\nHe has a passion optimizing care of patients with multimorbidity in the community and aiming to promote goal-concordant plans of care. Academically, Dr. Swetz has worked on promoting patient-centered, ethical decision making, particularly as it relates to complex treatments such as immunotherapy, inotropes, and artificial nutrition and hydration, and advanced medical technologies like cardiac devices and hemodialysis. He served as the Editor-in-Chief of the Journal of Palliative Care from 2018-2021 and has written over 140 peer-reviewed manuscripts and several book chapters and presented on these topics locally, regionally, nationally, and internationally.  Personally, he is the proud father of three daughters and two sons.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3130-keith-swetz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Ethics",
+          "Ethics"
+        ],
+        "value": "Applied Ethics"
+      }
+    ]
+  },
+  "discoveryId": "3130",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 236,
+      "favourites": 0
+    }
+  },
+  "firstName": "Keith",
+  "firstNameLastName": "Keith Swetz",
+  "equipmentLinkTypes": [],
+  "objectId": 3130,
+  "updatedWhen": "2025-05-10T08:08:52.9448643-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

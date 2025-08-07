@@ -1,0 +1,85 @@
+{
+  "lastName": "Kerley",
+  "overview": "Kent R. Kerley, PhD, is Professor and Chair in the Department of Criminal Justice at the University of Alabama at Birmingham (UAB). He earned a BA in Criminal Justice from East Tennessee State University and then MS and PhD in Sociology (Criminology concentration) from the University of Tennessee. Dr. Kerley’s primary research interests include corrections, religiosity, policing, and drug careers. His research has appeared in top journals such as Aggression and Violent Behavior, American Journal of Criminal Justice, Journal for the Scientific Study of Religion, Justice Quarterly, Social Forces, and Social Problems. He is author or editor of five books, including Policing and Program Evaluation (2005), Religious Faith in Correctional Contexts (2014), Current Studies in the Sociology of Religion (2015), Finding Freedom in Confinement: The Role of Religion in Prison Life (2018) and Religion and Crime: Theory, Research, and Practice (2018). Dr. Kerley was Principal Investigator for two National Science Foundation grants used to create a Research Experiences for Undergraduates (REU) program at UAB called Using the Social Sciences, Natural Sciences, and Mathematics to Study Crime (NSF Award # 1261322 and 1004953). He has also received research funding from Google and the Religious Research Association. His grants have totaled nearly $900,000.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2635-kent-kerley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Criminal Justice"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Religion and Religious Studies",
+          "and Religious Studies",
+          "Religious Studies",
+          "Studies"
+        ],
+        "value": "Religion and Religious Studies"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "2635",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 71,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kent",
+  "firstNameLastName": "Kent Kerley",
+  "equipmentLinkTypes": [],
+  "objectId": 2635,
+  "updatedWhen": "2025-05-10T08:08:00.9096787-05:00",
+  "hasCollaborationData": true,
+  "email": "krkerley@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Drug Abuse (NIDA only) Harm Reduction for Substance Misuse Mental Health Opioid Misuse and Addiction Opioids Prescription Drug Abuse Prevention Social Determinants of Health Substance Misuse Violence Against Women Violence Research Women's Health",
+  "grant_keywords": "Behavioral and Social Science"
+}

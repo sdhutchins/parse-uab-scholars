@@ -1,0 +1,75 @@
+{
+  "discoveryId": "5699",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 48,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 34,
+      "favourites": 0
+    }
+  },
+  "lastName": "Caffrey",
+  "firstName": "Emily",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5699-emily-caffrey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Physics"
+    }
+  ],
+  "firstNameLastName": "Emily Caffrey",
+  "equipmentLinkTypes": [],
+  "objectId": 5699,
+  "updatedWhen": "2025-05-10T08:12:30.2143031-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "emilycaf@uab.edu",
+  "publication_keywords": "Bioengineering Cardiovascular",
+  "grant_keywords": ""
+}

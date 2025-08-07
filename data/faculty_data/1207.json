@@ -1,0 +1,128 @@
+{
+  "lastName": "Chen",
+  "overview": "Dr. Mike Chen attended University of Texas and UT Health Sciences Center in Houston. He trained in general surgery at University of Florida. He completed fellowships in Transplantation and then Pediatric Surgery. He was on faculty at UMDNJ-Camden from 1996-2000. He joined the faculty at UF in Gainesville from 2000-2009. He was recruited to UAB in September, 2009. He is the Director of the Division of Pediatric Surgery and Surgeon-in-Chief of the Children’s Hospital. His focus is on providing the best clinical care possible for infants and children and to inspire young surgeons to do the same. He has a strong interest in education and mentorship.\n\nDr. Chen’s clinical interests include all aspects of pediatric surgery with particular focus in anorectal malformation, Hirschsprung’s disease, bowel management, congenital anomalies, thoracic defects and minimal invasive surgery. He is also engaged in a prospective study on adolescent bariatric surgery.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1207-mike-chen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - Pediatric"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "1207",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 64,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 140,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mike",
+  "firstNameLastName": "Mike Chen",
+  "equipmentLinkTypes": [],
+  "objectId": 1207,
+  "updatedWhen": "2025-05-10T08:04:55.7260837-05:00",
+  "hasCollaborationData": true,
+  "email": "mkschen@uab.edu",
+  "publication_keywords": "Childhood Injury Clinical Research Clinical Trials and Supportive Activities Congenital Structural Anomalies Coronaviruses Coronaviruses Disparities and At-Risk Populations Digestive Diseases Firearms Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Patient Safety Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Physical Injury - Accidents and Adverse Effects Rare Diseases Social Determinants of Health Unintentional Childhood Injury",
+  "grant_keywords": ""
+}

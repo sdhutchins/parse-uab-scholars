@@ -1,0 +1,120 @@
+{
+  "lastName": "Watts",
+  "overview": "Dr. Stephen Watts began his career in aquatic science in the 9th grade, when he became enthusiastically interested in all things aquatic. Having completed degrees in marine and aquatic biology, he joined UAB in 1987, and has developed a strong program in aquatic and marine science. His interests include basic science, as well as applied science (aquaculture) and subsequently medical application of aquatic animal models.\n\nHe is widely known as an expert in aquatic nutrition science, and has published over 150 articles in the field. He currently teaches Cellular Biology to juniors and seniors at UAB. He is the only faculty at UAB to win the prestigious Caroline and Charles P. Ireland Award for Scholarly Distinction, the Presidential Award for Teaching, and the Graduate Dean’s Award for Outstanding Mentorship.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2508-stephen-watts",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2508",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 301,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 157,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stephen",
+  "firstNameLastName": "Stephen Watts",
+  "equipmentLinkTypes": [],
+  "objectId": 2508,
+  "updatedWhen": "2025-05-10T08:07:39.4019277-05:00",
+  "hasCollaborationData": true,
+  "email": "sawatts@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Chronic Pain Depression Digestive Diseases Genetics Human Genome Mental Health Mental Illness Microbiome Mind and Body Neurosciences Nutrition Pain Research Pediatric Women's Health",
+  "grant_keywords": ""
+}

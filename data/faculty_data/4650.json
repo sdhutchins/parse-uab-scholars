@@ -1,0 +1,83 @@
+{
+  "discoveryId": "4650",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 55,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Braswell",
+  "firstName": "Mary",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4650-mary-braswell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Mary Braswell",
+  "equipmentLinkTypes": [],
+  "objectId": 4650,
+  "updatedWhen": "2025-05-10T08:11:25.1777182-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Literary Studies",
+          "Studies"
+        ],
+        "value": "Literary Studies"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Language Studies",
+          "Studies"
+        ],
+        "value": "Language Studies"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Linguistics"
+        ],
+        "value": "Linguistics"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "mfbras@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

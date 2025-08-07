@@ -1,0 +1,123 @@
+{
+  "lastName": "Liu",
+  "overview": "Dr. Liu graduated from China Medical University with a D.M.D. degree in 1994 and from Wuhan University with a Ph.D. degree in 1999. He received postdoctoral training in the Medical College of Georgia and the University of Alabama at Birmingham through 2003. Dr. Liu worked as a Research Associate from 2003-2006 in the Department of Cell Biology at University of Alabama at Birmingham. He was appointed as Assistant Professor in the Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine in 2006 and was promoted to Associate Professor in 2012.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "653-gang-liu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "653",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 165,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gang",
+  "firstNameLastName": "Gang Liu",
+  "equipmentLinkTypes": [],
+  "objectId": 653,
+  "updatedWhen": "2025-05-10T08:03:37.9323069-05:00",
+  "hasCollaborationData": true,
+  "email": "gliu@uab.edu",
+  "publication_keywords": "Lung Neurodegenerative Neurosciences Pulmonary Fibrosis",
+  "grant_keywords": "Biotechnology Clinical Research Cystic Fibrosis Genetics Lung Orphan Drug Rare Diseases Women's Health"
+}

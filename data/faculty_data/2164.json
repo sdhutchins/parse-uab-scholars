@@ -1,0 +1,110 @@
+{
+  "discoveryId": "2164",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 76,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 13,
+      "favourites": 0
+    }
+  },
+  "lastName": "Coric",
+  "firstName": "Tatjana",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2164-tatjana-coric",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept of Medical Education"
+    }
+  ],
+  "firstNameLastName": "Tatjana Coric",
+  "equipmentLinkTypes": [],
+  "objectId": 2164,
+  "updatedWhen": "2025-05-10T08:06:50.7368340-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "tcoric@uab.edu",
+  "publication_keywords": "Biotechnology Brain Disorders Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Cystic Fibrosis Diabetes Digestive Diseases Estrogen Genetics Human Genome Kidney Disease Liver Disease Lung Neurosciences Nutrition Obesity Orphan Drug Pancreatic Cancer Pediatric Research Initiative Prevention Rare Diseases Tuberous Sclerosis Women's Health",
+  "grant_keywords": "Aging Biotechnology Breast Cancer Cancer Estrogen Genetics Nutrition Obesity Prevention Women's Health"
+}

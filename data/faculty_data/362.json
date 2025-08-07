@@ -1,0 +1,124 @@
+{
+  "lastName": "Perry",
+  "overview": "Vice Director for Clinical Services, Division of Cardiovascular Diseases, UAB.  Oversee, organize and direct all clinical activities in the division of cardiology,  oversee divisional quality and safety activities, and assist in faculty recruitment.  \nGeneral cardiologist with interest in heart failure, valvular heart disease, hypertension, primary and secondary prevention of coronary artery disease.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "362-gilbert-perry",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "362",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 64,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gilbert",
+  "firstNameLastName": "Gilbert Perry",
+  "equipmentLinkTypes": [],
+  "objectId": 362,
+  "updatedWhen": "2025-05-10T08:03:00.7790941-05:00",
+  "hasCollaborationData": true,
+  "email": "perry@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Bioengineering Biomedical Imaging Cardiovascular Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Lung Minority Health Organ Transplantation Patient Safety Rare Diseases Social Determinants of Health Transplantation",
+  "grant_keywords": ""
+}

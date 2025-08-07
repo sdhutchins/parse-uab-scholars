@@ -1,0 +1,128 @@
+{
+  "lastName": "Niranjan",
+  "overview": "Dr. Soumya Niranjan is an Associate Professor of Health Professions in the Department of Health Services Administration at the University of Alabama at Birmingham (UAB). She completed her undergraduate degree in Pharmacy at the Rajiv Gandhi University of Health Sciences (India) and doctoral degree in Medical Sociology from UAB. She also completed a Master’s of Science in Clinical Investigation Sciences from University of Louisville, Kentucky. \n\nDr. Niranjan’s research interests include inequities in cancer / chronic respiratory diseases' care and outcomes. Her work covers the socio-behavioral aspects of  shared decision-making of treatment options and end of life care in patients with cancer. Additionally, she is particularly interested in understanding key contributory factors for these disparities and shaping policies that improve patient health outcomes in underserved / minoritized communities.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6540-soumya-niranjan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "6540",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 48,
+      "favourites": 2
+    }
+  },
+  "firstName": "Soumya",
+  "firstNameLastName": "Soumya Niranjan",
+  "equipmentLinkTypes": [],
+  "objectId": 6540,
+  "updatedWhen": "2025-05-10T08:13:23.4023524-05:00",
+  "hasCollaborationData": true,
+  "email": "soumya14@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Biomedical Imaging Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Lung Lung Cancer Minority Health Multiple Sclerosis Neurodegenerative Neurosciences Physical Activity Prevention Rural Health Social Determinants of Health Tobacco Tobacco Smoke and Health Women's Health",
+  "grant_keywords": "Cancer Health Disparities Minority Health Rural Health"
+}

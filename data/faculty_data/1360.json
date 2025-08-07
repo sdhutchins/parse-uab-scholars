@@ -1,0 +1,122 @@
+{
+  "lastName": "Morlandt",
+  "overview": "Anthony Morlandt, M.D., D.D.S., FACS\nDr. Morlandt was born and raised in Floresville, Texas and graduated from Baylor University.  He completed his DDS magna cum laude at the University of Texas Health Sciences Center in San Antonio, Texas, and received his MD and internship and residency in Oral and Maxillofacial Surgery from the University of Alabama School of Medicine.  Dr. Morlandt then went on to complete a fellowship in head and neck oncology and microsurgery at the University of Florida College of Medicine in Jacksonville, Florida.  He returned to Birmingham where he currently serves as Chief of the Section of Oral Oncology within the Department of Oral and Maxillofacial Surgery at UAB Medicine and is a full time academic head and neck surgeon.  He is Director of the Head and Neck Oncology Fellowship program at UAB.  Dr. Morlandt is an Associate Scientist in the Cancer Chemoprevention Program with the UAB Comprehensive Cancer Center.  In 2015, Dr. Morlandt received the AAOMS Faculty Educator Development Award and has been inducted into the American Head and Neck Society and is a Fellow of the American College of Surgeons.  He is a Diplomate of the American Board of Oral and Maxillofacial Surgery.\n\nDr. Morlandt specializes in oral oncology, head and neck microvascular surgery, and oral and maxillofacial surgery.  He has authored several peer-reviewed scientific articles and textbook chapters on head and neck ablative and reconstructive surgery.  He is particularly interested in helping doctors and their staff identify head and neck cancers and in optimizing patient outcomes following major head and neck surgery.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1360-anthony-morlandt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Oral & Maxillofacial Surgery"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "1360",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "firstName": "Anthony",
+  "firstNameLastName": "Anthony Morlandt",
+  "equipmentLinkTypes": [],
+  "objectId": 1360,
+  "updatedWhen": "2025-05-10T08:05:15.7722252-05:00",
+  "hasCollaborationData": true,
+  "email": "morlandt@uab.edu",
+  "publication_keywords": "Bioengineering Cancer Clinical Research Dental/Oral and Craniofacial Disease Digestive Diseases Orphan Drug Radiation Oncology Rare Diseases Rehabilitation Women's Health",
+  "grant_keywords": "Biomedical Imaging Cancer Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Health Disparities Minority Health Patient Safety Rare Diseases"
+}

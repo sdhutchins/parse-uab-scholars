@@ -1,0 +1,125 @@
+{
+  "lastName": "Rue",
+  "overview": "Dr. Loring W. Rue received his medical degree in 1983 at University of Virginia School of Medicine and went on to complete his postdoctoral training in general surgery at the University of Alabama at Birmingham Medical Center. Dr. Rue served as a staff surgeon in the U.S. Army Medical Corps at the Institute of Surgical Research at Fort Sam Houston, Texas, and was a burn team leader during the 1991 Gulf War. In 1992 Dr. Rue joined the faculty of the Department of Surgery at the UAB. He served as the director of the Division of Acute Care Surgery for 19 years before stepping down in 2014. In 1999 he founded, and continues to direct, the Center for Injury Sciences at UAB, which spearheads the department’s research and education missions in the field of trauma. He holds secondary appointments in the Department of Anesthesiology, the School of Public Health, and the School of Engineering. He has held several leadership positions in the past, including assistant chief of staff and interim chief of staff for UAB Hospital, as well as senior associate dean for clinical affairs in the UAB School of Medicine and vice chair for clinical affairs in the Department of Surgery. Additionally, he chaired the UAB Health System OR Executive Management Committee from 2005 to 2014. In 2013, Dr. Rue was appointed as the UAB Health System senior vice president for quality, patient safety and clinical effectiveness. The following year, he was named the first chief medical officer for the UAB Health System.\n\nDr. Rue’s clinical and research interests include trauma system development and outcomes as well as quality, patient safety, and clinical and operational effectiveness.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1132-loring-rue",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Surgery - General Surgery Trauma Section"
+    }
+  ],
+  "suffix": "III",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1132",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 68,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 238,
+      "favourites": 0
+    }
+  },
+  "firstName": "Loring",
+  "firstNameLastName": "Loring Rue",
+  "equipmentLinkTypes": [],
+  "objectId": 1132,
+  "updatedWhen": "2025-05-10T08:04:44.6507270-05:00",
+  "hasCollaborationData": true,
+  "email": "lrue@uab.edu",
+  "publication_keywords": "Clinical Research Health Services Infectious Diseases Lung Patient Safety Pneumonia Pneumonia & Influenza",
+  "grant_keywords": ""
+}

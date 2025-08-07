@@ -1,0 +1,121 @@
+{
+  "lastName": "Freedman",
+  "overview": "Citations (Scopus)=7,087; h-index=39. Cites to Zika papers=290 and to COVID papers=1,800\n\nDavid O. Freedman is Professor Emeritus of Infectious Diseases.  After spending 28 years as an Infectious Diseases faculty member at the University of Alabama at Birmingham and 15 years co-appointed as a Professor of Epidemiology in UAB’s School of Public Health, since 2016, Dr. David Freedman has been an Emeritus Professor and remained active on a full-time basis at UAB as well as in other spheres. He received a BSc (Hons) in Physiology from McGill and an MD from the University of Toronto, followed by training in Internal Medicine and Infectious diseases at McGill University and 5 years as a post-doc at the Laboratory of Parasitic Diseases, NIH. Over the last 35 years, Prof. Freedman has spent roughly 20% of his time overseas, where he has conducted translational research, taught, and developed sentinel surveillance networks and multi-sectorial partnerships in the governmental, diplomatic, military, and private sectors.  In recent years he has spent most of his time editing and creating content for publications such as the Emerg. Infect. Dis. Journal, J. Travel Med, Travax, and the Sanford Guide.\n\nHe founded the UAB Travelers Health Clinic in 1989. He is Past-President, Clinical Group American Society of Tropical Medicine and Hygiene (ASTMH) and Past Secretary-Treasurer of the International Society of Travel Medicine (ISTM). He is an Editor of the Textbook of Travel Medicine now in its 3rd Edition; Associate Editor, Emerging Infectious Diseases Journal and is on the Editorial Board of the Journal of Travel Medicine. For 20 years he was Director of the global GeoSentinel Surveillance Network which he co-founded and which maintains the largest database of ill travelers available. He founded and is now a Visiting Professor each year at the Gorgas Course in Clinical Tropical Medicine given annually in Peru. He is a co-author of the IDSA Clinical Practice Guidelines on Travel Medicine. His research focused on clinical tropical medicine and immuno-parasitology, including the development of surveillance networks to characterize infectious disease morbidity in travelers and migrants. He was a Member of the VA Merit Review Infectious Diseases Study Section (1997-2000), Chair of the Advisory Panel on Parasitic Diseases of the US Pharmacopeia (1995-2000), and a Councilor of the American Society of Tropical Medicine and Hygiene (1998-2002). Funded research projects have been completed in India, Guatemala, Ghana, Brazil, and Peru in addition to the 24 countries where GeoSentinel sites have been established.\n\nSelected Awards, Honors and Service:\n\nWorld Health Organization--Member, International Health Regulations (IHR) Emergency Committee on Zika Virus \nWorld Health Organization--Member, Roster of Experts, IHR \nHonorary University-Wide Professor, Universidad Peruana Cayetano Heredia, Lima Peru. Due to his longstanding and remarkable collaboration to the teaching and research activities at our institution.\nSir Macfarlane Burnet Oration. Australian Society of Infectious Diseases Annual Scientific Conference.\nHonor Award, National Center for Emerging and Zoonotic Infectious Diseases, CDC, Atlanta, Ga.  For the development of a worldwide network that has excelled in detecting and communicating  trends in travel-related morbidity\nJames H. Nakano Award. For an outstanding scientific paper published by CDC in 2006.  CDC, Atlanta, Ga.  \nAnnual listing in “Best Doctors in America” 2005-2021\nOswaldo Cruz Foundation Centennial Medal.  For outstanding contributions to the development of the Aggeu Magalhaes Research Institute, Recife Brazil\nPermanent Member, Merit Review Study Section, Infectious Diseases, Veterans Administration (1997-2000)\nPersian Gulf Expert Committee, (Chartered Committee; direct reporting to the Secretary), Department of Veterans Affairs, Washington, DC.  \nChair, Expert Advisory Panel on Parasitic Disease Therapy, United States Pharmacopeia (USP).  1995-2000",
+  "hasThumbnail": true,
+  "discoveryUrlId": "556-david-o-freedman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Tourism"
+        ],
+        "value": "Tourism"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      }
+    ]
+  },
+  "discoveryId": "556",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 167,
+      "favourites": 0
+    }
+  },
+  "firstName": "David O",
+  "firstNameLastName": "David O Freedman",
+  "equipmentLinkTypes": [],
+  "objectId": 556,
+  "updatedWhen": "2025-05-10T08:03:25.2935020-05:00",
+  "hasCollaborationData": true,
+  "email": "freedman@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emergency Care Emerging Infectious Diseases Health Services Immunization Infectious Diseases Orphan Drug Prevention Rare Diseases Vaccine Related Vector-Borne Diseases",
+  "grant_keywords": ""
+}

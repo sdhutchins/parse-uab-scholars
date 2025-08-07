@@ -1,0 +1,140 @@
+{
+  "lastName": "Dolby",
+  "overview": "Dr. Dolby is an evolutionary biologist who uses integrative statistics and multi-omic techniques to study how new species form on Earth",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17947-greer-dolby",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Molecular Evolution",
+          "Evolution"
+        ],
+        "value": "Molecular Evolution"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Population, Ecological and Evolutionary Genetics",
+          "Ecological and Evolutionary Genetics",
+          "and Evolutionary Genetics",
+          "Evolutionary Genetics",
+          "Genetics"
+        ],
+        "value": "Population, Ecological and Evolutionary Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Data Format",
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Coding and Information Theory",
+          "and Information Theory",
+          "Information Theory",
+          "Theory"
+        ],
+        "value": "Coding and Information Theory"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genomics"
+        ],
+        "value": "Genomics"
+      },
+      {
+        "paths": [
+          []
+        ],
+        "valueAnalysed": [
+          "Earth Sciences",
+          "Sciences"
+        ],
+        "value": "Earth Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Statistics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Statistics",
+          "Statistics"
+        ],
+        "value": "Applied Statistics"
+      }
+    ]
+  },
+  "discoveryId": "17947",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 32,
+      "favourites": 0
+    }
+  },
+  "firstName": "Greer",
+  "firstNameLastName": "Greer Dolby",
+  "equipmentLinkTypes": [],
+  "objectId": 17947,
+  "updatedWhen": "2025-05-10T08:18:27.5023412-05:00",
+  "hasCollaborationData": false,
+  "email": "gdolby@uab.edu",
+  "publication_keywords": "Biotechnology Contraception/Reproduction Genetics Human Genome",
+  "grant_keywords": ""
+}

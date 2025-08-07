@@ -1,0 +1,73 @@
+{
+  "discoveryId": "17082",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "lastName": "Lin",
+  "firstName": "Yu-Yin",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17082-yuyin-lin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "firstNameLastName": "Yu-Yin Lin",
+  "equipmentLinkTypes": [],
+  "objectId": 17082,
+  "updatedWhen": "2025-05-10T08:17:00.3158110-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "yuyin@uab.edu",
+  "publication_keywords": "Dental/Oral and Craniofacial Disease Infectious Diseases Prevention",
+  "grant_keywords": ""
+}

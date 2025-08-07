@@ -1,0 +1,128 @@
+{
+  "lastName": "Heslin",
+  "overview": "Dr. Martin J. Heslin, M.D. joined the faculty of UAB Department of Surgery, Division of Surgical Oncology in 1996, following completion of his Surgical Oncology Fellowship at Sloan-Kettering Hospital. He is the James P. Hayes, Jr., Endowed Professor in Gastrointestinal Oncology. \n\nHe has extensive training in hepatobiliary, pancreatic, and colorectal surgery. He has established a thriving gastrointestinal oncology practice which focuses primarily on neoplasms of the pancreas, stomach, colon and rectum. In 2001, Dr. Heslin was instrumental in the establishment of the UAB Inter disciplinary Gastrointestinal Oncology Center.\n\nDr. Heslin also serves as the Chief of Medical Staff. In the operating room and the clinic, Dr. Heslin is a key instructor and role model for medical students and house staff.\n\nHe is a reviewer of four professional journals, author or co-author on over 80 publications and 9 book chapters. He has been intermittently funded researcher with one current grant. He works with the Robert E. Reed Foundation to support research in GI cancers. The Reed Foundation has consistently supported research in the GI oncology lab for over 10 years.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1139-martin-heslin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Oncology Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "1139",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 259,
+      "favourites": 0
+    }
+  },
+  "firstName": "Martin",
+  "firstNameLastName": "Martin Heslin",
+  "equipmentLinkTypes": [],
+  "objectId": 1139,
+  "updatedWhen": "2025-05-10T08:04:55.6923438-05:00",
+  "hasCollaborationData": true,
+  "email": "martyh@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cancer Caregiving Research Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Orphan Drug Pancreatic Cancer Rare Diseases Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

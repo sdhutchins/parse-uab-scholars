@@ -1,0 +1,127 @@
+{
+  "lastName": "MacLennan",
+  "overview": "Dr. Paul MacLennan is an epidemiologist at the University of Alabama at Birmingham, where he is an Associate Professor of Surgery and Associate Director of Transplant Analytics, Informatics & Quality. His experience includes collaborations with researchers with diverse interests, including occupational exposures and mortality/cancer, health disparities, diabetes and vision, healthcare utilization, geriatric epidemiology, injury and trauma and solid organ transplantation. He currently serves as a study design and biostatistics expert in the UAB Center for Clinical and Translational Science, providing methodological consultations campus-wide to faculty, residents and students through the CCTS Biostatistics, Epidemiology and Research Design group. Over the course of his career, he has developed methodological expertise with all epidemiological study designs utilizing both primary and secondary data types from local and national sources for cross-sectional, retrospective, prospective, longitudinal and repeated measures data. In addition, MacLennan has expertise in data management and data linkages, methods for addressing missing data and advanced analyses using mathematical modeling for deriving measures of associations. Most recently, he has established an active collaboration with Dr. Jayme Locke, a UAB transplant surgeon-scientist, and coauthored more than 14 manuscripts with her over the past two years, consequently, enabling him to develop expertise in transplant outcomes. The pair's most recent collaboration has resulted in the development of a novel risk tool for potential kidney donors that incorporates APOL1 renal risk variants.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1128-paul-maclennan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - Transplantation"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1128",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 181,
+      "favourites": 0
+    }
+  },
+  "firstName": "Paul",
+  "firstNameLastName": "Paul MacLennan",
+  "equipmentLinkTypes": [],
+  "objectId": 1128,
+  "updatedWhen": "2025-05-10T08:04:44.6497275-05:00",
+  "hasCollaborationData": true,
+  "email": "maclennan@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Digestive Diseases HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Kidney Disease Liver Disease Minority Health Organ Transplantation Social Determinants of Health Substance Misuse Transplantation",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Genetics HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Kidney Disease Minority Health Nutrition Obesity Organ Transplantation Prevention Rural Health Sexually Transmitted Infections Social Determinants of Health Transplantation Women's Health"
+}

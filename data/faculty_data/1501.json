@@ -1,0 +1,122 @@
+{
+  "lastName": "Heaton",
+  "overview": "Dr. Karen Heaton’s program of research is primarily focused on the effects of sleep deprivation and obstructive sleep apnea on cognition and injury risk in workers. For example, she has been involved in projects that explored the impact of distraction and health issues on driving and driving performance issues among aging truck drivers, and self-assessment of driving performance compared to real-time simulated driving performance among truck drivers.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1501-karen-heaton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "1501",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 307,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 113,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 143,
+      "favourites": 0
+    }
+  },
+  "firstName": "Karen",
+  "firstNameLastName": "Karen Heaton",
+  "equipmentLinkTypes": [],
+  "objectId": 1501,
+  "updatedWhen": "2025-05-10T08:05:38.5081037-05:00",
+  "hasCollaborationData": true,
+  "email": "kharnp@uab.edu",
+  "publication_keywords": "Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Cardiovascular Clinical Research Emergency Care HIV/AIDS Health Effects of Indoor Air Pollution Health Services Infectious Diseases Lung Lung Cancer Mental Health Physical Injury - Accidents and Adverse Effects Post-Traumatic Stress Disorder (PTSD) Prevention Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,128 @@
+{
+  "lastName": "Evans",
+  "overview": "I have a broad background in health and physical activity, with training in health education, exercise science and nutrition. I have worked with school systems over the past 15 years to implement interventions to improve health and wellness among the student population. My research and resulting presentations and publications have focused primarily on youth and schools related to nutrition, physical activity and wellness. I have also assisted in the development of state policies outlining improvements in nutrition in schools. \n\nService\n\nService to the health education and health promotion profession is an important obligation to me. I have served as a board member of ASAHPERD and the Southern District of SHAPE America, which promotes the important work that school health educators and physical educators do everyday. I also serve on several sub-committees of SHAPE America, which serve the interests of health educators. I also volunteer my time as a member of the State Obesity Task Force and the Jefferson County Health Action Partnership. I have also volunteered time and served the YMCA, and Jones Valley Teaching Farms.\n\nPersonal\n\nAway from academia, I enjoy spending time with family and friends. I love to travel and also enjoy gardening, hiking and anything active and outdoors. I am an avid runner and teach group exercise at the UAB Recreation Center and YMCA.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2374-retta-evans",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Prof/Chairman Education 12 Mo",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      }
+    ]
+  },
+  "discoveryId": "2374",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 359,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 111,
+      "favourites": 1
+    }
+  },
+  "firstName": "Retta",
+  "firstNameLastName": "Retta Evans",
+  "equipmentLinkTypes": [],
+  "objectId": 2374,
+  "updatedWhen": "2025-05-10T08:07:28.8607172-05:00",
+  "hasCollaborationData": true,
+  "email": "rrevans@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Childhood Obesity Clinical Research Digestive Diseases Health Disparities Hearing Loss Mental Health Minority Health Nutrition Obesity Pediatric Prevention Social Determinants of Health Substance Misuse Underage Drinking Violence Research",
+  "grant_keywords": ""
+}

@@ -1,0 +1,127 @@
+{
+  "discoveryId": "2223",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 43,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 103,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 195,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bamman",
+  "firstName": "Marcas",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2223-marcas-bamman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "Marcas Bamman",
+  "equipmentLinkTypes": [],
+  "objectId": 2223,
+  "updatedWhen": "2025-05-10T08:07:03.7214455-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "mbamman@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Genetics Minority Health Neurodegenerative Neurosciences Nutrition Parkinson's Disease Physical Activity Prevention Women's Health",
+  "grant_keywords": "Biotechnology Cachexia Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Dietary Supplements Duchenne/ Becker Muscular Dystrophy Genetics Health Disparities Lung Minority Health Muscular Dystrophy Neurosciences Nutrition Orphan Drug Pediatric Prevention Rare Diseases"
+}

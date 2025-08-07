@@ -1,0 +1,121 @@
+{
+  "lastName": "Erdmann",
+  "overview": "Dr. Erdmann completed his MD/PhD at the University of Nebraska Medical Center. His research focused on understanding the mechanisms of HIV-mediated inflammation and neurotoxicity. He then joined the ABIM Research Pathway at UAB, completing his internship and residency before joining the Division of Infectious Disease as a fellow. He is now an Instructor of Medicine, and his research focuses on T cell responses in HIV under the mentorship of Dr. Paul Goepfert. Dr. Erdmann has described the role of CD4 T cells in controlling HIV infection through cytolytic activities.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3099-nathan-erdmann",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "3099",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 61,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 551,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nathan",
+  "firstNameLastName": "Nathan Erdmann",
+  "equipmentLinkTypes": [],
+  "objectId": 3099,
+  "updatedWhen": "2025-05-10T08:08:52.9268659-05:00",
+  "hasCollaborationData": true,
+  "email": "nerdmann@uab.edu",
+  "publication_keywords": "Cancer Chronic Pain Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Emerging Infectious Diseases Genetics HIV/AIDS Health Services Infectious Diseases Lung Lung Cancer Orphan Drug Pain Research Prevention Rare Diseases Tuberculosis",
+  "grant_keywords": ""
+}

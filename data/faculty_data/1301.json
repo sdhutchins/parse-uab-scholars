@@ -1,0 +1,109 @@
+{
+  "lastName": "Lawson",
+  "overview": "Dr. Lawson is a general dentist with a PhD in the field of bioengineering.  He conducts clinical and laboratory testing of dental materials, teaches and lectures internationally on clinical applications of dental materials, and works as a general dentist in the UAB Faculty Practice.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1301-nathaniel-lawson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biomaterials"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "1301",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 147,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 83,
+      "favourites": 0
+    }
+  },
+  "firstName": "Nathaniel",
+  "firstNameLastName": "Nathaniel Lawson",
+  "equipmentLinkTypes": [],
+  "objectId": 1301,
+  "updatedWhen": "2025-05-12T03:21:24.5918229-05:00",
+  "hasCollaborationData": true,
+  "email": "nlawson@uab.edu",
+  "publication_keywords": "Dental/Oral and Craniofacial Disease Infectious Diseases",
+  "grant_keywords": ""
+}

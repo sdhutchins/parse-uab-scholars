@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17387",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Alho Letra Martins Amini",
+  "firstName": "Catia Patricia",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17387-catia-patricia-alho-letra-martins-amini",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "firstNameLastName": "Catia Patricia Alho Letra Martins Amini",
+  "equipmentLinkTypes": [],
+  "objectId": 17387,
+  "updatedWhen": "2025-05-10T08:17:34.4163291-05:00",
+  "hasCollaborationData": false,
+  "email": "catia197@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

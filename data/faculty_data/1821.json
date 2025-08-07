@@ -1,0 +1,125 @@
+{
+  "lastName": "Weech-Maldonado",
+  "overview": "Robert Weech-Maldonado, MBA, PhD was appointed to the L.R. Jordan Endowed Chair in Health Administration in 2008 by the University of Alabama Board of Trustees. He is a Professor in the Department of Health Services Administration. Dr. Weech-Maldonado is a national authority in health disparities, cultural competency tools for healthcare organizations, racial and ethnic differences in patient experiences with care, and long-term care. Imparting this expertise to students, researchers and healthcare leaders may improve management’s ability to fully understand and better address challenges faced by racial/ethnic minorities and the elderly, possibly dramatically improving access and quality of care outcomes for these populations.\n\nAfter receiving his Ph.D. from Temple University in Philadelphia in 1998, Dr. Weech-Maldonado assumed appointments as Assistant Professor, the Pennsylvania State University and tenured Associate Professor, University of Florida prior to joining the UAB faculty in 2008. His extensive research activities include active participation and leadership on 24 federal, state and foundation research projects.\n\nSelect recent projects for which Dr. Weech-Maldonado has served as Principal Investigator:\n\n    Performance of High Medicaid Nursing Homes-Contextual and Management Factors, Agency for Healthcare Research and Quality\n    Development and Testing of the Patient Assessments of Cultural Competency Survey, Commonwealth Fund\n    Racial/Ethnic and Language Differences in Patient Assessments of Health Care, Florida Center for Medicaid and the Uninsured\n    Does Hospital’s Adherence to CLAS Standards Influence Patient Experiences with Inpatient Care?, Commonwealth Fund\n    A Longitudinal Study of the Relationship of Quality of Care and Financial Performance of Nursing Homes, Administration on Aging\n\nDr. Weech-Maldonado has already received many academic and professional honors and awards:\n\n    Graduate School Dean's Award for Excellence in Mentorship, UAB (2013)\n    Joseph F. Volker Outstanding Faculty Award, UAB School of Health Professions (2013)\n    Health Care Management Division's Excellence in Teaching Award, Academy of Management (2012)\n    Paul T. Bruder Best Paper Award (2004), Third International Conference on Healthcare Systems;\n    Excellence in Research on Aging and Rural Health Award (2002), Gerontological Health Section, American Public Health Association\n    Best Theory-to-Practice Paper Award (2002), Health Care Management Division, Academy of Management\n    Distinguished Paper Award (2002), Business & Health Administration Association\n    Health Management Research Award, American College of Healthcare Executives (1999)\n\nDr. Weech-Maldonado has influenced national organizations and health policy through various roles in such national and international healthcare organizations as Academy of Management, Health Services Research (editorial board), AcademyHealth, American College of Healthcare Executives, Agency for Healthcare Research and Quality (study section member), and Office of Minority Health, DHHS.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1821-robert-weechmaldonado",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "1821",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 29,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 115,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 144,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 361,
+      "favourites": 0
+    }
+  },
+  "firstName": "Robert",
+  "firstNameLastName": "Robert Weech-Maldonado",
+  "equipmentLinkTypes": [],
+  "objectId": 1821,
+  "updatedWhen": "2025-05-10T08:06:00.9014003-05:00",
+  "hasCollaborationData": true,
+  "email": "rweech@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Dementia Emerging Infectious Diseases Health Disparities Health Services Infectious Diseases Neurodegenerative Neurosciences Rural Health Social Determinants of Health",
+  "grant_keywords": "Bioengineering Data Science Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)"
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "George",
+  "overview": "Dr. James F. George is a Professor of Surgery for the Division of Cardiothoracic Surgery. He is a molecular and cellular biologist who has worked in the field of heart failure and transplantation for more than 20 years. He is actively involved in researching the basic biology of heart failure and transplant rejection, the development of new drugs, and clinical outcomes after cardiac surgery and transplantation.\n\nHis studies are concentrated in transplantation immunobiology, particularly in relation to allograft vascular disease, immune regulation, and the role of heme oxygenase-1. As Director of the Transplantation Immunobiology Laboratory and the UAB Microsurgical Core Laboratory, Dr. George has pursued investigations in: The role of Heme oxygenase-1, in arterial thrombosis, and the development of post-transplant vascular disease, one of the largest limitations to long-term heart transplant survival. The mechanisms of clinical benefit from extracorporeal photopheresis, a clinical treatment involving the exposure of peripheral blood mononuclear cells to ultraviolet irradiation. The development of unique rodent-based animal models in acute kidney injury, including ischemia reperfusion and unilateral ureteral obstruction, and the molecular mechanisms of immunological tolerance. Dr. George also has a substantial interest in clinical outcomes research as it relates to transplantation and heart failure. As Director of Cardiothoracic Surgery Research, he oversees all clinical research efforts within the Division of Cardiothoracic Surgery in the Department of Surgery. Clinical research efforts in collaboration with heart failure physicians are concentrated on time-related analyses of outcomes with respect to patient demographic variables, clinical care, and post-treatment morbid events in patients undergoing heart failure, heart and lung transplantation, and those implanted with ventricular assist devices.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1112-james-george",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - Cardiovascular/Thoracic"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "1112",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 37,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 41,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 213,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James George",
+  "equipmentLinkTypes": [],
+  "objectId": 1112,
+  "updatedWhen": "2025-05-10T08:04:44.6367267-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

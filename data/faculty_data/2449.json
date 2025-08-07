@@ -1,0 +1,125 @@
+{
+  "lastName": "Alexander",
+  "overview": "Iwan Alexander is an Emeritus Dean of Engineering and Emeritus Professor of Mechanical and Materials Engineering.  He joined UAB in 2013 and served as Dean of Engineering (2013-2019 and chair of the department of Electrical and Computer Engineering (2019-2022), He retired from the UAB in 2022 and has since pursued personal interests in low-power sensors, artificial intelligence, recreation (sailing and walking), and travel. Dr. Alexander has over 40 years of experience in engineering and physical sciences research and education, achieving success both as an individual researcher and as a leader of multidisciplinary research groups. His research has covered fluid dynamics, thermodynamics, and heat and mass transfer, with applications in materials science and energy for spacecraft. Dr. Alexander has extensive experience in planning and leading research and development across a broad range of science and engineering disciplines and applications since the early 1990s. He has: Led and managed research in the engineering and physical sciences in academic and government laboratories and centers and played a leadership role in strategic plan development and implementation. He has achieved success as an individual researcher and as a leader of multi-disciplinary research groups. Dr. Alexander successfully competed for funding from  NASA, the  National  Science  Foundation, and the  Department of  Energy. Authored and co-authored over 140 publications in refereed journals, conference proceedings and books.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2449-j-iwan-alexander",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Physical Sciences",
+          "Physical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Physical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      }
+    ]
+  },
+  "discoveryId": "2449",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 143,
+      "favourites": 0
+    }
+  },
+  "firstName": "J. Iwan",
+  "firstNameLastName": "J. Iwan Alexander",
+  "equipmentLinkTypes": [],
+  "objectId": 2449,
+  "updatedWhen": "2025-05-10T08:07:39.3429247-05:00",
+  "hasCollaborationData": false,
+  "email": "ialex@uab.edu",
+  "publication_keywords": "Bioengineering Nanotechnology",
+  "grant_keywords": "Bioengineering Data Science Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)"
+}

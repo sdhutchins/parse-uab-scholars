@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18518",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mohebujjaman",
+  "firstName": "Muhammad",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18518-muhammad-mohebujjaman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Muhammad Mohebujjaman",
+  "equipmentLinkTypes": [],
+  "objectId": 18518,
+  "updatedWhen": "2025-05-10T08:19:33.9739490-05:00",
+  "hasCollaborationData": false,
+  "email": "mmohebuj@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

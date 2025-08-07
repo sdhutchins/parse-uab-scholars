@@ -1,0 +1,100 @@
+{
+  "lastName": "Abdel Aal",
+  "overview": "Ahmed Kamel Abdel Aal, M.D., M.Sc., Ph.D. completed medical school at University of Cairo, Egypt, where he continued with a residency in Diagnostic Radiology and also completed his Masters of Science in Diagnostic Radiology. He then became a faculty member for two and a half years at University of Cairo, Egypt, in which time he began pursuing his Ph.D. Dr. Abdel Aal then he joined the UAB Interventional Radiology fellowship program followed by a Neuroradiology fellowship. Following his UAB fellowships, he became staff radiologist at the Birmingham VA in October of 2007. Dr. Abdel Aal joined the Interventional Radiology faculty at UAB in October 2010. Dr. Abdel Aal also completed his Ph.D. in Diagnostic Radiology shortly after joining UAB.\n\nDr. Abdel Aal currently serves as Chief of Vascular and Interventional Radiology at UAB and Children’s Hospital of Alabama, Medical Director of the Heart & Vascular Center and Medical Director of the Vascular Access Service. His areas of clinical interest are oncologic interventions, arterial interventions, spine interventions, DVT management and varicoceles embolization.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "198-ahmed-m-kamel-abdel-aal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "198",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 60,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 411,
+      "favourites": 1
+    }
+  },
+  "firstName": "Ahmed M. Kamel",
+  "firstNameLastName": "Ahmed M. Kamel Abdel Aal",
+  "equipmentLinkTypes": [],
+  "objectId": 198,
+  "updatedWhen": "2025-05-10T08:02:34.9890606-05:00",
+  "hasCollaborationData": true,
+  "email": "akamel@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Bioengineering Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Digestive Diseases Kidney Disease Liver Disease Patient Safety Physical Injury - Accidents and Adverse Effects Rare Diseases",
+  "grant_keywords": ""
+}

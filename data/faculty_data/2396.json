@@ -1,0 +1,158 @@
+{
+  "lastName": "Snyder",
+  "overview": "Dr. Scott Snyder is a Professor of Educational Psychology and Research and currently serves as the Associate Dean of Research for the UAB School of Education. As an administrator, his focus is on facilitating the quality and impact of the research of faculty and students within the UAB School of Education. Scott's research spans a variety of disciplines including special education, higher education, quality of life, medical education, exercise science, health promotion, teacher education, and attitudes toward evolution. He is the author or co-author of over 60 professional publications. While he has skills and experience in statistical analyses and research methods, his primary technical expertise is in measurement and program evaluation. He directed the UAB Center for Educational Accountability for 20 years, has served as a technical advisor in measurement and accountability to the Alabama Department of Education for over 20 years, and has conducted or directed over 40 program evaluations at university, community, state and regional levels in a variety of disciplines. His service and evaluation efforts are directed to improving the quality of outcomes for students, patients, and clients across Alabama. \n\nWhile Scott has taught 20 different undergraduate or graduate courses during his time at UAB, he currently teaches intermediate and advanced statistics. He has two YouTube channels to extend his impact on statistical literacy. \n\nScott holds appointments in several UAB research centers and has a secondary appointment in the UAB School of Engineering.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2396-scott-snyder",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Statistics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Statistics",
+          "Statistics"
+        ],
+        "value": "Applied Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Specialist Studies in Education",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Assessment and Evaluation",
+          "Assessment and Evaluation",
+          "and Evaluation",
+          "Evaluation"
+        ],
+        "value": "Education Assessment and Evaluation"
+      },
+      {
+        "paths": [
+          [
+            "Specialist Studies in Education",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Special Education and Disability",
+          "Education and Disability",
+          "and Disability",
+          "Disability"
+        ],
+        "value": "Special Education and Disability"
+      }
+    ]
+  },
+  "discoveryId": "2396",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 167,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 68,
+      "favourites": 0
+    }
+  },
+  "firstName": "Scott",
+  "firstNameLastName": "Scott Snyder",
+  "equipmentLinkTypes": [],
+  "objectId": 2396,
+  "updatedWhen": "2025-05-10T08:07:28.8897183-05:00",
+  "hasCollaborationData": true,
+  "email": "ssnyder@uab.edu",
+  "publication_keywords": "Attention Deficit Hyperactivity Disorder (ADHD) Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Coronaviruses Cystic Fibrosis Depression Emerging Infectious Diseases Immunization Infectious Diseases Lung Mental Health Mental Illness Neurosciences Pediatric Prevention Rare Diseases",
+  "grant_keywords": "Health Disparities Minority Health"
+}

@@ -1,0 +1,102 @@
+{
+  "lastName": "McCall",
+  "overview": "Dr. Kimberly McCall received her B.S. Degree in Business Administration and her Masters of Public Administration from Jacksonville State University in Alabama. She has previously worked with the Birmingham City Council as a Committee Assistant with primary responsibility for community engagement in the 7th District and served as Acting Executive Director for the Birmingham Cultural Arts Committee. Dr. McCall later gained employment with the University of Alabama at Birmingham in Grants Administration and also earned her PhD from the university in Health Education/Health Promotion. In addition, to working in research/grants administration during her tenure she served as a Program Manager for the Alabama EPSCOR Program and Program Manager for the PERC Program which focused on Promoting Enhanced Research Capacity for Global Health in 50 countries. Dr. McCall has previously worked at the Tuscaloosa VA Medical Center as a Health Science Specialist in the Department of Mental Health Research. Her projects have included serving as a National Study Coordinator working with Veterans to compare Transitional Work to Supported Employment and she has served as site support for the VA CLCs Ongoing National Center for Enhancing Resources and Training (CONCERT). CONCERT is a quality improvement program focused on using frontline huddles to engage and support Community Living Centers (Geriatric Care Facilities) staff in creating high-functioning relationship-based teams to improve staff morale and focus on patient/person-centered care, thereby improving the veteran experience.\n\n\nDr. McCall currently works as an Assistant Professor/Biotechnology Regulatory Affairs Specialist for the UAB Department of Clinical and Diagnostic Sciences. In addition, she has previously served as a Credentialed Course Instructor for the Community Health and Human Services Program in the UAB Department of Human Studies. Her current community-based project includes working with the City of Birmingham Parks & Recreation Department, City of Birmingham Mayor’s Office and Women Under Construction Network on the Safe Haven After School Project. It is an opportunity to use a unique approach to utilize tools, life skills and tutoring to impact behavior change in youth ages 5-21. Additionally, she is working on the development of a companion project that would also provide occupational skill training and quality of life changes courses for women living in the Housing Authority Birmingham District.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6298-kimberly-mccall",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biotechnology Program"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "6298",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 62,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kimberly",
+  "firstNameLastName": "Kimberly McCall",
+  "equipmentLinkTypes": [],
+  "objectId": 6298,
+  "updatedWhen": "2025-05-10T08:13:05.3503011-05:00",
+  "hasCollaborationData": true,
+  "email": "kmccall@uab.edu",
+  "publication_keywords": "Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Health Services Immunization Mental Health Pediatric Research Initiative Physical Activity Post-Traumatic Stress Disorder (PTSD) Prevention Rare Diseases Social Determinants of Health Vaccine Related",
+  "grant_keywords": ""
+}

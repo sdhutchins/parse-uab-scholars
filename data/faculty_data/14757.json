@@ -1,0 +1,125 @@
+{
+  "lastName": "Shimoga Chandrashekar",
+  "overview": "My research interests include\n\n•\tInvestigate the molecular mechanisms involved in prostate, breast, lung, colon, bladder cancer, other solid tumors and lymphoma development and progression using integrative genomic, proteomic and systems biology approach. Therapeutic targeting.\n•\tDevelop user-friendly web based cancer data portals, which allows access to publicly available cancer omics data and facilitates integrative analysis. Primary target users would be cancer researchers with minimum or no programming knowledge.\n•\tImplement machine learning (ML) approaches on genomics, transcriptomics or proteomic data to identify risk gene signatures or prognostic biomarkers.\n•\tCollaborative research and Team Science approach. I have collaborated with over 25 research groups within and outside UAB since joining UAB in 2016.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "14757-darshan-shimoga-chandrashekar",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genomic Diagnostics & Bioinformatics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "14757",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 158,
+      "favourites": 12
+    }
+  },
+  "firstName": "Darshan",
+  "firstNameLastName": "Darshan Shimoga Chandrashekar",
+  "equipmentLinkTypes": [],
+  "objectId": 14757,
+  "updatedWhen": "2025-05-10T08:15:35.5191968-05:00",
+  "hasCollaborationData": true,
+  "email": "sdarshan@uab.edu",
+  "publication_keywords": "Biotechnology Breast Cancer Cancer Cancer Genomics Colo-Rectal Cancer Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Immunotherapy Kidney Disease Minority Health Orphan Drug Pancreatic Cancer Rare Diseases Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

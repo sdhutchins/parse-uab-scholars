@@ -1,0 +1,44 @@
+{
+  "discoveryId": "5229",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 45,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Yang",
+  "firstName": "Fan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "5229-fan-yang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Communication Studies"
+    }
+  ],
+  "firstNameLastName": "Fan Yang",
+  "equipmentLinkTypes": [],
+  "objectId": 5229,
+  "updatedWhen": "2025-05-10T08:12:12.0630990-05:00",
+  "hasCollaborationData": false,
+  "email": "fanyang@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

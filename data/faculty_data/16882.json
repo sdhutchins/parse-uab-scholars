@@ -1,0 +1,100 @@
+{
+  "discoveryId": "16882",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 26,
+      "favourites": 0
+    }
+  },
+  "lastName": "Carter",
+  "firstName": "Angela",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16882-angela-carter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Surgery - General Surgery Oncology Section"
+    }
+  ],
+  "firstNameLastName": "Angela Carter",
+  "equipmentLinkTypes": [],
+  "objectId": 16882,
+  "updatedWhen": "2025-05-10T08:16:42.3660409-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "acart2@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Cocaine Complementary and Integrative Health Dietary Supplements Drug Abuse (NIDA only) Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Infectious Diseases Mental Health Methamphetamine Microbiome Minority Health Neurosciences Nutrition Orphan Drug Precision Medicine Prescription Drug Abuse Rare Diseases Stimulant Use and Misuse Substance Misuse",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Drug Abuse (NIDA only) Neurosciences Prescription Drug Abuse Substance Misuse"
+}

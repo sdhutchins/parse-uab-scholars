@@ -1,0 +1,129 @@
+{
+  "lastName": "Johnston",
+  "overview": "I am a pediatric oncologist with a clinical focus on solid tumors and research focus on disparities in end-of-life care.  I am originally from Iowa, went to Carleton College in Minnesota for undergraduate before heading to Stanford for my medical training (medical school, residency, and fellowship). I joined the UAB faculty July 2018.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6179-emily-johnston",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pediatric - Hematology-Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "6179",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 59,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 65,
+      "favourites": 0
+    }
+  },
+  "firstName": "Emily",
+  "firstNameLastName": "Emily Johnston",
+  "equipmentLinkTypes": [],
+  "objectId": 6179,
+  "updatedWhen": "2025-05-10T08:12:55.3370608-05:00",
+  "hasCollaborationData": true,
+  "email": "eejohnst@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cancer Clinical Research Health Disparities Health Services Mental Health Minority Health Pain Research Pediatric Pediatric Cancer Rare Diseases",
+  "grant_keywords": ""
+}

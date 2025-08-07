@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18533",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 18,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wang",
+  "firstName": "Tianyang",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18533-tianyang-wang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Tianyang Wang",
+  "equipmentLinkTypes": [],
+  "objectId": 18533,
+  "updatedWhen": "2025-05-10T08:19:42.4788818-05:00",
+  "hasCollaborationData": false,
+  "email": "tw2@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

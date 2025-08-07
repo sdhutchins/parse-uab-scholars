@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18329",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Villegas",
+  "firstName": "Brendon",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18329-brendon-villegas",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Brendon Villegas",
+  "equipmentLinkTypes": [],
+  "objectId": 18329,
+  "updatedWhen": "2025-05-10T08:19:08.9498837-05:00",
+  "hasCollaborationData": false,
+  "email": "bjvilleg@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

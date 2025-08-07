@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2660",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 111,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Starr",
+  "firstName": "Shannon",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2660-shannon-starr",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Shannon Starr",
+  "equipmentLinkTypes": [],
+  "objectId": 2660,
+  "updatedWhen": "2025-05-10T08:08:11.0315006-05:00",
+  "hasCollaborationData": false,
+  "email": "slstarr@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

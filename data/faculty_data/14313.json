@@ -1,0 +1,44 @@
+{
+  "discoveryId": "14313",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 46,
+      "favourites": 0
+    }
+  },
+  "lastName": "Guenter",
+  "firstName": "Rachael",
+  "hasThumbnail": false,
+  "discoveryUrlId": "14313-rachael-guenter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Surgery - General Surgery Oncology Section"
+    }
+  ],
+  "firstNameLastName": "Rachael Guenter",
+  "equipmentLinkTypes": [],
+  "objectId": 14313,
+  "updatedWhen": "2025-05-11T21:49:25.2876812-05:00",
+  "hasCollaborationData": true,
+  "email": "rguenter@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biomedical Imaging Biotechnology Cancer Clinical Research Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunization Immunotherapy Minority Health Neurosciences Orphan Drug Pancreatic Cancer Rare Diseases Social Determinants of Health",
+  "grant_keywords": ""
+}

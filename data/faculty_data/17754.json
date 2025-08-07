@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17754",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wang",
+  "firstName": "Yajing",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17754-yajing-wang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dept of Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Yajing Wang",
+  "equipmentLinkTypes": [],
+  "objectId": 17754,
+  "updatedWhen": "2025-05-10T08:18:11.2006135-05:00",
+  "hasCollaborationData": false,
+  "email": "yajingwang@uab.edu",
+  "publication_keywords": "Biotechnology Cardiovascular Diabetes Electronic Nicotine Delivery Systems Genetics Heart Disease Heart Disease - Coronary Heart Disease Lung Nutrition Obesity Tobacco Tobacco Smoke and Health",
+  "grant_keywords": "Cardiovascular Diabetes Heart Disease Heart Disease - Coronary Heart Disease Prevention"
+}

@@ -1,0 +1,96 @@
+{
+  "discoveryId": "7164",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 55,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Warner",
+  "firstName": "Tara",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7164-tara-warner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "Tara Warner",
+  "equipmentLinkTypes": [],
+  "objectId": 7164,
+  "updatedWhen": "2025-05-10T08:14:20.0356505-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "twarner2@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Injury Clinical Research Firearms Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Social Determinants of Health Violence Research Youth Violence",
+  "grant_keywords": ""
+}

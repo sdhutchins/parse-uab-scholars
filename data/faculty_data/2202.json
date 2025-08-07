@@ -1,0 +1,127 @@
+{
+  "lastName": "Mikhail",
+  "overview": "Dr. Mikhail is the Director of the Clinical Cytogenetics Lab in the Department of Genetics, which provides diagnostic services by performing chromosome analysis, fluorescence in situ hybridization (FISH), and chromosomal microarray analysis (CMA) on cells prepared from a wide variety of tissues.  Dr. Mikhail graduated from the Faculty of Medicine, University of Alexandria, Egypt in 1990.  He completed his Clinical Pathology residency in the same University and received an Egyptian government scholarship to conduct this PhD thesis research work in the US where he worked as a visiting scholar in the Pathology Department, School of Medicine, University of Illinois at Chicago.  He earned his PhD from the Faculty of Medicine, University of Alexandria, Egypt in 2003.  Dr. Mikhail did his Clinical Cytogenetics fellowship at the Department of Genetics, UAB School of Medicine, and was certified by the American Board of Medical Genetics and Genomics (ABMGG) in 2007.  He joined the faculty in the Department of Genetics, UAB School of Medicine in 2006.  He is the Program Director of the UAB Laboratory Genetics and Genomics (LGG) Clinical Fellowship.  Dr. Mikhail served on the American College of Medical Genetics and Genomics (ACMG) Lab QA Committee from 2011 to 2021 and currently serves on the Cancer Genomics Consortium (CGC) Board of Directors.  His research interests include the identification of novel constitutional copy number variants in genetic disorders, as well as the identification of novel acquired chromosomal rearrangements in hematologic malignancies and the underlying genes.  He is also involved in the education and training of medical students, residents, and fellows.  Dr. Mikhail is the author of numerous articles and book chapters.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2202-fady-mikhail",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Clinical Genetics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2202",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 24,
+      "favourites": 4
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 89,
+      "favourites": 0
+    }
+  },
+  "firstName": "Fady",
+  "firstNameLastName": "Fady Mikhail",
+  "equipmentLinkTypes": [],
+  "objectId": 2202,
+  "updatedWhen": "2025-05-10T08:07:03.7172341-05:00",
+  "hasCollaborationData": true,
+  "email": "fmikhail@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Biotechnology Brain Disorders Cancer Cardiovascular Childhood Leukemia Clinical Research Congenital Structural Anomalies Dementia Down Syndrome Genetic Testing Genetics Heart Disease Hematology Human Genome Intellectual and Developmental Disabilities (IDD) Neurodegenerative Neurosciences Pediatric Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases",
+  "grant_keywords": "Cancer Clinical Research Genetics Hematology Human Genome Rare Diseases"
+}

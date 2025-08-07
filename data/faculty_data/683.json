@@ -1,0 +1,127 @@
+{
+  "lastName": "Hsu",
+  "overview": "Dr. Hsu, Associate Professor of Medicine, studies the regulation of multiple types of immune cells in both humans and mice.  Dr. Hsu has had a long history of interest and experience in studying mechanisms of autoimmune disease.  She is the investigator who identified that autoimmune BXD2 mice exhibit unique features, including spontaneous formation of germinal centers, increased expression of activation-induced cytidine deaminase (AID), increased production of pathogenic autoantibodies that are polyreactive, significantly increased percentage of IL-17 producing CD4 T helper cells.  \n\nDr. Hsu has developed a two-tiered peptide microarray approach, coupled with epitope mapping of known autoantigens, to identify and characterize autoepitopes recognized by BXD2 autoreactive B cells.  Using this method, tetramers were prepared from two linear peptides derived from two ribonucleic acid binding proteins (RBP): lupus La and 70 kDa U1 small nuclear ribonucleoprotein (snRNP).  Dr. Hsu and colleagues have subsequently identified that there was reduction of transitional T1 B cells associated with a significantly higher frequency and greater numbers of RBP-reactive marginal zone precursor (MZ-P), transitional T3 and PDL-2+CD80+ memory B cells in BXD2 mice, compared to B6 mice.  \n\nMore recently, her collaboration with Drs Chatham and Mountz has led to a novel discovery that there was increased intracellular expression of IFN-β in B cells from a subset of African American SLE patients. She currently applies the 10x Chromium-based transcriptomics/BCR analysis to identify mechanisms leading to B-cell tolerance loss at different checkpoints in SLE.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "683-huichen-hsu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "683",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 122,
+      "favourites": 0
+    }
+  },
+  "firstName": "Hui-Chen",
+  "firstNameLastName": "Hui-Chen Hsu",
+  "equipmentLinkTypes": [],
+  "objectId": 683,
+  "updatedWhen": "2025-05-10T08:03:50.0191373-05:00",
+  "hasCollaborationData": true,
+  "email": "rheu078@uab.edu",
+  "publication_keywords": "Autoimmune Disease Cancer Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunization Lung Lung Cancer Lupus Minority Health Vaccine Related Women's Health",
+  "grant_keywords": "Autoimmune Disease Clinical Research Clinical Trials and Supportive Activities Genetics Health Disparities Immunotherapy Lupus Minority Health Precision Medicine Women's Health"
+}

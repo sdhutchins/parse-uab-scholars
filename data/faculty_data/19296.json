@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19296",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Luther",
+  "firstName": "Lauren",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19296-lauren-luther",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychology"
+    }
+  ],
+  "firstNameLastName": "Lauren Luther",
+  "equipmentLinkTypes": [],
+  "objectId": 19296,
+  "updatedWhen": "2025-05-10T08:21:21.6172894-05:00",
+  "hasCollaborationData": false,
+  "email": "lutherl@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Mental Health Mental Illness Schizophrenia Serious Mental Illness Social Determinants of Health",
+  "grant_keywords": ""
+}

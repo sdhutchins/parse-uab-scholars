@@ -1,0 +1,122 @@
+{
+  "lastName": "Korf",
+  "overview": "Dr. Korf is Wayne H. and Sara Crews Finley Endowed Chair in Medical Genetics, Associate Dean for Genomic Medicine, UAB School of Medicine, Chief Genomics Officer, UAB Medicine and Co-Director of the UAB-HudsonAlpha Center for Genomic Medicine.  He is a medical geneticist, pediatrician, and child neurologist, certified by the American Board of Medical Genetics (clinical genetics, clinical cytogenetics, clinical molecular genetics), American Board of Pediatrics, and American Board of Psychiatry and Neurology (child neurology). Dr. Korf is past president of the Association of Professors of Human and Medical Genetics, past president of the American College of Medical Genetics and Genomics, and current president of the ACMG Foundation for Genetic and Genomic Medicine.  He has served on the Board of Scientific Counselors of the National Cancer Institute and the National Human Genome Research Institute at the NIH. He chairs the Medical Advisory Committee of the Children's Tumor Foundation and serves on the CTF Board of Directors.  His major research interests are the natural history, genetics, and treatment of neurofibromatosis and the integration of genomics into medical practice.  He serves as principal investigator of the Department of Defense funded Neurofibromatosis Clinical Trials Consortium.  He is co-author of Human Genetics and Genomics (medical student textbook, now in fourth edition), Medical Genetics at a Glance (medical student textbook, now in third edition), Emery and Rimoin's Principles and Practice of Medical Genetics (now in 6th edition), and Current Protocols in Human Genetics.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2197-bruce-korf",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Genomics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2197",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 59,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 386,
+      "favourites": 0
+    }
+  },
+  "firstName": "Bruce",
+  "firstNameLastName": "Bruce Korf",
+  "equipmentLinkTypes": [],
+  "objectId": 2197,
+  "updatedWhen": "2025-05-10T08:07:03.7062337-05:00",
+  "hasCollaborationData": true,
+  "email": "bkorf@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Cancer Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Depression Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Mental Health Minority Health Networking and Information Technology R&D (NITRD) Neurofibromatosis Neurosciences Orphan Drug Pediatric Cancer Pediatric Research Initiative Prevention Rare Diseases Rehabilitation Telehealth",
+  "grant_keywords": "Biotechnology Genetics Neurofibromatosis Neurosciences Pediatric Research Initiative Rare Diseases"
+}

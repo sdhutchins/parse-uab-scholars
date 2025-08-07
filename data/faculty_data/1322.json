@@ -1,0 +1,59 @@
+{
+  "discoveryId": "1322",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 126,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 20,
+      "favourites": 0
+    }
+  },
+  "lastName": "Robles",
+  "firstName": "Augusto",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1322-augusto-robles",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "General Dentistry"
+    }
+  ],
+  "firstNameLastName": "Augusto Robles",
+  "equipmentLinkTypes": [],
+  "objectId": 1322,
+  "updatedWhen": "2025-05-10T08:05:15.7631677-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "arobles@uab.edu",
+  "publication_keywords": "Bioengineering Dental/Oral and Craniofacial Disease",
+  "grant_keywords": ""
+}

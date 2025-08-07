@@ -1,0 +1,126 @@
+{
+  "lastName": "Judd",
+  "overview": "Dr. Suzanne Judd is the Director of the Lister Hill Center for Health Policy and a Professor in the School of Public Health at the University of Alabama at Birmingham.  She received her PhD in Nutrition Sciences from Emory University where she led two vitamin D clinical trials.  Dr. Judd is multiple PI on both the REGARDS and RURAL cohort studies which are large NIH funded epidemiological cohort studies seeking to understand disparities in chronic disease in the United States.  Her experience in the US provided a platform to collaborate with European cohort studies in France through the Fulbright Scholar Program.  Dr. Judd’s research focuses on the role of diet and the environment as mediators of racial disparities in the risk of hypertension, kidney disease, and stroke.  Her unique combination of training in engineering, epidemiology and nutrition as well as industrial experience have provided a solid foundation to guide her research, mentorship, collaboration and public health communication.  As such, she is a widely sought out expert in communicating with scientific and non-scientific audiences alike.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1929-suzanne-judd",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Biostatistics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Food Sciences",
+          "Sciences"
+        ],
+        "value": "Food Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1929",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 63,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 91,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 484,
+      "favourites": 0
+    }
+  },
+  "firstName": "Suzanne",
+  "firstNameLastName": "Suzanne Judd",
+  "equipmentLinkTypes": [],
+  "objectId": 1929,
+  "updatedWhen": "2025-05-10T08:06:12.3909869-05:00",
+  "hasCollaborationData": true,
+  "email": "sejudd@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Atherosclerosis Behavioral and Social Science Brain Disorders Cerebrovascular Clinical Research Complementary and Integrative Health Dementia Dietary Supplements Health Disparities Neurodegenerative Neurosciences Nutrition Obesity Prevention Stroke Women's Health",
+  "grant_keywords": "Aging Cardiovascular Cerebrovascular Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Human Genome Hypertension Minority Health Precision Medicine Prevention Social Determinants of Health Women's Health"
+}

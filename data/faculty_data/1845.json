@@ -1,0 +1,129 @@
+{
+  "lastName": "Chandler-Laney",
+  "overview": "Dr. Chandler-Laney is an Associate Professor and Director of the PhD program in the Department of Nutrition Sciences. Her research focuses on elucidating the biobehavioral mechanisms that underlie the development of pediatric obesity, with a particular emphasis on understanding the role of the in utero environment in programming children's risk for obesity and cardiometabolic disease. This research involves studies of children, infants, and pregnant women. Methodologies include the assessment of body composition, biomarkers of cardiometabolic health, post-meal changes in glucose, insulin, and gut hormones, indirect calorimetry to assess resting metabolic rate and substrate metabolism, along with appetite regulation and eating behavior. \nIn addition to serving as program director for the PhD program, Dr. Chandler-Laney mentors several students and postdocs, and teaches an elective course to provide structure and guidance for Nutrition Sciences PhD students when writing manuscripts and grant proposals.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1845-paula-chandlerlaney",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1845",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 108,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 130,
+      "favourites": 0
+    }
+  },
+  "firstName": "Paula",
+  "firstNameLastName": "Paula Chandler-Laney",
+  "equipmentLinkTypes": [],
+  "objectId": 1845,
+  "updatedWhen": "2025-05-12T03:21:24.5918229-05:00",
+  "hasCollaborationData": true,
+  "email": "pchandle@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cardiovascular Childhood Obesity Clinical Research Conditions Affecting the Embryonic and Fetal Periods Diabetes Eating Disorders Hypertension Maternal Health Maternal Morbidity and Mortality Mental Health Mental Illness Nutrition Obesity Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Physical Activity Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Sleep Research Women's Health",
+  "grant_keywords": "Behavioral and Social Science Breastfeeding, Lactation and Breast Milk Cardiovascular Childhood Obesity Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Conditions Affecting the Embryonic and Fetal Periods Dissemination and Implementation Research Health Disparities Health Services Infant Mortality Infectious Diseases Maternal Health Microbiome Minority Health Neurosciences Nutrition Obesity Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Prevention Social Determinants of Health Women's Health Wound Healing and Care"
+}

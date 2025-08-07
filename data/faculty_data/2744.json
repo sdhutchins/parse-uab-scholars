@@ -1,0 +1,123 @@
+{
+  "lastName": "Sloane",
+  "overview": "Born and raised in Ireland, Mike Sloane joined the department as an Assistant Professor in September 1982 having completed his doctoral work at the Cresap Neuroscience Laboratory of Northwestern University. He directed the Psychology Honors Program for over 12 years, served as Director of Undergraduate Studies, and was the first Vice Chair of the department. In the mid 1980s he launched the Psychology Club, facilitated the development of UAB's chapter of Psi Chi, and organized the annual Southeastern Undergraduate Psychology Research Conference, which ran for 21 years. He was also instrumental in instigating and funding the department's annual John W. P. Ost Undergraduate Research Competition.\n\nDr. Sloane directed the cognitive science minor and the doctoral program in cognitive science. In 2004, he was selected to direct the University Honors Program, UAB’s flagship honors program established in 1983, which offers an interdisciplinary arts and sciences curriculum to a select group of highly motivated and talented undergraduates. In 2004, he authored a White Paper proposing the establishment of an Honors College, an Office of Undergraduate Research, and an annual undergraduate research conference at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2744-michael-sloane",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Linguistics"
+        ],
+        "value": "Linguistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      }
+    ]
+  },
+  "discoveryId": "2744",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 311,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Sloane",
+  "equipmentLinkTypes": [],
+  "objectId": 2744,
+  "updatedWhen": "2025-05-10T08:08:21.9893830-05:00",
+  "hasCollaborationData": true,
+  "email": "sloane@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Neurosciences Rehabilitation",
+  "grant_keywords": ""
+}

@@ -1,0 +1,123 @@
+{
+  "discoveryId": "109",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 216,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ness",
+  "firstName": "Timothy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "109-timothy-ness",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Anesthesiology"
+    }
+  ],
+  "firstNameLastName": "Timothy Ness",
+  "equipmentLinkTypes": [],
+  "objectId": 109,
+  "updatedWhen": "2025-05-10T08:02:22.2627677-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "tjness@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Chronic Pain Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) Interstitial Cystitis Neurosciences Opioid Misuse and Addiction Opioids Pain Research Patient Safety Pediatric Research Initiative Substance Misuse Urologic Diseases Women's Health",
+  "grant_keywords": "Chronic Pain Clinical Research Drug Abuse (NIDA only) HIV/AIDS Infectious Diseases Neurosciences Opioids Pain Research Sexually Transmitted Infections Substance Misuse"
+}

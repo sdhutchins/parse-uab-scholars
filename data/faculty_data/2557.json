@@ -1,0 +1,101 @@
+{
+  "discoveryId": "2557",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 122,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 21,
+      "favourites": 2
+    }
+  },
+  "lastName": "Chapman",
+  "firstName": "Alison",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2557-alison-chapman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Alison Chapman",
+  "equipmentLinkTypes": [],
+  "objectId": 2557,
+  "updatedWhen": "2025-05-10T08:07:50.5623651-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Language, Communication and Culture"
+          ]
+        ],
+        "valueAnalysed": [
+          "Literary Studies",
+          "Studies"
+        ],
+        "value": "Literary Studies"
+      },
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Historical Studies",
+          "Studies"
+        ],
+        "value": "Historical Studies"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Creative Arts and Writing"
+          ]
+        ],
+        "valueAnalysed": [
+          "Art Theory and Criticism",
+          "Theory and Criticism",
+          "and Criticism",
+          "Criticism"
+        ],
+        "value": "Art Theory and Criticism"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Creative Arts and Writing"
+          ]
+        ],
+        "valueAnalysed": [
+          "Performing Arts and Creative Writing",
+          "Arts and Creative Writing",
+          "and Creative Writing",
+          "Creative Writing",
+          "Writing"
+        ],
+        "value": "Performing Arts and Creative Writing"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "achapman@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2267",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 82,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 106,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 152,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 412,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wyss",
+  "firstName": "James",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2267-james-wyss",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "firstNameLastName": "James Wyss",
+  "equipmentLinkTypes": [],
+  "objectId": 2267,
+  "updatedWhen": "2025-05-10T08:07:17.5744746-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jmwyss@uab.edu",
+  "publication_keywords": "Aging Cardiovascular Clinical Research Complementary and Integrative Health Diabetes Dietary Supplements Health Disparities and Racial or Ethnic Minority Health Research Minority Health Neurosciences Nutrition Obesity Pediatric Pediatric Research Initiative Prevention Workforce Diversity and Outreach",
+  "grant_keywords": ""
+}

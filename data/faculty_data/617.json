@@ -1,0 +1,127 @@
+{
+  "lastName": "Pollock",
+  "overview": "Dr. Pollock is the James A. Schafer Professor of Medicine and Director of the Cardio-Renal Physiology & Medicine Section at the University of Alabama at Birmingham (UAB) and Co-Director of the UAB Hypertension Research Center. He earned his bachelor’s degree in biology and chemistry from the University of Evansville and his Ph.D. at the University of Cincinnati. This was followed by a post-doctoral fellowship at the University of North Carolina at Chapel Hill. Dr. Pollock spent two years as an Investigator at the Institute for Circadian Physiology at Harvard University before working in drug discovery at Abbott Laboratories in Chicago. In 1995, he accepted a faculty position at the Medical College of Georgia (now known as Augusta University) where he eventually became a Regents’ Professor and Head of Experimental Medicine in the Department of Medicine.  In 2014, he moved to UAB to assume his current role. \n\nDr. Pollock’s wide range of research interests focuses on high blood pressure and kidney disease. Dr. Pollock’s lab has uncovered how endothelin regulates renal handling of high salt diets as well as key preclinical evidence for use of endothelin antagonists in the treatment of diabetic and sickle cell nephropathy. Since coming to UAB, most of his recent work has focused on circadian-related mechanisms contributing to blood pressure control and end-organ damage as well as the relationship between organ-specific molecular clocks following changes in diet. This includes a clinical study examining how the time-of-day salt is consumed on blood pressure rhythms and nocturnal hypertension. \n\nDr. Pollock has held many service leadership positions including several journal editorships and served as the 87th President of the American Physiological Society.  In 2013, Dr. Pollock received the Lewis K. Dahl Award from the American Heart Association, and in 2016, was awarded the Ernst Starling Lectureship from the American Physiological Society.  Dr. Pollock also received the 2020 Max Cooper Award for Career Excellence in Research from the UAB Department of Medicine.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "617-david-pollock",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "617",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 58,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 57,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 536,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Pollock",
+  "equipmentLinkTypes": [],
+  "objectId": 617,
+  "updatedWhen": "2025-05-12T03:26:37.7837817-05:00",
+  "hasCollaborationData": true,
+  "email": "dpollock@uab.edu",
+  "publication_keywords": "Cardiovascular Estrogen Hypertension Kidney Disease Nutrition Obesity Prevention Sleep Research Women's Health",
+  "grant_keywords": "Cardiovascular Genetics Hematology Hypertension Kidney Disease Minority Health Neurosciences Nutrition Rural Health Sleep Research Women's Health"
+}

@@ -1,0 +1,121 @@
+{
+  "discoveryId": "7190",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 86,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bi",
+  "firstName": "Wenli",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7190-wenli-bi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physics"
+    }
+  ],
+  "firstNameLastName": "Wenli Bi",
+  "equipmentLinkTypes": [],
+  "objectId": 7190,
+  "updatedWhen": "2025-05-10T08:14:20.0512731-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geochemistry"
+        ],
+        "value": "Geochemistry"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geology"
+        ],
+        "value": "Geology"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Geography and Environmental Geoscience",
+          "Geography and Environmental Geoscience",
+          "and Environmental Geoscience",
+          "Environmental Geoscience",
+          "Geoscience"
+        ],
+        "value": "Physical Geography and Environmental Geoscience"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geophysics"
+        ],
+        "value": "Geophysics"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "wbi@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

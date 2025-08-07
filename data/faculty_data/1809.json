@@ -1,0 +1,122 @@
+{
+  "lastName": "Roche",
+  "overview": "Cathy Roche, PhD, RN, is an Assistant Professor at the UAB School of Nursing. Her research interests involve developing, implementing and evaluating recruitment and retention strategies to enhance participation in clinical trials. Dr. Roche has over 17 years of research experience developing strategies to enhance participation in large, long-term, multi-center studies, such as the Action for Health in Diabetes (LookAHEAD) Study and the Coronary Artery Risk Development in Young Adults (CARDIA) Study.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1809-cathy-roche",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      }
+    ]
+  },
+  "discoveryId": "1809",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 163,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 92,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 69,
+      "favourites": 0
+    }
+  },
+  "firstName": "Cathy",
+  "firstNameLastName": "Cathy Roche",
+  "equipmentLinkTypes": [],
+  "objectId": 1809,
+  "updatedWhen": "2025-05-10T08:06:00.8690601-05:00",
+  "hasCollaborationData": true,
+  "email": "croche@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Aging Atherosclerosis Behavioral and Social Science Bioengineering Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Health Disparities Heart Disease Heart Disease - Coronary Heart Disease Hypertension Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Nutrition Prevention Telehealth"
+}

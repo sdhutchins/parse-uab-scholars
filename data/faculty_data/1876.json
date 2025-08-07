@@ -1,0 +1,114 @@
+{
+  "lastName": "Perez",
+  "overview": "Patricia L. Perez, PT, DScPT is the Director of Student Affairs and an Associate Professor in the Department of Physical Therapy at the university of Alabama at Birmingham. Dr. Perez earned as BS in physical Therapy form the University of North Carolina in Chapel Hill, a post-professional Master of Science in Physical therapy with a musculoskeletal concentration and a Doctor of Science in Physical Therapy from the University of Alabama in Birmingham. She has been certified as a Clinical Specialist in Orthopaedic Physical Therapy by the American Board of Physical Therapy Specialties since 1997 and as a Credentialed Level 1 Clinical Instructor by the APTA since 2019. Dr. Perez teaches in the entry level Doctor of Physical Therapy Program where her primary focus is PT Management of Musculoskeletal Dysfunction, PT Examination and Clinical Education. She continues to engage in clinical practice in the Outpatient Rehabilitation Services Department at Spain Rehabilitation Center/UAB.  She has served as the Education Chair and Vice-President of the Alabama Chapter of the APTA.  She has coauthored peer-reviewed manuscripts on the topics of physical therapists role in health promotion and continuing education in anatomical sciences. Additionally, she has presented at state and national meetings on the topics of physical therapists role in health promotion, use of simulation to determine readiness for clinic and PT management of various musculoskeletal conditions.  She is the recipient of multiple awards including the 2018 Barbara Bradford Leadership Award, the 2017 President’s Award for Excellence in Teaching, the 2017 SHP Excellence in Teaching Award, the 2009 Marilyn Gossman Award for Professionalism in Physical Therapy and the 1993 Loretta Boger Award for Excellence in Clinical Education.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1876-patricia-perez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physical Therapy"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "1876",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 94,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "firstName": "Patricia",
+  "firstNameLastName": "Patricia Perez",
+  "equipmentLinkTypes": [],
+  "objectId": 1876,
+  "updatedWhen": "2025-05-10T08:06:12.3101914-05:00",
+  "hasCollaborationData": true,
+  "email": "perezp@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

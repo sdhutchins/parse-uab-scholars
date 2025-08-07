@@ -1,0 +1,70 @@
+{
+  "discoveryId": "2630",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 164,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 3,
+      "favourites": 0
+    }
+  },
+  "lastName": "Copes",
+  "firstName": "John Heith",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2630-john-heith-copes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "John Heith Copes",
+  "equipmentLinkTypes": [],
+  "objectId": 2630,
+  "updatedWhen": "2025-05-10T08:08:00.8996809-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Criminology"
+        ],
+        "value": "Criminology"
+      },
+      {
+        "paths": [
+          [
+            "Law and Legal Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Law"
+        ],
+        "value": "Law"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jhcopes@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Drug Abuse (NIDA only) Methamphetamine Stimulant Use and Misuse Substance Misuse",
+  "grant_keywords": ""
+}

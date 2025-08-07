@@ -1,0 +1,124 @@
+{
+  "lastName": "Nanda",
+  "overview": "My research is focused on determining the causal genes and underlying mechanisms responsible for the initiation and propagation of smooth muscle cell driven vascular dysregulation that occurs in cardiovascular disease (CVD) pathologies including atherosclerosis, peripheral artery disease (PAD), and abdominal aortic aneurysm. To this end, my lab uses state-of-the-art techniques in molecular biology, human genetics, bioinformatics, and established mouse models of CVD.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16431-vivek-nanda",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "16431",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 22,
+      "favourites": 0
+    }
+  },
+  "firstName": "Vivek",
+  "firstNameLastName": "Vivek Nanda",
+  "equipmentLinkTypes": [],
+  "objectId": 16431,
+  "updatedWhen": "2025-05-10T08:15:54.6209246-05:00",
+  "hasCollaborationData": true,
+  "email": "vnanda@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Biotechnology Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease Human Genome Physical Activity",
+  "grant_keywords": "Aging Atherosclerosis Biotechnology Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease Hematology Human Genome Prevention"
+}

@@ -1,0 +1,103 @@
+{
+  "discoveryId": "18659",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "lastName": "Garner",
+  "firstName": "Mary Anne",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18659-mary-anne-garner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Mary Anne Garner",
+  "equipmentLinkTypes": [],
+  "objectId": 18659,
+  "updatedWhen": "2025-05-10T08:20:01.7358585-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Zoology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Cell and Molecular Biology",
+          "Cell and Molecular Biology",
+          "and Molecular Biology",
+          "Molecular Biology",
+          "Biology"
+        ],
+        "value": "Animal Cell and Molecular Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Neurosciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cellular Nervous System",
+          "Nervous System",
+          "System"
+        ],
+        "value": "Cellular Nervous System"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "magarner@uab.edu",
+  "publication_keywords": "Aging Bioengineering Biomedical Imaging Eye Disease and Disorders of Vision Neurodegenerative Neurosciences",
+  "grant_keywords": ""
+}

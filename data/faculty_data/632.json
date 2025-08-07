@@ -1,0 +1,120 @@
+{
+  "lastName": "Blalock",
+  "overview": "J. Edwin Blalock, Ph.D., joined the Department of Medicine as a Professor in the Division of Pulmonary, Allergy, and Critical Care Medicine and became the Scientific Director of the Lung Health Center in 2009.  Dr. Blalock is a Distinguished Alumnus of the University of Florida where he received both a B.S. and Ph.D. degree.  He was previously a Professor in the UAB Department of Physiology and Biophysics, having been recruited to UAB in 1986 from the University of Texas Medical Branch, where he was a Professor of Microbiology.  Dr. Blalock is internationally recognized for his research in neuroimmunology, rational drug design, as well as the role of inflammation in chronic lung diseases.  He has published over 350 journal articles and book chapters and enjoyed uninterrupted funding for the past 38 years.  Dr. Blalock has served on two NIH study sections, as well as study sections for the American Heart Association and the National Multiple Sclerosis Society.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "632-james-blalock",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "632",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 23,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 446,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Blalock",
+  "equipmentLinkTypes": [],
+  "objectId": 632,
+  "updatedWhen": "2025-05-10T08:03:37.8933049-05:00",
+  "hasCollaborationData": true,
+  "email": "blalock@uab.edu",
+  "publication_keywords": "Chronic Obstructive Pulmonary Disease Digestive Diseases Infant Mortality Liver Disease Lung Neonatal Respiratory Distress Orphan Drug Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases",
+  "grant_keywords": "Biotechnology Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Cystic Fibrosis Genetics Health Disparities Heart Disease Infectious Diseases Lung Microbiome Minority Health Neonatal Respiratory Distress Orphan Drug Pediatric Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Prevention Rare Diseases Tobacco Tobacco Smoke and Health Women's Health"
+}

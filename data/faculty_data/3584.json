@@ -1,0 +1,123 @@
+{
+  "discoveryId": "3584",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 237,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 84,
+      "favourites": 0
+    }
+  },
+  "lastName": "Reed",
+  "firstName": "William",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3584-william-reed",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Physical Therapy"
+    }
+  ],
+  "firstNameLastName": "William Reed",
+  "equipmentLinkTypes": [],
+  "objectId": 3584,
+  "updatedWhen": "2025-05-10T08:09:49.3250706-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Complementary and Alternative Medicine",
+          "and Alternative Medicine",
+          "Alternative Medicine",
+          "Medicine"
+        ],
+        "value": "Complementary and Alternative Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "wreed@uab.edu",
+  "publication_keywords": "Chronic Pain Complementary and Integrative Health Neurosciences Pain Research",
+  "grant_keywords": ""
+}

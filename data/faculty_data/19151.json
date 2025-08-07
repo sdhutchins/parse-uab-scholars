@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19151",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bhat",
+  "firstName": "Krishna",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19151-krishna-bhat",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Dept of Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Krishna Bhat",
+  "equipmentLinkTypes": [],
+  "objectId": 19151,
+  "updatedWhen": "2025-05-10T08:20:57.3278715-05:00",
+  "hasCollaborationData": false,
+  "email": "bhatk@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

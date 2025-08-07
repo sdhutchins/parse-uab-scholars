@@ -1,0 +1,123 @@
+{
+  "lastName": "Bradley",
+  "overview": "Dr. Bradley's research focuses on the interactions among biological and psychosocial factors associated with abnormal pain sensitivity in persons with osteoarthritis (OA) of the knee, and other chronic painful disorders. Several studies are ongoing with support of an R01 grant and complementary grant funds: (1) In collaboration with investigators from the University of Florida, the goal of the R01 project is to characterize ethnic differences in experimental pain sensitivity, endogenous pain inhibition, clinical pain, and pain-related disability in older African-Americans and non-Hispanic whites with and without knee OA; (2) determine whether these measures of pain sensitivity/pain inhibition along with biological, psychological, and socio-cultural variables mediate ethnic group differences in clinical pain and pain-related disability; (3) examine the extent to which differences in pain responses between African-American and white patients with knee OA are mediated by group differences in biomarkers such as sleep disturbance or lipid mediators; and (4) examine the relationship between polysomnography measures of sleep and experimental as well as clinical pain to better understand the biological, psychological, and socio-cultural variables that mediate ethnic group differences in both sleep and pain.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "671-laurence-bradley",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "671",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 181,
+      "favourites": 1
+    }
+  },
+  "firstName": "Laurence",
+  "firstNameLastName": "Laurence Bradley",
+  "equipmentLinkTypes": [],
+  "objectId": 671,
+  "updatedWhen": "2025-05-10T08:03:49.9896808-05:00",
+  "hasCollaborationData": true,
+  "email": "braddog@uab.edu",
+  "publication_keywords": "Aging Arthritis Back Pain Basic Behavioral and Social Science Behavioral and Social Science Chronic Pain Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Minority Health Neurodegenerative Neurosciences Osteoarthritis Pain Research Peripheral Neuropathy Social Determinants of Health Women's Health",
+  "grant_keywords": "Behavioral and Social Science Chronic Pain Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Diabetes Health Disparities Health Services Pain Research"
+}

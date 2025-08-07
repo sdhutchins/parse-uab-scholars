@@ -1,0 +1,118 @@
+{
+  "lastName": "Krueger-Hadfield",
+  "overview": "I grew up in the San Fernando Valley in southern California. Regular trips to the seaside and tide pools along the central coast and Monterey Bay engendered a lifelong interest in marine biology. As an undergraduate I developed a keen interest in marine macroalgae, particularly mating system variation. Mating systems (i.e., which individuals exchange gametes) exert strong influence on the evolutionary ecology of a species. Though they have been extensively studied in plants and animals, we know very little about these patterns in organisms with more complex life cycles, such as marine macroalgae.\n\nI was fortunate to be able to hone my algal affinities further as a Sally Casanova Pre-Doctoral Fellow at the Station Biologique de Roscoff. I had the opportunity to work with the laboratory led by Myriam Valero, one of the world leaders investigating mating systems in the marine environment with an emphasis on ecologically and economically important seaweeds. After my fellowship, I was the recipient of a French PhD fellowship and embarked on a co-tutelle dissertation where I was able to conduct research along the coasts of Brittany and in Juan Correa’s laboratory in Santiago, Chile. My years as Ph.D. student enabled me to work at one of the best marine stations in the world, but also fulfill a childhood dream of traveling and living in Europe and South America.\n\nAfter completing my Ph.D., I embarked upon two post-doctoral appointments. The first was just across the English Channel in Plymouth at the Marine Biological Association of the United Kingdom. I became interested in the impacts of the biological invasions on mating system patterns using ascidians (or sea squirts) as models. At the same time I began working on microalgal population structure and adapting the tools and techniques that work readily in macroscopic organisms to these teeny tiny algae in the open ocean. In 2013, I moved back to the United States where I was one of the leaders of a large, collaborative project with colleagues at the College of Charleston, GEOMAR (Kiel, Germany), Station Biologique de Roscoff (France), and several Japanese universities (Kagoshima University, Tohoku University, Hokkaido University, and Fukui Prefectural University) investigating genetic adaptation during biological invasions.\n\nIn 2014, I became a regular contributor to the blog The Molecular Ecologist (TME) in which I write weekly shorts (and sometimes longer posts — see this post on my journey to becoming a marine biologist) on the latest in molecular ecology. As I began working with my fellow contributors, I became more interested in scientific communication, both among other scientists in different disciplines and with the general public. In addition to my role as a blogger at TME, I have also gotten involved in other outreach for the classroom to bridging the gap between science and art. I am looking forward to continuing and expanding these programs at UAB and in Birmingham.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3446-stacy-kruegerhadfield",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      }
+    ]
+  },
+  "discoveryId": "3446",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 86,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 75,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stacy",
+  "firstNameLastName": "Stacy Krueger-Hadfield",
+  "equipmentLinkTypes": [],
+  "objectId": 3446,
+  "updatedWhen": "2025-05-10T08:09:38.3368600-05:00",
+  "hasCollaborationData": true,
+  "email": "sakh@uab.edu",
+  "publication_keywords": "Genetics",
+  "grant_keywords": ""
+}

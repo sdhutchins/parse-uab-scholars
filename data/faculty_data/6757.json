@@ -1,0 +1,151 @@
+{
+  "lastName": "Lu",
+  "overview": "Dr. Rui Lu received his Ph.D. degree from the University of the Chinese Academy of Sciences and then completed his post-doctoral training at the University of North Carolina at Chapel Hill. Dr. Lu’s laboratory is dedicated to uncovering the epigenetic mechanisms that drive cancer development, with the goal of developing targeted, mechanism-based therapies. His expertise spans transcriptional and epigenetic regulation, chromatin dynamics, and leukemia biology, honed through extensive molecular, cellular, genomic, mouse model, and bioinformatic approaches. His independent research programs in leukemia research have successfully attracted multiple competitive grants and have resulted in a series of high impact peer-reviewed papers (Cancer Cell 2016, Nature 2018, eLife 2020, Blood Advances 2021, Leukemia 2022, Blood 2024).\n\nCurrently, his lab is focused on understanding epigenetic regulation in hematological malignancies such as acute myeloid leukemia. Dr. Lu’s research covers three key areas: (1) investigating the molecular basis of driver mutations in cancer, (2) identifying novel targets for cancer epigenetic therapies, and (3) exploring the mechanisms of resistance to epigenetic therapies in cancer. Explore opportunities to join Dr. Lu's research at: https://www.lu-lab.org/joinus.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6757-rui-lu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Gene Expression (incl. Microarray and other genome-wide approaches)",
+          "Expression (incl. Microarray and other genome-wide approaches)",
+          "(incl. Microarray and other genome-wide approaches)",
+          "Microarray and other genome-wide approaches)",
+          "and other genome-wide approaches)",
+          "other genome-wide approaches)",
+          "genome-wide approaches)",
+          "approaches)"
+        ],
+        "value": "Gene Expression (incl. Microarray and other genome-wide approaches)"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Bioinformatics"
+        ],
+        "value": "Bioinformatics"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Haematological Tumours",
+          "Tumours"
+        ],
+        "value": "Haematological Tumours"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epigenetics (incl. Genome Methylation and Epigenomics)",
+          "(incl. Genome Methylation and Epigenomics)",
+          "Genome Methylation and Epigenomics)",
+          "Methylation and Epigenomics)",
+          "and Epigenomics)",
+          "Epigenomics)"
+        ],
+        "value": "Epigenetics (incl. Genome Methylation and Epigenomics)"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Cancer Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Genetics",
+          "Genetics"
+        ],
+        "value": "Cancer Genetics"
+      }
+    ]
+  },
+  "discoveryId": "6757",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 39,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rui",
+  "firstNameLastName": "Rui Lu",
+  "equipmentLinkTypes": [],
+  "objectId": 6757,
+  "updatedWhen": "2025-05-10T08:13:42.6743089-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Aging Biotechnology Cancer Cardiovascular Childhood Leukemia Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Hematology Human Genome Minority Health Orphan Drug Pediatric Pediatric Cancer Pediatric Research Initiative Radiation Oncology Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease Human Genome"
+}

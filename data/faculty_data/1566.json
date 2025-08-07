@@ -1,0 +1,125 @@
+{
+  "lastName": "Azuero",
+  "overview": "Dr. Azuero's focus is on the design, management, and analysis of clinical trials and health interventions, and the use of statistical and machine learning techniques for modeling treatment response and observational data. He is experienced in a broad spectrum of classical statistical and machine learning techniques. He collaborates in several research projects within and outside UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1566-andres-azuero",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1566",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 42,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 108,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 68,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 334,
+      "favourites": 0
+    }
+  },
+  "firstName": "Andres",
+  "firstNameLastName": "Andres Azuero",
+  "equipmentLinkTypes": [],
+  "objectId": 1566,
+  "updatedWhen": "2025-05-10T08:05:38.5938180-05:00",
+  "hasCollaborationData": true,
+  "email": "andreo@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Brain Disorders Breast Cancer Cancer Caregiving Research Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Depression Dissemination and Implementation Research Drug Abuse (NIDA only) Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Mental Health Mental Illness Mind and Body Minority Health Opioid Misuse and Addiction Opioids Pain Research Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Precision Medicine Prevention Rural Health Social Determinants of Health Substance Misuse Women's Health",
+  "grant_keywords": "Acquired Cognitive Impairment Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dissemination and Implementation Research HIV/AIDS Health Disparities Health Services Heart Disease Infectious Diseases Mental Health Minority Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Pain Research Prevention Rehabilitation Rural Health Sexually Transmitted Infections Social Determinants of Health"
+}

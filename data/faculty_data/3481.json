@@ -1,0 +1,126 @@
+{
+  "discoveryId": "3481",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 14,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 256,
+      "favourites": 1
+    }
+  },
+  "lastName": "Arora",
+  "firstName": "Pankaj",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3481-pankaj-arora",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor-Medicine MD",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Pankaj Arora",
+  "equipmentLinkTypes": [],
+  "objectId": 3481,
+  "updatedWhen": "2025-05-10T08:09:38.3635851-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biotechnology",
+          "Biotechnology"
+        ],
+        "value": "Medical Biotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "parora@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Human Genome Minority Health Orphan Drug Pediatric Cardiomyopathy Pediatric Research Initiative Physical Activity Prevention Rare Diseases",
+  "grant_keywords": "Aging Cardiovascular Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Human Genome Hypertension Minority Health Nutrition Obesity Physical Activity Precision Medicine Prevention Social Determinants of Health Women's Health"
+}

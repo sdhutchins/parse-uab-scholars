@@ -1,0 +1,122 @@
+{
+  "discoveryId": "385",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 39,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hunter",
+  "firstName": "Chad",
+  "hasThumbnail": true,
+  "discoveryUrlId": "385-chad-hunter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "firstNameLastName": "Chad Hunter",
+  "equipmentLinkTypes": [],
+  "objectId": 385,
+  "updatedWhen": "2025-05-10T08:03:00.8154247-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "huntercs@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biotechnology Cancer Diabetes Digestive Diseases Genetics Human Genome Nutrition Pancreatic Cancer Pediatric Research Initiative Rare Diseases Stem Cell Research Stem Cell Research - Embryonic - Non-Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Aging Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Diabetes Genetics Mental Health Neurosciences Nutrition Obesity Pediatric Precision Medicine"
+}

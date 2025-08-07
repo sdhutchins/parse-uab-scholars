@@ -1,0 +1,124 @@
+{
+  "discoveryId": "851",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 39,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hayes",
+  "firstName": "Leslie",
+  "hasThumbnail": true,
+  "discoveryUrlId": "851-leslie-hayes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Critical Care"
+    }
+  ],
+  "firstNameLastName": "Leslie Hayes",
+  "equipmentLinkTypes": [],
+  "objectId": 851,
+  "updatedWhen": "2025-05-10T08:04:12.9576202-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "lwhayes@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Diabetes Emergency Care Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Infectious Diseases Machine Learning and Artificial Intelligence Mental Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Patient Safety Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Sepsis Social Determinants of Health",
+  "grant_keywords": ""
+}

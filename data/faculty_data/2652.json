@@ -1,0 +1,72 @@
+{
+  "discoveryId": "2652",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 108,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "lastName": "Li",
+  "firstName": "Junfang",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2652-junfang-li",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Junfang Li",
+  "equipmentLinkTypes": [],
+  "objectId": 2652,
+  "updatedWhen": "2025-05-10T08:08:00.9577529-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pure Mathematics",
+          "Mathematics"
+        ],
+        "value": "Pure Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "jfli@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

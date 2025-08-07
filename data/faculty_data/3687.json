@@ -1,0 +1,130 @@
+{
+  "lastName": "Marquez-Lago",
+  "overview": "Research in the Marquez-Lago lab combines (wet lab) experiments involving bioengineering, micro- and molecular biology techniques, with (drylab) data analysis, AI, modeling and simulation techniques. In a nutshell, we investigate (1) host-microbiota interactions in complex human diseases, (2) microbial multi-drug resistance, and (3) gene expression and chromatin organization. In addition, we study (4) the role and effect of mechanical forces ('mechanobiology') and cell compartmentalization in pathogenesis.\n \nIn our work, we integrate experiments and data (DNA/RNA/ATAC/ChIP-seq, metabolomics, proteomics, super-resolution microscopy, etc.) into calibrated models that have predictive power, revealing testable experiments in fundamental biology and translational research. Our research and methods are primarily aimed at identifying effective biomarkers and viable precision therapeutics.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3687-tatiana-marquezlago",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Information and Computing Sciences",
+          "Information and Computing Sciences",
+          "and Computing Sciences",
+          "Computing Sciences",
+          "Sciences"
+        ],
+        "value": "Other Information and Computing Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computation Theory and Mathematics",
+          "Theory and Mathematics",
+          "and Mathematics",
+          "Mathematics"
+        ],
+        "value": "Computation Theory and Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "3687",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 72,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tatiana",
+  "firstNameLastName": "Tatiana Marquez-Lago",
+  "equipmentLinkTypes": [],
+  "objectId": 3687,
+  "updatedWhen": "2025-05-10T08:09:59.9126096-05:00",
+  "hasCollaborationData": true,
+  "email": "tmarquez@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Brain Disorders Cancer Cancer Genomics Genetics Hearing Loss Human Genome Infectious Diseases Neurosciences Pediatric Research Initiative Prevention Rehabilitation Uterine Cancer Women's Health",
+  "grant_keywords": "Autoimmune Disease Biotechnology Diabetes Genetics Neurofibromatosis Neurosciences Pediatric Pediatric Research Initiative Precision Medicine Rare Diseases"
+}

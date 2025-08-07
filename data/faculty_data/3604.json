@@ -1,0 +1,45 @@
+{
+  "discoveryId": "3604",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 56,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Clements",
+  "overview": "A native of northern Missouri, Jill Hamilton Clements works primarily on Old English language and literature, with research interests in medieval views of death and dying, practices of commemoration, and early medieval law. Her current book project, Writing the Dead in Anglo-Saxon England, examines the interplay of dead bodies and texts in Anglo-Saxon commemorative genres and in religious and heroic poetry. Her recent work has been published in Gesta and in Anglo-Saxon England, and she has chapters forthcoming in the Routledge History of Death in Medieval Europe and the Brill collection on Dealing with the Dead: Mortality and Community in Medieval and Early Modern Europe. (You can find more information about Dr. Clements’ ongoing work on Academia.edu.)\n\nClements has taught a range of literature and language courses, including the history of the English language and topics courses on quests in medieval literature and monstrosity from Beowulf to Frankenstein. Drawing on her background in art history and material culture, she is particularly interested in interdisciplinary approaches to medieval texts and written artifacts. Students in her literature courses have opportunities to consider issues of language and interpretation alongside visual sources such as maps, stone inscriptions, archaeological finds, and manuscript illuminations.",
+  "firstName": "Jill",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3604-jill-clements",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Jill Clements",
+  "equipmentLinkTypes": [],
+  "objectId": 3604,
+  "updatedWhen": "2025-05-10T08:09:49.3450689-05:00",
+  "hasCollaborationData": false,
+  "email": "jclem@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Mountz",
+  "overview": "Dr. Mountz is a Professor of Medicine and Director of the UAB Recombinant Inbred Strain Facility. Dr. Mountz is the Co-Director of the UAB Bone Center, the UAB Center for Aging, Basic Biology Component, and is a Physician at the Birmingham Veterans Administration Medical Center. Dr. Mountz is the recipient of the J. W. & Virginia Goodwin-Warren D. Blackburn, Jr. Research Chair in Rheumatology (2002) and recipient of the Max Cooper Award for Excellence in Research (2003). Dr. Mountz was designated one of 50 Arthritis Foundation ¡§Heroes¡¨for outstanding contributions for research in Rheumatology (2002). Dr. Mountz was Co-Chair of the National Institutes on Aging Task Force on Immunology and Aging and Co-Chair of the ¡§Leukocyte Trafficking in Inflammatory Disease¡¨ symposium at the 2004 annual meeting of the American Association of Immunologists. Dr. Mountz received a Ph.D. in High Energy Physics and graduated Summa Cum Laude before carrying out a post-doctoral fellowship in the area of biophysics studying bilayer lipid membranes. Dr. Mountz then received an MD from Ohio State University and carried out an internship of residency and a one-year fellowship in Internal Medicine in Rheumatology. Dr. Mountz was a research staff fellow at the National Institutes of Health for five years and also an Assistant Professor of Medicine at the Naval Bethesda Medical Center. During this time, Dr. Mountz was the first investigator to identify that Onco genes were elevated in autoimmune mice and humans. Dr. Mountz became an Assistant Professor of Medicine at The University of Alabama at Birmingham in 1987, where he produced the first transgenic mouse expressing Fas in T cells and ameliorated the lymphoproliferative autoimmune disease in /lpr (Fas mutant mice). Dr. Mountz then identified the Fas mutation in MRL-lpr/lpr mice as being an insertion of the Etn retrotransposon. Dr. Mountz also was the first investigator to study clono-deletion and energy induction in PCR transgenic mice on the lpr/lpr background. Dr. Mountz continues an active research program in lupus, arthritis, molecular nuclear imaging, immune response to virus and poxvirus and gene therapy, as well as T-cell senescence in aging in both mice and humans.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "692-john-mountz",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "692",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 36,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 282,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Mountz",
+  "equipmentLinkTypes": [],
+  "objectId": 692,
+  "updatedWhen": "2025-05-10T08:03:50.0191373-05:00",
+  "hasCollaborationData": true,
+  "email": "jdmountz@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Biotechnology Coronaviruses Emerging Infectious Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunization Infectious Diseases Kidney Disease Lupus Minority Health Prevention Vaccine Related Women's Health",
+  "grant_keywords": "Aging Arthritis Autoimmune Disease Chronic Pain Clinical Research Genetics Health Disparities Human Genome Lupus Minority Health Osteoarthritis Pain Research Precision Medicine Regenerative Medicine Women's Health"
+}

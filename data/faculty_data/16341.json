@@ -1,0 +1,123 @@
+{
+  "discoveryId": "16341",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 47,
+      "favourites": 0
+    }
+  },
+  "lastName": "Osuka",
+  "firstName": "Satoru",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16341-satoru-osuka",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurosurgery - Laboratory Research"
+    }
+  ],
+  "firstNameLastName": "Satoru Osuka",
+  "equipmentLinkTypes": [],
+  "objectId": 16341,
+  "updatedWhen": "2025-05-10T08:15:54.5619853-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sosuka@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Brain Cancer Brain Disorders Cancer Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Emerging Infectious Diseases Genetics Hematology Human Genome Immunization Infectious Diseases Nanotechnology Neurosciences Orphan Drug Pediatric Cancer Pediatric Research Initiative Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Stem Cell Research - Umbilical Cord Blood/ Placenta Stem Cell Research - Umbilical Cord Blood/ Placenta - Human Vaccine Related",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Brain Cancer Brain Disorders Cancer Genetics Neurosciences Orphan Drug Pediatric Pediatric Cancer Radiation Oncology Rare Diseases"
+}

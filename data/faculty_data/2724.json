@@ -1,0 +1,121 @@
+{
+  "lastName": "Crowe",
+  "overview": "Dr. Crowe is a licensed clinical psychologist with specialization in geropsychology and neuropsychology. His research is centered on cognitive and mental health during older adulthood, with an emphasis on modifiable risk and protective factors for cognitive decline and dementia. Dr. Crowe has led a number of investigations focused on cognitive aging outcomes in relation to factors such as leisure activity and environmental complexity, indicators of stress, quantity and quality of education, and health conditions such as diabetes. In much of his recent work, he has focused on cognitive and mental health outcomes in populations with known health disparities, older African American and Hispanic adults. He is currently the Principal Investigator for a five-year project in Puerto Rico (https://sites.uab.edu/prehco/) and Dr. Crowe is also an investigator for two large national studies of aging and health that are based at UAB: REGARDS (https://www.uab.edu/soph/regardsstudy/about), and CARDIA (https://www.cardia.dopm.uab.edu/). He is a co-leader for the Research Education Core of the Deep South Resource Center for Minority Aging Research (RCMAR) and serves as Director for the undergraduate Psychology Honors Program at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2724-michael-crowe",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "2724",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 133,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 136,
+      "favourites": 0
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Crowe",
+  "equipmentLinkTypes": [],
+  "objectId": 2724,
+  "updatedWhen": "2025-05-10T08:08:11.1291631-05:00",
+  "hasCollaborationData": true,
+  "email": "mgcrowe@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cerebrovascular Childhood Injury Clinical Research Dementia Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Mental Health Mental Illness Minority Health Neurodegenerative Neurosciences Pediatric Physical Injury - Accidents and Adverse Effects Rehabilitation Social Determinants of Health Stroke Tobacco Tobacco Smoke and Health Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury Unintentional Childhood Injury",
+  "grant_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Health Disparities Mental Health Minority Health Social Determinants of Health"
+}

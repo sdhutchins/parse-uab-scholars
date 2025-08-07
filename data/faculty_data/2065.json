@@ -1,0 +1,123 @@
+{
+  "lastName": "Novak",
+  "overview": "Jan Novak is a Professor in the Department of Microbiology at the University of Alabama at Birmingham (UAB), Birmingham, AL, USA. He received BS and MS in Biology from the Charles University, Prague, Czech Republic and PhD in Cell and Molecular Biology from the Czech Academy of Sciences. He has been at UAB since 1992. He was appointed to the rank of UAB Distinguished Professor in 2022",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2065-jan-novak",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "2065",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 31,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 314,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jan",
+  "firstNameLastName": "Jan Novak",
+  "equipmentLinkTypes": [],
+  "objectId": 2065,
+  "updatedWhen": "2025-05-10T08:06:35.9590917-05:00",
+  "hasCollaborationData": true,
+  "email": "jannovak@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Autoimmune Disease Cancer Clinical Research Clinical Trials and Supportive Activities Infectious Diseases Kidney Disease Pediatric Rare Diseases Sexually Transmitted Infections Women's Health",
+  "grant_keywords": "Autoimmune Disease Biotechnology Clinical Research HIV/AIDS Immunization Infectious Diseases Kidney Disease Orphan Drug Rare Diseases Sexually Transmitted Infections Women's Health"
+}

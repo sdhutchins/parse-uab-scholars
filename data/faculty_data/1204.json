@@ -1,0 +1,127 @@
+{
+  "lastName": "Beierle Chen",
+  "overview": "Dr. Beierle received her undergraduate degree and medical degree from the University of North Dakota, graduating in 1989. She completed a general surgery internship at Baylor College of Medicine in Houston and subsequently completed her surgical residency at the University of Florida in 1996. She completed her pediatric surgery fellowship training in Philadelphia at St. Christopher’s Hospital for Children in 1998. Dr. Beierle came to the University of Alabama at Birmingham in 2009, after spending over nine years on the faculty at the University of Florida. She specializes in the surgical care of children and neonates with a special emphasis upon pediatric surgical oncology. She has an active basic science research laboratory that focuses on novel therapeutics for pediatric solid tumors. She has mentored a number of undergraduate students, medical students, residents and graduate students in her lab.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1204-elizabeth-beierle-chen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - Pediatric"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "1204",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 291,
+      "favourites": 0
+    }
+  },
+  "firstName": "Elizabeth",
+  "firstNameLastName": "Elizabeth Beierle Chen",
+  "equipmentLinkTypes": [],
+  "objectId": 1204,
+  "updatedWhen": "2025-05-10T08:04:55.7260837-05:00",
+  "hasCollaborationData": true,
+  "email": "ebchen@uab.edu",
+  "publication_keywords": "Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Clinical Research Digestive Diseases Gene Therapy Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Immunotherapy Infectious Diseases Liver Disease Minority Health Neuroblastoma Neurosciences Orphan Drug Pediatric Pediatric Cancer Pediatric Research Initiative Radiation Oncology Rare Diseases Sexually Transmitted Infections",
+  "grant_keywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Radiation Oncology"
+}

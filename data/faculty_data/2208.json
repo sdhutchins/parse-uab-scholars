@@ -1,0 +1,120 @@
+{
+  "discoveryId": "2208",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 47,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 269,
+      "favourites": 0
+    }
+  },
+  "lastName": "Crossman",
+  "firstName": "David",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2208-david-crossman",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "firstNameLastName": "David Crossman",
+  "equipmentLinkTypes": [],
+  "objectId": 2208,
+  "updatedWhen": "2025-05-10T08:07:03.7214455-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dkcrossm@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Cardiovascular Clinical Research Duchenne/ Becker Muscular Dystrophy Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Human Genome Muscular Dystrophy Neurofibromatosis Neurosciences Pediatric Pediatric Cancer Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunotherapy Minority Health Prevention Rural Health Social Determinants of Health Women's Health"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1382",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 264,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Vlachos",
+  "firstName": "Christos",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1382-christos-vlachos",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Orthodontics"
+    }
+  ],
+  "firstNameLastName": "Christos Vlachos",
+  "equipmentLinkTypes": [],
+  "objectId": 1382,
+  "updatedWhen": "2025-05-10T08:05:15.7878404-05:00",
+  "hasCollaborationData": false,
+  "email": "cvlachos@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

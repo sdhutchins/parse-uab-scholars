@@ -1,0 +1,118 @@
+{
+  "lastName": "Lukhele",
+  "overview": "Dr. Bhekumusa W Lukhele (Ph.D., MPH, Kyoto University; BNS, University of Eswatini) is an Assistant Professor in the Department of Health Policy and Organization. Dr. Lukhele's teaching interests include Global Health, Global Health Governance, Infectious Diseases, and  Innovations in the Prevention and Control of Infectious Diseases. He has been a teaching assistant at the School of Public Health at Kyoto University, under the Kyoto University Global Health Interdisciplinary Unit, and a voluntary Assistant Professor at Baylor College of Medicine. He has published in several peer-reviewed journals, including Journal of the International AIDS Society, PLoS ONE, and Emerging Infectious Diseases and is co-author of a textbook chapter on Undernutrition, Food Insecurity, and Antiretroviral Outcomes: An Overview of Evidence from sub-Saharan Africa. His research interests include TB, HIV, and HPV. Other than teaching, and scholarly work, he has served as the Country Director at the Institute of Health Measurement Southern Africa and the Executive Director for Baylor College of Medicine Children's Foundation Eswatini.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18006-bhekumusa-lukhele",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epidemiology"
+        ],
+        "value": "Epidemiology"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services not elsewhere classified",
+          "Health and Health Services not elsewhere classified",
+          "and Health Services not elsewhere classified",
+          "Health Services not elsewhere classified",
+          "Services not elsewhere classified",
+          "not elsewhere classified",
+          "elsewhere classified",
+          "classified"
+        ],
+        "value": "Public Health and Health Services not elsewhere classified"
+      }
+    ]
+  },
+  "discoveryId": "18006",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 32,
+      "favourites": 0
+    }
+  },
+  "firstName": "Bhekumusa",
+  "firstNameLastName": "Bhekumusa Lukhele",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "Students describe their understanding of Global Health after taking one of my classes",
+      "embedLink": "https://www.youtube-nocookie.com/embed/u93I-t41u_s",
+      "label": "Intro to Global Health",
+      "thumbnailLink": "https://img.youtube.com/vi/u93I-t41u_s/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/u93I-t41u_s?autoplay=1"
+    },
+    {
+      "accessibleDescription": "Kyoto University School of Public Health\n\"Game for health: Introduction to the serious game in public health\"\n\nSwaziYolo Serious Game Example\nBhekumusa Lukhele\n\nNovember 18, 2016\n\nYou can find the other lectures on Kyoto University OCW:\nhttps://ocw.kyoto-u.ac.jp/course/579/",
+      "embedLink": "https://www.youtube-nocookie.com/embed/0S8blMMhYAQ",
+      "label": "Kyoto University \"Game for health: Introduction to serious game in public health\" Nov. 18, 2016",
+      "thumbnailLink": "https://img.youtube.com/vi/0S8blMMhYAQ/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/0S8blMMhYAQ?autoplay=1"
+    },
+    {
+      "accessibleDescription": "Kyoto University School of Public Health\n\"Game for health: Introduction to the serious game in public health\"\n\nIntroduction: Definition of concepts\nBhekumusa Lukhele\n\nOctober 7, 2016",
+      "embedLink": "https://www.youtube-nocookie.com/embed/njA0xfG__40",
+      "label": "Introduction: Definition of Concepts Bhekumusa Lukhele, Kyoto University",
+      "thumbnailLink": "https://img.youtube.com/vi/njA0xfG__40/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/njA0xfG__40?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 18006,
+  "updatedWhen": "2025-05-10T08:18:35.7774374-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Infectious Diseases Pediatric Pediatric AIDS Pediatric Research Initiative Prevention Sexually Transmitted Infections",
+  "grant_keywords": ""
+}

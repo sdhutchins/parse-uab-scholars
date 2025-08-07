@@ -1,0 +1,127 @@
+{
+  "lastName": "Hearld",
+  "overview": "Larry R. Hearld, Ph.D. is a Professor in the Department of Health Services Administration at the University of Alabama at Birmingham. He received his doctorate from the University of Michigan’s School of Public Health with an emphasis in Organizational Studies. His research encompasses two focal areas: 1) the development and sustainability of interorganizational and interpersonal relationships and the effects of these relationships on market-, organization-, and patient-level outcomes and 2) the adoption and implementation of health care innovations. This research has utilized a range of methodological approaches, including mixed methods and longitudinal techniques. He currently teaches courses in research methods, organizational behavior, and dissemination and implementation science.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1835-larry-hearld",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1835",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 180,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 97,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 258,
+      "favourites": 0
+    }
+  },
+  "firstName": "Larry",
+  "firstNameLastName": "Larry Hearld",
+  "equipmentLinkTypes": [],
+  "objectId": 1835,
+  "updatedWhen": "2025-05-10T08:06:00.9213977-05:00",
+  "hasCollaborationData": true,
+  "email": "lhearld@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Cancer Caregiving Research Clinical Research Emergency Care Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Lupus Minority Health Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

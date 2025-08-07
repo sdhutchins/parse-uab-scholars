@@ -1,0 +1,116 @@
+{
+  "discoveryId": "1983",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 76,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 251,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 43,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 331,
+      "favourites": 0
+    }
+  },
+  "lastName": "Levitan",
+  "firstName": "Emily",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1983-emily-levitan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "firstNameLastName": "Emily Levitan",
+  "equipmentLinkTypes": [],
+  "objectId": 1983,
+  "updatedWhen": "2025-05-10T08:06:24.5052801-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Infectious Diseases",
+          "Diseases"
+        ],
+        "value": "Infectious Diseases"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epidemiology"
+        ],
+        "value": "Epidemiology"
+      },
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiology (incl. Cardiovascular Diseases)",
+          "(incl. Cardiovascular Diseases)",
+          "Cardiovascular Diseases)",
+          "Diseases)"
+        ],
+        "value": "Cardiology (incl. Cardiovascular Diseases)"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "elevitan@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Brain Disorders Cardiovascular Cerebrovascular Clinical Research Health Disparities Heart Disease Hypertension Kidney Disease Minority Health Neurosciences Nutrition Obesity Patient Safety Physical Injury - Accidents and Adverse Effects Prevention Stroke Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

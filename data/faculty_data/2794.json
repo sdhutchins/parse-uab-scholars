@@ -1,0 +1,115 @@
+{
+  "discoveryId": "2794",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 99,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "lastName": "Merritt",
+  "firstName": "Stephen",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2794-stephen-merritt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Anthropology"
+    }
+  ],
+  "firstNameLastName": "Stephen Merritt",
+  "equipmentLinkTypes": [],
+  "objectId": 2794,
+  "updatedWhen": "2025-05-10T08:08:22.0504811-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Archaeology"
+        ],
+        "value": "Archaeology"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geology"
+        ],
+        "value": "Geology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geochemistry"
+        ],
+        "value": "Geochemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "stmerr@uab.edu",
+  "publication_keywords": "Clinical Research Nutrition",
+  "grant_keywords": ""
+}

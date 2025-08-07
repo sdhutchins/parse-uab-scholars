@@ -1,0 +1,128 @@
+{
+  "lastName": "Patel",
+  "overview": "Rakesh Patel PhD is Professor and Vice Chair for Research in the Department of Pathology, and Director of the UAB Center for Free Radical Biology. He is a graduate of the University of Essex, England (BSc with Hons (1993) and PhD in Biochemistry (1996)) and moved to UAB in 1997. He is also director of the UAB Translational and Molecular sciences Certificate and T32 Program (for Predocs), and past Director of the Department of Pathology Graduate Program (7y), UAB Pathobiology and Molecular Medicine Graduate theme (5y)  and HHMI-UAB Med to Grad predoctoral program (6y). Since establishing his independent research laboratory in 2000, his lab has focused on understanding the role of oxidative / nitrosative intermediates in modulating acute and chronic inflammatory diseases.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2138-rakesh-patel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "2138",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 47,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 159,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 344,
+      "favourites": 10
+    }
+  },
+  "firstName": "Rakesh",
+  "firstNameLastName": "Rakesh Patel",
+  "equipmentLinkTypes": [],
+  "objectId": 2138,
+  "updatedWhen": "2025-05-10T08:06:50.7212166-05:00",
+  "hasCollaborationData": true,
+  "email": "rakeshp@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Genetics Heart Disease Heart Disease - Coronary Heart Disease Hematology Human Genome Kidney Disease Lung Nutrition Pediatric Prevention",
+  "grant_keywords": "Cachexia Chronic Obstructive Pulmonary Disease Clinical Research Dietary Supplements Genetics Kidney Disease Lung Nutrition Prevention"
+}

@@ -1,0 +1,109 @@
+{
+  "lastName": "Nelson",
+  "overview": "My lab takes advantage of opportunities to perform in-vivo intracranial recordings and causal experiments in human patient volunteers to study a key component of what makes us uniquely human- language. Before focusing on human intracranial work, my background is cognitive and systems neuroscience using single unit and local field potential recordings in awake behaving macaques. I have also made contributions to the neurophysiology the technique and theory of extracellular recordings.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16278-matthew-nelson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurosurgery - Clinical Research"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "16278",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "firstName": "Matthew",
+  "firstNameLastName": "Matthew Nelson",
+  "equipmentLinkTypes": [],
+  "objectId": 16278,
+  "updatedWhen": "2025-05-10T08:15:45.2787577-05:00",
+  "hasCollaborationData": true,
+  "email": "nelsonmj@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Aphasia Assistive Technology Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Dementia Frontotemporal Dementia (FTD) Neurodegenerative Neurosciences Parkinson's Disease Rare Diseases Rehabilitation",
+  "grant_keywords": "Aging Assistive Technology Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Neurodegenerative Neurosciences Parkinson's Disease Rehabilitation Women's Health"
+}

@@ -1,0 +1,127 @@
+{
+  "lastName": "Jones",
+  "overview": "Dr. Jones received his bachelor degree in philosophy, minoring in neuroscience at Dartmouth College in Hanover, N.H., in 2003. He received his medical degree from Chicago Medical College, graduating first in his class in 2008. Dr. Jones completed his internship in general surgery and research fellowship in radiology at the University of Southern California (USC). He also completed his radiology residency and fellowships in diagnostic and interventional neuroradiology at USC in 2019.\n\nDr. Jones serves as a diplomate of the American Board of Radiology, member of the Societies of Neuro Interventional Surgery, American Neuroradiology and the Radiological Society of North America.\n\nDr. Jones’ clinical interests include cerebral aneurysms, AVM, dural arteriovenous fistula, chronic subdural hematoma, venous sinus stenting, ischemic stroke, carotid stenosis, spinal angiography, vein of Galen aneurysmal malformation, inferior petrosal sinus sampling, and sclerotherapy of venolymphatic malformation.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7220-jesse-jones",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurosurgery"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "7220",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 79,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jesse",
+  "firstNameLastName": "Jesse Jones",
+  "equipmentLinkTypes": [],
+  "objectId": 7220,
+  "updatedWhen": "2025-05-12T03:19:08.2772395-05:00",
+  "hasCollaborationData": true,
+  "email": "jgjones@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Brain Disorders Cardiovascular Cerebrovascular Clinical Research Heart Disease Nanotechnology Neurosciences Pediatric Prevention Stroke Tobacco Tobacco Smoke and Health",
+  "grant_keywords": ""
+}

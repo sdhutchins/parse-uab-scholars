@@ -1,0 +1,124 @@
+{
+  "discoveryId": "1988",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 265,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 43,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 147,
+      "favourites": 0
+    }
+  },
+  "lastName": "Shrestha",
+  "firstName": "Sadeep",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1988-sadeep-shrestha",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "firstNameLastName": "Sadeep Shrestha",
+  "equipmentLinkTypes": [],
+  "objectId": 1988,
+  "updatedWhen": "2025-05-10T08:06:24.5152828-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "sshresth@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Biotechnology Cancer Cardiovascular Cervical Cancer Clinical Research Dental/Oral and Craniofacial Disease Genetics Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Human Genome Infectious Diseases Minority Health Orphan Drug Patient Safety Pediatric Research Initiative Prevention Rare Diseases Sexually Transmitted Infections Women's Health",
+  "grant_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cancer Cardiovascular Clinical Research Coronaviruses Dental/Oral and Craniofacial Disease Genetics HIV/AIDS Health Disparities Heart Disease Heart Disease - Coronary Heart Disease Human Genome Infectious Diseases Minority Health Prevention Rare Diseases Rural Health Sexually Transmitted Infections Social Determinants of Health Women's Health"
+}

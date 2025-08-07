@@ -1,0 +1,130 @@
+{
+  "lastName": "Wells",
+  "overview": "Dr. Wells’ research and clinical interest focuses on COPD, including COPD-associated pulmonary vascular disease. He is currently exploring the mechanism by which a tri-peptide extracellular matrix collagen fragment causes pulmonary hypertension in COPD through a translational research project that incorporates his interest in proteomics and imaging. Dr. Wells received his Internal Medicine and Pulmonary / Critical Care post-graduate training at the University of Alabama at Birmingham (UAB). He also served as Chief Medical Resident from 2008-2009. During his pulmonary fellowship, Dr. Wells was the first post-doctoral fellow at UAB selected to the T32 Training Grant in Lung Biology and Translational Medicine under the mentorship of Drs. Blalock and Dransfield in 2010.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "665-james-wells",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "665",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 87,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 160,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Wells",
+  "equipmentLinkTypes": [],
+  "objectId": 665,
+  "updatedWhen": "2025-05-10T08:03:49.9740545-05:00",
+  "hasCollaborationData": true,
+  "email": "jmwells@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Emphysema Lung Mental Health Mind and Body Precision Medicine Tobacco Tobacco Smoke and Health",
+  "grant_keywords": "Chronic Obstructive Pulmonary Disease Emphysema Lung Prevention Tobacco Tobacco Smoke and Health"
+}

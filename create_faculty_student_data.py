@@ -30,6 +30,67 @@ def extract_student_name(title: str) -> Optional[str]:
     return None
 
 
+def sanitize_research_areas(research_tags: List[str]) -> List[str]:
+    """
+    Clean and split research areas, handling parenthetical text.
+    
+    Examples:
+    - "Epigenetics (incl. Genome Methylation and Epigenomics)" 
+      → ["Epigenetics", "Genome Methylation", "Epigenomics"]
+    - "Cancer (Oncology)" → ["Cancer", "Oncology"]
+    """
+    cleaned_areas = []
+    
+    for tag in research_tags:
+        # Check if tag contains parentheses
+        if '(' in tag and ')' in tag:
+            # Extract main term (before parentheses)
+            main_term = tag.split('(')[0].strip()
+            if main_term:
+                cleaned_areas.append(main_term)
+            
+            # Extract content inside parentheses
+            paren_content = re.search(r'\(([^)]+)\)', tag)
+            if paren_content:
+                content = paren_content.group(1).strip()
+                
+                # Handle common prefixes like "incl.", "including", "e.g.", etc.
+                content = re.sub(r'^(incl\.?|including|e\.g\.?|for example|such as)\s*', '', content, flags=re.IGNORECASE)
+                
+                # Split by common separators
+                if ' and ' in content:
+                    # Split by " and " and clean each part
+                    parts = content.split(' and ')
+                    for part in parts:
+                        part = part.strip()
+                        if part:
+                            cleaned_areas.append(part)
+                elif ',' in content:
+                    # Split by commas and clean each part
+                    parts = content.split(',')
+                    for part in parts:
+                        part = part.strip()
+                        if part:
+                            cleaned_areas.append(part)
+                else:
+                    # Single term in parentheses
+                    if content:
+                        cleaned_areas.append(content)
+        else:
+            # No parentheses, just add the tag as is
+            cleaned_areas.append(tag.strip())
+    
+    # Remove duplicates while preserving order
+    seen = set()
+    unique_areas = []
+    for area in cleaned_areas:
+        if area and area not in seen:
+            seen.add(area)
+            unique_areas.append(area)
+    
+    return unique_areas
+
+
 def get_all_committee_roles() -> Set[str]:
     """Get all committee roles."""
     return {
@@ -53,13 +114,22 @@ def process_faculty_data() -> List[Dict]:
     """
     faculty_data = []
     
-    # Load scholars profiles for research tags
+    # Load scholars profiles for basic info
     print("Loading scholars profiles...")
     scholars_profiles = {}
     with open("data/uab_scholars_profiles.jsonl", "r") as f:
         for line in f:
             profile = json.loads(line.strip())
             scholars_profiles[profile["discoveryId"]] = profile
+    
+    # Load enhanced faculty data for keywords and email
+    print("Loading enhanced faculty data...")
+    enhanced_profiles = {}
+    faculty_data_dir = Path("data/faculty_data")
+    for json_file in faculty_data_dir.glob("*.json"):
+        discovery_id = json_file.stem
+        with open(json_file, "r") as f:
+            enhanced_profiles[discovery_id] = json.load(f)
     
     # Process committee files
     committees_dir = Path("data/committees_by_id")
@@ -82,18 +152,34 @@ def process_faculty_data() -> List[Dict]:
         # Get faculty name from first committee entry
         faculty_name = committees[0]["userName"]
         
-        # Get research tags and scholars URL from scholars profile
+        # Get research tags, email, and scholars URL
         research_tags = []
+        email = None
         scholars_url = None
+        search_keywords = ""
+        
+        # Get basic info from scholars profile
         if discovery_id in scholars_profiles:
             profile = scholars_profiles[discovery_id]
             if "tags" in profile and "explicit" in profile["tags"]:
-                research_tags = [tag["value"] for tag in profile["tags"]["explicit"]]
+                raw_research_tags = [tag["value"] for tag in profile["tags"]["explicit"]]
+                # Sanitize research areas
+                research_tags = sanitize_research_areas(raw_research_tags)
             if "discoveryUrlId" in profile:
                 scholars_url = f"https://scholars.uab.edu/{profile['discoveryUrlId']}"
         
+        # Get enhanced data (email and keywords)
+        if discovery_id in enhanced_profiles:
+            enhanced = enhanced_profiles[discovery_id]
+            email = enhanced.get("email")
+            pub_keywords = enhanced.get("publication_keywords", "")
+            grant_keywords = enhanced.get("grant_keywords", "")
+            # Combine all keywords for search (not visible in table)
+            search_keywords = f"{pub_keywords} {grant_keywords}".strip()
+        
         # Extract all committee memberships
         students = []
+        current_students = []
         for committee in committees:
             title = committee["title"]
             role_match = re.search(r'\(([^)]+)\)', title)
@@ -103,6 +189,9 @@ def process_faculty_data() -> List[Dict]:
                 if role in committee_roles:
                     student_name = extract_student_name(title)
                     if student_name:
+                        # Check if this is a current student
+                        is_current = (committee["status"] == "Unknown" and committee["endDate"] is None)
+                        
                         students.append({
                             "name": student_name,
                             "role": role,
@@ -110,6 +199,9 @@ def process_faculty_data() -> List[Dict]:
                             "startDate": committee["startDate"],
                             "endDate": committee["endDate"]
                         })
+                        
+                        if is_current:
+                            current_students.append(student_name)
         
         # Only include faculty with students
         if students:
@@ -121,8 +213,11 @@ def process_faculty_data() -> List[Dict]:
                 "discoveryId": discovery_id,
                 "userName": faculty_name,
                 "researchAreas": research_areas,
+                "email": email,
                 "scholarsUrl": scholars_url,
-                "students": student_names
+                "students": student_names,
+                "currentStudents": current_students,  # List of current student names
+                "searchKeywords": search_keywords  # Hidden field for search
             })
     
     return faculty_data

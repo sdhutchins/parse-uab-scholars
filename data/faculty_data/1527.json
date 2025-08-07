@@ -1,0 +1,132 @@
+{
+  "lastName": "Watts",
+  "overview": "Dr. Penni Watts is currently the Assistant Dean for Clinical Simulation at the UAB School of Nursing and the Assistant Director for the Office of Interprofessional Curriculum. She has been instrumental in the integration of clinical simulation experiences as well as interprofessional simulation experiences across multiple programs on campus. Her background includes over 25  years in critical care nursing.  Her training in simulation includes the Center for Medical Simulation Comprehensive Instructor Course and the Advanced Instructor Course. Currently she is active on committees in INACSL and Society for Simulation in Healthcare. Currently, she holds a certification as a CHSE- A (Certified Healthcare Simulation Educator-Advanced), is a fellow in the Society for Simulation in Healthcare and the American Academy of Nursing.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1527-penni-watts",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Information and Computing Sciences",
+          "Information and Computing Sciences",
+          "and Computing Sciences",
+          "Computing Sciences",
+          "Sciences"
+        ],
+        "value": "Other Information and Computing Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "1527",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 105,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 116,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 141,
+      "favourites": 1
+    }
+  },
+  "firstName": "Penni",
+  "firstNameLastName": "Penni Watts",
+  "equipmentLinkTypes": [],
+  "objectId": 1527,
+  "updatedWhen": "2025-05-10T08:05:38.5565011-05:00",
+  "hasCollaborationData": true,
+  "email": "piwatts@uab.edu",
+  "publication_keywords": "Clinical Research Health Services Women's Health",
+  "grant_keywords": ""
+}

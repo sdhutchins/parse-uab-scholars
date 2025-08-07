@@ -1,0 +1,124 @@
+{
+  "lastName": "Waterbor",
+  "overview": "CURRENT \n\nI am a semi-retired Associate Professor of Epidemiology, UAB School of Public Health, 20xx - present.  I continue to work part-time, teaching classroom courses, advising students, and serving on internal and external committees. \n\nInstructor, EPI 610: Principles of Epidemiologic Research (annually, fall semester), EPI 713: Cancer Epidemiology and Control (on demand), and EPI 603: Injury Epidemiology and control (on demand)\n\nLecturer on cancer epidemiology and control in several courses in the UAB Medical Center and O'Neal Comprehensive Cancer Center. \n\nAssistant Editor, Journal of Cancer Education (JCED) and member, Academy of Fellows, American Association for Cancer Education (AACE).  \n\nMember, Alabama Comprehensive Cancer Control Coalition (ACCCC), Alabama Department of Public Health, Montgomery, AL\n\nMember, Advisory Council on Research, Alabama Statewide Cancer Registry (ASCR), Alabama Department of Public Health.\n\nMember, UAB School of Public Health Admissions and Graduation (A & G) Advisory Committee.\n\nMember, Reynolds-Finley Historical Library Archives Committee, Alabama Museum of the Health Sciences, representing UAB School of Public Health.\n\nDean's Distinguished Alumnus of the UAB School of Public Health (2024).  \n\nIn my spare time I take care of our cats, play tennis, and watch Philadelphia Phillies baseball and Philadelphia Eagles football!\n\n\nHISTORICAL \n\nI was a full-time faculty member in the Department of Epidemiology, UAB School of Public Health, from 1988 until I retired in 2014. \n\nMy doctoral dissertation, \"The Mortality Experience of Major League Baseball Players,\" was published in the New England Journal of Medicine in 1988.\n\nI have about 100 publications, not all of them captured on ORCID.  \n\nUAB President's Award for Excellence in Teaching in the School of Public Health (1993 and 2005), nominated twice more (2010 and 2014).  \n\nDirector or Co-Director, several successful cancer training grants (R25, T32) funded by the National Cancer Institute, for students in the UAB School of Public Health and UAB O'Neal Comprehensive Cancer Center (19XX - 2014) \n\nChair of the UAB School of Public Health Faculty Assembly (1998-1999).\n\nMember, UAB Medical Center Cancer Registry Advisory Committee (2000-2015); and Birmingham Veterans' Administration Hospital Tumor Registry Advisory Committee (2000-2006), representing the Department of Epidemiology.\n\nFounding member (2004) and former President (2006-2007), UAB School of Public Health's Upsilon Chapter of Delta Omega Public Health National Honors Society.  \n\nMember and Past President, Alabama Comprehensive Cancer Control Coalition (ACCCC) headquartered in the Alabama Department of Public Health in Montgomery Alabama, whose mission is to control cancer in the community. \n\nApril 29, 2025",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1990-john-waterbor",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      }
+    ]
+  },
+  "discoveryId": "1990",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 236,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 86,
+      "favourites": 1
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Waterbor",
+  "equipmentLinkTypes": [],
+  "objectId": 1990,
+  "updatedWhen": "2025-05-10T08:06:24.5172837-05:00",
+  "hasCollaborationData": true,
+  "email": "h2obor@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cancer Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Infectious Diseases Minority Health Physical Activity Prevention Rehabilitation Sepsis Social Determinants of Health Uterine Cancer Women's Health",
+  "grant_keywords": "Cancer Health Disparities Minority Health Prevention"
+}

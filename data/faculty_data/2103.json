@@ -1,0 +1,116 @@
+{
+  "lastName": "Davis",
+  "overview": "Gregory G. Davis graduated from Vanderbilt Medical School and trained in pathology at Vanderbilt University Medical Center, Nashville, TN, followed by a fellowship in forensic pathology at the San Diego County Medical Examiner Office in San Diego, CA. Dr. Davis then joined the faculty at the University of Alabama at Birmingham, where he currently serves as a Professor and as Director of the Forensic Division of the Department of Pathology. Dr. Davis also serves as Chief Coroner/Medical Examiner for Jefferson County, Alabama, the county in which Birmingham is located. Dr. Davis has earned a Master of Science in Public Health from the UAB School of Public Health. His research interest is the application of epidemiology to the study and practice of forensic pathology, especially drug-related deaths. He has published 78 peer-reviewed manuscripts, including serving as lead author on both the 2013 opioid position paper of the National Association of Medical Examiners and on the updated position paper, which was published in 2020.  He serves on the editorial board of the journal Forensic Science, Medicine, and Pathology. Dr. Davis is a member of the Anatomic Pathology CertLink Test Development and Advisory Committee for the American Board of Pathology. He is a past president of the National Association of Medical Examiners. Dr. Davis currently serves as President-elect of the American Society for Clinical Pathology (ASCP).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2103-gregory-davis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Director",
+      "department": "Forensic Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2103",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 91,
+      "favourites": 23
+    }
+  },
+  "firstName": "Gregory",
+  "firstNameLastName": "Gregory Davis",
+  "equipmentLinkTypes": [],
+  "objectId": 2103,
+  "updatedWhen": "2025-05-10T08:06:50.6751655-05:00",
+  "hasCollaborationData": true,
+  "email": "gdavis@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Drug Abuse (NIDA only) Emergency Care Fentanyl Misuse and Addiction Opioid Misuse and Addiction Opioids Physical Injury - Accidents and Adverse Effects Substance Misuse",
+  "grant_keywords": ""
+}

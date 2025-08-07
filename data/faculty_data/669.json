@@ -1,0 +1,125 @@
+{
+  "lastName": "Zmijewski",
+  "overview": "Dr. Jaroslaw Zmijewski completed his undergraduate education in Biology, graduating from the University of Gdansk. He than completed his PhD training in University of Gdansk Department of Biotechnology, a department dedicated to the research integration between the University of Gdansk and Medical School in Gdansk. Dr. Zmijewski undertook postdoctoral training in the Department of Pathology at UAB and thereafter joined the Department of Medicine, Division of Pulmonary, Allergy and Critical Care Medicine as an Assistant Professor and subsequently Associate Professor.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "669-jaroslaw-zmijewski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "669",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 87,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jaroslaw",
+  "firstNameLastName": "Jaroslaw Zmijewski",
+  "equipmentLinkTypes": [],
+  "objectId": 669,
+  "updatedWhen": "2025-05-10T08:03:49.9896808-05:00",
+  "hasCollaborationData": true,
+  "email": "zmijewsk@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Aging Biodefense Clinical Research Infectious Diseases Lung Orphan Drug Physical Injury - Accidents and Adverse Effects Pneumonia Pneumonia & Influenza Rare Diseases",
+  "grant_keywords": "Acute Respiratory Distress Syndrome Biodefense Emerging Infectious Diseases Genetics Health Disparities Hematology Infectious Diseases Kidney Disease Lung Minority Health Pneumonia Pneumonia & Influenza Rare Diseases Sepsis Sickle Cell Disease"
+}

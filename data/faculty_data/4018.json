@@ -1,0 +1,120 @@
+{
+  "lastName": "Marion",
+  "overview": "My interest in the field and environmental areas of biology have their roots in my childhood growing up in the Ozark foothills of Missouri. Here I played in the creeks and rivers and turned over rocks and logs looking for critters. This led to me desiring to pursue an academic and research career where I could continue and expand my early interests. I have now been at UAB for 40+ years and have taught Introductory Biology, Natural History of the Vertebrates, Ecology, Environmental Biology, and Biology Study Away courses. My research interests have focused on the natural history of various reptiles, amphibians, and fish, with particular emphasis on human impacts on these species.\n\nI was Chair of the Department of Biology from 2000-2008 and have served on a number of Boards of Directors of local and state environmental organizations, including Forever Wild of Alabama. I have also served as President of the Alabama Fisheries Association, the Alabama Academy of Science, and the Association of Southeastern Biologists.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4018-ken-marion",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecological Applications",
+          "Applications"
+        ],
+        "value": "Ecological Applications"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "4018",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 407,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 30,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ken",
+  "firstNameLastName": "Ken Marion",
+  "equipmentLinkTypes": [],
+  "objectId": 4018,
+  "updatedWhen": "2025-05-10T08:10:25.5721082-05:00",
+  "hasCollaborationData": true,
+  "email": "kmarion@uab.edu",
+  "publication_keywords": "Aging Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "5806",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 28,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Richardson",
+  "firstName": "Molly",
+  "hasThumbnail": false,
+  "discoveryUrlId": "5806-molly-richardson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "firstNameLastName": "Molly Richardson",
+  "equipmentLinkTypes": [],
+  "objectId": 5806,
+  "updatedWhen": "2025-05-10T08:12:38.6700090-05:00",
+  "hasCollaborationData": false,
+  "email": "mbernhar@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Maternal Health Maternal Morbidity and Mortality Minority Health Pediatric Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Social Determinants of Health Women's Health"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18624",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Simiele",
+  "firstName": "Samantha",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18624-samantha-simiele",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Radiation Oncology"
+    }
+  ],
+  "firstNameLastName": "Samantha Simiele",
+  "equipmentLinkTypes": [],
+  "objectId": 18624,
+  "updatedWhen": "2025-05-10T08:19:51.0432009-05:00",
+  "hasCollaborationData": false,
+  "email": "ssimiele@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

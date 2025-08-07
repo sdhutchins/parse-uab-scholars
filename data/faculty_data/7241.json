@@ -1,0 +1,45 @@
+{
+  "discoveryId": "7241",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 13,
+      "favourites": 0
+    }
+  },
+  "lastName": "McKeag",
+  "overview": "As a new addition to the UAB team, Dr. McKeag is thrilled to have been named Director for the Family and Community Medicine Sports and Exercise Medicine Fellowship. Originally from the Midwest, he has most recently relocated from the Cone Sports Medicine Fellowship in Greensboro, NC where he was trained in diagnostic and procedural ultrasound. In Greensboro, Dr. McKeag covered Guilford College athletics, Greensboro Swarm (NBA G League), Carolina Cobras (arena football), and local USA Gymnastics and USA Basketball events. He enjoys working with athletes of all levels, and integrating the diagnostic capabilities of ultrasound into the everyday sports medicine clinic. Outside the realm of sports medicine, Dr. McKeag also has a great interest in Global Health (Nepal, Haiti, Honduras), and was the co-principal investigator of the group awarded the 2019 AMSSM Global Service Project Grant. Away from work, he can be found with his wife and two dogs, fishing, camping, or playing some kind of sport.",
+  "firstName": "Ian",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7241-ian-mckeag",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Family & Community Medicine"
+    }
+  ],
+  "firstNameLastName": "Ian McKeag",
+  "equipmentLinkTypes": [],
+  "objectId": 7241,
+  "updatedWhen": "2025-05-10T08:14:29.4080779-05:00",
+  "hasCollaborationData": true,
+  "email": "idmckeag@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Heart Disease Nutrition Physical Activity Prevention Sleep Research",
+  "grant_keywords": ""
+}

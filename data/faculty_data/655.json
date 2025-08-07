@@ -1,0 +1,126 @@
+{
+  "lastName": "Luckhardt",
+  "overview": "Dr. Luckhardt completed her medical training in May 2000 from the Louisiana State University Health Sciences Center in Shreveport, Louisiana, where she graduated Alpha Omega Alpha. She completed her Internal Medicine training at the University of Iowa Hospitals and Clinics in 2003. She was Chief Resident of Internal Medicine at the University of Iowa from 2003-2004. She then completed her Pulmonary and Critical Care Training at the University of Michigan. She was appointed as faculty there from 2007 until 2009 when she joined the faculty at UAB. Dr. Luckhardt has also completed a Masters program at the University of Michigan in 2009 in Clinical Research Design and Biostatistics.\n\nDr. Luckhardt has particular interests in evaluating and treating patients with interstitial lung disease (ILD). She has been involved in multiple industry and NIH-sponsored clinical trials in Idiopathic Pulmonary Fibrosis and Scleroderma associated Interstitial Lung Disease.  She has been involved in national initiatives such as the Pulmonary Fibrosis Foundation Registry and IPF/ILD-PRO Registry to better understand diagnosis and management of ILD.\n\nDr. Luckhardt has also served as leadership in the UAB Pulmonary and Critical Care Medicine and Critical Care Medicine Fellowship Programs.  She served as Associate Program Director for the Pulmonary and Critical Care Medicine (PCCM) Fellowship program from 2013 to 2019, when she became and presently serves as the Program Director for the PCCM Fellowship Program.  She was also the founding Associate Program Director for the stand-alone Critical Care Medicine Fellowship Program which started in July 2021.  Through her leadership the Pulmonary and Critical Care Medicine training programs have expanded their size and educational programs.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "655-tracy-luckhardt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "655",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 72,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 70,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tracy",
+  "firstNameLastName": "Tracy Luckhardt",
+  "equipmentLinkTypes": [],
+  "objectId": 655,
+  "updatedWhen": "2025-05-10T08:03:49.9553808-05:00",
+  "hasCollaborationData": true,
+  "email": "tluck@uab.edu",
+  "publication_keywords": "Aging Arthritis Autoimmune Disease Climate-Related Exposures and Conditions Clinical Research Clinical Trials and Supportive Activities Genetics Lung Physical Activity Prevention Rare Diseases Sarcopenia Women's Health",
+  "grant_keywords": ""
+}

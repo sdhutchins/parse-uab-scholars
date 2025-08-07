@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2857",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 48,
+      "favourites": 0
+    }
+  },
+  "lastName": "Bolisetty",
+  "firstName": "Subhashini",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2857-subhashini-bolisetty",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "firstNameLastName": "Subhashini Bolisetty",
+  "equipmentLinkTypes": [],
+  "objectId": 2857,
+  "updatedWhen": "2025-05-10T08:08:32.6088961-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "subhashini@uab.edu",
+  "publication_keywords": "Biotechnology Duchenne/ Becker Muscular Dystrophy Genetics Hematology Human Genome Infectious Diseases Kidney Disease Muscular Dystrophy Orphan Drug Pediatric Research Initiative Physical Activity Rare Diseases Regenerative Medicine Sepsis Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Genetics Kidney Disease"
+}

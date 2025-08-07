@@ -1,0 +1,133 @@
+{
+  "lastName": "Byrd",
+  "overview": "Jim Byrd is an Assistant Professor of Accounting and Finance in the Collat School of Business.  He holds a PhD in Administration - Healthcare from the University of Alabama at Birmingham.  Prior to joining UAB, Jim had 30 years of accounting experience including both public and corporate.  His scholarly interests include financial accounting, corporate governance, and healthcare finance.  Recently my interest has been piqued by using text mining approaches to analyze accounting research to develop in-depth meta-analyses and categorical topic insights.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2271-james-byrd",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Accounting and Finance"
+    }
+  ],
+  "suffix": "Jr.",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Accounting, Auditing and Accountability",
+          "Auditing and Accountability",
+          "and Accountability",
+          "Accountability"
+        ],
+        "value": "Accounting, Auditing and Accountability"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Banking, Finance and Investment",
+          "Finance and Investment",
+          "and Investment",
+          "Investment"
+        ],
+        "value": "Banking, Finance and Investment"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Artificial Intelligence and Image Processing",
+          "Intelligence and Image Processing",
+          "and Image Processing",
+          "Image Processing",
+          "Processing"
+        ],
+        "value": "Artificial Intelligence and Image Processing"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      }
+    ]
+  },
+  "discoveryId": "2271",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 111,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 71,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Byrd",
+  "equipmentLinkTypes": [],
+  "objectId": 2271,
+  "updatedWhen": "2025-05-10T08:07:17.5874749-05:00",
+  "hasCollaborationData": true,
+  "email": "jimbyrd@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

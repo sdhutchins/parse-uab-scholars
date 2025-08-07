@@ -1,0 +1,127 @@
+{
+  "lastName": "Loyd",
+  "overview": "I received my BA in Microbiology from Miami University, in Oxford, Ohio in 2004. Thereafter, I started my graduate work at University of Cincinnati where I studied endocrine adaptations to exercise and the impact of exercise as a therapeutic and preventative measure for metabolic disease using animal models. I received my PhD in 2014 and started post-doctoral training at the University of Alabama at Birmingham. I completed an NIH T32 post-doctoral training program with the UAB Center for Exercise Medicine, and then joined the Department of Medicine Gerontology, Geriatrics, and Palliative Care Division in 2016 as an NIH K12 IRACDA MERIT Scholar.\n\nI joined the faculty of Clinical and Diagnostic Sciences Department in the School of Health Professions at UAB in June 2019 as an assistant professor. I am actively engaged in undergraduate education and service activities for the program, department, school and university; and I have a very active research program that promotes undergraduate student engagement in research activities.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6938-christine-loyd",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biomedical Sciences Program"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "6938",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 38,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christine",
+  "firstNameLastName": "Christine Loyd",
+  "equipmentLinkTypes": [],
+  "objectId": 6938,
+  "updatedWhen": "2025-05-10T08:13:51.5312492-05:00",
+  "hasCollaborationData": true,
+  "email": "loydcm@uab.edu",
+  "publication_keywords": "Aging American Indian or Alaska Native Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Mental Health Microbiome Minority Health Pediatric Research Initiative Sexual and Gender Minorities (SGM/LGBT*) Women's Health",
+  "grant_keywords": ""
+}

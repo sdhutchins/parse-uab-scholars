@@ -1,0 +1,119 @@
+{
+  "discoveryId": "2100",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 71,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 64,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 223,
+      "favourites": 0
+    }
+  },
+  "lastName": "Weaver",
+  "firstName": "Casey",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2100-casey-weaver",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Anatomic Pathology"
+    }
+  ],
+  "firstNameLastName": "Casey Weaver",
+  "equipmentLinkTypes": [],
+  "objectId": 2100,
+  "updatedWhen": "2025-05-10T08:06:50.6701657-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cweaver@uab.edu",
+  "publication_keywords": "Asthma Autoimmune Disease Cancer Digestive Diseases Genetics Health Disparities Health Effects of Indoor Air Pollution Human Genome Immunization Immunotherapy Lung Social Determinants of Health Stem Cell Research",
+  "grant_keywords": ""
+}

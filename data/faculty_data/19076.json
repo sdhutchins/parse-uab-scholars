@@ -1,0 +1,105 @@
+{
+  "lastName": "Samal",
+  "overview": "My research focuses on determining the mechanistic roles of glycans in neuroimmune modulation in CNS disorders and the development of biomaterial interventions to modulate the neuro-immune glycome using in vitro assays and rodent models. Glycans play a very important role in modulating inter- and intra-cellular interactions that can decide the outcomes in several neurological disorders. In our lab, we look at the mechanisms to leverage these cues to promote a pro-regenerative tissue response in neurological disorders.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19076-juhi-samal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Engineering",
+      "department": "Biomedical Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical Biotechnology",
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Regenerative Medicine (incl. Stem Cells and Tissue Engineering)",
+          "Medicine (incl. Stem Cells and Tissue Engineering)",
+          "(incl. Stem Cells and Tissue Engineering)",
+          "Stem Cells and Tissue Engineering)",
+          "Cells and Tissue Engineering)",
+          "and Tissue Engineering)",
+          "Tissue Engineering)",
+          "Engineering)"
+        ],
+        "value": "Regenerative Medicine (incl. Stem Cells and Tissue Engineering)"
+      },
+      {
+        "paths": [
+          [
+            "Neurosciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Central Nervous System",
+          "Nervous System",
+          "System"
+        ],
+        "value": "Central Nervous System"
+      },
+      {
+        "paths": [
+          [
+            "Biomedical Engineering",
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomaterials"
+        ],
+        "value": "Biomaterials"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "19076",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 20,
+      "favourites": 0
+    }
+  },
+  "firstName": "Juhi",
+  "firstNameLastName": "Juhi Samal",
+  "equipmentLinkTypes": [],
+  "objectId": 19076,
+  "updatedWhen": "2025-05-10T08:20:49.0310839-05:00",
+  "hasCollaborationData": false,
+  "email": "jsamal@uab.edu",
+  "publication_keywords": "Brain Cancer Brain Disorders Cancer Genetics Neurodegenerative Neurosciences Rare Diseases",
+  "grant_keywords": ""
+}

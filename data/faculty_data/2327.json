@@ -1,0 +1,124 @@
+{
+  "lastName": "Powers",
+  "overview": "Thomas L. Powers is Professor of Marketing in the Collat School of Business at the University of Alabama at Birmingham.   He received his Ph.D. from Michigan State University and prior to his academic career he was a marketing manager with Ford Motor Company.  He has published over 200 academic journal articles and conference proceedings and serves on a number of journal editorial boards.  He has received several awards for teaching and research, and has been both an American Marketing Association and Academy of Management Doctoral Consortium Fellow.  He has also been a Senior Fulbright Scholar, teaching and conducting research at the Pontifica Universidade Catolica in Rio de Janeiro, Brazil.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2327-thomas-powers",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Mktg, Ind Distr, & Econ"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Marketing"
+        ],
+        "value": "Marketing"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Commercial Services",
+          "Services"
+        ],
+        "value": "Commercial Services"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Tourism"
+        ],
+        "value": "Tourism"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      }
+    ]
+  },
+  "discoveryId": "2327",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 152,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 148,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 338,
+      "favourites": 0
+    }
+  },
+  "firstName": "Thomas",
+  "firstNameLastName": "Thomas Powers",
+  "equipmentLinkTypes": [],
+  "objectId": 2327,
+  "updatedWhen": "2025-05-10T08:07:17.6854825-05:00",
+  "hasCollaborationData": true,
+  "email": "tpowers@uab.edu",
+  "publication_keywords": "Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Infectious Diseases Patient Safety Social Determinants of Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,129 @@
+{
+  "lastName": "Ballinger",
+  "overview": "EDUCATION:\nTexas A&M University, College Station, TX\t    \tZoology, B.S. 1983\nTexas A&M University, College Station, TX    \t\tWildlife Fisheries, M.S 1987\nEmory University School of Medicine, Atlanta, GA   \tBiochemistry, Ph.D. 1993\n\nPOSTDOCTORAL TRAINING:\n1993-1994\tEnvironmental Pathology Postdoctoral Fellow, Vermont Cancer Center, University of Vermont, Burlington, VT\n\n1994-1996\tAlexander Hollaender Distinguished Postdoctoral Fellow, Vermont Cancer Center, Burlington, VT\n\nACADEMIC APPOINTMENTS:\n2015- present   Professor, Nathan Shock Center for Aging, University of Alabama at \n\t    Birmingham, Birmingham, AL.\n2014- present   Senior Scientist, Center for Exercise Medicine, University of Alabama  \n\t    at Birmingham, Birmingham, AL \n2014- present   Senior Scientist, Nutrition and Obesity Research Center, University of   \n\t    Alabama  \n\t    at Birmingham, Birmingham, AL\n2011- present   Professor, Center for Healthy Aging, University of Alabama at \n                         Birmingham, Birmingham, AL\t\n2011-present\t   Professor, Comprehensive Cardiovascular Center, University of \n\t   Alabama at Birmingham, Birmingham, AL\n2011-present\t   Professor, Comprehensive Cancer Center, University of \n\t   Alabama at Birmingham, Birmingham, AL\n2011-present\t   Professor, tenured, Department of Pathology,  \n                        University of Alabama at Birmingham, Birmingham, AL\t\n2011-present\t Professor, Department of Environmental Health Sciences, University of Alabama at Birmingham, Birmingham, AL\n2011-present\t   Professor, Center for Free Radical Biology, University of   \n\t   Alabama at Birmingham, Birmingham, AL\n2010-2011\t   Associate Professor, Center for Cardiovascular Biology, University of \n\t   Alabama at Birmingham, Birmingham, AL\n2009-2011\t   Associate Professor, Comprehensive Cancer Center, University of \n\t   Alabama at Birmingham, Birmingham, AL\n2005-2011\t   Associate Professor, tenured, Department of Pathology,  \n                        University of Alabama at Birmingham, Birmingham, AL\t\n2002-2005\t   Associate Professor, tenure earning, Department of Pathology,  \n                        University of Alabama at Birmingham, Birmingham, AL\n2002-2011\tAssociate Professor, Department of Environmental Health Sciences, University of Alabama at Birmingham, Birmingham, AL\n2002-2011\t   Associate Professor, Center for Free Radical Biology, University of   \n\t   Alabama at Birmingham, Birmingham, AL\n2000-2002       Assistant Professor, Department of Pharmacology, University of Texas \n                        Medical Branch, Galveston, TX\n2000-2002\t   Assistant Professor, Department of Preventative Medicine and \n                        Community Health, University of Texas Medical Branch, Galveston, TX\n1998-2002\t   Assistant Professor, Sealy Center for Molecular Cardiology, University     \n                        of Texas Medical Branch, Galveston, TX\n1996-1998\t   Assistant Scientist, Sealy Center for Molecular Cardiology, University \n                        of Texas Medical Branch, Galveston, TX\n\nAWARDS/HONORS:\nAlexander Hollaender Distinguished Fellowship:  U.S. Department of Energy \nEnvironmental Pathology Fellowship:  University of Vermont-NIH\nYoung Investigator Award: American Lung Association: New Hampshire-Vermont\nBurroughs-Wellcome Nominee: University of Vermont\nOutstanding Faculty Award, Molecular and Cellular Pathology Graduate Students\nCollege of Science Academy of Distinguished Former Students Award, Texas A&M University\n\nPROFESSIONAL SOCIETIES:\nEnvironmental Mutagen Society\nAmerican Heart Association\nAmerican Association for the Advancement of Science\nThe Society for Free Radical Biology & Medicine\nThe Nitric Oxide Society",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2124-scott-ballinger",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "2124",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 32,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 85,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 337,
+      "favourites": 0
+    }
+  },
+  "firstName": "Scott",
+  "firstNameLastName": "Scott Ballinger",
+  "equipmentLinkTypes": [],
+  "objectId": 2124,
+  "updatedWhen": "2025-05-10T08:06:50.7051678-05:00",
+  "hasCollaborationData": true,
+  "email": "sballing@uab.edu",
+  "publication_keywords": "Aging Arthritis Autoimmune Disease Behavioral and Social Science Breast Cancer Cancer Cardiovascular Clinical Research Colo-Rectal Cancer Digestive Diseases Health Disparities Health Services Heart Disease Heart Disease - Coronary Heart Disease Hematology Kidney Disease Lupus Minority Health Ovarian Cancer Pediatric Prevention Rare Diseases Regenerative Medicine Social Determinants of Health Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Transplantation Women's Health",
+  "grant_keywords": "Aging Bioengineering Biomedical Imaging Biotechnology Cardiovascular Genetics HIV/AIDS Heart Disease Infectious Diseases Sexually Transmitted Infections"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2629",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 116,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Ward",
+  "firstName": "Walter",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2629-walter-ward",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Walter Ward",
+  "equipmentLinkTypes": [],
+  "objectId": 2629,
+  "updatedWhen": "2025-05-10T08:08:00.8946758-05:00",
+  "hasCollaborationData": false,
+  "email": "wdward@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

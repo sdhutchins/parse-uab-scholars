@@ -1,0 +1,127 @@
+{
+  "lastName": "Lucius",
+  "overview": "I am from the Pacific Northwest and received my bachelors in Biochemistry and Biophysics from Oregon State University in Corvallis, Oregon. During my time there, I did undergraduate research to examine the pre-steady state kinetic mechanism of DNA insertion catalyzed by retroviral integrase. I became intensely interested in enzyme mechanism and joined Tim Lohman’s group in the Department of Biochemistry and Molecular Biophysics at Washington University School of Medicine in St. Louis. I received my PhD in Molecular Biophysics in 2003. This was followed by postdoctoral research under the direction of Wlodek Bujalowski at the University of Texas Medical Branch (UTMB) in Galveston, Texas. \n\nMy training experiences provided skills in the application of thermodynamic and rapid-mixing kinetic techniques to examine enzyme mechanism. In 2006 I joined the UAB Department of Chemistry as an Assistant professor. My research has been focused on understanding the molecular mechanisms of motor proteins. The work has been funded by both the NSF and NIH. I was promoted to full professor in 2015 and have graduated five PhD students in my nine year tenure during which time I was presented with the Dean’s Award for Excellence in Mentorship award.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2517-aaron-lucius",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2517",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 284,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 80,
+      "favourites": 0
+    }
+  },
+  "firstName": "Aaron",
+  "firstNameLastName": "Aaron Lucius",
+  "equipmentLinkTypes": [],
+  "objectId": 2517,
+  "updatedWhen": "2025-05-10T08:07:50.5099652-05:00",
+  "hasCollaborationData": true,
+  "email": "allucius@uab.edu",
+  "publication_keywords": "Genetics",
+  "grant_keywords": "Coronaviruses Coronaviruses Therapeutics and Interventions Emerging Infectious Diseases Genetics Infectious Diseases"
+}

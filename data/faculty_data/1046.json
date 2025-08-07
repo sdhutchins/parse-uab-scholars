@@ -1,0 +1,124 @@
+{
+  "lastName": "Shelton",
+  "overview": "Dr. Shelton attended medical school at the University of Louisville in Kentucky. He was then a resident and Chief Resident at the Massachusetts Mental Health Center (now the Longwood Program), a teaching hospital of the Harvard Medical School in Boston, MA., followed by a research fellowship at the National Institutes of Mental Health Intramural Program in Washington, D.C. He joined the faculty of Vanderbilt University, where he became the James G. Blakemore Research Professor and Vice Chair for Clinical Research in the Department of Psychiatry. Dr. Shelton joined the faculty of the Department of Psychiatry and Behavioral Neurobiology at the University of Alabama at Birmingham in February 2012 as the Charles Byron Ireland Professor, Vice Chair for Research, and head of the Mood Disorders Program. Dr. He is also the founding co-director of the UAB Depression and Suicide Center. Shelton has been an active physician-scientist and educator. He and his colleagues have had more than 140 funded research studies from the NIH, other federal agencies, foundations, and industry. He has more than 350 publications, comprising original research reports, reviews, commentaries, and book chapters. Dr. Shelton’s research focuses on the development of new ways to treat and prevent depression and suicide.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1046-richard-shelton",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "1046",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 96,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 337,
+      "favourites": 0
+    }
+  },
+  "firstName": "Richard",
+  "firstNameLastName": "Richard Shelton",
+  "equipmentLinkTypes": [],
+  "objectId": 1046,
+  "updatedWhen": "2025-05-10T08:04:33.7246007-05:00",
+  "hasCollaborationData": true,
+  "email": "rshelton@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Depression Drug Abuse (NIDA only) Emergency Care Fentanyl Misuse and Addiction Health Services Lung Major Depressive Disorder Mental Health Mental Illness Opioid Misuse and Addiction Opioids Patient Safety Physical Injury - Accidents and Adverse Effects Serious Mental Illness Substance Misuse",
+  "grant_keywords": ""
+}

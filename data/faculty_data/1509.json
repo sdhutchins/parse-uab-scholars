@@ -1,0 +1,126 @@
+{
+  "lastName": "Lee",
+  "overview": "Dr. Loretta T. Lee is a PhD-prepared, nationally board-certified Family Nurse Practitioner and nationally Certified Nurse Educator focused on health promotion for those from underserved populations and federal health policies that will eliminate or reduce health inequity.  She is passionate about addressing the high prevalence of obesity and diabetes, which significantly contributes to chronic diseases among people of color.\n\nWith a national perspective and realizing the need to bridge the gaps between healthcare and health policies that affect underserved populations, Dr. Lee has leveraged her practice experience and academic expertise to inform the implementation of state and national programs to increase access to care and advocate for federal health care policies that will eliminate or reduce inequities in health outcomes for historically underserved populations. She has presented her research and other scholarly works at local, regional, national, and international conferences.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1509-dr-loretta-lee",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1509",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1137,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 144,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 83,
+      "favourites": 18
+    }
+  },
+  "firstName": "Dr. Loretta",
+  "firstNameLastName": "Dr. Loretta Lee",
+  "equipmentLinkTypes": [],
+  "objectId": 1509,
+  "updatedWhen": "2025-05-10T08:05:38.5201691-05:00",
+  "hasCollaborationData": true,
+  "email": "llee@uab.edu",
+  "publication_keywords": "Anxiety Disorders Behavioral and Social Science Biomedical Imaging Brain Disorders Clinical Research Depression HIV/AIDS Health Services Infectious Diseases Major Depressive Disorder Mental Health Mental Illness Nutrition Obesity Pediatric Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Prevention Primary Health Care Serious Mental Illness Sexually Transmitted Infections",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Dementia Dental/Oral and Craniofacial Disease Neurodegenerative Neurosciences Prevention"
+}

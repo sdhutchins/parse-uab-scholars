@@ -1,0 +1,89 @@
+{
+  "discoveryId": "16445",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 0
+    }
+  },
+  "lastName": "Nakada",
+  "firstName": "Yuji",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16445-yuji-nakada",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept of Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Yuji Nakada",
+  "equipmentLinkTypes": [],
+  "objectId": 16445,
+  "updatedWhen": "2025-05-10T08:16:04.1284459-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nkdyuji@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Cardiovascular Genetics Heart Disease Heart Disease - Coronary Heart Disease Nanotechnology Neurosciences Pediatric Research Initiative Regenerative Medicine Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Transplantation",
+  "grant_keywords": "Cardiovascular Congenital Heart Disease Genetics Heart Disease Heart Disease - Coronary Heart Disease Pediatric Rare Diseases Regenerative Medicine"
+}

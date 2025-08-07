@@ -1,0 +1,126 @@
+{
+  "lastName": "Rimmer",
+  "overview": "James H. Rimmer, PhD is the first Lakeshore Foundation Endowed Chair in Health Promotion and Rehabilitation Sciences at the University of Alabama at Birmingham (UAB).  He is a Professor in the School of Health Professions at UAB and has an adjunct faculty appointment in the Department of Physical Medicine and Rehabilitation. He is PI of the CDC-funded National Center on Health, Physical Activity and Disability. He is also the developer of a set of evidence-informed guidelines referred to as GRAIDs -- Guidelines, Recommendations, Adaptations Including Disability -- which provides researchers and program staff with an implementation science framework include people with disabilities in research and interventions.  His more recent work involves the creation of a telehealth health-to-wellness online program for people with disabilities referred to as MENTOR - mindfulness, exercise and nutrition to optimize resilience.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1813-james-rimmer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "School of Health Professions - Research Collaborative"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "1813",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 45,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 41,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 209,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James Rimmer",
+  "equipmentLinkTypes": [],
+  "objectId": 1813,
+  "updatedWhen": "2025-05-10T08:06:00.8690601-05:00",
+  "hasCollaborationData": true,
+  "email": "jrimmer@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Multiple Sclerosis Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Nutrition Physical Activity Physical Injury - Accidents and Adverse Effects Prevention Rehabilitation Social Determinants of Health Spinal Cord Injury Telehealth Traumatic Head and Spine Injury",
+  "grant_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Physical Activity Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Prevention Rehabilitation Spinal Cord Injury Telehealth Traumatic Head and Spine Injury"
+}

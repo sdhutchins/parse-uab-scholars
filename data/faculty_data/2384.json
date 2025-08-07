@@ -1,0 +1,82 @@
+{
+  "lastName": "McCarthy",
+  "overview": "Dr. Shannon McCarthy earned a PhD in Counseling and Counselor Education from University of Florida.  Dr. McCarthy has had extensive training and clinical experience in counseling in community mental health and medical settings as well as marriage and family therapy. Her research focuses on family, school, and community engagement, improvement of family systems training for school counselors and other school-based personnel, the intersection of family systems and health, and qualitative methodologies/qualitative inquiry. She has taught courses in Introduction to Marriage and Family Therapy, Marriage and Couples Therapy, Intersection of Family and Community Systems, Counseling Theories, Counseling Techniques, Group Counseling , Counseling Children & Adolescents, and Practicum and Internship clinical courses. . She supervises clinical students in the UAB Community Counseling Clinic, and is the primary adviser for Marriage, Couples, and Family counseling students.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2384-shannon-mccarthy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Demography"
+        ],
+        "value": "Demography"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "2384",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 66,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 10,
+      "favourites": 0
+    }
+  },
+  "firstName": "Shannon",
+  "firstNameLastName": "Shannon McCarthy",
+  "equipmentLinkTypes": [],
+  "objectId": 2384,
+  "updatedWhen": "2025-05-10T08:07:28.8817155-05:00",
+  "hasCollaborationData": true,
+  "email": "smcc@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Clinical Research Depression Health Services Mental Health Mental Illness Social Determinants of Health",
+  "grant_keywords": ""
+}

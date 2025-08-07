@@ -1,0 +1,128 @@
+{
+  "lastName": "Vyazovkin",
+  "overview": "Prof. Vyazovkin graduated with honors from Belarusian State University. He then joined the Institute for Physical Chemistry (Minsk) where he worked until 1993. Since 1993 he had held visiting positions at the Technical University of Vienna (1993-1995) and University of Toledo (1995). \n\nBefore joining the University of Alabama at Birmingham, he worked in the University of Utah (1995-2001) as a research faculty and the deputy director of the Center for Thermal Analysis.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2525-sergey-vyazovkin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Theoretical and Computational Chemistry",
+          "and Computational Chemistry",
+          "Computational Chemistry",
+          "Chemistry"
+        ],
+        "value": "Theoretical and Computational Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "2525",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 184,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 249,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sergey",
+  "firstNameLastName": "Sergey Vyazovkin",
+  "equipmentLinkTypes": [],
+  "objectId": 2525,
+  "updatedWhen": "2025-05-10T08:07:50.5200204-05:00",
+  "hasCollaborationData": true,
+  "email": "vyazovkin@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,126 @@
+{
+  "discoveryId": "936",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 41,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 72,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 27,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 306,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kimberlin",
+  "firstName": "David",
+  "hasThumbnail": true,
+  "discoveryUrlId": "936-david-kimberlin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Infectious Disease"
+    }
+  ],
+  "firstNameLastName": "David Kimberlin",
+  "equipmentLinkTypes": [],
+  "objectId": 936,
+  "updatedWhen": "2025-05-10T08:04:23.0484910-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dkimberlin@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Clinical Research Congenital Structural Anomalies Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Immunization Infant Mortality Infectious Diseases Influenza Lung Neurosciences Orphan Drug Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pneumonia & Influenza Prevention Rare Diseases Sexually Transmitted Infections Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

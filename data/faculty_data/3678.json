@@ -1,0 +1,124 @@
+{
+  "lastName": "McDonald",
+  "overview": "Dr. McDonald is the Director of Integrative 'Omics and an Associate Professor of Medicine in the UAB Division of Pulmonary, Allergy, and Critical Care Medicine. She is a genetic epidemiologist with interests in the analysis of complex traits and diseases including COPD, cachexia, sarcopenia, osteoarthritis and smoking behaviors such as menthol. Her lab is involved with some of the most cutting-edge studies including the Million Veterans Program (MVP) and the Trans-Omics for Precision Medicine (TOPMed) Initiative. For more information see (https://sites.uab.edu/mcdonaldlab/). To browse education and job opportunities see (https://sites.uab.edu/mcdonaldlab/join-our-team/).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3678-merrylynn-mcdonald",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "3678",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 84,
+      "favourites": 0
+    }
+  },
+  "firstName": "Merry-Lynn",
+  "firstNameLastName": "Merry-Lynn McDonald",
+  "equipmentLinkTypes": [],
+  "objectId": 3678,
+  "updatedWhen": "2025-05-10T08:09:49.3880747-05:00",
+  "hasCollaborationData": true,
+  "email": "mmcdonald@uab.edu",
+  "publication_keywords": "Aging Arthritis Cancer Chronic Obstructive Pulmonary Disease Clinical Research Duchenne/ Becker Muscular Dystrophy Emphysema Genetics Human Genome Lung Lung Cancer Muscular Dystrophy Osteoarthritis Pediatric Research Initiative Rare Diseases Sarcopenia",
+  "grant_keywords": "Cachexia Chronic Obstructive Pulmonary Disease Clinical Research Dietary Supplements Genetics Human Genome Lung Nutrition Prevention Women's Health"
+}

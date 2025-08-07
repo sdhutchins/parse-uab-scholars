@@ -1,0 +1,127 @@
+{
+  "discoveryId": "2932",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 408,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cimino",
+  "firstName": "James",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2932-james-cimino",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Chairperson",
+      "department": "Dept Of Biomedical Informatics & Data Science"
+    }
+  ],
+  "firstNameLastName": "James Cimino",
+  "equipmentLinkTypes": [],
+  "objectId": 2932,
+  "updatedWhen": "2025-05-10T08:08:32.6618993-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jamescimino@uabmc.edu",
+  "publication_keywords": "Clinical Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Minority Health Patient Safety Precision Medicine Prevention",
+  "grant_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Dissemination and Implementation Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Human Genome Minority Health Obesity Precision Medicine Prevention Rural Health Social Determinants of Health Women's Health"
+}

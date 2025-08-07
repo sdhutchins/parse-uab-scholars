@@ -1,0 +1,115 @@
+{
+  "lastName": "Russell",
+  "overview": "Dr. Russell obtained his undergraduate degree from Washington and Lee University graduating summa cum laude with a obtaining a BA in European History. He began his medical education at the Medical University of South Carolina graduating in 2003. He completed his surgical residency in general surgery at Vanderbilt University Medical Center. During his residency, Dr. Russell also completed a Master’s in Public Health from Vanderbilt University in 2008. He completed his pediatric surgical training at Riley Hospital for Children, Indiana University in 2012. .Dr. Russell then joined the faculty at UAB in 2012 as assistant professor of surgery. In February 2013, he was appointed the Director of Pediatric Trauma at Children’s of Alabama. Dr. Russell also serves in several other capacities at Children’s of Alabama, including Surgeon Champion for the Pediatric Surgery Quality Improvement Project (NSQIP-P), member of the Quality Improvement Council, and Physician Champion for the Surgical Site Infection Improvement Collaborative. He has particular interest in pediatric trauma, minimally invasive surgery, and surgical outcomes research.\n\nDr. Russell’s clinical interests include minimally invasive pediatric surgery, pediatric trauma, and neonatal surgery. Dr. Russell’s research interests focus on mechanisms and translational questions regarding acute traumatic coagulopathy in the pediatric trauma population. He also focuses research on quality improvement/clinical outcomes in pediatric surgery.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1211-robert-russell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - Pediatric"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "1211",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 22,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 129,
+      "favourites": 0
+    }
+  },
+  "firstName": "Robert",
+  "firstNameLastName": "Robert Russell",
+  "equipmentLinkTypes": [],
+  "objectId": 1211,
+  "updatedWhen": "2025-05-10T08:04:55.7260837-05:00",
+  "hasCollaborationData": true,
+  "email": "russ4904@uab.edu",
+  "publication_keywords": "Cancer Childhood Injury Clinical Research Emergency Care Hematology Kidney Disease Patient Safety Pediatric Pediatric Research Initiative Physical Injury - Accidents and Adverse Effects Prevention Transplantation",
+  "grant_keywords": ""
+}

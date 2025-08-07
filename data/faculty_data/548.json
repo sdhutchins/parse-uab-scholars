@@ -1,0 +1,124 @@
+{
+  "lastName": "Bansal",
+  "overview": "Dr. Bansal's research interest focuses on adaptive T-cell responses in HIV-1 transmission and pathogenesis. She's especially interested in understanding the role of HIV-1 specific CD8 and CD4 T-cells and their interplay with the host genetics in influencing the course of HIV-1 disease. This basic information is imperative for HIV-1 vaccine design as the correlates of immune protection are yet unknown. She is also interested in studying the role of T cell in HIV associated cancers.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "548-anju-bansal",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "548",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 20,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 68,
+      "favourites": 0
+    }
+  },
+  "firstName": "Anju",
+  "firstNameLastName": "Anju Bansal",
+  "equipmentLinkTypes": [],
+  "objectId": 548,
+  "updatedWhen": "2025-05-10T08:03:25.2935020-05:00",
+  "hasCollaborationData": true,
+  "email": "abansal@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Cancer Cancer Genomics Cervical Cancer Clinical Research Coronaviruses Coronaviruses Vaccines Digestive Diseases Emerging Infectious Diseases Genetics HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Human Genome Immunization Immunotherapy Infectious Diseases Lymphatic Research Lymphoma Orphan Drug Prevention Rare Diseases Sexually Transmitted Infections Vaccine Related Women's Health",
+  "grant_keywords": "Aging Clinical Research Genetics HIV/AIDS Health Disparities Human Genome Immunization Immunotherapy Infectious Diseases Minority Health Prevention Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS) Women's Health"
+}

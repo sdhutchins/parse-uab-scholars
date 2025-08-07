@@ -1,0 +1,128 @@
+{
+  "lastName": "Wilson",
+  "overview": "Dr. Lynda Wilson is fluent in Spanish, has led study-abroad courses to Guatemala, and received Fulbright support for work in Chile, Malawi, and Zambia. Her research has focused on preterm infants, Latino immigrant families, global nursing education programs, and identifying global health competencies. From 2009-2012 Dr. Wilson received funding from the National Institutes of Health to develop, implement, and evaluate four distance education courses for 166 study coordinators at international sites in 45 different countries.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1564-lynda-wilson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Nursing Academic Support"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      }
+    ]
+  },
+  "discoveryId": "1564",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 188,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 194,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 301,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lynda",
+  "firstNameLastName": "Lynda Wilson",
+  "equipmentLinkTypes": [],
+  "objectId": 1564,
+  "updatedWhen": "2025-05-10T08:05:38.5938180-05:00",
+  "hasCollaborationData": true,
+  "email": "lyndawilson@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research",
+  "grant_keywords": ""
+}

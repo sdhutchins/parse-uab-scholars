@@ -1,0 +1,166 @@
+{
+  "lastName": "Wang",
+  "overview": "I’m fascinated by how neurons communicate with each other and my long-term career goal is to understand how synapses in sensory systems, particularly visual system, achieve and maintain fast and reliable signal transmission which enables a seamless and accurate perception of our environment.\nI received my PhD training under the supervision of Dr. Gregory Hockerman at Purdue University on the biophysics and molecular pharmacology of voltage-gated calcium channels (VGCCs) and Ca2+ signaling in pancreatic β cells.\nI joined Dr. Kirill Martemyanov’s lab at Scripps Florida in 2015 to study the molecular mechanisms that govern the selective wiring of two types of photoreceptors: rods and cones, which are the primary light sensors in the retina. The selective synaptic connections of photoreceptors with their corresponding downstream ON-bipolar neurons is essential for vision and dysfunction of photoreceptor synapses causes retinal diseases including night blindness.\nMy independent research funded by National Eye Institute (NEI K99/R00) was designed to test the hypothesis that trans-synaptic adhesions and signaling perform multifarious roles in the formation, specification and plasticity of retinal synapses. This research will serve as a gateway to understand how synaptic adhesion and signaling encode and process different aspects of visual information and how retinal synaptic malfunction leads to visual deficits.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17620-yuchen-wang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Zoology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Cell and Molecular Biology",
+          "Cell and Molecular Biology",
+          "and Molecular Biology",
+          "Molecular Biology",
+          "Biology"
+        ],
+        "value": "Animal Cell and Molecular Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural Biotechnology",
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetically Modified Animals",
+          "Modified Animals",
+          "Animals"
+        ],
+        "value": "Genetically Modified Animals"
+      },
+      {
+        "paths": [
+          [
+            "Opthalmology and Optometry",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Vision Science",
+          "Science"
+        ],
+        "value": "Vision Science"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "17620",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 13,
+      "favourites": 0
+    }
+  },
+  "firstName": "Yuchen",
+  "firstNameLastName": "Yuchen Wang",
+  "equipmentLinkTypes": [],
+  "objectId": 17620,
+  "updatedWhen": "2025-05-10T08:18:01.2942517-05:00",
+  "hasCollaborationData": false,
+  "email": "wangyc@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Eye Disease and Disorders of Vision Genetics Human Genome Neurodegenerative Neurosciences Rare Diseases Regenerative Medicine Usher Syndrome",
+  "grant_keywords": "Eye Disease and Disorders of Vision Neurosciences"
+}

@@ -1,0 +1,63 @@
+{
+  "discoveryId": "17676",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 41,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 60,
+      "favourites": 0
+    }
+  },
+  "lastName": "Howard",
+  "firstName": "Steven",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17676-steven-howard",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "firstNameLastName": "Steven Howard",
+  "equipmentLinkTypes": [],
+  "objectId": 17676,
+  "updatedWhen": "2025-05-10T08:18:11.1686130-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "showard3@uab.edu",
+  "publication_keywords": "Autoimmune Disease Cardiovascular Chronic Obstructive Pulmonary Disease Climate-Related Exposures and Conditions Clinical Research Health Services Heart Disease Lung Prevention Rare Diseases Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

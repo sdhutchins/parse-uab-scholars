@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18522",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Grujic",
+  "firstName": "Zoran",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18522-zoran-grujic",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Zoran Grujic",
+  "equipmentLinkTypes": [],
+  "objectId": 18522,
+  "updatedWhen": "2025-05-10T08:19:33.9895757-05:00",
+  "hasCollaborationData": false,
+  "email": "zgrujic@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

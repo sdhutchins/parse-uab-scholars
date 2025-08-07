@@ -1,0 +1,86 @@
+{
+  "discoveryId": "16898",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Lai",
+  "firstName": "Byron",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16898-byron-lai",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pediatric - Rehabilitation Medicine"
+    }
+  ],
+  "firstNameLastName": "Byron Lai",
+  "equipmentLinkTypes": [],
+  "objectId": 16898,
+  "updatedWhen": "2025-05-10T08:16:51.0313706-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "byronlai@uab.edu",
+  "publication_keywords": "Autoimmune Disease Behavioral and Social Science Brain Disorders Clinical Research Clinical Trials and Supportive Activities Multiple Sclerosis Neurodegenerative Neurosciences Physical Activity Physical Injury - Accidents and Adverse Effects Prevention Rehabilitation Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Autoimmune Disease Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Health Disparities Health Services Minority Health Multiple Sclerosis Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Physical Activity Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Prevention Rehabilitation Spinal Cord Injury Telehealth Traumatic Head and Spine Injury"
+}

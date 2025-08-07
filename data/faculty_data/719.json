@@ -1,0 +1,124 @@
+{
+  "lastName": "Geldmacher",
+  "overview": "Dr. Geldmacher graduated magna cum laude from the University of Rochester (New York) with his B.A. in Biology and Psychology. He obtained his M.D (with Certificate in Academic Research) from the State University of New York Health Science Center at Syracuse. He undertook his training in Neurology at Case Western Reserve University and completed a postdoctoral fellowship in Behavioral Neurology at the University of Florida.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "719-david-geldmacher",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "719",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 90,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 90,
+      "favourites": 0
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Geldmacher",
+  "equipmentLinkTypes": [],
+  "objectId": 719,
+  "updatedWhen": "2025-05-10T08:03:50.0575142-05:00",
+  "hasCollaborationData": true,
+  "email": "dgeldmacher@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Clinical Trials and Supportive Activities Dementia Frontotemporal Dementia (FTD) Infectious Diseases Mental Health Neurodegenerative Neurosciences Orphan Drug Patient Safety Prevention Rare Diseases",
+  "grant_keywords": ""
+}

@@ -1,0 +1,121 @@
+{
+  "discoveryId": "18013",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 53,
+      "favourites": 0
+    }
+  },
+  "lastName": "Fahimipour",
+  "firstName": "Farahnaz",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18013-farahnaz-fahimipour",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Periodontology"
+    }
+  ],
+  "firstNameLastName": "Farahnaz Fahimipour",
+  "equipmentLinkTypes": [],
+  "objectId": 18013,
+  "updatedWhen": "2025-05-10T08:18:35.7774374-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Chemical Engineering",
+          "Engineering"
+        ],
+        "value": "Chemical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "ffahimip@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Coronaviruses Coronaviruses Disparities and At-Risk Populations Dental/Oral and Craniofacial Disease Emerging Infectious Diseases Infectious Diseases Microbiome Prevention Regenerative Medicine",
+  "grant_keywords": "Bioengineering Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dental/Oral and Craniofacial Disease Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Minority Health Patient Safety Primary Health Care Rehabilitation"
+}

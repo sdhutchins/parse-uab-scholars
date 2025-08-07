@@ -1,0 +1,128 @@
+{
+  "lastName": "Tyrrell",
+  "overview": "Dr. Tyrrell received his PhD from Wake Forest School of Medicine in Integrated Physiology and Pharmacology and completed postdoctoral training at the University of Michigan working on cardiovascular aging in the Dept. of Internal Medicine. There Dr. Tyrrell explored the role of aging on the vasculature in the heart and brain and began trying to understand how age-related changes in T cells enhance disease.\n\nDr. Tyrrell's laboratory is interested in understanding how the blood-brain barrier changes during aging. Breakdown of the blood-brain-barrier impairs leads to a poor neurovascular microenvironment and ultimately impairs cognitive function and can contribute to neurodegeneration. We aim to uncover mechanisms of vascular aging that may contribute to blood-brain barrier breakdown. Much of our previous findings have been related to alteration in mitochondrial function and inflammation within cerebrovascular vessels and the aorta.\n\nDr. Tyrrell's laboratory is also interested in exploring how CD8 T cells change with age, infiltrate tissues like the brain and atherosclerotic plaques, and contribute to disease. T cell populations change dramatically during aging with a significant reduction in naive T cell output due to age-associated thymic involution. Some populations of effector and memory T cells also increase with aging. Many of these populations also demonstrate greater levels of exhaustion and senescence with aging. Taken together, the age-associated changes in CD8 T cells appear to contribute to a variety of diseases which Dr. Tyrrell's laboratory is interested in understanding.\n\nThe lab relies on murine models along with genetic and surgical manipulations. The major experiments performed in the laboratory are immunohistochemistry, histology, flow cytometry, immunoblot, and single-cell RNA sequencing approaches.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17626-daniel-tyrrell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "17626",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 38,
+      "favourites": 0
+    }
+  },
+  "firstName": "Daniel",
+  "firstNameLastName": "Daniel Tyrrell",
+  "equipmentLinkTypes": [],
+  "objectId": 17626,
+  "updatedWhen": "2025-05-10T08:18:01.3132309-05:00",
+  "hasCollaborationData": true,
+  "email": "dtyrrell@uab.edu",
+  "publication_keywords": "Aging Bioengineering Cardiovascular Data Science Heart Disease Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Nutrition Obesity",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Cerebrovascular Dementia Neurodegenerative Neurosciences Vascular Cognitive Impairment/Dementia"
+}

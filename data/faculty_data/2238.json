@@ -1,0 +1,120 @@
+{
+  "lastName": "Harrington",
+  "overview": "Laurie E. Harrington received her B.S. degree from the University of Vermont in 1997 and her Ph.D. in Immunology from Emory University in 2001. In late 2001, she began her postdoctoral studies at the University of Alabama at Birmingham, investigating the heterogeneity of CD4 T cell responses during autoimmune and protective immune responses. Laurie joined the Department of Cell Biology, now Cell, Developmental and Integrative Biology, as an Assistant Professor in 2007.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2238-laurie-harrington",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2238",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 123,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 71,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 84,
+      "favourites": 0
+    }
+  },
+  "firstName": "Laurie",
+  "firstNameLastName": "Laurie Harrington",
+  "equipmentLinkTypes": [],
+  "objectId": 2238,
+  "updatedWhen": "2025-05-10T08:07:03.7616958-05:00",
+  "hasCollaborationData": true,
+  "email": "lharring@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Cancer Cardiovascular Digestive Diseases Emerging Infectious Diseases Genetics Hypertension Immunotherapy Infectious Diseases Nutrition Pancreatic Cancer Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Aging Atherosclerosis Autoimmune Disease Cardiovascular Congenital Structural Anomalies Crohn's Disease Digestive Diseases Emerging Infectious Diseases Genetics Immunotherapy Infectious Diseases Inflammatory Bowel Disease Kidney Disease Microbiome Pediatric Polycystic Kidney Disease Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Non-Human Stem Cell Research - Nonembryonic - Non-Human"
+}

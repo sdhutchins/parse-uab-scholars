@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3780",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 73,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Gargiulo",
+  "firstName": "Richard",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3780-richard-gargiulo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Richard Gargiulo",
+  "equipmentLinkTypes": [],
+  "objectId": 3780,
+  "updatedWhen": "2025-05-10T08:10:09.0348548-05:00",
+  "hasCollaborationData": false,
+  "email": "gargiulo@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

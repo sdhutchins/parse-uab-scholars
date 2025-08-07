@@ -1,0 +1,165 @@
+{
+  "lastName": "Lucas",
+  "overview": "Dr. Lucas joined the Department of Psychiatry & Behavioral Neurobiology as an Assistant Professor in July 2022. Her doctoral and postdoctoral training has spanned almost every subdiscipline of neuroscience, from behavioral to molecular to systems. Her doctoral research was conducted in the laboratory of Dr. Rita Cowell in the Department of Psychiatry and Behavioral Neurobiology at the UAB. She combined molecular biology with genetic approaches in mouse models to determine novel region- and cell-specific gene targets of a transcriptional coactivator implicated in neurodegenerative and neuropsychiatric illness. Dr. Lucas then joined the lab of Dr. Roger Clem as a postdoctoral fellow in the Friedman Brain Institute at the Icahn School of Medicine at Mount Sinai in New York City. There she incorporated optogenetic approaches with in vitro slice electrophysiology to examine experience-dependent plasticity of neural circuits after emotional learning. In January 2018, Dr. Lucas opened her independent lab at Department of Molecular Biomedical Sciences at North Carolina State University. Her federally-funded research program utilizes mouse models to uncover the molecular-, cellular-, and circuit-based mechanisms driving sex differences in susceptibility to behaviors relevant to post-traumatic stress and anxiety disorders. In addition to her research accomplishments, Dr. Lucas also has taught graduate- and undergraduate-level courses in statistics, molecular genetics, and neurobiology at UAB, New York University, and North Carolina State University. Dr. Lucas particularly enjoys mentoring students of all levels toward the completion of independent research projects, and many of her students have earned grants and other accolades for their research.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17501-elizabeth-lucas",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "(Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "Psychopharmacology, Physiological Psychology)",
+          "Physiological Psychology)",
+          "Psychology)"
+        ],
+        "value": "Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)"
+      },
+      {
+        "paths": [
+          [
+            "Cognitive Sciences",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurocognitive Patterns and Neural Networks",
+          "Patterns and Neural Networks",
+          "and Neural Networks",
+          "Neural Networks",
+          "Networks"
+        ],
+        "value": "Neurocognitive Patterns and Neural Networks"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Endocrinology"
+        ],
+        "value": "Endocrinology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "17501",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 26,
+      "favourites": 0
+    }
+  },
+  "firstName": "Elizabeth",
+  "firstNameLastName": "Elizabeth Lucas",
+  "equipmentLinkTypes": [],
+  "objectId": 17501,
+  "updatedWhen": "2025-05-10T08:17:51.4634831-05:00",
+  "hasCollaborationData": true,
+  "email": "elucas@uab.edu",
+  "publication_keywords": "Aging Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Contraception/Reproduction Estrogen Genetics Mental Health Mental Illness Neurosciences Nutrition Women's Health",
+  "grant_keywords": "Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Mental Health Mental Illness Mind and Body Neurosciences Women's Health"
+}

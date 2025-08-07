@@ -1,0 +1,124 @@
+{
+  "lastName": "Piyathilake",
+  "overview": "Dr. Piyathilake is a tenured Professor of the Department of Nutrition Sciences, University of Alabama at Birmingham (UAB) and a Senior Scientist in the UAB’s NIH-funded Clinical Nutrition Research Center (CNRC), Comprehensive Cancer Center (UABCCC) and the Minority Health Research Center (MHRC). She trained as a Dental Surgeon in Sri-Lanka and then completed her Master’s degree in international health and a PhD degree in Nutritional Biochemistry from the University of Alabama at Birmingham in the USA.  Her post-doctoral training and preventive oncology academic award (K07) was focused on diet and cancer prevention with a special interest in nutrient-related intermediate endpoint biomarkers of cancer. Her research goals are to systematically develop promising dietary interventions for prevention of cancer and other diet-related diseases while understanding the underlying molecular mechanisms of action and discovery of biomarkers for early detection of cancer. Her research approach has been instrumental for advancing this area of research toward scientifically sound and biomarker based dietary interventions for prevention and control of cervical cancer, caused by exposure to high risk (HR)-human papillomaviruses (HPVs). She has expanded her HPV research program by including other organs (penis, vulva, vagina, anus and oropharynx) where HPV is identified as a definite cancer causing human carcinogen. Her current HPV research is also focused on the etiological role of HPV in the oropharynx, lung, cervix and anus in HIV infected individuals where HPV could play a significant role in the carcinogenic process.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1860-chandrika-piyathilake",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      }
+    ]
+  },
+  "discoveryId": "1860",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 24,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 126,
+      "favourites": 0
+    }
+  },
+  "firstName": "Chandrika",
+  "firstNameLastName": "Chandrika Piyathilake",
+  "equipmentLinkTypes": [],
+  "objectId": 1860,
+  "updatedWhen": "2025-05-10T08:06:12.2778178-05:00",
+  "hasCollaborationData": true,
+  "email": "piyathic@uab.edu",
+  "publication_keywords": "Cancer Cervical Cancer Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Genetics HIV/AIDS HPV and/or Cervical Cancer Vaccines Health Services Immunization Infectious Diseases Nutrition Prevention Sexually Transmitted Infections Vaccine Related Women's Health",
+  "grant_keywords": "Cancer Cervical Cancer Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dietary Supplements HIV/AIDS Infectious Diseases Nutrition Prevention Sexually Transmitted Infections Women's Health"
+}

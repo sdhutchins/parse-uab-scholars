@@ -1,0 +1,124 @@
+{
+  "discoveryId": "462",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 67,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 269,
+      "favourites": 0
+    }
+  },
+  "lastName": "Oster",
+  "firstName": "Robert A.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "462-robert-a-oster",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Robert A. Oster",
+  "equipmentLinkTypes": [],
+  "objectId": 462,
+  "updatedWhen": "2025-05-10T08:03:12.8624242-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "oster@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dementia Depression Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Kidney Disease Mental Health Mental Illness Microbiome Minority Health Neurodegenerative Neurosciences Nutrition Physical Activity Prevention Rare Diseases Urologic Diseases Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Kidney Disease Minority Health Nutrition Obesity Prevention Rural Health Social Determinants of Health Urologic Diseases Women's Health"
+}

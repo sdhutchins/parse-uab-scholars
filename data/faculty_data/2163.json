@@ -1,0 +1,128 @@
+{
+  "lastName": "Bjornsti",
+  "overview": "Mary-Ann Bjornsti, Ph.D., is Chair of the Department of Pharmacology and Toxicology at UAB, and holds the Newman H. Waters Chair of Clinical Pharmacology. She also serves as co-Leader of the Cancer Cell Biology Program and Associate Director for Translational Research in the UAB Comprehensive Cancer Center. She received her Ph.D. from the University of Minnesota in Genetics, followed by a Fogarty Fellowship at the Biozentrum in Basel Switzerland, and post-doctoral training at Harvard University with Dr. James C. Wang.  \n\nIn 1989, she set up her own lab as an Assistant, then Associate Professor at Thomas Jefferson University in Philadelphia. In 1999, she joined the faculty at St. Jude Children’s Research Hospital and was promoted to Full Member. In 2009, she was recruited to UAB as Department Chair. Her long-standing, research interests are in the mechanisms of anti-cancer drug action and in pathways regulating tumor growth and cellular responses to replicative stress. Her lab pioneered the use of the genetically tractable yeast model system to investigate the mechanism of action of DNA topoisomerase I and experimental chemotherapeutics that target this enzyme, with a focus on translating basic mechanisms of chemotherapeutic drug action and cellular pathways that regulate drug responses to human cell lines and mouse models. Her lab actively collaborates with members of the UAB Comprehensive Cancer Center and other UAB researchers to investigate SUMO and mTOR signaling pathways that regulate cancer cell responses to genotoxic stresses.\n\nShe is also on the Executive committee for the Alabama Drug Discovery Alliance (ADDA) and has been actively pursuing the development of novel SUMO pathway inhibitors. She serves on several advisory and editorial boards, is on the Science Policy committees for ASPET and FASEB, is past-President of the Association for Medical School Pharmacology Chairs, Chair-elect for the Cancer Pharmacology Division at ASPET, has organized numerous national and international meetings, and chairs an NIH SBIR/STTR study section. She co-chairs a UAB Translational Concepts meeting with Dr. Mansoor Saleh and serves on the Executive Committee for the UAB National Clinical Trial Network (NCTN) Lead Academic Participating Site (LAPS) program.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2163-maryann-bjornsti",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "School of Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "2163",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 75,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mary-Ann",
+  "firstNameLastName": "Mary-Ann Bjornsti",
+  "equipmentLinkTypes": [],
+  "objectId": 2163,
+  "updatedWhen": "2025-05-10T08:06:50.7368340-05:00",
+  "hasCollaborationData": true,
+  "email": "bjornsti@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Genetics Human Genome",
+  "grant_keywords": "Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Health Disparities Patient Safety Prevention Rare Diseases Rural Health Women's Health"
+}

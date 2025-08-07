@@ -1,0 +1,120 @@
+{
+  "discoveryId": "2772",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 100,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 87,
+      "favourites": 0
+    }
+  },
+  "lastName": "Szaflarski",
+  "firstName": "Magdalena",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2772-magdalena-szaflarski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Magdalena Szaflarski",
+  "equipmentLinkTypes": [],
+  "objectId": 2772,
+  "updatedWhen": "2025-05-10T08:08:22.0347711-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "szaflam@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cannabinoid Research Cardiovascular Clinical Research Coronaviruses Depression Heart Disease Mental Health Mental Illness Minority Health Neurodegenerative Neurosciences Nutrition Physical Injury - Accidents and Adverse Effects Social Determinants of Health Substance Misuse Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury Women's Health",
+  "grant_keywords": ""
+}

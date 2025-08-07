@@ -1,0 +1,116 @@
+{
+  "lastName": "Vilcassim",
+  "overview": "Ruzmyn Vilcassim (PhD, MS) is an Assistant Professor at the Department of Environmental Health Sciences. He is also a JPB Environmental Health Fellow at the Harvard T.H. Chan School of Public Health. He earned his Ph.D. and M.S. degrees from New York University in Environmental Health Sciences (Exposure Assessment and Health Effects) and his current research focuses on the health impacts associated with exposure to air pollution and tobacco products, particularly on the harms of using electronic cigarettes. He has previous work experience in environmental pollution prevention, climate change impacts on vulnerable populations, and sustainable agriculture at environmental non-profit organizations, both in Sri Lanka and internationally.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7185-mohamed-j-ruzmyn-vilcassim",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Environmental Health Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Tourism"
+        ],
+        "value": "Tourism"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "7185",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 2
+    },
+    "teachingActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mohamed J. Ruzmyn",
+  "firstNameLastName": "Mohamed J. Ruzmyn Vilcassim",
+  "equipmentLinkTypes": [],
+  "objectId": 7185,
+  "updatedWhen": "2025-05-10T08:14:20.0356505-05:00",
+  "hasCollaborationData": true,
+  "email": "ruzmyn@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Climate-Related Exposures and Conditions Clinical Research Electronic Nicotine Delivery Systems Health Disparities Health Effects of Indoor Air Pollution Pediatric Pregnancy Prevention Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Women's Health",
+  "grant_keywords": ""
+}

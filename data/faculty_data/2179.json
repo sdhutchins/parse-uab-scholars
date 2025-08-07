@@ -1,0 +1,121 @@
+{
+  "lastName": "Day",
+  "overview": "My major research interest is the neurobiological regulation of reward-related memory systems in the brain and the role of these systems in drug addiction. My laboratory approaches this broad topic at diverse levels of analysis that integrate molecular, genetic, and epigenetic tools with techniques that probe the function of single neurons and entire neuronal circuits. My ultimate goal is to understand epigenetic regulation in normal and disease states, and to use tools that manipulate the epigenome to treat addiction-related diseases. My lab has broad experience with reward circuitry, transcriptional and epigenetic analyses, whole-genome sequencing, and CRISPR/Cas9 genome editing tools to understand the role of specific genes and epigenetic modifications at these genes in neuronal function and behavior.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2179-jeremy-day",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neurobiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2179",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 82,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 41,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 93,
+      "favourites": 3
+    }
+  },
+  "firstName": "Jeremy",
+  "firstNameLastName": "Jeremy Day",
+  "equipmentLinkTypes": [],
+  "objectId": 2179,
+  "updatedWhen": "2025-05-10T08:07:03.6725525-05:00",
+  "hasCollaborationData": true,
+  "email": "jjday@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Drug Abuse (NIDA only) Genetics Human Genome Neurosciences Pediatric Substance Misuse Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,89 @@
+{
+  "lastName": "Bruxvoort",
+  "overview": "I am an epidemiologist with broad interests in infectious disease prevention, screening and diagnostics, and medication adherence. I have extensive experience in designing and leading studies using electronic health records, randomized trials, and large-scale surveys. My overall goal is to conduct high quality research that improves clinical care and public health among underserved populations in diverse settings.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17193-katia-bruxvoort",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Infectious Diseases",
+          "Diseases"
+        ],
+        "value": "Infectious Diseases"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epidemiology"
+        ],
+        "value": "Epidemiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "17193",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 2
+    },
+    "teachingActivities": {
+      "all": 46,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 175,
+      "favourites": 0
+    }
+  },
+  "firstName": "Katia",
+  "firstNameLastName": "Katia Bruxvoort",
+  "equipmentLinkTypes": [],
+  "objectId": 17193,
+  "updatedWhen": "2025-05-10T08:17:17.5102559-05:00",
+  "hasCollaborationData": true,
+  "email": "kbruxvoort@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Brain Disorders Cardiovascular Cerebrovascular Clinical Research Coronaviruses Emerging Infectious Diseases Health Services Heart Disease Heart Disease - Coronary Heart Disease Immunization Infectious Diseases Influenza Lung Neurosciences Patient Safety Pediatric Pneumonia Pneumonia & Influenza Prevention Rare Diseases Stroke Tuberculosis Vaccine Related",
+  "grant_keywords": "Aging Behavioral and Social Science Clinical Research Drug Abuse (NIDA only) HIV/AIDS Health Disparities Infectious Diseases Minority Health Sexually Transmitted Infections Substance Misuse Women's Health"
+}

@@ -1,0 +1,126 @@
+{
+  "lastName": "Barnes",
+  "overview": "Dr. Barnes is an Assistant Professor of Medicine at the University of Alabama at Birmingham (UAB). Following his training in Glycobiology at the Complex Carbohydrate Research Center at the University of Georgia, he was recruited to the Cleveland Clinic Lerner College of Medicine, where he combined his basic research experiences with more translational approaches in the Department of Pathobiology within the Lerner Research Institute. During his stint at the Cleveland Clinic, Dr. Barnes became a Research Associate, the Director of the Pulmonary Vascular Disease Center of Excellence Biorepository, and received support from multiple sources, including grants from the National Institutes of Health.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3707-jarrod-barnes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      }
+    ]
+  },
+  "discoveryId": "3707",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 84,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jarrod",
+  "firstNameLastName": "Jarrod Barnes",
+  "equipmentLinkTypes": [],
+  "objectId": 3707,
+  "updatedWhen": "2025-05-12T03:19:08.2616257-05:00",
+  "hasCollaborationData": true,
+  "email": "barnesj5@uab.edu",
+  "publication_keywords": "Clinical Research Cystic Fibrosis Hematology Infectious Diseases Kidney Disease Lung Orphan Drug Rare Diseases",
+  "grant_keywords": "Aging Autoimmune Disease Chronic Obstructive Pulmonary Disease Clinical Research Cystic Fibrosis Lung Orphan Drug Rare Diseases"
+}

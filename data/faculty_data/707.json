@@ -1,0 +1,123 @@
+{
+  "discoveryId": "707",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 101,
+      "favourites": 0
+    }
+  },
+  "lastName": "Allendorfer",
+  "firstName": "Jane",
+  "hasThumbnail": true,
+  "discoveryUrlId": "707-jane-allendorfer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Jane Allendorfer",
+  "equipmentLinkTypes": [],
+  "objectId": 707,
+  "updatedWhen": "2025-05-10T08:03:50.0505323-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "allendjb@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Depression Epilepsy Mental Health Mental Illness Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Rehabilitation Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury",
+  "grant_keywords": "Aging Aphasia Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Epilepsy Genetics Health Disparities Minority Health Neurodegenerative Neurosciences Physical Rehabilitation Rehabilitation Stroke Women's Health"
+}

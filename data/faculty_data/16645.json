@@ -1,0 +1,76 @@
+{
+  "lastName": "Smith",
+  "overview": "Kimberly A. Smith, PhD, is an Assistant Professor in the Department of Family and Community Medicine at the University of Alabama at Birmingham’s School of Medicine. Smith is also the Director of Evaluation with the UAB Center for Clinical and Translational Science. Dr. Smith joined UAB from the University of Southern Mississippi, where she earned her Ph.D. in Education with a concentration in Research, Evaluation, Statistics, and Assessment. She holds a master’s degree in Educational Research Studies, also from the University of Southern Mississippi; a master’s in Human Performance with a concentration in Exercise Physiology from the University of Alabama; and a bachelor’s degree in Kinesiology with a concentration in Health Promotion from the University of Montevallo.\nSmith hones her professional knowledge and research experience to improve healthcare delivery and outcomes through collaborative programs within the institution, around the community, and across the state. Her leadership roles involve developing robust program evaluation models focused on outcome measurement, implementation, validation, and study design. Her research focuses on advancing translational research and outcomes applicable in settings across the state, specifically assessing the dissemination and implementation of programs. Throughout her career, she has developed expertise in applying scientific methodologies, advanced statistics, and assessments to various quality improvement projects across multiple disciplines. Smith also recently became a member of the NSCA's Executive Council for the Long-Term Athletic Development Special Interest Group.\n\nSpecialties: Smith specializes in health promotion and wellness utilizing advanced data analysis and statistics, research methodology and design, programmatic evaluation, and assessment. She leads several teams through the design and execution of research agendas, capacity assessments, annual evaluation plans, methodological design and consultations, and other products and services to systematize and advance objectives through evidence-based practices. Smith values being solution-oriented, always questioning the status quo and finding ways to innovate and elevate where she sees opportunities to raise the bar.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16645-kimberly-smith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Family & Community Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "16645",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 16,
+      "favourites": 4
+    }
+  },
+  "firstName": "Kimberly",
+  "firstNameLastName": "Kimberly Smith",
+  "equipmentLinkTypes": [],
+  "objectId": 16645,
+  "updatedWhen": "2025-05-10T08:16:22.8843667-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Health Services Heart Disease Hypertension Mind and Body Minority Health Nutrition Obesity Prevention Tobacco Tobacco Smoke and Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

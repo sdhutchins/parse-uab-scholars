@@ -1,0 +1,54 @@
+{
+  "lastName": "Contreras",
+  "overview": "Dr. Contreras-Galindo is an Assistant Professor and Section leader in Genome Instability and Chromosome Biology in the Department of Genetics and the Division of Immunology and Rheumatology at the University of Alabama. He is a member of the NCI Geographic Management of Cancer Health Disparities Program (GMaP) network. He studies the function and evolution of human centromeres and telomere sequences. As a doctoral and postdoctoral scholar, he discovered thousands of viruses in the human centromere and revealed the rapid structural changes centromeres have gone through. He has developed biomarkers to study the centromeres and telomeres of humans in real time and the dynamics changes that lead to aneuploidy. He studies diseases associated with centromere defects, such as Scleroderma and cancers.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18625-rafael-contreras",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "discoveryId": "18625",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 30,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rafael",
+  "firstNameLastName": "Rafael Contreras",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "Video introduction of Prof. Rafael Contreras-Galindo at the National Scleroderma Foundation",
+      "embedLink": "https://www.youtube-nocookie.com/embed/C4mqmERCk2I",
+      "label": "National Scleroderma Foundation",
+      "thumbnailLink": "https://img.youtube.com/vi/C4mqmERCk2I/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/C4mqmERCk2I?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 18625,
+  "updatedWhen": "2025-05-10T08:19:51.0432009-05:00",
+  "hasCollaborationData": false,
+  "email": "contrerr@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biotechnology Cancer Genetics Human Genome Prevention Rare Diseases Regenerative Medicine Scleroderma Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Women's Health",
+  "grant_keywords": ""
+}

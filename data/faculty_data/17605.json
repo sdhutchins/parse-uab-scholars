@@ -1,0 +1,115 @@
+{
+  "discoveryId": "17605",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 78,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 82,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 222,
+      "favourites": 0
+    }
+  },
+  "lastName": "Scott",
+  "firstName": "Karen",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17605-karen-scott",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Laboratory Medicine"
+    }
+  ],
+  "firstNameLastName": "Karen Scott",
+  "equipmentLinkTypes": [],
+  "objectId": 17605,
+  "updatedWhen": "2025-05-10T08:18:01.2786259-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Other Chemical Sciences",
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Forensic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Forensic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Pharmacology and Pharmaceutical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Toxicology (incl. Clinical Toxicology)",
+          "(incl. Clinical Toxicology)",
+          "Clinical Toxicology)",
+          "Toxicology)"
+        ],
+        "value": "Toxicology (incl. Clinical Toxicology)"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kscott4@uab.edu",
+  "publication_keywords": "Drug Abuse (NIDA only) Fentanyl Misuse and Addiction Opioid Misuse and Addiction Opioids Substance Misuse Urologic Diseases",
+  "grant_keywords": ""
+}

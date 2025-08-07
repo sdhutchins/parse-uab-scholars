@@ -1,0 +1,125 @@
+{
+  "discoveryId": "4893",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 108,
+      "favourites": 0
+    }
+  },
+  "lastName": "Chong",
+  "firstName": "Zechen",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4893-zechen-chong",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Dept Of Biomedical Informatics & Data Science"
+    }
+  ],
+  "firstNameLastName": "Zechen Chong",
+  "equipmentLinkTypes": [],
+  "objectId": 4893,
+  "updatedWhen": "2025-05-10T08:11:43.7150152-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "zchong@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Bioengineering Biotechnology Brain Disorders Cancer Childhood Leukemia Dementia Genetics Hematology Human Genome Neurodegenerative Neurosciences Orphan Drug Pediatric Cancer Pediatric Research Initiative Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Aging Atherosclerosis Cancer Cardiovascular Clinical Research Colo-Rectal Cancer Digestive Diseases Genetics Heart Disease Heart Disease - Coronary Heart Disease Human Genome Orphan Drug Radiation Oncology Rare Diseases Women's Health"
+}

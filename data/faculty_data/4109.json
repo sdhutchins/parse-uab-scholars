@@ -1,0 +1,71 @@
+{
+  "discoveryId": "4109",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 36,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 48,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sadowsky",
+  "firstName": "Percival",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4109-percival-sadowsky",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Orthodontics"
+    }
+  ],
+  "firstNameLastName": "Percival Sadowsky",
+  "equipmentLinkTypes": [],
+  "objectId": 4109,
+  "updatedWhen": "2025-05-10T08:10:34.4800741-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "sadowsky@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

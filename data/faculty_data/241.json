@@ -1,0 +1,130 @@
+{
+  "lastName": "Robbin",
+  "overview": "Michelle L. Robbin, MD, MS, FACR, FAIUM, FSRU completed a B.S. in Mechanical Engineering  at the Massachusetts Institute of Technology  and a M.S. in Mechanical Engineering at the University of Minnesota. She attended medical school at the Mayo Clinic, followed by an adult internal medicine internship at California Pacific Medical Center.  Dr. Robbin completed a radiology residency and ultrasound fellowship at the University of California San Francisco. Thereafter, she joined the faculty in the abdominal imaging section of the Department of Radiology at the University of Alabama at Birmingham, as chief of ultrasound.  \n\nDr. Robbin has authored or coauthored more than 80 articles, 18 book chapters, and has given well over 250 presentations at national and international conferences. A fellow of the Society of Radiologists in Ultrasound, American Institute of Ultrasound in Medicine (AIUM) and American College of Radiology, she received the Larry Mack award in 1999 for the best research paper presented at the SRU.\n\nDr. Robbin has been a PI, CoPI or Investigator on 35 NIH and industry grants, including her R01 entitled \"Early Diagnosis and Treatment of Dialysis Graft Stenosis\".  She has recently completed her role as Director of the Ultrasound Core on the Hemodialysis Fistula Maturation Study, a multicenter U01 NIH trial. The US Core read approximately 2,800 preoperative mapping and postoperative AVF ultrasounds from 7 clinical centers during the course of the 5-year study. Multiple manuscripts are in preparation from this wealth of data. \n\nDr. Robbin has served on the AIUM Board of Governors, and on the Board of Directors of the Intersocietal Commission for the Accreditation of Vascular Laboratories (ICAVL). She is currently on the editorial boards of the Journal of Ultrasound in Medicine and Ultrasound Quarterly, and previously served on Radiology's editorial Board and as Consultant to the Editor (Radiology).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "241-michelle-robbin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "241",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 148,
+      "favourites": 0
+    }
+  },
+  "firstName": "Michelle",
+  "firstNameLastName": "Michelle Robbin",
+  "equipmentLinkTypes": [],
+  "objectId": 241,
+  "updatedWhen": "2025-05-10T08:02:35.0158044-05:00",
+  "hasCollaborationData": true,
+  "email": "mrobbin@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Biomedical Imaging Cardiovascular Clinical Research Kidney Disease Organ Transplantation Patient Safety Rare Diseases Transplantation",
+  "grant_keywords": "Bioengineering Biomedical Imaging Cancer Kidney Disease Orphan Drug Precision Medicine Rare Diseases"
+}

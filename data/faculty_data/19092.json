@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19092",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pearson",
+  "firstName": "Keith",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19092-keith-pearson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "firstNameLastName": "Keith Pearson",
+  "equipmentLinkTypes": [],
+  "objectId": 19092,
+  "updatedWhen": "2025-05-10T08:20:49.0567658-05:00",
+  "hasCollaborationData": true,
+  "email": "pearson2@uab.edu",
+  "publication_keywords": "ALS Aging Behavioral and Social Science Brain Disorders Cerebrovascular Clinical Research Complementary and Integrative Health Diabetes Dietary Supplements Health Disparities Mental Health Minority Health Neurodegenerative Neurosciences Nutrition Obesity Pediatric Prevention Rare Diseases Sleep Research Social Determinants of Health Stroke Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,123 @@
+{
+  "lastName": "Frolova",
+  "overview": "My research is focused on understanding multiple changes in the intracellular environment induced by replication of alphaviruses. We are studying the mechanism of virus-induced innate immune response and alphavirus-specific countermeasures aimed at its downregulation. Understanding of these competing processes is required for development of new vaccine candidates for pathogenic alphaviruses, designing of the alphavirus-based self-amplifying RNAs and antiviral drugs.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2047-elena-frolova",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Evolutionary Biology",
+          "Biology"
+        ],
+        "value": "Evolutionary Biology"
+      }
+    ]
+  },
+  "discoveryId": "2047",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 88,
+      "favourites": 0
+    }
+  },
+  "firstName": "Elena",
+  "firstNameLastName": "Elena Frolova",
+  "equipmentLinkTypes": [],
+  "objectId": 2047,
+  "updatedWhen": "2025-05-10T08:06:35.9360205-05:00",
+  "hasCollaborationData": true,
+  "email": "efrolova@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Coronaviruses Emerging Infectious Diseases Genetics Infectious Diseases Rare Diseases Vector-Borne Diseases",
+  "grant_keywords": "Biodefense Biotechnology Emerging Infectious Diseases Genetics Immunization Infectious Diseases Orphan Drug Prevention Rare Diseases Vaccine Related Vector-Borne Diseases"
+}

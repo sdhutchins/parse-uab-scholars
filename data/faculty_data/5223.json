@@ -1,0 +1,86 @@
+{
+  "discoveryId": "5223",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1269,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jololian",
+  "firstName": "Leon",
+  "hasThumbnail": false,
+  "discoveryUrlId": "5223-leon-jololian",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Electrical & Computer Engineering"
+    }
+  ],
+  "firstNameLastName": "Leon Jololian",
+  "equipmentLinkTypes": [],
+  "objectId": 5223,
+  "updatedWhen": "2025-05-10T08:12:12.0630990-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "leon@uab.edu",
+  "publication_keywords": "Aging Bioengineering Brain Disorders Clinical Research Data Science Health Services Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Parkinson's Disease Substance Misuse",
+  "grant_keywords": ""
+}

@@ -1,0 +1,122 @@
+{
+  "lastName": "Rocque",
+  "overview": "Dr. Rocque has a primary focus in pediatric neurosurgery, including care for hydrocephalus, spina bifida, pediatric brain tumors, spasticity, peripheral nerve injuries, and Chiari malformation.\nDr. Rocque was born and raised in Atlanta, GA. He attended the University of Georgia, where he was a member of the NCAA top-ten men’s swim team and graduated summa cum laude with majors in chemistry and biology. He received his medical degree from Washington University in St. Louis and went on to neurosurgery residency at the University of Wisconsin in Madison. During residency, he completed a Master’s Degree in Clinical Investigation. Dr. Rocque spent an additional year in Madison for a fellowship in Complex and Reconstructive Spinal Surgery prior to completing his training with the renowned pediatric neurosurgery fellowship at Children’s of Alabama.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "311-brandon-rocque",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurosurg-Computer Assisted"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "311",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 225,
+      "favourites": 0
+    }
+  },
+  "firstName": "Brandon",
+  "firstNameLastName": "Brandon Rocque",
+  "equipmentLinkTypes": [],
+  "objectId": 311,
+  "updatedWhen": "2025-05-10T08:02:47.5918750-05:00",
+  "hasCollaborationData": true,
+  "email": "bgrocque@uab.edu",
+  "publication_keywords": "Assistive Technology Bioengineering Brain Disorders Clinical Research Congenital Structural Anomalies Data Science Health Disparities Hydrocephalus Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Pediatric Pediatric Research Initiative Rare Diseases Social Determinants of Health Spina Bifida",
+  "grant_keywords": ""
+}

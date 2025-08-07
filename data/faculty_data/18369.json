@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18369",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wahl",
+  "firstName": "Angela",
+  "hasThumbnail": false,
+  "discoveryUrlId": "18369-angela-wahl",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "firstNameLastName": "Angela Wahl",
+  "equipmentLinkTypes": [],
+  "objectId": 18369,
+  "updatedWhen": "2025-05-10T08:19:16.6481341-05:00",
+  "hasCollaborationData": false,
+  "email": "awahl@uab.edu",
+  "publication_keywords": "Biodefense Brain Disorders Clinical Research Emerging Infectious Diseases Genetics HIV/AIDS Human Fetal Tissue Infectious Diseases Lung Microbiome Neurodegenerative Neurosciences Pediatric Pneumonia Pneumonia & Influenza Prevention Sexually Transmitted Infections",
+  "grant_keywords": "Digestive Diseases HIV/AIDS Human Fetal Tissue Infectious Diseases Mental Health Microbiome Neurosciences"
+}

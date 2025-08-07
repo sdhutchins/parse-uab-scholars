@@ -1,0 +1,71 @@
+{
+  "discoveryId": "3908",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "lastName": "Essig",
+  "firstName": "Milton",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3908-milton-essig",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "General Dentistry"
+    }
+  ],
+  "firstNameLastName": "Milton Essig",
+  "equipmentLinkTypes": [],
+  "objectId": 3908,
+  "updatedWhen": "2025-05-10T08:10:17.4621265-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "essig@uab.edu",
+  "publication_keywords": "Aging Assistive Technology Bioengineering Dental/Oral and Craniofacial Disease Rehabilitation",
+  "grant_keywords": ""
+}

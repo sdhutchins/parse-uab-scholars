@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3783",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pernell",
+  "firstName": "Brandi",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3783-brandi-pernell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Pediatric - Hematology-Oncology"
+    }
+  ],
+  "firstNameLastName": "Brandi Pernell",
+  "equipmentLinkTypes": [],
+  "objectId": 3783,
+  "updatedWhen": "2025-05-10T08:10:09.0348548-05:00",
+  "hasCollaborationData": false,
+  "email": "bmcclain@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

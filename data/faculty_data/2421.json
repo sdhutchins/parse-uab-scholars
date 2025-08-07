@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2421",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1283,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sullivan",
+  "firstName": "Andrew",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2421-andrew-sullivan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor & Associate Dean",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Andrew Sullivan",
+  "equipmentLinkTypes": [],
+  "objectId": 2421,
+  "updatedWhen": "2025-05-10T08:07:28.9217192-05:00",
+  "hasCollaborationData": false,
+  "email": "asullivan@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

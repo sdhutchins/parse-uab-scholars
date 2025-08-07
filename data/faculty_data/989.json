@@ -1,0 +1,116 @@
+{
+  "lastName": "Davis",
+  "overview": "Dr. Davis serves as Medical Director for the UAB Division of Pediatric Rehabilitation Medicine at Children's of Alabama. He is an Associate Professor in the UAB Departments of Pediatrics and Physical Medicine and Rehabilitation (PM&R).  Dr. Davis also serves as Medical Director for the Children's of Alabama Early Intervention Program. He is certified by the American Board of Physical Medicine and Rehabilitation in Pediatric Rehabilitation Medicine (PRM) and PM&R. He attended medical school at the University of Alabama School of Medicine, completed residency with the UAB Department of PM&R, and completed fellowship in PRM in the UAB Department of Pediatrics.\n\nDr. Davis is a member of the American Academy of Physical Medicine and Rehabilitation, the American Academy for Cerebral Palsy and Developmental Medicine, the American Academy of Pediatrics, the Medical Association of the State of Alabama, the Alabama Society of Physical Medicine and Rehabilitation, and the Jefferson County Medical Society. He also serves on the Board of Directors for the Alabama Head Injury Foundation and Disability Rights and Resources, and is a member of the Alabama Head Injury Task Force.\n\nDr. Davis's special interests include management of traumatic brain injury, spinal cord injury, spasticity, and assistive technology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "989-drew-davis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Rehabilitation Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "989",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 36,
+      "favourites": 0
+    }
+  },
+  "firstName": "Drew",
+  "firstNameLastName": "Drew Davis",
+  "equipmentLinkTypes": [],
+  "objectId": 989,
+  "updatedWhen": "2025-05-10T08:04:33.6735307-05:00",
+  "hasCollaborationData": true,
+  "email": "davis@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Bioengineering Brain Disorders Cancer Cardiovascular Childhood Injury Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Neurosciences Patient Safety Pediatric Pediatric Research Initiative Physical Activity Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Prevention Rehabilitation Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury Unintentional Childhood Injury",
+  "grant_keywords": ""
+}

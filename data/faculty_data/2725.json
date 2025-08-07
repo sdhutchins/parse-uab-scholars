@@ -1,0 +1,121 @@
+{
+  "lastName": "DeBerry",
+  "overview": "Dr. DeBerry's research uses an integrative, multi-pronged approach to understanding the mechanisms contributing to changes in the sensory nervous system that lead to, or help maintain, increased or decreased sensation. Her primary interest is visceral sensory neurobiology. Research in her laboratory combines in vivo behavioral techniques with optogenetics, electrophysiology, molecular biology, and cellular imaging to study the phenotype and function of primary afferent neurons and the spinal dorsal horn neurons with which they synapse. Animal models of inflammation, stress, and spinal cord injury allow for systematic investigations of various changes in sensory processing that lead to increased sensation (hyperalgesia, allodynia), loss of sensation, and altered organ function. The overarching goal of this work is to identify novel therapeutic strategies to mitigate or manage pain and restore normal organ function.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2725-jennifer-deberry",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Anesthesiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2725",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 45,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jennifer",
+  "firstNameLastName": "Jennifer DeBerry",
+  "equipmentLinkTypes": [],
+  "objectId": 2725,
+  "updatedWhen": "2025-05-10T08:08:11.1311635-05:00",
+  "hasCollaborationData": true,
+  "email": "jenjdeb@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Chronic Pain Digestive Diseases Genetics Neurodegenerative Neurosciences Pain Research Patient Safety Physical Injury - Accidents and Adverse Effects Spinal Cord Injury Traumatic Head and Spine Injury Urologic Diseases Women's Health",
+  "grant_keywords": "Autoimmune Disease Chronic Pain Clinical Research Diabetes Drug Abuse (NIDA only) Genetics HIV/AIDS Infectious Diseases Interstitial Cystitis Neurodegenerative Neurosciences Opioids Pain Research Peripheral Neuropathy Prevention Sexually Transmitted Infections Substance Misuse Urologic Diseases"
+}

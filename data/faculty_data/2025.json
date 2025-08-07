@@ -1,0 +1,98 @@
+{
+  "discoveryId": "2025",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 86,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 24,
+      "favourites": 0
+    }
+  },
+  "lastName": "Petit",
+  "firstName": "Chad",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2025-chad-petit",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Chad Petit",
+  "equipmentLinkTypes": [],
+  "objectId": 2025,
+  "updatedWhen": "2025-05-10T08:06:35.9150071-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cpetit@uab.edu",
+  "publication_keywords": "Biodefense Brain Disorders Emerging Infectious Diseases Infectious Diseases Influenza Neurodegenerative Neurosciences Parkinson's Disease Pneumonia & Influenza",
+  "grant_keywords": "Autoimmune Disease Biodefense Clinical Research Diabetes Emerging Infectious Diseases Genetics Health Disparities Infectious Diseases Influenza Pediatric Pneumonia & Influenza Rare Diseases Stem Cell Research Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Vector-Borne Diseases"
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Porterfield",
+  "overview": "Dr. John R. Porterfield joined the UAB Department of Surgery in 2008, returning to Alabama, his home state, after training at the Mayo Clinic. He has since achieved associate professorship and additionally serves as director of the General Surgery Residency Program. A skilled instructor, with a gift for teaching, he has won numerous awards including several UAB Faculty Teacher of the Year awards. He is a dedicated mentor to a group of UAB student researchers and thrives on counseling high school, college and medical school students. Dr. Porterfield was recently inducted into the prestigious Southern Surgical Association. He also is an active member of numerous professional organizations including the Southeastern Surgical Congress, the Association of Program Directors in Surgery where he is currently serving as a board member, and he also serves on the American College of Surgeons Committee on Resident Education. Dr. Porterfield speaks nationally and internationally regarding his expertise in surgical education, endocrine and robotic surgery. He has authored five book chapters and contributed to 30 journal articles.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1155-john-porterfield",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Gastrointestinal Section"
+    }
+  ],
+  "suffix": "Jr.",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1155",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 67,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Porterfield",
+  "equipmentLinkTypes": [],
+  "objectId": 1155,
+  "updatedWhen": "2025-05-11T18:41:27.0148926-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

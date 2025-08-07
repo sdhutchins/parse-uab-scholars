@@ -1,0 +1,124 @@
+{
+  "lastName": "Wingate",
+  "overview": "Dr. Wingate is Professor and Chair of the Department of Health Policy and Organization at the UAB School of Public Health. She teaches courses in public health systems, maternal and child health (MCH), leadership, and perinatal health issues. With training in MCH epidemiology, her research focuses on maternal morbidity/mortality, fetal and infant mortality, and MCH policy. Dr. Wingate is highly engaged with public health and clinical care entities and practitioners, connecting the multiple disciplines and systems that work together to improve the health and well-being of MCH populations. In addition to directing the Alabama Maternal Health Innovation Program and Alabama Maternal Health Taskforce, she serves as the Executive Director and Public Health lead for the Alabama Perinatal Quality Collaborative (ALPQC).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1961-martha-wingate",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "1961",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 53,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 373,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 70,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 157,
+      "favourites": 0
+    }
+  },
+  "firstName": "Martha",
+  "firstNameLastName": "Martha Wingate",
+  "equipmentLinkTypes": [],
+  "objectId": 1961,
+  "updatedWhen": "2025-05-10T08:06:24.4722895-05:00",
+  "hasCollaborationData": true,
+  "email": "mslay@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Clinical Research Contraception/Reproduction Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Hypertension Maternal Health Maternal Morbidity and Mortality Minority Health Patient Safety Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Rare Diseases Social Determinants of Health Telehealth Transplantation Women's Health",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Maternal Health Maternal Morbidity and Mortality Minority Health Pediatric Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Social Determinants of Health Women's Health"
+}

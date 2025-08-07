@@ -1,0 +1,117 @@
+{
+  "discoveryId": "350",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 71,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 13,
+      "favourites": 0
+    }
+  },
+  "lastName": "Joiner",
+  "firstName": "Cynthia",
+  "hasThumbnail": true,
+  "discoveryUrlId": "350-cynthia-joiner",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Cynthia Joiner",
+  "equipmentLinkTypes": [],
+  "objectId": 350,
+  "updatedWhen": "2025-05-10T08:02:47.6418779-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Applied Mathematics",
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Operations Research",
+          "Research"
+        ],
+        "value": "Operations Research"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Care Administration",
+          "Care Administration",
+          "Administration"
+        ],
+        "value": "Health Care Administration"
+      },
+      {
+        "paths": [
+          [
+            "Specialist Studies in Education",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Educational Administration, Management and Leadership",
+          "Administration, Management and Leadership",
+          "Management and Leadership",
+          "and Leadership",
+          "Leadership"
+        ],
+        "value": "Educational Administration, Management and Leadership"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "irwin@uab.edu",
+  "publication_keywords": "Cardiovascular Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Hypertension Minority Health Nutrition Pediatric Pediatric Research Initiative Women's Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,112 @@
+{
+  "discoveryId": "11250",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 30,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "lastName": "Leach",
+  "firstName": "Justin",
+  "hasThumbnail": true,
+  "discoveryUrlId": "11250-justin-leach",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Biostatistics"
+    }
+  ],
+  "firstNameLastName": "Justin Leach",
+  "equipmentLinkTypes": [],
+  "objectId": 11250,
+  "updatedWhen": "2025-05-10T08:15:02.2711623-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Rheumatology and Arthritis",
+          "and Arthritis",
+          "Arthritis"
+        ],
+        "value": "Rheumatology and Arthritis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jleach@uab.edu",
+  "publication_keywords": "Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Cardiovascular Clinical Research Clinical Trials and Supportive Activities Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Human Genome Hypertension Inflammatory Bowel Disease Maternal Health Maternal Morbidity and Mortality Microbiome Minority Health Myasthenia Gravis Neurosciences Orphan Drug Patient Safety Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Rare Diseases Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

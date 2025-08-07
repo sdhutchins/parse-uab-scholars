@@ -1,0 +1,88 @@
+{
+  "lastName": "Van Sant",
+  "overview": "Dr. John Van Sant joined the Department of History at UAB in the Fall of 2000. He has presented several papers on his research at regional, national, and international history and Asian studies conferences. His research is primarily on the political, ideological, and cultural changes in Japan during the nineteenth century. He teaches undergraduate and graduate courses on Japan and China, plus World history undergraduate courses. Dr. Van Sant also works with the Advanced Placement World History program, and is a member of the Japan America Society of Alabama.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2628-john-van-sant",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "History"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "History and Archaeology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Historical Studies",
+          "Studies"
+        ],
+        "value": "Historical Studies"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "History and Philosophy of Specific Fields",
+          "and Philosophy of Specific Fields",
+          "Philosophy of Specific Fields",
+          "of Specific Fields",
+          "Specific Fields",
+          "Fields"
+        ],
+        "value": "History and Philosophy of Specific Fields"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Philosophy"
+        ],
+        "value": "Philosophy"
+      }
+    ]
+  },
+  "discoveryId": "2628",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 155,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "firstName": "John",
+  "firstNameLastName": "John Van Sant",
+  "equipmentLinkTypes": [],
+  "objectId": 2628,
+  "updatedWhen": "2025-05-10T08:08:00.8936758-05:00",
+  "hasCollaborationData": false,
+  "email": "jvansant@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

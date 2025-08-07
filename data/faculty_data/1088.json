@@ -1,0 +1,82 @@
+{
+  "discoveryId": "1088",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "lastName": "Knight",
+  "firstName": "Amy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1088-amy-knight",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Neurology"
+    }
+  ],
+  "firstNameLastName": "Amy Knight",
+  "equipmentLinkTypes": [],
+  "objectId": 1088,
+  "updatedWhen": "2025-05-10T08:04:44.6187257-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "ajk@uab.edu",
+  "publication_keywords": "Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Clinical Research Mental Health Mental Illness Neurosciences Physical Injury - Accidents and Adverse Effects Post-Traumatic Stress Disorder (PTSD)",
+  "grant_keywords": ""
+}

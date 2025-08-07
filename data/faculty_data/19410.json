@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19410",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pickering",
+  "firstName": "Andrew",
+  "hasThumbnail": false,
+  "discoveryUrlId": "19410-andrew-pickering",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "University of Alabama Health Services Foundation (UAHSF)"
+    }
+  ],
+  "firstNameLastName": "Andrew Pickering",
+  "equipmentLinkTypes": [],
+  "objectId": 19410,
+  "updatedWhen": "2025-05-10T08:21:37.4855913-05:00",
+  "hasCollaborationData": false,
+  "email": "apick1@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

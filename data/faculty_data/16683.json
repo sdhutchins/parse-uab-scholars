@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16683",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Campbell",
+  "firstName": "Sukhkamal",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16683-sukhkamal-campbell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "OB/GYN - Reproductive Endocrinology"
+    }
+  ],
+  "firstNameLastName": "Sukhkamal Campbell",
+  "equipmentLinkTypes": [],
+  "objectId": 16683,
+  "updatedWhen": "2025-05-10T08:16:22.8994650-05:00",
+  "hasCollaborationData": false,
+  "email": "kimb3@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

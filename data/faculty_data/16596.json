@@ -1,0 +1,86 @@
+{
+  "lastName": "Dsouza",
+  "overview": "Dr. Kevin Dsouza completed his initial medical training at India's M.S. Ramaiah Medical College before beginning work as a research fellow at the University of Maryland School of Medicine. He then completed his residency at Rochester General Hospital, followed by a fellowship in pulmonary and critical care medicine at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16596-kevin-dsouza",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "16596",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 53,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kevin",
+  "firstNameLastName": "Kevin Dsouza",
+  "equipmentLinkTypes": [],
+  "objectId": 16596,
+  "updatedWhen": "2025-05-10T08:16:13.4193682-05:00",
+  "hasCollaborationData": true,
+  "email": "kdsouza@uab.edu",
+  "publication_keywords": "Aging Biotechnology Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Genetics Heart Disease Lung Prevention Tobacco Tobacco Smoke and Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17106",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 22,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Rodrick",
+  "firstName": "Kelli",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17106-kelli-rodrick",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Kelli Rodrick",
+  "equipmentLinkTypes": [],
+  "objectId": 17106,
+  "updatedWhen": "2025-05-10T08:17:09.0203203-05:00",
+  "hasCollaborationData": false,
+  "email": "rodrick@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

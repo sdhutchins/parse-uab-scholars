@@ -1,0 +1,85 @@
+{
+  "lastName": "Givan",
+  "overview": "Dr. Daniel Givan, D.M.D., Ph.D., F.A.C.P. is a Professor at the University of Alabama at Birmingham School of Dentistry and serves as the Associate Dean for Clinical Affairs and the Director of Digital Dentistry and Clinical Laboratory Services.  \n\nDr. Givan received his dental degree from the University of Mississippi in 1992 and afterwards completed a hospital dentistry residency followed by a specialty residency in Prosthodontics at UAB.  He is a Diplomate of the American Board of Prosthodontics and has earned a Ph.D. in Biomedical Engineering with emphasis in dental materials from the University of Alabama at Birmingham.  He joined the faculty of the School in 1998 and has been actively involved in both clinical research and applications of technology to dentistry in both the graduate and undergraduate curricula.  He has lectured nationally and internationally with emphasis in occlusion, implantology, and digital dentistry.  \n\nDr. Givan has served as the elected chair of his school faculty multiple times and remains active in policy and shared governance.  He currently serves as chair of the university-wide Faculty Policies and Procedures Committee as well as a member of the Executive Council of the University Faculty Senate.  Dr. Givan is a member of numerous professional organizations including the International Association for Dental Research, the American Dental Education Association, the Academy of Osseointegration, and the American Dental Association.  He is a Fellow of the American College of Dentists, the International College of Dentists, and the American College of Prosthodontists, where he has held numerous leadership positions and currently serves as the Secretary of the Board of Directors.  He also serves as the Chair of the Council for the American Board of Prosthodontics.  \n\nSince 1998, Dr. Givan has maintained an active faculty practice limited to prosthodontics.  His focus has primarily regarded restorative and cosmetic procedures including crowns, bridges, veneers, implant restorations, and partial and complete dentures.  As a specialist, he enjoys the challenge of complex rehabilitations including full-mouth reconstruction.  He provides patient care on Wednesdays in the UAB Dental Group (Dental Faculty Practice), which is located on the fifth floor of the University of Alabama at Birmingham School of Dentistry in Birmingham, AL.  For appointment information please call 205-934-2340.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1303-daniel-givan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Prosthodontics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "1303",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 196,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 44,
+      "favourites": 0
+    }
+  },
+  "firstName": "Daniel",
+  "firstNameLastName": "Daniel Givan",
+  "equipmentLinkTypes": [],
+  "objectId": 1303,
+  "updatedWhen": "2025-05-12T03:21:24.6236106-05:00",
+  "hasCollaborationData": true,
+  "email": "dgivan@uab.edu",
+  "publication_keywords": "Bioengineering Infectious Diseases",
+  "grant_keywords": ""
+}

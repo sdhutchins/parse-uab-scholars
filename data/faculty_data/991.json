@@ -1,0 +1,127 @@
+{
+  "lastName": "Cron",
+  "overview": "Dr. Cron began his research training at the NIH (as a HHMI scholar) and continued with a PhD in Immunology following my mentor, Dr. Jeff Bluestone, to the University of Chicago, where Dr. Cron characterized murine peripheral TCRgd T cell repertoire, phenotype, and effector function. He completed medical school at UCLA and did a Pediatrics residency at Stanford where he gained an interest in Rheumatology. This was followed by a fellowship at the University of Washington in Pediatric Rheumatology. Dr. Cron returned to the lab to study human CD4 T cell effector function regulated at the transcriptional level with Dr. David Lewis. Following Dr. Lewis to Stanford, Dr. Cron completed an HHMI post-doctoral fellowship exploring CD154 dysregulation in systemic lupus erythematosus, as well as HIV-1 transcriptional regulation by NFAT transcription factors. This was the basis for his own lab’s studies at the University of Pennsylvania. Dr. Cron was recruited to UAB in 2007 to begin a division of Pediatric Rheumatology. In general, my Dr. Cron's lab studies CD4 T cell transcription in primary human CD4 T cells. As such, the Cron lab has adapted or developed an array of useful methodologies/technologies for studying gene transcription (CD154, HIV-1, and others) in primary murine and human CD4 T cells.   In addition, the Cron lab is exploring the role of the Treg transcription factor, FoxP3, for its ability to inhibit HIV-1 transcription, and for Tregs to inhibit HIV-1 expression in neighboring CD4 T cells and macrophages. In collaboration with the Kutsch lab, the Cron lab continues to explore transcriptional control of HIV-1 latency. Lastly, the Cron lab is studying the effect of macrophage activation syndrome (MAS) patient mutations for their ability to decrease perforin-mediated cytolytic activity in NK cells. Many MAS patients have single copy mutations in familial hemophagocytic lymphohistiocytosis genes, and these mutations function as partial dominant negative proteins to inhibit cytolysis. Dr. Cron is co-editor of the first textbook devoted to Cytokine Storm Syndrome, and Dr. Cron has been integral to research related to the COVID-19 pandemic.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "991-randy-cron",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      }
+    ]
+  },
+  "discoveryId": "991",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 37,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 52,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 302,
+      "favourites": 0
+    }
+  },
+  "firstName": "Randy",
+  "firstNameLastName": "Randy Cron",
+  "equipmentLinkTypes": [],
+  "objectId": 991,
+  "updatedWhen": "2025-05-10T08:04:33.6785260-05:00",
+  "hasCollaborationData": true,
+  "email": "rcron@uab.edu",
+  "publication_keywords": "Arthritis Autoimmune Disease Cancer Clinical Research Genetics Hematology Immunotherapy Infectious Diseases Lupus Pediatric Prevention Rare Diseases Rheumatoid Arthritis Sepsis",
+  "grant_keywords": ""
+}

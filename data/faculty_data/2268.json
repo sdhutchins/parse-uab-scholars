@@ -1,0 +1,138 @@
+{
+  "lastName": "Yoder",
+  "overview": "Dr. Bradley K. Yoder, Professor, completed his undergraduate studies in biochemistry and molecular biology at the University of Maryland Baltimore County (B.S. 1988) and received a Ph.D. in molecular and cellular biology from the University of Maryland in 1993. He completed his postdoctoral studies at Oak Ridge National Laboratory under the guidance of Dr. Rick Woychik, where Dr. Yoder was an Alexander Hollaender Distinguished Postdoctoral Fellow. His research over the past two decades has focused on the cellular and molecular mechanisms regulating assembly, maintenance, and function of the primary cilium utilizing complementary approaches in mice, C. elegans, and in cell culture models. Work from his laboratory has used genetic screens in C. elegans to identify proteins required for ciliogenesis and cilia mediated signaling activities and how these genes function in pathways (e.g., Daf-2 Insulin/IGF-like pathway) that regulate life span and energy homeostasis. His group has analyzed in mammalian systems how the cilium regulates critical developmental pathways and how the loss of the cilium causes abnormalities in left-right body axis specification, limb and tooth patterning, skin, and hair follicle morphogenesis, and impairs endochondral bone formation. His group is also providing critical fundamental insights into the connection between ciliary dysfunction and cystic kidney disorders, and novel roles for neuronal cilia in the regulation of satiation responses, disruption of which causes obesity and type II diabetes.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2268-bradley-yoder",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "2268",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 80,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 138,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 99,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 158,
+      "favourites": 0
+    }
+  },
+  "firstName": "Bradley",
+  "firstNameLastName": "Bradley Yoder",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "Yoder Lab Research Summary",
+      "embedLink": "https://www.youtube-nocookie.com/embed/F6Zvf4KWnRI",
+      "label": "Yoder Lab Research Summary",
+      "thumbnailLink": "https://img.youtube.com/vi/F6Zvf4KWnRI/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/F6Zvf4KWnRI?autoplay=1"
+    },
+    {
+      "accessibleDescription": "Yoder Lab Research Summary Extended",
+      "embedLink": "https://www.youtube-nocookie.com/embed/hOG6KjG3HsE",
+      "label": "Yoder Lab Research Summary Extended",
+      "thumbnailLink": "https://img.youtube.com/vi/hOG6KjG3HsE/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/hOG6KjG3HsE?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 2268,
+  "updatedWhen": "2025-05-10T08:07:17.5774731-05:00",
+  "hasCollaborationData": true,
+  "email": "byoder@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Cancer Congenital Structural Anomalies Genetics Human Genome Kidney Disease Pediatric Polycystic Kidney Disease",
+  "grant_keywords": "Aging Kidney Disease Neurodegenerative Neurosciences"
+}

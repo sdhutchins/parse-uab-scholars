@@ -1,0 +1,158 @@
+{
+  "lastName": "Del Bene",
+  "overview": "I am a clinical neuropsychologist interested in aging, stroke/vascular cognitive impairment, Alzheimer's disease, and Parkinson's disease. Specifically, I am interested in vascular and medical contributions to neurodegenerative illness, and how these medical factors are influenced by social determinants of health. Additionally, I am interested in identifying and improving post-neurosurgical cognitive outcomes for deep brain stimulation in people with Parkinson's disease, and in the neuropsychological assessment of impaired physicians.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7295-victor-del-bene",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Neurology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "(Neuropsychology, Psychopharmacology, Physiological Psychology)",
+          "Psychopharmacology, Physiological Psychology)",
+          "Physiological Psychology)",
+          "Psychology)"
+        ],
+        "value": "Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)"
+      },
+      {
+        "paths": [
+          [
+            "Psychology",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health, Clinical and Counselling Psychology",
+          "Clinical and Counselling Psychology",
+          "and Counselling Psychology",
+          "Counselling Psychology",
+          "Psychology"
+        ],
+        "value": "Health, Clinical and Counselling Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Neurosciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurology and Neuromuscular Diseases",
+          "and Neuromuscular Diseases",
+          "Neuromuscular Diseases",
+          "Diseases"
+        ],
+        "value": "Neurology and Neuromuscular Diseases"
+      }
+    ]
+  },
+  "discoveryId": "7295",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 64,
+      "favourites": 0
+    }
+  },
+  "firstName": "Victor",
+  "firstNameLastName": "Victor Del Bene",
+  "equipmentLinkTypes": [],
+  "objectId": 7295,
+  "updatedWhen": "2025-05-10T08:14:29.4347518-05:00",
+  "hasCollaborationData": true,
+  "email": "vdelbene@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Basic Behavioral and Social Science Behavioral and Social Science Biomedical Imaging Brain Disorders Clinical Research Epilepsy Mental Health Mental Illness Neurodegenerative Neurosciences Prevention Women's Health",
+  "grant_keywords": "Aging Assistive Technology Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Neurodegenerative Neurosciences Parkinson's Disease Rehabilitation Women's Health"
+}

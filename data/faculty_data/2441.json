@@ -1,0 +1,85 @@
+{
+  "discoveryId": "2441",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "lastName": "Griffin",
+  "firstName": "John",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2441-john-griffin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Research Assistant Professor"
+    }
+  ],
+  "firstNameLastName": "John Griffin",
+  "equipmentLinkTypes": [],
+  "objectId": 2441,
+  "updatedWhen": "2025-05-10T08:07:39.3319234-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jagrif@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

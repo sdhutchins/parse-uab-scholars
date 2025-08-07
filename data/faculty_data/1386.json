@@ -1,0 +1,122 @@
+{
+  "discoveryId": "1386",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 98,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 111,
+      "favourites": 0
+    }
+  },
+  "lastName": "Childers",
+  "firstName": "Noel",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1386-noel-childers",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "firstNameLastName": "Noel Childers",
+  "equipmentLinkTypes": [],
+  "objectId": 1386,
+  "updatedWhen": "2025-05-10T08:05:15.8035379-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nkc@uab.edu",
+  "publication_keywords": "Bioengineering Clinical Research Dental/Oral and Craniofacial Disease Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Microbiome Nutrition Obesity Pediatric Pediatric Research Initiative Prevention Women's Health",
+  "grant_keywords": "Clinical Research Dental/Oral and Craniofacial Disease Immunization Infectious Diseases Pediatric Prevention Vaccine Related"
+}

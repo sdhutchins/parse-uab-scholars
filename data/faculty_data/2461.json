@@ -1,0 +1,43 @@
+{
+  "discoveryId": "2461",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 59,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sicking",
+  "firstName": "Dean",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2461-dean-sicking",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus"
+    }
+  ],
+  "firstNameLastName": "Dean Sicking",
+  "equipmentLinkTypes": [],
+  "objectId": 2461,
+  "updatedWhen": "2025-05-10T08:07:39.3499236-05:00",
+  "hasCollaborationData": false,
+  "email": "dsicking@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

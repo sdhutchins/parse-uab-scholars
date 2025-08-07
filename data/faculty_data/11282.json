@@ -1,0 +1,102 @@
+{
+  "lastName": "Chambliss",
+  "overview": "Dr. Jessica Chambliss is an Assistant Professor and the Assistant Dean of Public Health Practice at the University of Alabama at Birmingham School of Public Health. Her work in public health encompasses three primary areas: community engagement/outreach, workforce development, and program evaluation. She’s spent her career interacting with community stakeholders, training future and current public health workforce, and serving as an evaluator of public health projects. Prior to joining UAB, she worked for the Mobile County Health Department. As a strong advocate for public health, Dr. Chambliss values the support of populations to acquire the knowledge they need to maintain healthy lives physically, mentally, and emotionally.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "11282-jessica-chambliss",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor / Assistant Dean",
+      "department": "Health Policy & Organization"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "11282",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 77,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 1
+    }
+  },
+  "firstName": "Jessica",
+  "firstNameLastName": "Jessica Chambliss",
+  "equipmentLinkTypes": [],
+  "objectId": 11282,
+  "updatedWhen": "2025-05-10T08:15:02.2867756-05:00",
+  "hasCollaborationData": true,
+  "email": "jlthames@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Behavioral and Social Science Cancer Clinical Research Contraception/Reproduction Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Minority Health Opioid Misuse and Addiction Opioids Pediatric AIDS Pediatric Research Initiative Prevention Sexually Transmitted Infections Social Determinants of Health Substance Misuse Teenage Pregnancy",
+  "grant_keywords": ""
+}

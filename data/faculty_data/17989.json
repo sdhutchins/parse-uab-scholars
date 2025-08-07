@@ -1,0 +1,154 @@
+{
+  "lastName": "Banaszak-Holl",
+  "overview": "Professor Banaszak-Holl is the LR Jordan Chair in Health Services Administration; she has been at UAB since 2022.  Her research focuses on how structural and clinical team changes in service delivery impact health outcomes, largely for long-term and transitional care, and her research considers implementation issues arising with complex strategic changes in healthcare. Prior to UAB, she was a Professor in the School of Public Health and Preventive Medicine and Course Co-Coordinator for the Masters of Health Management and Health Administration at Monash University in Melbourne, Australia. She has also been faculty in the Schools of Public Health, Medicine, and Arts and Science at the University of Michigan. Her more than 75 peer-review publications have appeared in leading health services research, gerontology, and quality journals, including BMJ Quality and Safety, Health Services Research, Implementation Science, Medical Care, Medical Care Research and Review, Health Care Management Review, Health Affairs, and Health Education and Behavior.  She is a Fellow in the Gerontological Society of America and sits on the editorial board for Quality Management in Health Care.  Today, her research looks to improve timely access to services for those with dementia, to evaluate how families feel about the quality of care at the end of life, and to develop approaches for managing workforce shortages and employee training in patient-centered care. Her research in the U.S. has garnered research dollars over 20 million USD in direct funds through the NIH, AHRQ, Blue Cross Blue Shield of Michigan Foundation, and the VA, with support on national contracts to improve patient safety.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17989-jane-banaszakholl",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health Care Administration",
+          "Care Administration",
+          "Administration"
+        ],
+        "value": "Health Care Administration"
+      },
+      {
+        "paths": [
+          [
+            "Business and Management",
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organisation and Management Theory",
+          "and Management Theory",
+          "Management Theory",
+          "Theory"
+        ],
+        "value": "Organisation and Management Theory"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "17989",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 105,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jane",
+  "firstNameLastName": "Jane Banaszak-Holl",
+  "equipmentLinkTypes": [],
+  "objectId": 17989,
+  "updatedWhen": "2025-05-10T08:18:27.5183433-05:00",
+  "hasCollaborationData": true,
+  "email": "jbanasza@uab.edu",
+  "publication_keywords": "Caregiving Research Clinical Research Diabetes Health Services Patient Safety Prevention",
+  "grant_keywords": ""
+}

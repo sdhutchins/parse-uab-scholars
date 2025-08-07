@@ -1,0 +1,125 @@
+{
+  "lastName": "Marques",
+  "overview": "I received my M.D. degree from the Federal University of Rio Grande do Sul in Brazil, followed by residency in Internal Medicine at the same institution. I moved to the United States with my husband in 1986 to become a Research Fellow at the National Institutes of Health in Bethesda, Maryland, for 2 years. We then moved to Boston, where I continued working as a fellow at Harvard Medical School. In 1993, we relocated to Birmingham, Alabama. I completed a residency in Pathology and a fellowship in Hematopathology at UAB and am Board certified in Anatomic and Clinical Pathology, with subspecialties in Hematology and Transfusion Medicine/Blood Banking. I am Professor of Pathology at UAB, serving medical director of Transfusion Services. I spent my time doing patient care, teaching, clinical research and administrative duties. In the clinical arena, I am particularly interested in improving appropriateness of utilization of blood products and laboratory tests. I thoroughly enjoy giving lectures locally and in other institutions on these topics and the role of the clinical pathologist in decreasing diagnostic error. Finally, UAB is a pioneer in Patient Blood Management through a collaboration between the Transfusion Services, clinicians and hospital administration since 2007.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2110-marisa-marques",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emerita",
+      "department": "Laboratory Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "2110",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 170,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 123,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 313,
+      "favourites": 0
+    }
+  },
+  "firstName": "Marisa",
+  "firstNameLastName": "Marisa Marques",
+  "equipmentLinkTypes": [],
+  "objectId": 2110,
+  "updatedWhen": "2025-05-10T08:06:50.6891663-05:00",
+  "hasCollaborationData": true,
+  "email": "mmarques@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Coronaviruses Emerging Infectious Diseases Health Services Hematology Infectious Diseases Orphan Drug Patient Safety Rare Diseases",
+  "grant_keywords": ""
+}

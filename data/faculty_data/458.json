@@ -1,0 +1,123 @@
+{
+  "discoveryId": "458",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 60,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 114,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kim",
+  "firstName": "Young-il",
+  "hasThumbnail": true,
+  "discoveryUrlId": "458-youngil-kim",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Young-il Kim",
+  "equipmentLinkTypes": [],
+  "objectId": 458,
+  "updatedWhen": "2025-05-10T08:03:12.8367235-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "youngkim@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Biodefense Cancer Chronic Obstructive Pulmonary Disease Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Health Disparities Immunization Infectious Diseases Lung Lung Cancer Mental Health Mind and Body Physical Activity Prevention Rare Diseases Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Transplantation Vaccine Related",
+  "grant_keywords": "Chronic Obstructive Pulmonary Disease Emphysema Lung Prevention Tobacco Tobacco Smoke and Health"
+}

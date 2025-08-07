@@ -1,0 +1,44 @@
+{
+  "discoveryId": "6323",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 34,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Basma",
+  "firstName": "Hussein",
+  "hasThumbnail": false,
+  "discoveryUrlId": "6323-hussein-basma",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Periodontology"
+    }
+  ],
+  "firstNameLastName": "Hussein Basma",
+  "equipmentLinkTypes": [],
+  "objectId": 6323,
+  "updatedWhen": "2025-05-10T08:13:05.3703030-05:00",
+  "hasCollaborationData": false,
+  "email": "basma86@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

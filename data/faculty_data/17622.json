@@ -1,0 +1,114 @@
+{
+  "discoveryId": "17622",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "lastName": "Amerson-Brown",
+  "firstName": "Megan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17622-megan-amersonbrown",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Laboratory Medicine"
+    }
+  ],
+  "firstNameLastName": "Megan Amerson-Brown",
+  "equipmentLinkTypes": [],
+  "objectId": 17622,
+  "updatedWhen": "2025-05-10T08:18:01.3102431-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Science and Management",
+          "Science and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Environmental Science and Management"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Soil Sciences",
+          "Sciences"
+        ],
+        "value": "Soil Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "amersonm@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Emerging Infectious Diseases Genetics Infectious Diseases",
+  "grant_keywords": ""
+}

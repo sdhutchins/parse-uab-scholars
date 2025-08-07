@@ -1,0 +1,113 @@
+{
+  "lastName": "Borry",
+  "overview": "Dr. Borry (she/her/hers) joined UAB's Department of Political Science and Public Administration in fall 2013, and since 2019, has served as the Department's Graduate Program Director\n\nDr. Borry's research interests include public sector rule behavior, red tape, public administration in pop culture, and social equity. Her work has appeared in Public Administration Review, Perspectives on Public Management and Governance, Public Management Review, Public Administration, International Public Management Journal, Public Integrity, Journal of Public Affairs Education, and more. Dr. Borry has won several awards for her research, teaching, and service, including the 2018 Outstanding Early Career Scholar Award by the Center for Organization Research and Design (CORD) at Arizona State University and the 2019 UAB College of Arts and Sciences Dean’s Award for Excellence in Teaching.\n\nDr. Borry maintains active service to the field of public administration. She currently serves as Associate Editor of Public Performance & Management Review and on the editorial boards of the Journal of Social Equity in Public Administration (JSEPA), Review of Public Personnel Administration (ROPPA), and The Social Science Journal. She also serves on the Network of Schools of Public Policy, Affairs, and Administration (NASPAA) Diversity & Social Equity Committee and on the American Society for Public Administration (ASPA) Section on Public Administration Education (SPAE). \n\nDr. Borry is a scientist with UAB's Institute for Human Rights, an affiliate with the Center for Organization Research and Design (CORD) at Arizona State University, an academic fellow with the Local Government Workplaces Initiative (LGWI) out of University of North Carolina, and a member of Scholars Strategy Network’s Alabama Chapter.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2602-erin-l-borry",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Government"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      },
+      {
+        "paths": [
+          [
+            "Philosophy and Religious Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Ethics",
+          "Ethics"
+        ],
+        "value": "Applied Ethics"
+      },
+      {
+        "paths": [
+          [
+            "Policy and Administration",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Administration",
+          "Administration"
+        ],
+        "value": "Public Administration"
+      },
+      {
+        "paths": [
+          [
+            "Business and Management",
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Resources Management",
+          "Resources Management",
+          "Management"
+        ],
+        "value": "Human Resources Management"
+      }
+    ]
+  },
+  "discoveryId": "2602",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 84,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "firstName": "Erin L",
+  "firstNameLastName": "Erin L Borry",
+  "equipmentLinkTypes": [],
+  "objectId": 2602,
+  "updatedWhen": "2025-05-10T08:08:00.8536734-05:00",
+  "hasCollaborationData": true,
+  "email": "borry@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,124 @@
+{
+  "lastName": "Richter",
+  "overview": "Dr. Jill Richter is an Assistant Professor of Surgery in the Division of Acute Care Surgery at UAB. Dr. Richter is a biomedical engineer by training, and she received her B.S. and M.S. degrees from North Carolina State University. For her doctoral work, Dr. Richter attended the School of Biomedical Engineering and Sciences, a joint program between Wake Forest University and Virginia Tech, and she completed her research training at the Wake Forest Institute for Regenerative Medicine. Dr. Richter trained as an NIH T32 Postdoctoral Fellow at the University of Cincinnati in the Department of Surgery. After moving to UAB in 2013, Dr. Richter completed additional postdoctoral fellowships in the Departments of Radiology, Pathology and Anesthesiology. Her faculty appointment at UAB began in December of 2016.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3773-jillian-richter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Surgery - General Surgery Trauma Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      }
+    ]
+  },
+  "discoveryId": "3773",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 2
+    }
+  },
+  "firstName": "Jillian",
+  "firstNameLastName": "Jillian Richter",
+  "equipmentLinkTypes": [],
+  "objectId": 3773,
+  "updatedWhen": "2025-05-10T08:09:59.9636137-05:00",
+  "hasCollaborationData": true,
+  "email": "richterj@uab.edu",
+  "publication_keywords": "Acute Respiratory Distress Syndrome Aging Clinical Research Clinical Trials and Supportive Activities Genetics Hematology Lung Physical Injury - Accidents and Adverse Effects Rare Diseases",
+  "grant_keywords": "Physical Injury - Accidents and Adverse Effects"
+}

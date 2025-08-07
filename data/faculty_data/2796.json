@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2796",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 126,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Parcak",
+  "firstName": "Sarah",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2796-sarah-parcak",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Anthropology"
+    }
+  ],
+  "firstNameLastName": "Sarah Parcak",
+  "equipmentLinkTypes": [],
+  "objectId": 2796,
+  "updatedWhen": "2025-05-10T08:08:22.0504811-05:00",
+  "hasCollaborationData": false,
+  "email": "sparcak@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

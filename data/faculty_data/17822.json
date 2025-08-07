@@ -1,0 +1,60 @@
+{
+  "lastName": "Hernandez",
+  "overview": "Prior to pursuing his academic career in neuroscience, Dr. Hernandez served four years in the Marine Corps. During his tour of duty, many of his missions required the security of schools and distribution of educational supplies to impoverished areas. These experiences instilled in him both the view that higher education is a privilege and an unwavering commitment to use the abundant educational opportunities in this country to pursue a long-standing passion for science. \n\nDuring Dr. Hernandez’s undergraduate studies, he first became fascinated with the chemical and molecular processes within individual cells, an interest that has since grown into a curiosity about how individual neural cells can support complex nervous system functions such as cognition. During his master’s thesis work, he investigated the role of methionine sulfoxide reductase (MSR) in dopamine signaling in Drosophila. \n\nAs Dr. Hernandez neared the end of his master’s degree program, he became particularly interested in the neural mechanisms of cognitive aging and the underlying molecular causes of age-related decline in executive functions. He enrolled in the PhD program at the University of Florida College of Medicine in 2014 and earned his Ph.D. The broad goal of Dr. Hernandez’s research was to understand the neural basis of age-related alterations to decision making and executive functions within the basolateral amygdala and medial prefrontal cortex, and to use this information to design effective clinical interventions that will promote positive cognitive outcomes in older adults. Specifically, his experiments in were designed to test the broad hypothesis that shifts in the balance of excitation and inhibition are the underlying cause of age-related alterations to decision making and executive function. His earlier work identified robust age-related reductions in expression of metabotropic glutamate receptors within the medial prefrontal cortex (mPFC) and he has tested the implications of such reductions for working memory decline. Furthermore, he was instrumental in establishing in vivo optogenetic tools in the laboratory, which he used to define the contributions of the basolateral amygdala (BLA) and mPFC to cost-benefit decision making. \n\nDr. Hernandez pursued his postdoctoral training in the laboratory of Dr. Lori McMahon under a NIH training grant (T32) where he investigated emotional and cognitive decline in the TgF344AD rat model of Alzheimer's Disease. He was awarded a K99/R00 for this work and is currently an Assistant Professor in the Department of Medicine, Division of Gerontology, Geriatrics, and Palliative Care at The University of Alabama at Birmingham, Heersink School of Medicine where is lab is funded to continue his research on the intersection of neuropsychiatric disorder and trajectories of aging. Specifically, his experimental approach leverages behavioral, molecular, biochemical, and electrophysiological approaches to determine how the neural circuitry supporting higher-order cognition and emotional processing is impacted by the process if normative and pathological aging. The techniques employed in his lab include in vivo fiber photometry, optogenetics, and electrophysiology; ex vivo slice physiology; gene and protein network analyses; and behavioral pharmacology. This vast employment of techniques facilities Dr. Hernandez and his trainees to determine the mechanism of functional impairment and explore therapeutic interventions from behavior to synapse.\n\nBeyond his primary affiliation, Dr. Hernandez is also affiliated with the Integrative Center for Aging Research; the UAB Center for Exercise Medicine; the McKnight Brain Institute; the Comprehensive Neuroscience Center; the UAB Nathan Shock Center of Excellence in the Basic Biology of Aging; the Center for Neurodegeneration and Experimental Therapeutics; and the Center for Clinical and Translational Science.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17822-caesar-hernandez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "17822",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 20,
+      "favourites": 0
+    }
+  },
+  "firstName": "Caesar",
+  "firstNameLastName": "Caesar Hernandez",
+  "equipmentLinkTypes": [],
+  "objectId": 17822,
+  "updatedWhen": "2025-05-10T08:18:19.4630993-05:00",
+  "hasCollaborationData": true,
+  "email": "caesarmh@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Complementary and Integrative Health Dementia Mental Health Mental Illness Neurodegenerative Neurosciences Nutrition Post-Traumatic Stress Disorder (PTSD) Prevention",
+  "grant_keywords": ""
+}

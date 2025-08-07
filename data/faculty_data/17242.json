@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17242",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Alves Martins",
+  "firstName": "Emerson",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17242-emerson-alves-martins",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Restorative Sciences"
+    }
+  ],
+  "firstNameLastName": "Emerson Alves Martins",
+  "equipmentLinkTypes": [],
+  "objectId": 17242,
+  "updatedWhen": "2025-05-10T08:17:17.5352580-05:00",
+  "hasCollaborationData": false,
+  "email": "emartins@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

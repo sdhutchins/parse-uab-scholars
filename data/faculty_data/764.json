@@ -1,0 +1,123 @@
+{
+  "discoveryId": "764",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 58,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 46,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 148,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 478,
+      "favourites": 0
+    }
+  },
+  "lastName": "Richter",
+  "firstName": "Holly",
+  "hasThumbnail": true,
+  "discoveryUrlId": "764-holly-richter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of OB/GYN",
+      "department": "OB/GYN - Women's Pelvic Med & Reconstructive Surg"
+    }
+  ],
+  "firstNameLastName": "Holly Richter",
+  "equipmentLinkTypes": [],
+  "objectId": 764,
+  "updatedWhen": "2025-05-10T08:04:02.5017420-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "hrichter@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Digestive Diseases Health Disparities and Racial or Ethnic Minority Health Research Minority Health Urologic Diseases Women's Health",
+  "grant_keywords": "Hematology Immunization Immunotherapy Kidney Disease Organ Transplantation Prevention Rural Health Transplantation Vaccine Related"
+}

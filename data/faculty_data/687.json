@@ -1,0 +1,126 @@
+{
+  "lastName": "Kimberly",
+  "overview": "Robert P. Kimberly, MD, a native of New Haven, Conn., received his Doctor of Medicine degree from Harvard Medical School after receiving a baccalaureate degree magna cum laude from Princeton University and a baccalaureate / master's degree from the University of Oxford, Oxford, England. Dr. Kimberly's achievements and honors include election to Phi Beta Kappa from Princeton University, a Rhodes Scholarship at Oxford University, a \"First\" class degree from Oxford, and election to both the American Society for Clinical Investigation and the Association of American Physicians.\n\nDr. Kimberly proceeded to do his internship and residency in Medicine at the Hospital of the University of Pennsylvania.  His professional training and experience has included appointments as Clinical Associate at the Arthritis and Rheumatism Branch of the National Institute of Arthritis, Metabolism, and Digestive Diseases; Fellow, Assistant, Associate, and Professor of Medicine at Cornell University Medical Center; Director of the Multipurpose Arthritis and Musculoskeletal Diseases Center at Cornell; and Program Director of the NIAMS Research Training Program in Arthritis and Rheumatic Diseases at Cornell.\n\nDr. Kimberly joined the UAB faculty in 1996 as Professor of Medicine and the Howard L. Holley Research Chair of Rheumatology. He began his career at UAB as the Director of the Division of Clinical Immunology and Rheumatology (1996-2007).  Presently, Dr. Kimberly is the Director of the Center for Clinical and Translational Science (2012 – present), the Senior Associate Dean for Clinical and Translational Research (2006-present) in the UAB School of Medicine and the Associate Vice President for Medicine and Biomedical Research (2012 – present).\n\nDr. Kimberly served on and has chaired the Association of American Medical Colleges (AAMC) Group of Research Advancement and Development (GRAND) Steering Committee, served as president for the Association for Clinical and Translational Science (ACTS) in addition to being director of the UAB FOCIS Center of Excellence in Clinical Immunology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "687-robert-kimberly",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Medicine",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "687",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 49,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 349,
+      "favourites": 0
+    }
+  },
+  "firstName": "Robert",
+  "firstNameLastName": "Robert Kimberly",
+  "equipmentLinkTypes": [],
+  "objectId": 687,
+  "updatedWhen": "2025-05-10T08:03:50.0191373-05:00",
+  "hasCollaborationData": true,
+  "email": "rpk@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Coronaviruses Digestive Diseases Emerging Infectious Diseases Infectious Diseases Liver Disease",
+  "grant_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Therapeutics and Interventions Dissemination and Implementation Research Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Human Genome Immunization Immunotherapy Minority Health Precision Medicine Prevention Rural Health Social Determinants of Health Vaccine Related Women's Health"
+}

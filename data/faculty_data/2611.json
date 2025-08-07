@@ -1,0 +1,73 @@
+{
+  "discoveryId": "2611",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 98,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Sharlach",
+  "firstName": "Lisa",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2611-lisa-sharlach",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Government"
+    }
+  ],
+  "firstNameLastName": "Lisa Sharlach",
+  "equipmentLinkTypes": [],
+  "objectId": 2611,
+  "updatedWhen": "2025-05-10T08:08:00.8806750-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Commerce, Management, Tourism and Services"
+          ]
+        ],
+        "valueAnalysed": [
+          "Business and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Business and Management"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "sharlach@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

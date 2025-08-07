@@ -1,0 +1,83 @@
+{
+  "discoveryId": "3607",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 27,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 16,
+      "favourites": 0
+    }
+  },
+  "lastName": "Christou",
+  "firstName": "Terpsithea",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3607-terpsithea-christou",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Orthodontics"
+    }
+  ],
+  "firstNameLastName": "Terpsithea Christou",
+  "equipmentLinkTypes": [],
+  "objectId": 3607,
+  "updatedWhen": "2025-05-10T08:09:49.3460698-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "tetich@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Patient Safety Women's Health",
+  "grant_keywords": ""
+}

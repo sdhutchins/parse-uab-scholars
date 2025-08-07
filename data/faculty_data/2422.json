@@ -1,0 +1,122 @@
+{
+  "discoveryId": "2422",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 644,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 64,
+      "favourites": 0
+    }
+  },
+  "lastName": "Uddin",
+  "firstName": "Nasim",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2422-nasim-uddin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Engineering",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Nasim Uddin",
+  "equipmentLinkTypes": [],
+  "objectId": 2422,
+  "updatedWhen": "2025-05-10T08:07:28.9267252-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Interdisciplinary Engineering",
+          "Engineering"
+        ],
+        "value": "Interdisciplinary Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Engineering",
+          "Engineering"
+        ],
+        "value": "Environmental Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "nuddin@uab.edu",
+  "publication_keywords": "Bioengineering",
+  "grant_keywords": ""
+}

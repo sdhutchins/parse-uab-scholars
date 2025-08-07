@@ -1,0 +1,44 @@
+{
+  "discoveryId": "18573",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Polanka",
+  "firstName": "Brittanny",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18573-brittanny-polanka",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Brittanny Polanka",
+  "equipmentLinkTypes": [],
+  "objectId": 18573,
+  "updatedWhen": "2025-05-10T08:19:42.5245639-05:00",
+  "hasCollaborationData": false,
+  "email": "bpolanka@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

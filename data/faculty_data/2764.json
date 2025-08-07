@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2764",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 178,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Biga",
+  "firstName": "Christopher",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2764-christopher-biga",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Christopher Biga",
+  "equipmentLinkTypes": [],
+  "objectId": 2764,
+  "updatedWhen": "2025-05-10T08:08:22.0191480-05:00",
+  "hasCollaborationData": false,
+  "email": "cbiga@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

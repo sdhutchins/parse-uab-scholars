@@ -1,0 +1,121 @@
+{
+  "lastName": "Vance",
+  "overview": "Dr. David Vance is a University Professor at the University of Alabama at Birmingham (UAB) School of Nursing and psychologist actively pursuing research in positive and negative neuroplasticity, neurocognitive aging, neurocognitive remediation, aging with HIV, and more recently neurocognition in cancer survivors.  With a passion for successful cognitive aging and for mentoring scientific leaders, Dr. Vance’s work has resulted in +390 publications (+310 peer-reviewed publications) including numerous book chapters and editorials. From his +750 presentations, he has disseminated his research prolifically in national and international presentations across 24 countries/territories.  As Principal Investigator (PI) and Co-Investigator, he has been involved with numerous NIH and university grants.  He has received a White House invitation to attend the first forum on aging with HIV and has participated as an invited member of the National Institutes of Health (NIH) Think Tank – Working Group on HIV and Aging sponsored by the Office of AIDS Research to develop the national research agenda, published in the Journal of Acquired Immunodeficiency Syndromes.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1562-david-vance",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1562",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 266,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 402,
+      "favourites": 1
+    },
+    "publications": {
+      "all": 1245,
+      "favourites": 236
+    }
+  },
+  "firstName": "David",
+  "firstNameLastName": "David Vance",
+  "equipmentLinkTypes": [],
+  "objectId": 1562,
+  "updatedWhen": "2025-05-10T08:05:38.5938180-05:00",
+  "hasCollaborationData": true,
+  "email": "devance@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Chronic Pain Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dementia Dietary Supplements HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Mental Health Neurodegenerative Neurosciences Nutrition Pain Research Prevention Rehabilitation Social Determinants of Health",
+  "grant_keywords": "Acquired Cognitive Impairment Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Chronic Pain Clinical Research Clinical Trials and Supportive Activities Coronaviruses Dental/Oral and Craniofacial Disease HIV/AIDS Health Disparities Infectious Diseases Mental Health Minority Health Neurodegenerative Neurosciences Pain Research Physical Activity Physical Rehabilitation Prevention Rare Diseases Rehabilitation Rural Health Sexually Transmitted Infections Social Determinants of Health Women's Health"
+}

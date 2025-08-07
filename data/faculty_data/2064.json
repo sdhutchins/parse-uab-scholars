@@ -1,0 +1,125 @@
+{
+  "lastName": "Niederweis",
+  "overview": "One of the most prominent features of M. tuberculosis is its unusual outer membrane that plays a crucial role in the intrinsic drug resistance and in survival of M. tuberculosis in vivo. This membrane is functionalized by intriguing proteins which provide essential functions such as nutrient uptake, have new structures and likely function by novel mechanisms. We discovered the first outer membrane channel protein in mycobacteria, obtained the first crystal structure of a mycobacterial outer membrane protein and demonstrated that mycobacteria indeed have two membranes. Our goal is to identify and characterize outer membrane proteins of M. tuberculosis. One of those proteins, CpnT, enables the secretion of the major exotoxin of M. tuberculosis, a NAD+ glycohydrolase which triggers necroptosis in infected macrophages. We use state-of-the art genetic, biochemical and biophysical approaches to achieve our aims.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2064-michael-niederweis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "University Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "2064",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 64,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 161,
+      "favourites": 0
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Niederweis",
+  "equipmentLinkTypes": [],
+  "objectId": 2064,
+  "updatedWhen": "2025-05-10T08:06:35.9590917-05:00",
+  "hasCollaborationData": true,
+  "email": "mnieder@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Emerging Infectious Diseases Genetics Human Genome Infectious Diseases Orphan Drug Rare Diseases Tuberculosis",
+  "grant_keywords": "Antimicrobial Resistance Biodefense Bioengineering Biotechnology Emerging Infectious Diseases Genetics Hematology Human Genome Infectious Diseases Nanotechnology Orphan Drug Rare Diseases Tuberculosis"
+}

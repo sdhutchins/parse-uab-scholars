@@ -1,0 +1,124 @@
+{
+  "lastName": "Wilson",
+  "overview": "Dr. Craig Wilson joined UAB in 1991 after completing trainings in Pediatrics (Stanford University 1982-1986), Pediatric Infectious Diseases (Harvard University Boston Children’s Hospital 1986-1989) and post-doctoral training in molecular parasitology (Harvard School of Public Health 1987-1991).  He had a primary appointment in Pediatrics (Infectious Diseases) and secondary appointments in Medicine (Geographic Medicine), Microbiology and Epidemiology and International Health.  \n\nDr. Craig Wilson joined the School of Public Health in 2007  and served as the Director of the Sparkman Center for Global Health (http://www.sparkmancenter.org) until retiring in 2018. Dr. Wilson had nearly 30 years of experience and expertise in international programs including molecular epidemiology of drug resistance in malaria and HIV prevention and management programs. He had secondary appointments in Pediatrics and Microbiology.\n\nDr. Wilson had over 20 years of experience in a leadership role in HIV management and prevention in HIV infected and at-risk youth in the US. He was the innaugural Chair and PI of the Adolescent Medicine Trial Network for HIV/AIDS Interventions (ATN) from 2001-2018 and served on the NIH Division of AIDS Strategic Working Group (2006-2016), was appointed to the Office of AIDS Research Advisory Council (2011-2016) and served on the NIH Division of AIDS Youth Prevention Research Working Group 2012-2018 and was the innaugural co-chair. He was on multiple protocol teams testing HIV prevention methods and management strategies in youth and was co-chair for the FDA licensing trials of PrEP in adolescents.\n\nDr. Wilson has an extensive background in HIV programs in sub-Saharan Africa and provided clinical and laboratory technical assistance to the UAB PEPFAR initiative in Zambia starting in 2004 through the Centre for Infectious Diseases Research in Zambia. He was the UAB PI of the NIH Fogarty International Center funded Medical Education Partnership Initiatives (MEPI) at the University of Zambia and Addis Ababa University from 2011-2016.   He is presently working the same two African universities on the continuing Health Professional Education Partnership Initiatives (HEPI) funded from 2018-2023.  He has served on many national and international advisory and planning panels for HIV prevention strategies and inclusion of youth in this planning.\n\nDr Wilson worked on the challenges of lack of textbooks and poor or expensive internet access while working on education programs in Africa for over 10 years.  Ultimately working with programmers in Zambia and Ethiopia they developed an open-source software to organize and disseminate educational resources in off-line formats called SparkEd .  He is now working closely with collaborators in Ethiopia and the Ministry of Education to disseminate resources developed for Secondary Schools in Ethiopia (http://www.sparkmancenter.org) .",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1991-craig-wilson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Epidemiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "1991",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 136,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 191,
+      "favourites": 0
+    }
+  },
+  "firstName": "Craig",
+  "firstNameLastName": "Craig Wilson",
+  "equipmentLinkTypes": [],
+  "objectId": 1991,
+  "updatedWhen": "2025-05-10T08:06:24.5182792-05:00",
+  "hasCollaborationData": true,
+  "email": "cwilson@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Behavioral and Social Science Brain Disorders Cancer Cervical Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Cost Effectiveness Research Digestive Diseases HIV/AIDS HPV and/or Cervical Cancer Vaccines Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Immunization Infectious Diseases Mental Health Minority Health Pediatric AIDS Pediatric Research Initiative Prevention Rare Diseases Sexual and Gender Minorities (SGM/LGBT*) Sexually Transmitted Infections Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Urologic Diseases Vaccine Related Women's Health",
+  "grant_keywords": "Adolescent Sexual Activity Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) HIV/AIDS Immunization Infectious Diseases Mental Health Pediatric Pediatric AIDS Prevention Sexually Transmitted Infections Substance Misuse Vaccine Related Vaccine Related (AIDS)"
+}

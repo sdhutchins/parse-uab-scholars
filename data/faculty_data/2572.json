@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2572",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Minnix",
+  "firstName": "Christopher",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2572-christopher-minnix",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Christopher Minnix",
+  "equipmentLinkTypes": [],
+  "objectId": 2572,
+  "updatedWhen": "2025-05-10T08:07:50.5623651-05:00",
+  "hasCollaborationData": false,
+  "email": "cminnix@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17166",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 39,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Banas",
+  "firstName": "Paulina",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17166-paulina-banas",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Art and Art History"
+    }
+  ],
+  "firstNameLastName": "Paulina Banas",
+  "equipmentLinkTypes": [],
+  "objectId": 17166,
+  "updatedWhen": "2025-05-10T08:17:09.0403212-05:00",
+  "hasCollaborationData": false,
+  "email": "pbanas@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

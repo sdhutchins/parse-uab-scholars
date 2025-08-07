@@ -1,0 +1,122 @@
+{
+  "lastName": "Benveniste",
+  "overview": "Dr. Etty (Tika) Benveniste was the Founding Chair of the Department of Cell, Developmental and Integrative Biology (2012-2017). Benveniste served as Chair of the Department of Cell Biology (2000-2011). Benveniste also holds the Alma B. Maxwell-University of Alabama Health Services Foundation (UAHSF), Endowed Chair in Biomedical Research. In January 2015, Benveniste was appointed interim Senior Associate Dean for Research Administration at the University of Alabama at Birmingham (UAB) School of Medicine (SOM), and since September 1, 2015 was appointed to the permanent position. Benveniste also holds professorships in the UAB Departments of Neurobiology and Neurology. She is a member of multiple NIH study sections and chaired three different NIH Study Sections.\n\nDuring her postdoctoral studies, in the Department of Neurology at the University of California Los Angeles (UCLA), Benveniste initiated research on elucidating the mechanisms by which cells of the immune system and the central nervous system communicate and influence functionality, cytokine/chemokine production by glial cells, the effects of cytokines/chemokines on glial cell function, and the ability of glial cells to function as immune effector cells in the brain. This research continues to date. These studies have implications for autoimmune/neurodegenerative diseases such as Multiple Sclerosis and Parkinson’s Disease, and cancers such as brain tumors.\n\nDr. Benveniste is well funded with three R01s and a T32; (1) RO1 CA-158534-01 “Targeting the JAK2/STAT-3 Pathway Signaling Axis in Glioma”; (2) RO1 NS57563-05A1 “Therapeutic Intervention of the JAK/STAT Pathway for Neuroinflammation”; (3) R01 CA194414-01A1 \"The Role of CK2 in Glioblastoma Development\"; and (4) T32 NS48039 “Training Program in Brain Tumor Biology”. In addition, she holds grant awards from the National Multiple Sclerosis Society and the Michael J. Fox Foundation. Benveniste’s cancer studies are focused on brain tumor biology. The Benveniste laboratory is devoted to the study of neuroinflammation and the JAK/STAT and NF-kB signaling cascades.\n\nBenveniste has served on the editorial boards of multiple journals including The Journal of Immunology, Journal of Neuroscience, and Journal of Biological Chemistry and is currently on the editorial boards of the Journal of Neuro-Virology, Journal of Neuroinflammation, and ASN News. She was elected in 2009 as a Fellow of the American Association for the Advancement of Science (AAAS). Benveniste is also section editor for the Journal of Interferon and Cytokine Research (JICR) 2014-Present. With 27 years of peer-review panel experience, Benveniste continues as reviewer for such panels as the Michael J. Fox Foundation (2015), National Multiple Sclerosis Society (2015), and NIH Neurological Science and Disorders Committee C (2015). Benveniste’s committee experience spans 29 years. Benveniste continues to innovate as Chair, UAB Master’s Degree in Biomedical and Health Sciences (2014-Present) and Cancer Biology Undergraduate Degree (2014-Present).\n\nDr. Benveniste has served as the Director, Graduate Program in Cell Biology (1995-2000) and as Founding Associate Dean, Office of Postdoctoral Education (1999-2001). She became Associate Director, Basic Science Research, Comprehensive Cancer Center, in 2006. She is the former co-director of the Cancer Cell Biology Program in the UAB’s Comprehensive Cancer Center. She is currently Past-President of the American Society for Neurochemistry (2015-2017), having served as President from 2013-2015. Benveniste warmly received the UAB Graduate School Dean’s Award for Excellence in Mentorship (2014).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2226-tika-benveniste",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2226",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 59,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 89,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 296,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tika",
+  "firstNameLastName": "Tika Benveniste",
+  "equipmentLinkTypes": [],
+  "objectId": 2226,
+  "updatedWhen": "2025-05-10T08:07:03.7214455-05:00",
+  "hasCollaborationData": true,
+  "email": "tika@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Autoimmune Disease Biomedical Imaging Brain Disorders Clinical Research Dementia Epilepsy Genetics Immunotherapy Multiple Sclerosis Neurodegenerative Neurosciences Parkinson's Disease",
+  "grant_keywords": "Autoimmune Disease Brain Disorders Multiple Sclerosis Neurodegenerative Neurosciences Prevention"
+}

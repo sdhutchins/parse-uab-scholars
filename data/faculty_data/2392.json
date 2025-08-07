@@ -1,0 +1,130 @@
+{
+  "lastName": "Plaisance",
+  "overview": "Dr. Plaisance is an Associate Professor of Nutrition Sciences at the University of Alabama at Birmingham in Birmingham, AL. Dr. Plaisance has over 24 years of experience in the fields of Obesity and Metabolism in both clinical and academic settings. Dr. Plaisance began his career in 1998 as a Clinical Exercise Physiologist in cardiac rehabilitation and diabetes education. He subsequently earned a PhD in Exercise Physiology from Auburn University in 2006 where he studied the combined effects of nicotinic acid and aerobic exercise on postprandial lipid and glucose metabolism. In 2006, he was employed as a molecular endocrinology Postdoctoral Fellow at the Auburn University College of Veterinary Medicine's Boshell Diabetes and Metabolic Diseases Research Program. He then joined the Pennington Biomedical Research Center as a Postdoctoral Researcher in 2009 in the field of molecular nutrition where his work examined the effects of dietary methionine restriction on components of energy balance, body composition, and glucose/lipid metabolism. \n\nIn 2013, Dr. Plaisance joined the faculty in the School of Education Kinesiology Program where his research has primarily focused on improving our understanding of the effects of exogenous ketone esters on components of energy balance and glucose/lipid metabolism. His work has shown potentially important effects in rodents that certain exogenous ketones could decrease body fat and improve metabolism in liver. The ongoing focus of his work is to further explore the mechanisms responsible for these responses and to translate them to humans.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2392-eric-plaisance",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      }
+    ]
+  },
+  "discoveryId": "2392",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 161,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 88,
+      "favourites": 0
+    }
+  },
+  "firstName": "Eric",
+  "firstNameLastName": "Eric Plaisance",
+  "equipmentLinkTypes": [],
+  "objectId": 2392,
+  "updatedWhen": "2025-05-10T08:07:28.8847153-05:00",
+  "hasCollaborationData": true,
+  "email": "plaisep@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Breast Cancer Cancer Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Cystic Fibrosis Digestive Diseases Liver Disease Lung Mind and Body Minority Health Nutrition Obesity Prevention Rare Diseases Sarcopenia Women's Health",
+  "grant_keywords": ""
+}

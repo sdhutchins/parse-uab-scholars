@@ -1,0 +1,44 @@
+{
+  "discoveryId": "17388",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 19,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cedillo Juarez",
+  "firstName": "Yenni",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17388-yenni-cedillo-juarez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "firstNameLastName": "Yenni Cedillo Juarez",
+  "equipmentLinkTypes": [],
+  "objectId": 17388,
+  "updatedWhen": "2025-05-10T08:17:34.4163291-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Childhood Obesity Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Eating Disorders Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Mental Illness Microbiome Minority Health Nutrition Obesity Pediatric Physical Activity Prevention Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

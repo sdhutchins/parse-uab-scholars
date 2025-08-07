@@ -1,0 +1,122 @@
+{
+  "lastName": "Aroke",
+  "overview": "Dr. Aroke is a Certified Registered Nurse Anesthetist (CRNA) and a Nurse Scientist whose program of research focuses on racial pain disparities. Dr. Aroke has an interdisciplinary project that aims to identify the role of epigenomic and transcriptomic modifications in racial disparities in chronic low back pain. \n\nDr. Aroke is an active member of the American Association of Nurse Anesthetists (AANA), the International Society of Nurses in Genetics (ISONG), and the U.S. Association for the Study of Pain (USASP). Dr. Aroke serves on the Evaluation and Research Advisory Committee of the National Board of Certification and Recertification for Nurse Anesthetists (NBCRNA).\n\nHis scholarship has resulted in several peer-reviewed articles, nationally and internationally presentations on pharmacogenomics, pain disparities, and anesthesia outcomes.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4965-edwin-aroke",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Nursing",
+      "department": "Nursing Acute, Chronic & Continuing Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "4965",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 81,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 110,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 129,
+      "favourites": 0
+    }
+  },
+  "firstName": "Edwin",
+  "firstNameLastName": "Edwin Aroke",
+  "equipmentLinkTypes": [],
+  "objectId": 4965,
+  "updatedWhen": "2025-05-10T08:11:43.7306303-05:00",
+  "hasCollaborationData": true,
+  "email": "earoke@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Chronic Pain Clinical Research Estrogen Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Human Genome Minority Health Neurosciences Pain Research Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Women's Health",
+  "grant_keywords": "Back Pain Behavioral and Social Science Chronic Pain Clinical Research Genetics Health Disparities Human Genome Minority Health Pain Research Social Determinants of Health"
+}

@@ -1,0 +1,127 @@
+{
+  "lastName": "Banaszak Holl",
+  "overview": "Prof. Banaszak Holl joined the School of Engineering at UAB in 2022.  He serves as Associate Dean for Research and has secondary appointments in the Heersink School of Medicine's Division of Pulmonology, Allergy, and Critical Care Medicine and the Department of Orthopaedic Surgery. He is passionate about engineering education, sustainable design, and the interface of engineering with social justice and human rights.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17984-mark-banaszak-holl",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Inorganic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Inorganic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Macromolecular and Materials Chemistry",
+          "and Materials Chemistry",
+          "Materials Chemistry",
+          "Chemistry"
+        ],
+        "value": "Macromolecular and Materials Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "17984",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 17,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 280,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mark",
+  "firstNameLastName": "Mark Banaszak Holl",
+  "equipmentLinkTypes": [],
+  "objectId": 17984,
+  "updatedWhen": "2025-05-10T08:18:27.5163442-05:00",
+  "hasCollaborationData": false,
+  "email": "mmbanasz@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Bioengineering Biotechnology Breast Cancer Cancer Emerging Infectious Diseases Infectious Diseases Nanotechnology Women's Health",
+  "grant_keywords": ""
+}

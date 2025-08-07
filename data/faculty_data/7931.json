@@ -1,0 +1,70 @@
+{
+  "lastName": "Sullivan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7931-angela-sullivan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Behavior"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mental Health",
+          "Health"
+        ],
+        "value": "Mental Health"
+      }
+    ]
+  },
+  "discoveryId": "7931",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "firstName": "Angela",
+  "firstNameLastName": "Angela Sullivan",
+  "embeddableMediaList": [
+    {
+      "accessibleDescription": "Video of Dr. Angela Sullivan, Board President of the Alabama Suicide Prevention and Resources Coalition (ASPARC), on: Breaking the Silence: Conversations on Suicide Prevention Awareness | UAB School of Public Health",
+      "embedLink": "https://www.youtube-nocookie.com/embed/tLW2_I3nzQ0",
+      "label": "Suicide Prevention",
+      "thumbnailLink": "https://img.youtube.com/vi/tLW2_I3nzQ0/default.jpg",
+      "embedLinkAutoplay": "https://www.youtube-nocookie.com/embed/tLW2_I3nzQ0?autoplay=1"
+    }
+  ],
+  "equipmentLinkTypes": [],
+  "objectId": 7931,
+  "updatedWhen": "2025-05-12T03:21:24.6196072-05:00",
+  "hasCollaborationData": true,
+  "email": "amsulli@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Mental Health Prevention Suicide Suicide Prevention",
+  "grant_keywords": ""
+}

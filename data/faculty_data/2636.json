@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2636",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 67,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 23,
+      "favourites": 0
+    }
+  },
+  "lastName": "Lim",
+  "overview": "Dr. Hyeyoung Lim, is an Associate professor in the J. Frank Barefield Jr. Department of Criminal Justice. She specializes in the field of criminal justice, particularly in the areas of police decision-making, police-community relations, and police accountability. Additionally, she has expanded her research interests to include cybercrime and crimes against humanity, with a specific focus on topics such as child abuse, internet crime against vulnerable populations, cyber ethics, and cyber safety. She is the Chief Editor of the Journal of Applied Security Research and a Co-Editor of the International Journal of Cybersecurity Intelligence and Cybercrime, dedicated to exploring various aspects of applied and empirical security and cybercrime research. She also serves as a member of the ZEPETO Safety Advisory Council and an Academic Advisory Board Director of the Georgia Advocates for Crime Prevention. Her expertise and research contribute to understanding and addressing pressing issues in law enforcement and cybersecurity, ensuring the safety and well-being of individuals and communities.",
+  "firstName": "Hyeyoung",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2636-hyeyoung-lim",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Criminal Justice"
+    }
+  ],
+  "firstNameLastName": "Hyeyoung Lim",
+  "equipmentLinkTypes": [],
+  "objectId": 2636,
+  "updatedWhen": "2025-05-10T08:08:00.9136777-05:00",
+  "hasCollaborationData": false,
+  "email": "hyeyoung@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Health Disparities Minority Health Social Determinants of Health",
+  "grant_keywords": ""
+}

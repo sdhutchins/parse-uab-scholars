@@ -1,0 +1,44 @@
+{
+  "discoveryId": "7129",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pink-Harper",
+  "firstName": "Stephanie",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7129-stephanie-pinkharper",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Government"
+    }
+  ],
+  "firstNameLastName": "Stephanie Pink-Harper",
+  "equipmentLinkTypes": [],
+  "objectId": 7129,
+  "updatedWhen": "2025-05-10T08:14:10.3260608-05:00",
+  "hasCollaborationData": false,
+  "email": "spharper@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1052",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 73,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cook",
+  "firstName": "Foster",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1052-foster-cook",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Psychiatry",
+      "department": "Psychiatry - Substance Abuse"
+    }
+  ],
+  "firstNameLastName": "Foster Cook",
+  "equipmentLinkTypes": [],
+  "objectId": 1052,
+  "updatedWhen": "2025-05-10T08:04:44.5620174-05:00",
+  "hasCollaborationData": false,
+  "email": "fcook@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

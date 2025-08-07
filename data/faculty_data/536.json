@@ -1,0 +1,127 @@
+{
+  "lastName": "Saleh",
+  "overview": "My medical training at the University of Heidelberg included doctoral research at the Max Plank Institute for Medical Research in Heidelberg involving the primary sequencing of the red blood cell enzyme Glutathione Reductase. My hematology/oncology fellowship training at the University of Alabama at Birmingham included laboratory investigation in the immune mediated platelet destruction (ITP), as well as, the generation of human monoclonal auto-antibodies from splenic B-cells derived from ITP patients. My NIH funded RO1 research in ITP evolved into a translational research interest in the treatment of ITP – to the use of anti-CD20 MoAb Rituximab in the treatment of ITP and subsequently as one of the lead USA investigators for the pivotal trial leading to the FDA approval of the recombinant TPO receptor agonist Elthrombopag for the treatment of ITP.  \n\nMy translational research training involved the study of monoclonal antibodies directed against cancer associated target antigens. I have been the PI or co-PI of a number of breakthrough first-in-human clinical trials of mouse, chimeric and humanized anti-tumor monoclonal antibodies conducted at UAB. My laboratory conducted the initial study demonstrating the complimentary role of anti-EGFR MoAb and radiation therapy, and these observations lead to the pivotal RTOG trial and FDA approval of Erbitux/RT for the treatment of locally advanced Head/Neck cancer.  As part of my translational research laboratory investigations, I developed and subsequently patented the first mirror-image anti-Id vaccine that mimics GD2 ganglioside antigen, highly expressed on certain tumors including melanoma and neuroblastoma.\n\nOver the past 25 years I have been involved in the development, conduct and oversight of clinical trials involving monoclonal antibodies, genetically engineered vaccine, anti-Id vaccines, novel small molecules and various cytotoxic chemotherapies, including practice changing therapies e.g. Eltrombopag in ITP, Gemzar/Abraxane in pancreatic cancer, Apalutamide in prostate cancer.  In 2015, I established and led the Phase 1 drug development program at UAB and worked on over 30 first in human targeted therapy molecules. In addition, I led the establishment of a Clinical Investigator Training Program that trained 60 junior faculty into clinical investigators over a 2yr period. This works continues at the Aga Khan University in Nairobi through an ASCO Innovations Award.\n\nDevelopment work has been an important part of my career. Over a 2 year period I paid 3 visits to the high mountain region of Gorno Badakshan Oblast in Tajikistan. In collaboration with the Aga Khan Health Services, I established the first ever breast cancer screening program in the region and laid the foundation for the clinical care pathway for the early detection and treatment of breast cancer.  Similarly, in March, 2021, I led a major effort to bring colon cancer awareness to the general community, including employees at 40 major corporations and clinicians in Kenya.\n\nIn 2020, I moved to the Aga Khan University in Nairobi, Kenya, to establish a Department of Hematology-Oncology and a Cancer Center, a matrix organization dedicated to cancer research. During the Covid pandemic the Cancer Center’s Clinical Research Unit (CRU) established itself as a leader in Covid-related clinical trials, garnered the highest enrollment in Africa for a study of Tociluzumab in severe Covid pneumonia, and I am the PI of a low dose radiotherapy trial for severe Covid pneumonia. In 2021 the CRU has been selected to conduct 3 oncology clinical trials using novel targeting agents, a first in sub Saharan Africa .",
+  "hasThumbnail": true,
+  "discoveryUrlId": "536-mansoor-saleh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "536",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 88,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 160,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mansoor",
+  "firstNameLastName": "Mansoor Saleh",
+  "equipmentLinkTypes": [],
+  "objectId": 536,
+  "updatedWhen": "2025-05-10T08:03:25.2778771-05:00",
+  "hasCollaborationData": true,
+  "email": "mns@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Coronaviruses Cost Effectiveness Research Dementia Depression Digestive Diseases Emerging Infectious Diseases Health Disparities Health Services Infectious Diseases Mental Health Mental Illness Neurodegenerative Neurosciences Orphan Drug Patient Safety Prevention Rare Diseases Urologic Diseases Women's Health",
+  "grant_keywords": ""
+}

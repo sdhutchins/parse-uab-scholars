@@ -1,0 +1,123 @@
+{
+  "discoveryId": "549",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 31,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 50,
+      "favourites": 0
+    }
+  },
+  "lastName": "Burkholder",
+  "firstName": "Greer",
+  "hasThumbnail": true,
+  "discoveryUrlId": "549-greer-burkholder",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "firstNameLastName": "Greer Burkholder",
+  "equipmentLinkTypes": [],
+  "objectId": 549,
+  "updatedWhen": "2025-05-10T08:03:25.2935020-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "gburkhol@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Aging Alcoholism, Alcohol Use and Health Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hypertension Infectious Diseases Kidney Disease Lung Mental Health Minority Health Pediatric AIDS Pediatric Research Initiative Prevention Sexual and Gender Minorities (SGM/LGBT*) Sexually Transmitted Infections Substance Misuse Tobacco Tobacco Smoke and Health Urologic Diseases Women's Health",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Minority Health Rural Health Sexually Transmitted Infections Social Determinants of Health Women's Health"
+}

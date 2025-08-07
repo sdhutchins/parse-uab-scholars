@@ -1,0 +1,84 @@
+{
+  "discoveryId": "17824",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hernandez",
+  "firstName": "Abbi",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17824-abbi-hernandez",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "firstNameLastName": "Abbi Hernandez",
+  "equipmentLinkTypes": [],
+  "objectId": 17824,
+  "updatedWhen": "2025-05-10T08:18:19.4787184-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Zoology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Neurobiology",
+          "Neurobiology"
+        ],
+        "value": "Animal Neurobiology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "abbihern@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Complementary and Integrative Health Dementia Mental Health Microbiome Neurodegenerative Neurosciences Nutrition Obesity Prevention",
+  "grant_keywords": ""
+}

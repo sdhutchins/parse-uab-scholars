@@ -1,0 +1,119 @@
+{
+  "lastName": "McClintock",
+  "overview": "James B. McClintock came to UAB in 1987 and has served as Dean of the School of Natural Sciences and Mathematics (1999-2003) and as Interim Dean of the Graduate School (2003-2005). His research has been funded continuously over the past 25 years by the National Science Foundation and focuses on aspects of marine invertebrate nutrition, reproduction, and primarily, Antarctic marine chemical ecology. His research has grown to include studies of the impacts of rapid climate change and ocean acidification on Antarctic marine algae and invertebrates.\n\nHe has published over 275 scientific publications, edited and written books, and been invited to make numerous scientific and popular science presentations. His research has been featured in a variety of media outlets including the NPR's Diane Rehm Show and “On Point” with Tom Ashbrook, National Geographic, Smithsonian, Discover, Scientific American, CNN, The Washington Post, Wall Street Journal, Chicago Tribune, Los Angeles Times,and The Weather Channel. He has served on National Academy of Sciences workshops on Climate Change and Polar Ecosystems.\n\nMcClintock recently returned from his 15th research expedition to Antarctica where he and his research collaborators have become among the world’s authorities on Antarctic marine chemical ecology and drug discovery and have developed an award-winning interactive educational outreach web site (UAB In Antarctica). His expertise on the ecological impacts of climate change and ocean acidification on marine life of the Antarctic Peninsula has garnered numerous invited lectures and published pieces. His book Lost Antarctica: Adventures in a Disappearing Land (Palgrave/MacMillan) was released in September 2012 and has garnered considerable national and international praise. In June 2013, a video short based on his book was produced and released by the EO Wilson Biodiversity Foundation that featured narration by Harrison Ford.\n\nIn 2016, he spoke on stage at the Lincoln Center in New York City in a performance of ‘The Moth’ that was featured on NPR. This past year, he was elected as a Fellow in the prestigious Explorer’s Club, and stories of his life and career as a polar marine scientist served as the basis of a theatrical production scripted by a nationally renowned playwright.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2496-james-mcclintock",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "University Professor Emeritus",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oceanography"
+        ],
+        "value": "Oceanography"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "2496",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 187,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 278,
+      "favourites": 0
+    }
+  },
+  "firstName": "James",
+  "firstNameLastName": "James McClintock",
+  "equipmentLinkTypes": [],
+  "objectId": 2496,
+  "updatedWhen": "2025-05-10T08:07:39.3839266-05:00",
+  "hasCollaborationData": true,
+  "email": "mcclinto@uab.edu",
+  "publication_keywords": "Genetics",
+  "grant_keywords": ""
+}

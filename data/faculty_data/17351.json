@@ -1,0 +1,173 @@
+{
+  "lastName": "Chen",
+  "overview": "Dr. Chen is a neuroscientist whose research is focused on neurodegenerative diseases including prion disease, Alzheimer's disease, Lewy body dementia, and Parkinson's disease. He received his Ph.D. in biochemical pharmacology from the State University of New York at Buffalo in 1993. Before coming to UAB in 2021, he was a Professor of Pathology at the Case Western Reserve University School of Medicine.\n\nDr. Chen's laboratory investigates pathogenic mechanisms underlying neurodegenerative diseases characterized by protein misfolding and accumulation of insoluble amyloidogenic aggregates. The central theme of his research is to elucidate the molecular pathogenesis of neurodegenerative diseases in order to develop translational approaches to early diagnosis and disease-modifying therapy. This research focus began with our earlier studies on the biochemical properties of prion “strains” in human prion diseases, leading to the new diagnostic criteria based on both the conformers and genotype of prion protein. Our research has now expanded to include molecular, genetic and translational studies of more common brain disorders, including Parkinson’s disease and Alzheimer’s disease, with the current efforts devoted to the identification of biomarker and genetic modifiers of neurodegeneration.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "17351-shu-chen",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Neuropathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Neurosciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurology and Neuromuscular Diseases",
+          "and Neuromuscular Diseases",
+          "Neuromuscular Diseases",
+          "Diseases"
+        ],
+        "value": "Neurology and Neuromuscular Diseases"
+      },
+      {
+        "paths": [
+          [
+            "Zoology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Neurobiology",
+          "Neurobiology"
+        ],
+        "value": "Animal Neurobiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical Biochemistry and Metabolomics",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry: Proteins and Peptides (incl. Medical Proteomics)",
+          "Biochemistry: Proteins and Peptides (incl. Medical Proteomics)",
+          "Proteins and Peptides (incl. Medical Proteomics)",
+          "and Peptides (incl. Medical Proteomics)",
+          "Peptides (incl. Medical Proteomics)",
+          "(incl. Medical Proteomics)",
+          "Medical Proteomics)",
+          "Proteomics)"
+        ],
+        "value": "Medical Biochemistry: Proteins and Peptides (incl. Medical Proteomics)"
+      }
+    ]
+  },
+  "discoveryId": "17351",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 5
+    },
+    "teachingActivities": {
+      "all": 41,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 98,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 96,
+      "favourites": 0
+    }
+  },
+  "firstName": "Shu",
+  "firstNameLastName": "Shu Chen",
+  "equipmentLinkTypes": [],
+  "objectId": 17351,
+  "updatedWhen": "2025-05-10T08:17:34.3946279-05:00",
+  "hasCollaborationData": true,
+  "email": "shuchen@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Arthritis Autoimmune Disease Biodefense Bioengineering Brain Disorders Clinical Research Dementia Emerging Infectious Diseases Foodborne Illness Infectious Diseases Lewy Body Dementia Neurodegenerative Neurosciences Parkinson's Disease Rare Diseases Rheumatoid Arthritis Transmissible Spongiform Encephalopathy (TSE) Women's Health",
+  "grant_keywords": ""
+}

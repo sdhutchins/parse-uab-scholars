@@ -1,0 +1,128 @@
+{
+  "lastName": "Mollaoglu",
+  "overview": "Dr. Mollaoglu earned his Bachelor of Science and Master of Science degrees in Molecular Biology and Genetics from Istanbul University (2011) and Koc University (2013), respectively. His master’s research was supported by a prestigious graduate fellowship from the Scientific and Technological Research Council of Turkey, and he was recognized with the Koc University Graduate Research Award for his exceptional work.\n\nHe pursued his doctoral studies at the University of Utah School of Medicine, joining Dr. Trudy Oliver’s laboratory at the Huntsman Cancer Institute. There, Dr. Mollaoglu focused on lung cancer genetics and tumor heterogeneity, pioneering the development of novel genetically engineered mouse models for lung cancer. His groundbreaking research was published in Cancer Cell and Immunity, earning him both the John H. Weis Memorial Graduate Student Award and the James W. Prahl Memorial Award, presented annually to the University of Utah’s most outstanding graduate student in biological and biomedical sciences. His doctoral training was supported by the National Cancer Institute’s F99 Fellowship.\n\nIn 2018, Dr. Mollaoglu was selected through a highly competitive international process to attend the Lindau Nobel Laureate Meeting in Physiology/Medicine, representing the Bayer Science and Education Foundation as a Fellow.\n\nFor his postdoctoral training, Dr. Mollaoglu joined the laboratories of Drs. Brian Brown and Miriam Merad at the Icahn School of Medicine at Mount Sinai in New York. His research employed CRISPR and spatial biology tools to explore the tumor immune microenvironment and the mechanisms underlying immunotherapy response in ovarian cancer. This work culminated in a high-impact publication in Cell and was supported by the National Cancer Institute’s K00 Fellowship. During his postdoctoral tenure, Dr. Mollaoglu received the American Association for Cancer Research Scholar-in-Training Award and the Outstanding Trainee Award from the Icahn School of Medicine.\n\nIn 2024, Dr. Mollaoglu joined the Department of Microbiology at the Heersink School of Medicine and the O’Neal Comprehensive Cancer Center at the University of Alabama at Birmingham as an Assistant Professor. His laboratory integrates genetically engineered mouse models, CRISPR, and spatial biology to investigate the genetic regulation of the tumor immune microenvironment and immunotherapy response in heterogeneous tumors.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19613-gurkan-mollaoglu",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Genetics",
+          "Genetics"
+        ],
+        "value": "Cancer Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Immunology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Tumour Immunology",
+          "Immunology"
+        ],
+        "value": "Tumour Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Cancer Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Molecular Targets",
+          "Targets"
+        ],
+        "value": "Molecular Targets"
+      },
+      {
+        "paths": [
+          [
+            "Medicinal and Biomolecular Chemistry",
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Molecular Medicine",
+          "Medicine"
+        ],
+        "value": "Molecular Medicine"
+      }
+    ]
+  },
+  "discoveryId": "19613",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gurkan",
+  "firstNameLastName": "Gurkan Mollaoglu",
+  "equipmentLinkTypes": [],
+  "objectId": 19613,
+  "updatedWhen": "2025-05-10T08:22:08.7087674-05:00",
+  "hasCollaborationData": false,
+  "email": "gmollaog@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biotechnology Cancer Cancer Genomics Clinical Research Coronaviruses Coronaviruses Therapeutics and Interventions Digestive Diseases Emerging Infectious Diseases Gene Therapy Genetics Human Genome Immunization Immunotherapy Infectious Diseases Nanotechnology Orphan Drug Ovarian Cancer Pancreatic Cancer Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

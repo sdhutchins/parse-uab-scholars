@@ -1,0 +1,126 @@
+{
+  "lastName": "Stoll",
+  "overview": "Dr. Stoll is a pediatric rheumatologist who earned his MD and PhD at Upstate Medical University (Syracuse, NY) in 2001, followed by completion of residency in pediatrics at the Long Island Jewish Medical Center in 2004 and fellowship in pediatric rheumatology at the Childrens Hospital Boston in 2007. At the completion of his fellowship, he took a staff position at the University of Texas at Southwestern Medical Center (Dallas, TX), where he earned an MSCS degree. In 2011, he moved to the University of Alabama at Birmingham, where he remains. During his fellowship, Dr. Stoll developed an interest in the clinical epidemiology of spondyloarthritis, publishing on age-based subgroups of juvenile psoriatic arthritis as well as risk factors for sacroiliitis in patients with pediatric spondyloarthritis. He subsequently turned his attention to the links between spondyloarthritis and inflammatory bowel disease and reported on use of fecal calprotectin as well as intestinal MRI to identify sub-clinical intestinal inflammation in children with spondyloarthritis. His current work focuses on the role of the intestinal and oral microbiota in the pathogenesis of spondyloarthritis.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "993-matthew-stoll",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Pediatric - Rheumatology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "993",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 117,
+      "favourites": 7
+    }
+  },
+  "firstName": "Matthew",
+  "firstNameLastName": "Matthew Stoll",
+  "equipmentLinkTypes": [],
+  "objectId": 993,
+  "updatedWhen": "2025-05-10T08:04:33.6825290-05:00",
+  "hasCollaborationData": true,
+  "email": "mstoll@uab.edu",
+  "publication_keywords": "Arthritis Autoimmune Disease Biomedical Imaging Chronic Pain Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Eye Disease and Disorders of Vision Pain Research Pediatric Pediatric Research Initiative Rare Diseases Rheumatoid Arthritis",
+  "grant_keywords": "Autoimmune Disease Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Kidney Disease Minority Health Pediatric Research Initiative Rare Diseases Women's Health"
+}

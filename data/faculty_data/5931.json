@@ -1,0 +1,123 @@
+{
+  "lastName": "Murdaugh",
+  "overview": "Dr. Murdaugh is a board certified clinical neuropsychologist who is focused on research involving understanding and improving neurocognitive outcomes in pediatric and young adult cancer survivors. Dr. Murdaugh’s interests include: understanding long-term neurocognitive outcomes in cancer survivors utilizing neuropsychological assessment and multimodal neuroimaging, developing a risk prediction model to identify cancer patients at greatest risk for neurocognitive deficits, and developing targeted cognitive remediation interventions to improve cognitive functioning in cancer survivors.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "5931-donna-murdaugh",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Hematology-Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "5931",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 85,
+      "favourites": 0
+    }
+  },
+  "firstName": "Donna",
+  "firstNameLastName": "Donna Murdaugh",
+  "equipmentLinkTypes": [],
+  "objectId": 5931,
+  "updatedWhen": "2025-05-10T08:12:46.7197719-05:00",
+  "hasCollaborationData": true,
+  "email": "dlmurdaugh@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Biomedical Imaging Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Hematology Machine Learning and Artificial Intelligence Mental Health Minority Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Pediatric Pediatric Research Initiative Rare Diseases Rehabilitation Rural Health Sickle Cell Disease Sleep Research Social Determinants of Health Transplantation",
+  "grant_keywords": "Behavioral and Social Science Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Genetics Health Disparities Hematology Mental Health Mind and Body Minority Health Neurodegenerative Neurosciences Pediatric Prevention Radiation Oncology Rare Diseases Rehabilitation Sickle Cell Disease"
+}

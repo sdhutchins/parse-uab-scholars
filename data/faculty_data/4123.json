@@ -1,0 +1,44 @@
+{
+  "discoveryId": "4123",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jones",
+  "firstName": "Warren",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4123-warren-jones",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Warren Jones",
+  "equipmentLinkTypes": [],
+  "objectId": 4123,
+  "updatedWhen": "2025-05-10T08:10:34.5027927-05:00",
+  "hasCollaborationData": false,
+  "email": "wjones@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

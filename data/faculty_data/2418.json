@@ -1,0 +1,84 @@
+{
+  "discoveryId": "2418",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 506,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kirby",
+  "firstName": "Jason",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2418-jason-kirby",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor-Engineering 9 Mo",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "firstNameLastName": "Jason Kirby",
+  "equipmentLinkTypes": [],
+  "objectId": 2418,
+  "updatedWhen": "2025-05-10T08:07:28.9167176-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Interdisciplinary Engineering",
+          "Engineering"
+        ],
+        "value": "Interdisciplinary Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Horticultural Production",
+          "Production"
+        ],
+        "value": "Horticultural Production"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jtkirby@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

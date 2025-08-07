@@ -1,0 +1,128 @@
+{
+  "lastName": "Hunter",
+  "overview": "Scholarship\n\nPublished over 300 Refereed Research papers concerning exercise physiology, exercise training, weight loss/weight maintenance, metabolism and insulin sensitivity.  Had sustained NIH funding for over 25 years.\n\nService\n\nSenior Editorial Board JSCR, JSC, and J Phys Ed, reviewer for over 40 medical/biological science journals, coach of RPM Olympic weight Lifting, Consultant National YMCA, Member US Weightlifting Federation's Scientific Services Committee, Scholarship Committee NSCA, Research Committee NSCA, Consultant Sports Medicine Committee, USWF, NSCA Program Committee, Liaison Committee ACSM, Senior Scientist in the Center for Nutrition Obesity Research, Center for Aging, Center for Diabetes Research and Training, Center for Exercise Medicine  Executive Action Committee Nutrition Obesity Research Center. Center for Aging Executive Council.\n\nPersonal\n\nI have been married to Becky Shoup Hunter for over 47 years and have two daughters and two granddaughters.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2381-gary-hunter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Nutrition Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2381",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 151,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 424,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gary",
+  "firstNameLastName": "Gary Hunter",
+  "equipmentLinkTypes": [],
+  "objectId": 2381,
+  "updatedWhen": "2025-05-10T08:07:28.8767281-05:00",
+  "hasCollaborationData": true,
+  "email": "ghunter@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Breast Cancer Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hypertension Minority Health Nutrition Obesity Physical Activity Prevention Rehabilitation Women's Health",
+  "grant_keywords": "Behavioral and Social Science Breast Cancer Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Heart Disease Hypertension Infectious Diseases Microbiome Minority Health Neurosciences Nutrition Obesity Physical Activity Prevention Rehabilitation Social Determinants of Health Women's Health"
+}

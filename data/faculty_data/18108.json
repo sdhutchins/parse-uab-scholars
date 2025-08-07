@@ -1,0 +1,127 @@
+{
+  "lastName": "Foti",
+  "overview": "Dr. Foti is an Assistant Professor of Epidemiology at the University of Alabama at Birmingham. She holds an MPH in chronic disease epidemiology from the Yale School of Public Health and a PhD in cardiovascular disease epidemiology from the Johns Hopkins Bloomberg School of Public Health, where she also completed a post-doctoral fellowship. Her research focuses on monitoring and improving the prevention and control of hypertension and elimination of disparities domestically and globally. Dr. Foti also previously worked for 8 years at the Centers for Disease Control and Prevention (CDC), including 5 years as a Special Assistant to the CDC Director, where she helped launch the Million Hearts initiative.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18108-kathryn-foti",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Epidemiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "18108",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 58,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kathryn",
+  "firstNameLastName": "Kathryn Foti",
+  "equipmentLinkTypes": [],
+  "objectId": 18108,
+  "updatedWhen": "2025-05-10T08:18:44.1771407-05:00",
+  "hasCollaborationData": true,
+  "email": "kfoti@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Hypertension Minority Health Neurosciences Pediatric Research Initiative Prevention Women's Health",
+  "grant_keywords": ""
+}

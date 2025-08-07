@@ -1,0 +1,44 @@
+{
+  "discoveryId": "886",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 30,
+      "favourites": 0
+    }
+  },
+  "lastName": "Stalvey",
+  "firstName": "Michael",
+  "hasThumbnail": false,
+  "discoveryUrlId": "886-michael-stalvey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Ped - Endocrinology"
+    }
+  ],
+  "firstNameLastName": "Michael Stalvey",
+  "equipmentLinkTypes": [],
+  "objectId": 886,
+  "updatedWhen": "2025-05-10T08:04:12.9888634-05:00",
+  "hasCollaborationData": true,
+  "email": "mstalvey@uab.edu",
+  "publication_keywords": "Atherosclerosis Cardiovascular Clinical Research Contraception/Reproduction Cystic Fibrosis Digestive Diseases Heart Disease Lung Nutrition Orphan Drug Pediatric Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": ""
+}

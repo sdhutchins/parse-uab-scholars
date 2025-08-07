@@ -1,0 +1,44 @@
+{
+  "discoveryId": "7314",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 996,
+      "favourites": 0
+    }
+  },
+  "lastName": "Holcomb",
+  "firstName": "John",
+  "hasThumbnail": false,
+  "discoveryUrlId": "7314-john-holcomb",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Trauma Section"
+    }
+  ],
+  "firstNameLastName": "John Holcomb",
+  "equipmentLinkTypes": [],
+  "objectId": 7314,
+  "updatedWhen": "2025-05-10T08:14:29.4347518-05:00",
+  "hasCollaborationData": true,
+  "email": "jbh617@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Clinical Research Emergency Care Health Services Hematology Physical Injury - Accidents and Adverse Effects Prevention",
+  "grant_keywords": ""
+}

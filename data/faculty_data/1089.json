@@ -1,0 +1,124 @@
+{
+  "lastName": "Mark",
+  "overview": "Undergraduate, AB degree, Cornell University, 1978, Biology.\nMedical school, MD degree, Albany Medical College, 1982.\nResidency, Neurology, New York University, 1986.\nResearch fellowship, Behavioral Neurology, University of Florida, 1987.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1089-victor-mark",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physical Medicine & Rehabilitation"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "1089",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 16,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 103,
+      "favourites": 3
+    }
+  },
+  "firstName": "Victor",
+  "firstNameLastName": "Victor Mark",
+  "equipmentLinkTypes": [],
+  "objectId": 1089,
+  "updatedWhen": "2025-05-10T08:04:44.6187257-05:00",
+  "hasCollaborationData": true,
+  "email": "vwmark@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Autoimmune Disease Behavioral and Social Science Brain Disorders Chronic Pain Clinical Research Clinical Trials and Supportive Activities Coronaviruses Mental Health Minority Health Multiple Sclerosis Neurodegenerative Neurosciences Pain Research Peripheral Neuropathy Physical Injury - Accidents and Adverse Effects Rehabilitation Spinal Cord Injury Traumatic Head and Spine Injury",
+  "grant_keywords": "Aging Aphasia Autoimmune Disease Behavioral and Social Science Biomedical Imaging Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Health Disparities Multiple Sclerosis Neurodegenerative Neurosciences Physical Activity Physical Rehabilitation Prevention Rehabilitation Stroke"
+}

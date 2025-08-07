@@ -1,0 +1,131 @@
+{
+  "lastName": "Zhou",
+  "overview": "Her research focuses on studying cellular and molecular mechanisms underlying cardiac differentiation and direct reprogramming. The cardiac reprogramming offers a promising strategy to generate functional heart muscle cells for heart repair. The long-term goal of Zhou’s research is to comprehensively understand the genetic and epigenetic regulation for cell fate conversion, which will ultimately aid in the achievement of regenerative therapy and personalized medicine in the future.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6759-yang-zhou",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Dept of Biomedical Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "6759",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 41,
+      "favourites": 0
+    }
+  },
+  "firstName": "Yang",
+  "firstNameLastName": "Yang Zhou",
+  "equipmentLinkTypes": [],
+  "objectId": 6759,
+  "updatedWhen": "2025-05-10T08:13:42.6803051-05:00",
+  "hasCollaborationData": true,
+  "email": "yangzhou@uab.edu",
+  "publication_keywords": "Aging Biotechnology Cancer Cancer Genomics Cardiovascular Childhood Leukemia Congenital Heart Disease Congenital Structural Anomalies Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Hematology Human Genome Minority Health Orphan Drug Pediatric Pediatric Cancer Pediatric Research Initiative Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Embryonic - Human Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human",
+  "grant_keywords": "Cardiovascular Congenital Heart Disease Genetics Heart Disease Heart Disease - Coronary Heart Disease Human Genome Pediatric Rare Diseases Regenerative Medicine Stem Cell Research"
+}

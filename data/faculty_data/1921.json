@@ -1,0 +1,105 @@
+{
+  "lastName": "Kaiser",
+  "overview": "I earned B.S. degrees in Microbiology from Texas A & M University and Medical Technology from the University of Texas Health Science Center at Dallas.  I started my professional career in medical laboratory science (clinical diagnostics) and for 20 years worked to train, support, install and design/develop medical diagnostics instrumentation, data management systems and sample handling processors. I received my Ph.D. in Health Psychology from the University of North Texas Health Science Center at Fort Worth in 2009. I joined the Section on Statistical Genetics at the UAB School of Public Health in June of 2009 as a post-doctoral scholar and was a T32 Trainee in Vascular Biology and Hypertension. I am now an Assistant Professor in the Department of Health Behavior and have focused on meta-research and race/sex disparities in obesity using human and animal models. I specialize in methods for conducting systematic reviews of scientific literature. More recently, I have broadened my professional networks to collaborate with organizations that support the scholarly communications infrastructure with the aim of speeding discoverability of scientific literature.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1921-kathryn-kaiser",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Health Behavior"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology",
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Health, Clinical and Counselling Psychology",
+          "Clinical and Counselling Psychology",
+          "and Counselling Psychology",
+          "Counselling Psychology",
+          "Psychology"
+        ],
+        "value": "Health, Clinical and Counselling Psychology"
+      }
+    ]
+  },
+  "discoveryId": "1921",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 96,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 30,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 70,
+      "favourites": 7
+    }
+  },
+  "firstName": "Kathryn",
+  "firstNameLastName": "Kathryn Kaiser",
+  "equipmentLinkTypes": [],
+  "objectId": 1921,
+  "updatedWhen": "2025-05-10T08:06:12.3609859-05:00",
+  "hasCollaborationData": true,
+  "email": "kakaiser@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Brain Disorders Breast Cancer Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Depression Diabetes Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Kidney Disease Machine Learning and Artificial Intelligence Mental Health Minority Health Networking and Information Technology R&D (NITRD) Nutrition Obesity Patient Safety Prevention Rehabilitation Women's Health",
+  "grant_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Data Science Networking and Information Technology R&D (NITRD) Nutrition Obesity"
+}

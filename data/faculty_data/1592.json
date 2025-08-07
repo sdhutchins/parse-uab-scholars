@@ -1,0 +1,121 @@
+{
+  "lastName": "Moneyham",
+  "overview": "Dr. Moneyham is Professor and Senior Associated Dean for Academic Affairs in the UAB School of Nursing, with appointment as University Professor in Nursing.  Dr. Moneyham, also has appointments as a Senior Scientist in the Center for AIDS Research, the Minority Health and Health Disparities Research Center, the Center for Outcomes and Effectiveness Research, and the Center for Clinical and Translational Science.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1592-linda-moneyham",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Senior Associate Dean",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1592",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 27,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 170,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 146,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 295,
+      "favourites": 0
+    }
+  },
+  "firstName": "Linda",
+  "firstNameLastName": "Linda Moneyham",
+  "equipmentLinkTypes": [],
+  "objectId": 1592,
+  "updatedWhen": "2025-05-10T08:05:50.0374509-05:00",
+  "hasCollaborationData": true,
+  "email": "moneyham@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Health Disparities Infectious Diseases",
+  "grant_keywords": "Clinical Research Minority Health Women's Health"
+}

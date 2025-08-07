@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2547",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 276,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 108,
+      "favourites": 0
+    }
+  },
+  "lastName": "Zhang",
+  "firstName": "Chengcui",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2547-chengcui-zhang",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Chengcui Zhang",
+  "equipmentLinkTypes": [],
+  "objectId": 2547,
+  "updatedWhen": "2025-05-10T08:07:50.5583127-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Computer Software",
+          "Software"
+        ],
+        "value": "Computer Software"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Artificial Intelligence and Image Processing",
+          "Intelligence and Image Processing",
+          "and Image Processing",
+          "Image Processing",
+          "Processing"
+        ],
+        "value": "Artificial Intelligence and Image Processing"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Distributed Computing",
+          "Computing"
+        ],
+        "value": "Distributed Computing"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geomatic Engineering",
+          "Engineering"
+        ],
+        "value": "Geomatic Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "czhang02@uab.edu",
+  "publication_keywords": "Biomedical Imaging Chronic Obstructive Pulmonary Disease Emphysema Lung Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": "Aging Bioengineering Biomedical Imaging Cachexia Clinical Research Machine Learning and Artificial Intelligence Neurosciences Nutrition Obesity Sarcopenia"
+}

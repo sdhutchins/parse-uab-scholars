@@ -1,0 +1,152 @@
+{
+  "discoveryId": "1385",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 3
+    },
+    "teachingActivities": {
+      "all": 42,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 10,
+      "favourites": 3
+    },
+    "publications": {
+      "all": 42,
+      "favourites": 9
+    }
+  },
+  "lastName": "Cheon",
+  "firstName": "Kyounga",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1385-kyounga-cheon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "firstNameLastName": "Kyounga Cheon",
+  "equipmentLinkTypes": [],
+  "objectId": 1385,
+  "updatedWhen": "2025-05-10T08:05:15.7878404-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical Biotechnology",
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Regenerative Medicine (incl. Stem Cells and Tissue Engineering)",
+          "Medicine (incl. Stem Cells and Tissue Engineering)",
+          "(incl. Stem Cells and Tissue Engineering)",
+          "Stem Cells and Tissue Engineering)",
+          "Cells and Tissue Engineering)",
+          "and Tissue Engineering)",
+          "Tissue Engineering)",
+          "Engineering)"
+        ],
+        "value": "Regenerative Medicine (incl. Stem Cells and Tissue Engineering)"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Community Child Health",
+          "Child Health",
+          "Health"
+        ],
+        "value": "Community Child Health"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "kcheon@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Chronic Pain Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Pain Research Pediatric Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human",
+  "grant_keywords": "Bioengineering Biotechnology Clinical Research Dental/Oral and Craniofacial Disease Infectious Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human"
+}

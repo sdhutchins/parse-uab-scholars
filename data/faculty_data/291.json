@@ -1,0 +1,121 @@
+{
+  "lastName": "Sudarshan",
+  "overview": "Dr. Sudarshan received his undergraduate degree from Duke University, followed by his medical school training at the Duke University School of Medicine. He subsequently completed his residency in Urologic surgery at the Medical University of South Carolina. It was during his residency that he investigated gene therapy-based strategies for genitourinary malignancies. Dr. Sudarshan further pursued his interest in urologic oncology by completing a fellowship at the National Cancer Institute of the National Institutes of Health. During this fellowship, Dr. Sudarshan's clinical interests encompassed the utilization of minimally invasive approaches to the management of urologic cancers, including advanced laparoscopic techniques for renal/adrenal malignancy as well as robotic-assisted laparoscopic prostatectomy.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "291-sunil-sudarshan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Urology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "291",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 28,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 13,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 40,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sunil",
+  "firstNameLastName": "Sunil Sudarshan",
+  "equipmentLinkTypes": [],
+  "objectId": 291,
+  "updatedWhen": "2025-05-10T08:02:47.5488750-05:00",
+  "hasCollaborationData": true,
+  "email": "sudarshan@uab.edu",
+  "publication_keywords": "Aging Biotechnology Cancer Cancer Genomics Genetics Human Genome Kidney Disease Orphan Drug Prostate Cancer Rare Diseases Urologic Diseases",
+  "grant_keywords": "Kidney Disease"
+}

@@ -1,0 +1,129 @@
+{
+  "lastName": "Mitchell",
+  "overview": "The overall theme of Dr. Mitchell’s research has been to study disorders that affect the kidney and to identify potential ways to improve the health and quality of life of individuals with kidney disease. She has a broad background as well as specific training and expertise in mitochondrial function and oxidative stress. Dr. Mitchell’s current research investigates the role of diet on immune cell mitochondria and oxidative stress in kidney stone disease using human dietary feeding studies, animal models, and cell culture models. In addition, she also studies the role of immune cells in interstitial cystitis/painful bladder syndrome. It is Dr. Mitchell’s hope that her research will provide relevant scientific information to help understand, prevent, and/or treat renal diseases and urological disorders.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "288-tanecia-mitchell",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Urology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      }
+    ]
+  },
+  "discoveryId": "288",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 38,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tanecia",
+  "firstNameLastName": "Tanecia Mitchell",
+  "equipmentLinkTypes": [],
+  "objectId": 288,
+  "updatedWhen": "2025-05-10T08:02:47.5338743-05:00",
+  "hasCollaborationData": true,
+  "email": "taneciam@uab.edu",
+  "publication_keywords": "Chronic Pain Clinical Research Infectious Diseases Interstitial Cystitis Kidney Disease Nutrition Pain Research Urologic Diseases",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Hematology Kidney Disease Minority Health Nutrition Prevention Rural Health Urologic Diseases"
+}

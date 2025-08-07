@@ -1,0 +1,89 @@
+{
+  "lastName": "George",
+  "overview": "Remo George is an Assistant Professor in the UAB Nuclear Medicine and Molecular Imaging Sciences Program. He was in clinical practice for over 10 years in Indiana, Michigan & India prior to joining the school of health professions as a faculty member. He has extensive experience in nuclear medicine procedures, radiopharmaceuticals, instrumentation, along with training in PET applications. He is also a U.S. nuclear regulatory commission licensed medical radiation safety officer. He is professionally certified as a nuclear medicine scientist (diplomate, American board of science in nuclear medicine (ABSNM) in radiation protection specialty) and as a nuclear medicine technologist by the nuclear medicine technology certification board (NMTCB-CNMT).\n\nDr. George received his PhD in Biochemistry and Molecular Genetics from the school of medicine at the University of Alabama at Birmingham in 2014. His current research interests involve the use of nanoparticles for radiation protection and therapy, and the upregulation of sodium iodide symporter in cancer cells for theranostic applications. As a PI or co-investigator of university- and foundation-funded grants, Dr. George has successfully administered the projects by involving undergraduate and graduate student participation, ensuring research protections, maintaining budget, collaborating with other researchers, and producing peer-reviewed publications and abstracts with his students.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1903-remo-george",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Nuclear Medicine & Molecular Imaging Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "1903",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 123,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "firstName": "Remo",
+  "firstNameLastName": "Remo George",
+  "equipmentLinkTypes": [],
+  "objectId": 1903,
+  "updatedWhen": "2025-05-10T08:06:12.3402552-05:00",
+  "hasCollaborationData": true,
+  "email": "remogeorge@uab.edu",
+  "publication_keywords": "Biodefense Bioengineering Biomedical Imaging Cancer Infectious Diseases Nanotechnology Radiation Oncology Rare Diseases",
+  "grant_keywords": ""
+}

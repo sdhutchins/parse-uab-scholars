@@ -1,0 +1,129 @@
+{
+  "lastName": "Eidson",
+  "overview": "Christopher Eidson is an Associate Professor in the Department of Occupational Therapy and a Faculty Scholar in UAB’s Center for Interprofessional Education and Simulation. He is also a certified by the Team-Based Learning Collaborative as a consultant trainer in team-based learning. \n\nDr. Eidson teaches in the entry-level Occupational Therapy program and serves as an academic advisor for entry-level students. He also teaches in practice courses and in non-foundational courses focused on evidenced-based practice, policy, and emerging practice. He is a member of the American Occupational Therapy Association and the Alabama Occupational Therapy Association. \n\nHis research is pedagogical in nature, pertaining directly to teaching and learning or to content specific to the coursework he teaches.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1880-christopher-eidson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Occupational Therapy"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      }
+    ]
+  },
+  "discoveryId": "1880",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 292,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 161,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 26,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christopher",
+  "firstNameLastName": "Christopher Eidson",
+  "equipmentLinkTypes": [],
+  "objectId": 1880,
+  "updatedWhen": "2025-05-10T08:06:12.3211883-05:00",
+  "hasCollaborationData": true,
+  "email": "ceidson@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities",
+  "grant_keywords": ""
+}

@@ -1,0 +1,125 @@
+{
+  "lastName": "Lund",
+  "overview": "Frances (Fran) Lund completed her undergraduate studies in Microbiology at the University of Notre Dame (B.S., cum laude, 1987). She performed her graduate work with Dr. Ronald B. Corley in the Department of Microbiology at Duke University. She obtained her Ph.D. in Immunology in 1992 and went on to a post-doctoral immunology fellowship in Dr. Maureen Howard’s group at DNAX Research Institute in Palo Alto, CA. In 1997 she moved to the Trudeau Institute, a basic biomedical infectious disease research institute, and started her own research lab. Over the next 11 years, Dr. Lund and her scientific partner, Dr. Troy Randall, developed research programs studying humoral and cellular immune responses to pulmonary and intestinal pathogens. In 2008, they joined the University of Rochester as Professors within the Division of Allergy, Immunology and Rheumatology (Department of Medicine). Over the next four years, Dr. Lund developed additional research programs in autoimmunity and allergy and began her work in human translational immunology. In 2012, Drs. Lund and Randall and their joint labs were recruited to UAB and Dr. Lund served as the Charles H. McCauley Professor and Chair of the Department of Microbiology. In 2022, Dr. Lund stepped down from the Chair position and currently serves as the inaugural Director of the Heersink School of Medicine (HSOOM) Immunology Institute. She holds a secondary appointment in the Division of Clinical Immunology and Rheumatology within the Department of Medicine and is a senior scientist in the O’Neal Comprehensive Cancer Center, the Center for AIDS Research, the Comprehensive Arthritis, Musculoskeletal, Bone and Autoimmunity Center, the Alzheimer’s Disease Center, and the Comprehensive Diabetes Center. She serves as the chair of the HSOM Inflammation, Infection, Immunity and Immunotherapy (I-4ward) Strategic task force and is a member of the HSOM Executive Research Steering Committee.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2060-frances-lund",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      }
+    ]
+  },
+  "discoveryId": "2060",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 50,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 25,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 189,
+      "favourites": 0
+    }
+  },
+  "firstName": "Frances",
+  "firstNameLastName": "Frances Lund",
+  "equipmentLinkTypes": [],
+  "objectId": 2060,
+  "updatedWhen": "2025-05-10T08:06:35.9560134-05:00",
+  "hasCollaborationData": true,
+  "email": "flund@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Bioengineering Biotechnology Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Vaccines Diabetes Emerging Infectious Diseases Genetics Immunization Infectious Diseases Kidney Disease Lung Nanotechnology Organ Transplantation Pediatric Pneumonia & Influenza Prevention Transplantation Vaccine Related",
+  "grant_keywords": "Emerging Infectious Diseases Immunization Immunotherapy Infectious Diseases Kidney Disease Lung Organ Transplantation Prevention Transplantation Vaccine Related"
+}

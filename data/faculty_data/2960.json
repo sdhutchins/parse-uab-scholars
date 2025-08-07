@@ -1,0 +1,125 @@
+{
+  "discoveryId": "2960",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 149,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 66,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hurt",
+  "firstName": "Christopher",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2960-christopher-hurt",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Physical Therapy"
+    }
+  ],
+  "firstNameLastName": "Christopher Hurt",
+  "equipmentLinkTypes": [],
+  "objectId": 2960,
+  "updatedWhen": "2025-05-10T08:08:43.2633015-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cphurt@uab.edu",
+  "publication_keywords": "Aging Arthritis Assistive Technology Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Parkinson's Disease Physical Activity Physical Rehabilitation Rehabilitation Stroke",
+  "grant_keywords": "Aging Assistive Technology Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Eye Disease and Disorders of Vision Neurodegenerative Neurosciences Parkinson's Disease Physical Rehabilitation Prevention Rehabilitation Social Determinants of Health Women's Health"
+}

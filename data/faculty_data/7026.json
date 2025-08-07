@@ -1,0 +1,44 @@
+{
+  "discoveryId": "7026",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 18,
+      "favourites": 0
+    }
+  },
+  "lastName": "Huls",
+  "firstName": "Forest",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7026-forest-huls",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Laboratory Medicine"
+    }
+  ],
+  "firstNameLastName": "Forest Huls",
+  "equipmentLinkTypes": [],
+  "objectId": 7026,
+  "updatedWhen": "2025-05-10T08:14:00.1761140-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Biodefense Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Coronaviruses Therapeutics and Interventions Emerging Infectious Diseases Genetics Infectious Diseases Kidney Disease Lung Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Orphan Drug Precision Medicine Rare Diseases",
+  "grant_keywords": "Precision Medicine"
+}

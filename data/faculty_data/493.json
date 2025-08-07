@@ -1,0 +1,127 @@
+{
+  "lastName": "Locher",
+  "overview": "Dr. Locher accepted a position at the University of Alabama at Birmingham (UAB) in the Division of Gerontology, Geriatrics, and Palliative Care within the Department of Medicine in 1992 as a Research Associate working on National Institutes of Health (NIH)-funded projects with prominent aging researchers; earned her PhD in Medical Sociology from UAB in 1999; was promoted to Research Assistant Professor in 2000; earned an MSPH in Health Policy and Outcomes from UAB in 2005; and was promoted to a tenure-earning Assistant Professor position in 2005. In 2007, she was appointed Director of the Public Policy and Aging Program (dually supported by the UAB Center for Aging and the Lister Hill Center for Health Policy) and accepted a joint appointment with formal responsibilities in the Department of Health Care Organization and Policy in the School of Public Health. In 2008, she was promoted to Associate Professor and was awarded tenure in 2009. In 2011, she was appointed Associate Director for Enrichment of the UAB Nutrition and Obesity Research Center (NORC) (funded by the National Institute of Diabetes and Digestive and Kidney Diseases [NIDDK]). In 2013, Dr. Locher was promoted to Full Professor. In 2016, she was appointed to Professor Emerita. \n\nDr. Locher’s work in the area of nutrition and aging has been consistently supported by the National Institute on Aging (NIA) with five distinct grants awarded to her as Principal Investigator from 2001 through 2017. Additionally, she has received extramural support from other agencies where she served as Principal Investigator (PI) (American Cancer Society and the Lucille Beeson Trust Fund) and as Co-PI or Co-Investigator from multiple agencies to support research focused on nutrition and aging. She has published or has in press more than 100 peer-reviewed data-based manuscripts on translational nutrition and aging and related topics. Dr. Locher was fortunate to be the recipient of a Mentored Research Scientist Development Award (MRSDA/K01) from the NIA that kick-started her career in the area of nutrition and aging. Receipt of the MRSDA enabled her to conduct a longitudinal observational study of nutritional behaviors and outcomes of older adults who had recently experienced an acute medical event or an exacerbation of a chronic condition that necessitated the use of home health services. Concomitant with that award, she received a smaller NIA R03 grant to study nutritional concerns of older adults diagnosed with cancer along with their caregivers and doctors using in-depth qualitative interviews. Based upon findings from the MRSDA, she was able to secure additional R21 funding from NIA to conduct a randomized controlled trial (RCT) evaluating a Behavioral Nutrition Intervention in Community Elders (B-NICE) targeted at addressing heightened nutritional risk that occurs during a home health encounter (especially following a hospitalization) that may contribute to a downward spiral leading to frailty and poor health outcomes, including increased health services utilization and mortality. She was awarded a five-year R01 in 2009 to conduct another RCT examining the effects of a lifestyle intervention on multiple outcomes (disease risk, function, health service utilization, and quality of life) in obese community-dwelling older adults with co-morbid conditions. Beginning in August, 2012, Dr. Locher began work on a grant from the National Cancer Institute focused on Food and Eating Behaviors of Head and Neck Cancer Patients. From 2012 until 2017, Dr. Locher was the recipient of a Career Academic Leadership Award from NIA focused on Translational Nutrition and Aging that enabled her to mentor and support junior faculty and trainees.\n\nDr. Locher was honored by the UAB Commission on the Status of Women with the 2016 Becky Trigg Outstanding Woman UAB Faculty Member Award in recognition of her having made it easier for other women to succeed, overcome adversity to achieve goals, taken a courageous stance, and provided significant service to women. Her teaching and mentorship as well as in her community service has earned her the 2010 Champion for Change Award from AARP Alabama, the 2011 Graduate Dean’s Award for Excellence in Mentorship, and the 2011 Faculty Service Award by the Comprehensive Center for Healthy Aging. In 2013, she was further honored with Fellow Status by the Gerontological Society of America. In 2016 she received the Gerontological Society of America M. Powell Lawton Award for her contributions in gerontology research.\n\nDr. Locher is currently devoting her efforts to ensuring the success of junior faculty in securing extramural support by working with the Center for Outcomes and Effectiveness Research and Education on the Grant Writing and Intensive Training (GRIT) initiatives.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "493-julie-locher",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Anthropology"
+        ],
+        "value": "Anthropology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "493",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 30,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 46,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 138,
+      "favourites": 0
+    }
+  },
+  "firstName": "Julie",
+  "firstNameLastName": "Julie Locher",
+  "equipmentLinkTypes": [],
+  "objectId": 493,
+  "updatedWhen": "2025-05-10T08:03:12.9054251-05:00",
+  "hasCollaborationData": true,
+  "email": "jlocher@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Cost Effectiveness Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Nutrition Obesity Physical Activity Prevention Rehabilitation Social Determinants of Health Women's Health",
+  "grant_keywords": "Nutrition Obesity Prevention"
+}

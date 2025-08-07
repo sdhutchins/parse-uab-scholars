@@ -20,6 +20,12 @@ class FacultyTable {
             this.populateResearchAreas();
             this.renderTable();
             this.updateStats();
+            
+            // Initialize Bootstrap tooltips
+            const tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+            tooltipTriggerList.map(function (tooltipTriggerEl) {
+                return new bootstrap.Tooltip(tooltipTriggerEl);
+            });
         } catch (error) {
             console.error('Error initializing table:', error);
             this.showError('Failed to load data. Please refresh the page.');
@@ -186,16 +192,29 @@ class FacultyTable {
             filtered = filtered.filter(faculty => {
                 return faculty.userName.toLowerCase().includes(searchTerm) ||
                        faculty.researchAreas.toLowerCase().includes(searchTerm) ||
-                       faculty.students.toLowerCase().includes(searchTerm);
+                       faculty.students.toLowerCase().includes(searchTerm) ||
+                       (faculty.email && faculty.email.toLowerCase().includes(searchTerm)) ||
+                       (faculty.searchKeywords && faculty.searchKeywords.toLowerCase().includes(searchTerm));
             });
         }
 
         if (researchAreaFilter) {
             filtered = filtered.filter(faculty => {
                 // Check if the typed research area matches any of the faculty's research areas
-                if (!faculty.researchAreas) return false;
-                const facultyAreas = faculty.researchAreas.toLowerCase().split(', ');
-                return facultyAreas.some(area => area.includes(researchAreaFilter));
+                let matches = false;
+                
+                // Check visible research areas
+                if (faculty.researchAreas) {
+                    const facultyAreas = faculty.researchAreas.toLowerCase().split(', ');
+                    matches = facultyAreas.some(area => area.includes(researchAreaFilter));
+                }
+                
+                // Also check hidden keywords if no match found in visible areas
+                if (!matches && faculty.searchKeywords) {
+                    matches = faculty.searchKeywords.toLowerCase().includes(researchAreaFilter);
+                }
+                
+                return matches;
             });
         }
 
@@ -229,7 +248,7 @@ class FacultyTable {
         if (pageData.length === 0) {
             tbody.innerHTML = `
                 <tr>
-                    <td colspan="3" class="no-results">
+                    <td colspan="4" class="no-results">
                         <i class="fas fa-search me-2"></i>
                         No faculty found matching your criteria.
                     </td>
@@ -248,11 +267,31 @@ class FacultyTable {
             facultyNameHtml = `<a href="${faculty.scholarsUrl}" target="_blank" class="faculty-link">${facultyNameHtml} <i class="fas fa-external-link-alt"></i></a>`;
         }
 
+        // Create email link if email exists
+        let emailHtml = '';
+        if (faculty.email) {
+            emailHtml = `<a href="mailto:${faculty.email}" class="email-link">${this.highlightText(faculty.email)}</a>`;
+        } else {
+            emailHtml = '<span class="text-muted">No email</span>';
+        }
+
+        // Highlight current students
+        let studentsHtml = this.highlightText(faculty.students);
+        if (faculty.currentStudents && faculty.currentStudents.length > 0) {
+            console.log('Current students for', faculty.userName, ':', faculty.currentStudents);
+            // Highlight current students with green color
+            faculty.currentStudents.forEach(currentStudent => {
+                const regex = new RegExp(`(${currentStudent.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'g');
+                studentsHtml = studentsHtml.replace(regex, '<span class="current-student">$1</span>');
+            });
+        }
+
         return `
             <tr>
                 <td class="faculty-name">${facultyNameHtml}</td>
+                <td class="email">${emailHtml}</td>
                 <td class="research-areas">${this.highlightText(faculty.researchAreas)}</td>
-                <td class="students">${this.highlightText(faculty.students)}</td>
+                <td class="students">${studentsHtml}</td>
             </tr>
         `;
     }

@@ -1,0 +1,60 @@
+{
+  "lastName": "Hammond",
+  "overview": "Dr. Stephanie Hammond is an adult nurse practitioner with a specialization in occupational health. She has many years of clinical practice in occupational health, and advises and precepts occupational health students in her clinical practice. Dr. Hammond is DOT certified and has experience working in primary care.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1585-stephanie-hammond",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "1585",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 250,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 31,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 33,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stephanie",
+  "firstNameLastName": "Stephanie Hammond",
+  "equipmentLinkTypes": [],
+  "objectId": 1585,
+  "updatedWhen": "2025-05-10T08:05:50.0374509-05:00",
+  "hasCollaborationData": true,
+  "email": "shammond@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes Emergency Care Health Services Physical Activity Physical Injury - Accidents and Adverse Effects Prevention",
+  "grant_keywords": ""
+}

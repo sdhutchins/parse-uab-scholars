@@ -1,0 +1,130 @@
+{
+  "lastName": "Gabriel",
+  "overview": "Dr. Gabriel is cross-trained in exercise physiology and epidemiology with expertise implementing physical fitness and physical activity measures in large, observational studies. Her research interests focus on two key areas of inquiry. First is the development and evaluation of methodological strategies that optimize the precision of physical fitness, physical activity and sedentary behavior measures that are practical for use in large, population-based studies. The second is to examine the timing of physical fitness or physical activity and sedentary behaviors and risk of subsequent disease and disability using a life-course perspective. She current serves or has served as principal investigator on projects funded by the American College of Sports Medicine, American Institute for Cancer Research, American Heart Association, National Heart, Lung and Blood Institute, and National Institute on Aging.\n\nShe actively collaborates on several large observational studies, providing consultation and support specific to: study design, strategies for physical activity and sedentary behavior assessment, computation/derivation of summary estimates, data reduction and processing of accelerometer data, statistical handling of physical activity and sedentary behavior data, statistical methods to examine associations of physical activity and sedentary behavior with health risk factors and outcomes, data interpretation, and dissemination of findings. These collaborations include several large, federally funded cohort studies including Coronary Artery Risk Development in Young Adults and the Study of Women’s Health Across the Nation. In addition, her scholarly work includes over 200 peer-reviewed publications and four book chapters.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16467-kelley-gabriel",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Epidemiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "16467",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 13,
+      "favourites": 4
+    },
+    "teachingActivities": {
+      "all": 9,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 388,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kelley",
+  "firstNameLastName": "Kelley Gabriel",
+  "equipmentLinkTypes": [],
+  "objectId": 16467,
+  "updatedWhen": "2025-05-10T08:16:04.1384464-05:00",
+  "hasCollaborationData": true,
+  "email": "gabrielk@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Clinical Research Health Disparities Hematology Minority Health Nutrition Obesity Pediatric Physical Activity Prevention Sleep Research Social Determinants of Health Urologic Diseases Women's Health",
+  "grant_keywords": "Aging Behavioral and Social Science Cardiovascular Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Hypertension Minority Health Physical Activity Prevention Sleep Research"
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "12783",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Owens",
+  "firstName": "Michael",
+  "hasThumbnail": false,
+  "discoveryUrlId": "12783-michael-owens",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Psychiatry - Behavioral Neurobiology"
+    }
+  ],
+  "firstNameLastName": "Michael Owens",
+  "equipmentLinkTypes": [],
+  "objectId": 12783,
+  "updatedWhen": "2025-05-10T08:15:18.9120856-05:00",
+  "hasCollaborationData": false,
+  "email": "maowens1@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

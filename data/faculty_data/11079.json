@@ -1,0 +1,44 @@
+{
+  "discoveryId": "11079",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Hayes",
+  "firstName": "Jennifer",
+  "hasThumbnail": false,
+  "discoveryUrlId": "11079-jennifer-hayes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "PATIENT PLACEMENT SPEC",
+      "department": "Center for Patient Flow"
+    }
+  ],
+  "firstNameLastName": "Jennifer Hayes",
+  "equipmentLinkTypes": [],
+  "objectId": 11079,
+  "updatedWhen": "2025-05-10T08:15:02.2711623-05:00",
+  "hasCollaborationData": false,
+  "email": "jenny3@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

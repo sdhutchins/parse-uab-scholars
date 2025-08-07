@@ -1,0 +1,126 @@
+{
+  "lastName": "Hildreth",
+  "overview": "Dr. Hildreth obtained his BS in Biology from East Carolina University and his DVM from the North Carolina State University. He then completed a small animal rotating internship at the University of Florida and a small animal surgical residency at the Ohio State University. During his residency he completed a concurrent MS degree evaluating the use of PTHrP as an in vitro bone-forming agent. \n\nAfter his residency, he stayed at Ohio State to complete a PhD focused on the role of PTHrP in skeletal development and the use of PTHrP as a bone-forming agent. During his PhD, he developed an intense interest in the advanced imaging of bone using microCT, particularly in response to bone-forming therapies or genetic modification. This resulted in collaborations with multiple bone biology and cancer research laboratories.\n\nUpon completing his PhD in 2014 he was hired as an associate faculty member within the OSU-CVM as an Instructor of Small Animal Surgical Practice. In this role, he taught bone biology, general surgery, and orthopedics in the veterinary curriculum. Starting in 2015, he also joined the laboratory of Dr. Michael C. Ostrowski in the Comprehensive Cancer Center as a Post-Doctoral Fellow. His focus was investigating 1) the role of macrophages and osteoclasts in breast cancer bone metastasis and 2) transcription factors and microRNAs regulating osteoblast and osteoclast formation. In May 2017 he continuing his work with Dr. Ostrowski at the Medical University of South Carolina's Hollings Cancer Center. In October 2018 he was promoted to Research Assistant Professor after receiving a NIH K01 Award.\n\nIn July 2019 he started a tenure track Assistant Professor position at the University of Alabama-Birmingham (UAB) in the Department of Pathology’s Division of Molecular and Cellular Pathology and the O’Neal Comprehensive Cancer Center, where his work focuses on the role of macrophages and osteoclasts in breast cancer bone metastasis and primary bone tumors.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7063-blake-hildreth",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Molecular & Cellular Pathology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Veterinary Sciences",
+          "Sciences"
+        ],
+        "value": "Veterinary Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pathology (excl. Oral Pathology)",
+          "(excl. Oral Pathology)",
+          "Oral Pathology)",
+          "Pathology)"
+        ],
+        "value": "Pathology (excl. Oral Pathology)"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "7063",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 26,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "firstName": "Blake",
+  "firstNameLastName": "Blake Hildreth",
+  "equipmentLinkTypes": [],
+  "objectId": 7063,
+  "updatedWhen": "2025-05-10T08:14:10.2858144-05:00",
+  "hasCollaborationData": true,
+  "email": "hildretb@uab.edu",
+  "publication_keywords": "Aging Biotechnology Brain Disorders Cancer Congenital Structural Anomalies Digestive Diseases Genetics Hematology Human Genome Immunotherapy Intellectual and Developmental Disabilities (IDD) Orphan Drug Pancreatic Cancer Pediatric Research Initiative Prostate Cancer Rare Diseases Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human Urologic Diseases",
+  "grant_keywords": "Breast Cancer Cancer Genetics Orphan Drug Prevention Rare Diseases Women's Health"
+}

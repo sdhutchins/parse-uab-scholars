@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3046",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 86,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Stripling",
+  "firstName": "Joshua",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3046-joshua-stripling",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "firstNameLastName": "Joshua Stripling",
+  "equipmentLinkTypes": [],
+  "objectId": 3046,
+  "updatedWhen": "2025-05-10T08:08:43.2945456-05:00",
+  "hasCollaborationData": false,
+  "email": "jtstripl@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

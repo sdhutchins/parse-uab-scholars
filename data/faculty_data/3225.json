@@ -1,0 +1,77 @@
+{
+  "lastName": "Hall",
+  "overview": "I am a professor in the Department of Health Services Administration at the University of Alabama at Birmingham and I teach health policy to graduate students.  In August 2018 I became program director for our graduate programs in health care quality and safety. I also serve as a Co-Director for UAB's  Center for Outcomes and Effectiveness Research and Education\n\n My research focuses on health care access and utilization among vulnerable populations, including individuals living with a disability.   A recent emphasis of my work is in improving the transition of care from hospital to home and reducing care fragmentation. I am also engaged in several projects related to the COVID-19 pandemic.    \n\n I have a long-standing interest in Medicaid. For over 10 years I have evaluated changes and reforms to Florida’s Medicaid program.   I received my PhD from the Johns Hopkins University, Bloomberg School of Public Health and I have an MHA and MBA from the University of Florida.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3225-allyson-hall",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Services Administration"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Policy and Administration",
+          "and Administration",
+          "Administration"
+        ],
+        "value": "Policy and Administration"
+      }
+    ]
+  },
+  "discoveryId": "3225",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 111,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 220,
+      "favourites": 0
+    }
+  },
+  "firstName": "Allyson",
+  "firstNameLastName": "Allyson Hall",
+  "equipmentLinkTypes": [],
+  "objectId": 3225,
+  "updatedWhen": "2025-05-10T08:09:16.1873553-05:00",
+  "hasCollaborationData": true,
+  "email": "hallag@uab.edu",
+  "publication_keywords": "Autoimmune Disease Clinical Research Diabetes Emergency Care Health Services Lupus Patient Safety Prevention",
+  "grant_keywords": ""
+}

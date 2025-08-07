@@ -1,0 +1,60 @@
+{
+  "discoveryId": "226",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 12,
+      "favourites": 0
+    }
+  },
+  "lastName": "Larrison",
+  "firstName": "Matthew",
+  "hasThumbnail": true,
+  "discoveryUrlId": "226-matthew-larrison",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Matthew Larrison",
+  "equipmentLinkTypes": [],
+  "objectId": 226,
+  "updatedWhen": "2025-05-10T08:02:35.0158044-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "larrison@uab.edu",
+  "publication_keywords": "Biomedical Imaging Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Minority Health Pediatric Research Initiative Rare Diseases Women's Health",
+  "grant_keywords": ""
+}

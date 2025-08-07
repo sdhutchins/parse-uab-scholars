@@ -1,0 +1,117 @@
+{
+  "discoveryId": "3211",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 102,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 13,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mowling",
+  "firstName": "Claire",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3211-claire-mowling",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "firstNameLastName": "Claire Mowling",
+  "equipmentLinkTypes": [],
+  "objectId": 3211,
+  "updatedWhen": "2025-05-10T08:09:04.9523150-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Creative Arts and Writing"
+          ]
+        ],
+        "valueAnalysed": [
+          "Performing Arts and Creative Writing",
+          "Arts and Creative Writing",
+          "and Creative Writing",
+          "Creative Writing",
+          "Writing"
+        ],
+        "value": "Performing Arts and Creative Writing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cmowling@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Mental Health Pediatric Research Initiative",
+  "grant_keywords": ""
+}

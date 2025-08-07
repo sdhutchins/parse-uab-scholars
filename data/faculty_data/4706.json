@@ -1,0 +1,111 @@
+{
+  "discoveryId": "4706",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "lastName": "Goldenberg",
+  "firstName": "Robert",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4706-robert-goldenberg",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "OB/GYN"
+    }
+  ],
+  "firstNameLastName": "Robert Goldenberg",
+  "equipmentLinkTypes": [],
+  "objectId": 4706,
+  "updatedWhen": "2025-05-10T08:11:33.9732638-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Production",
+          "Production"
+        ],
+        "value": "Animal Production"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Food Sciences",
+          "Sciences"
+        ],
+        "value": "Food Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "rlg@uab.edu",
+  "publication_keywords": "Clinical Research Clinical Trials and Supportive Activities Conditions Affecting the Embryonic and Fetal Periods Contraception/Reproduction HIV/AIDS Infant Mortality Infectious Diseases Lung Maternal Health Pediatric AIDS Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Prevention Rare Diseases Stem Cell Research Stem Cell Research - Umbilical Cord Blood/ Placenta Women's Health",
+  "grant_keywords": ""
+}

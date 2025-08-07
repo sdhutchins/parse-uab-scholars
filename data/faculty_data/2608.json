@@ -1,0 +1,72 @@
+{
+  "discoveryId": "2608",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 125,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 14,
+      "favourites": 0
+    }
+  },
+  "lastName": "Lewis-Maddox",
+  "firstName": "A.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2608-a-lewismaddox",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Prof/Asst Dean",
+      "department": "Government"
+    }
+  ],
+  "firstNameLastName": "A. Lewis-Maddox",
+  "equipmentLinkTypes": [],
+  "objectId": 2608,
+  "updatedWhen": "2025-05-10T08:08:00.8776751-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "dralewis@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Clinical Research"
+}

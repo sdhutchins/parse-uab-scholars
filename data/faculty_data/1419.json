@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1419",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Fuhr",
+  "firstName": "Patti",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1419-patti-fuhr",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Instructor",
+      "department": "Ophthalmology"
+    }
+  ],
+  "firstNameLastName": "Patti Fuhr",
+  "equipmentLinkTypes": [],
+  "objectId": 1419,
+  "updatedWhen": "2025-05-10T08:05:25.8162248-05:00",
+  "hasCollaborationData": false,
+  "email": "drfuhr@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities Networking and Information Technology R&D (NITRD) Rehabilitation"
+}

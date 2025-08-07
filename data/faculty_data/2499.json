@@ -1,0 +1,122 @@
+{
+  "lastName": "Mukhtar",
+  "overview": "Dr. Mukhtar conducted his Ph.D. research on Arabidopsis transcriptional regulatory networks at the Max Planck Institute Cologne, Germany under the supervision of Dr. Imre Somssich. He was fortunate to continue his postdoctoral research in the laboratory of Dr. Jeff Dangl, a Howard Hughes Medical Institute investigator and a member of the National Academy of Sciences, at the University of North Carolina at Chapel Hill. He employed genomics, bioinformatics and computer-aided systems-level analyses to generate the first large-scale Arabidopsis-pathogens protein-protein interaction network in collaboration with the Dana Farber Cancer Institute & Center for Cancer Systems Biology, an affiliate of Harvard Medical School in Boston, MA. His four years long post-doc resulted in a first author publication in Science (The Arabidopsis-pathogens interactome; Mukhtar et al. Science 2011), as well as a number of co-authored high impact papers, including another large-scale network assembly (the Arabidopsis interactome map; Science 2011), global mapping of the G-protein interactions (Molecular Systems Biology 2011) and sequencing and assembly of 19 strains of pathogenic bacterium P. syringae using next-generation sequencing approaches (PLoS Pathogens 2011).\n\nDr. Mukhtar’s research at UAB focuses at the interface of bioinformatics and life sciences. He is broadly interested in interdisciplinary research projects focused on genomics/systems biology of host immunity using computational approaches. Specifically, he aims to understand how macromolecular networks are organized in the cells and how pathogen proteins perturb such networks to promote diseases. He has fifteen years of training and experience in various aspects of life sciences such as genetics and genomics as well as in handling large datasets and employing computational tools to answer key questions in plant systems biology. The Shahid Mukhtar Lab carries out a highly research-active program with graduate and undergraduate students working on a wide range of bioinformatics/genomics projects.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2499-shahid-mukhtar",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Biology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Plant Biology",
+          "Biology"
+        ],
+        "value": "Plant Biology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Crop and Pasture Production",
+          "and Pasture Production",
+          "Pasture Production",
+          "Production"
+        ],
+        "value": "Crop and Pasture Production"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      }
+    ]
+  },
+  "discoveryId": "2499",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 169,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 80,
+      "favourites": 0
+    }
+  },
+  "firstName": "Shahid",
+  "firstNameLastName": "Shahid Mukhtar",
+  "equipmentLinkTypes": [],
+  "objectId": 2499,
+  "updatedWhen": "2025-05-10T08:07:39.3879269-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

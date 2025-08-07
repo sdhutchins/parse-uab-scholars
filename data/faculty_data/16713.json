@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16713",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 114,
+      "favourites": 0
+    }
+  },
+  "lastName": "Porrett",
+  "firstName": "Paige",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16713-paige-porrett",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Surgery - Transplantation"
+    }
+  ],
+  "firstNameLastName": "Paige Porrett",
+  "equipmentLinkTypes": [],
+  "objectId": 16713,
+  "updatedWhen": "2025-05-10T08:16:32.4229215-05:00",
+  "hasCollaborationData": true,
+  "email": "porrettp@uab.edu",
+  "publication_keywords": "Biotechnology Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Genetics Human Genome Immunotherapy Infant Mortality Kidney Disease Mental Health Organ Transplantation Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Transplantation Women's Health",
+  "grant_keywords": "Clinical Research Immunization Immunotherapy Kidney Disease Maternal Health Organ Transplantation Pregnancy Prevention Transplantation Vaccine Related Women's Health"
+}

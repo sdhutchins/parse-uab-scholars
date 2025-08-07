@@ -1,0 +1,45 @@
+{
+  "discoveryId": "18379",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Davis",
+  "overview": "Davis joins the UAB Marnix E. Heersink School of Medicine from McGovern Medical School at the University of Texas Health Science Center at Houston. Since 2012, he has served as director of the Center for Stem Cell and Regenerative Medicine (CSCRM) at the Brown Foundation Institute of Molecular Medicine, where he is professor and holds the C. Harold and Lorine G. Wallace Distinguished University Chair. He also has directed the Senator Lloyd and B.A. Bentsen Center for Stroke Research.",
+  "firstName": "Brian",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18379-brian-davis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "firstNameLastName": "Brian Davis",
+  "equipmentLinkTypes": [],
+  "objectId": 18379,
+  "updatedWhen": "2025-05-10T08:19:16.6571351-05:00",
+  "hasCollaborationData": false,
+  "email": "bdavis34@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

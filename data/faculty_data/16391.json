@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16391",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 43,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kiper",
+  "firstName": "Jordan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16391-jordan-kiper",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Anthropology"
+    }
+  ],
+  "firstNameLastName": "Jordan Kiper",
+  "equipmentLinkTypes": [],
+  "objectId": 16391,
+  "updatedWhen": "2025-05-10T08:15:54.5932258-05:00",
+  "hasCollaborationData": false,
+  "email": "jkiper@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

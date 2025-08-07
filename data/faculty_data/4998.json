@@ -1,0 +1,119 @@
+{
+  "lastName": "Buford, PhD",
+  "overview": "Dr. Buford is a Professor in the UAB Department of Medicine [Division of Gerontology, Geriatrics & Palliative Care; (GGPC)]  and Associate Dean for Research in the Heersink School of Medicine.  He also serves as Director of the GGPC Section of Translational Gerontology and the the UAB Center for Exercise Medicine, Co-Director of the NIH-funded Nathan Shock Center for the Basic Biology of Aging, and as an investigator in the VA Medical Center's Birmingham/Atlanta Geriatric, Research, Education, and Clinical Center (GRECC). His research efforts utilize clinical and pre-clinical models focused on preserving the health and independence of older adults, including leading multiple recent clinical trials related to exercise and mobility.  He current has received extensive NIH funding as both Principal Investigator and Co-Investigator, largely through the National Institute on Aging, and he has served on numerous grant peer-review committees including serving as a standing member of the NIH's Aging Systems and Geriatrics panel. Among his prior research projects, he served as a co-investigator on the Phase 3 Lifestyle Interventions and Independence for Elders study and also serves as a clinical center Site PI for the NIH's Molecular Transducers of Physical Activity in Humans consortium funded by the NIH Common Fund as well as a Co-Investigator for UAB Clinical Center for the Nutrition for Precision Health initiative, also supported by the Common Fund. He has also served as the Director for the UAB T32 pre- and post-doctoral training program in Pathobiology and Rehabilitation Medicine, supported by the National Center for Medical Rehabilitation Research. He has also been quoted in or his work highlighted in numerous media outlets in various formats (i.e. TV, radio, print, online) including The Wall Street Journal, Reuters Health, Forbes Health, the AARP Bulletin, and TIME. He also recently served as Chair for the UAB Council of Center Directors, a group of research leaders dedicated to facilitating transdisciplinary research across the UAB campus.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4998-thomas-w-buford-phd",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Associate Dean",
+      "department": "Medicine - Gerontology, Geriatrics, and Palliative Care"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Human Movement and Sports Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Exercise Physiology",
+          "Physiology"
+        ],
+        "value": "Exercise Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Clinical Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geriatrics and Gerontology",
+          "and Gerontology",
+          "Gerontology"
+        ],
+        "value": "Geriatrics and Gerontology"
+      },
+      {
+        "paths": [
+          [
+            "Specialist Studies in Education",
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Educational Administration, Management and Leadership",
+          "Administration, Management and Leadership",
+          "Management and Leadership",
+          "and Leadership",
+          "Leadership"
+        ],
+        "value": "Educational Administration, Management and Leadership"
+      }
+    ]
+  },
+  "discoveryId": "4998",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 37,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 243,
+      "favourites": 0
+    }
+  },
+  "firstName": "Thomas W.",
+  "firstNameLastName": "Thomas W. Buford, PhD",
+  "equipmentLinkTypes": [],
+  "objectId": 4998,
+  "updatedWhen": "2025-05-10T08:11:43.7704114-05:00",
+  "hasCollaborationData": true,
+  "email": null,
+  "publication_keywords": "Aging Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Diabetes HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Minority Health Nutrition Obesity Physical Activity Prevention Sexually Transmitted Infections",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

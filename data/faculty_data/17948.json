@@ -1,0 +1,83 @@
+{
+  "discoveryId": "17948",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 6,
+      "favourites": 0
+    }
+  },
+  "lastName": "Li",
+  "firstName": "Keren",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17948-keren-li",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Keren Li",
+  "equipmentLinkTypes": [],
+  "objectId": 17948,
+  "updatedWhen": "2025-05-10T08:18:27.5033412-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Statistics"
+        ],
+        "value": "Statistics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Distributed Computing",
+          "Computing"
+        ],
+        "value": "Distributed Computing"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "kli@uab.edu",
+  "publication_keywords": "Bioengineering Data Science Genetics Human Genome Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

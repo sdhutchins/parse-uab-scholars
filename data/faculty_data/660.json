@@ -1,0 +1,125 @@
+{
+  "lastName": "Solomon",
+  "overview": "Dr. Solomon's clinical interest centers on the care of CF and non-CF bronchiectasis patients and the pursuit of continued inpatient medicine care of these patients in the acute care setting.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "660-george-solomon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "660",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 132,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 29,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 90,
+      "favourites": 0
+    }
+  },
+  "firstName": "George",
+  "firstNameLastName": "George Solomon",
+  "equipmentLinkTypes": [],
+  "objectId": 660,
+  "updatedWhen": "2025-05-12T03:19:08.2616257-05:00",
+  "hasCollaborationData": true,
+  "email": "msolomon@uab.edu",
+  "publication_keywords": "Adolescent Sexual Activity Atherosclerosis Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Coronaviruses Cystic Fibrosis Emerging Infectious Diseases Health Disparities Health Services Heart Disease Infectious Diseases Lung Networking and Information Technology R&D (NITRD) Orphan Drug Pediatric Pediatric Research Initiative Physical Rehabilitation Prevention Rare Diseases Rehabilitation Teenage Pregnancy Telehealth",
+  "grant_keywords": ""
+}

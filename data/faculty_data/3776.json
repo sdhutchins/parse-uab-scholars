@@ -1,0 +1,126 @@
+{
+  "lastName": "Gibbs",
+  "overview": "Dr. Victoria (Katie) Gibbs completed her graduate research training in aquatic animal nutritional physiology and her post-graduate training in pre-clinical aging biology, focusing on energetics and individual variation in lifespan. Her research work with aquatic invertebrates and murine models gives her a unique perspective to share with students in the Biomedical Science Program (BMD), how basic biology and applied sciences interact to benefit society. Dr. Gibbs gained valuable instructional and mentoring skills during her tenure teaching in a liberal arts environment, and she applies those skills in her physiology courses in BMD.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3776-victoria-gibbs",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biomedical Sciences Program"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Ecology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecological Physiology",
+          "Physiology"
+        ],
+        "value": "Ecological Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Physiology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Comparative Physiology",
+          "Physiology"
+        ],
+        "value": "Comparative Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Animal Production",
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Nutrition",
+          "Nutrition"
+        ],
+        "value": "Animal Nutrition"
+      },
+      {
+        "paths": [
+          [
+            "Fisheries Sciences",
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aquaculture"
+        ],
+        "value": "Aquaculture"
+      },
+      {
+        "paths": [
+          [
+            "Nutrition and Dietetics",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutritional Physiology",
+          "Physiology"
+        ],
+        "value": "Nutritional Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Animal Production",
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Reproduction",
+          "Reproduction"
+        ],
+        "value": "Animal Reproduction"
+      }
+    ]
+  },
+  "discoveryId": "3776",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 50,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 68,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 31,
+      "favourites": 0
+    }
+  },
+  "firstName": "Victoria",
+  "firstNameLastName": "Victoria Gibbs",
+  "equipmentLinkTypes": [],
+  "objectId": 3776,
+  "updatedWhen": "2025-05-10T08:09:59.9646141-05:00",
+  "hasCollaborationData": true,
+  "email": "vkgibbs@uab.edu",
+  "publication_keywords": "Aging Digestive Diseases Liver Disease Nutrition Obesity Pediatric Prevention Women's Health",
+  "grant_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Nutrition Obesity"
+}

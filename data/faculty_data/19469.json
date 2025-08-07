@@ -1,0 +1,44 @@
+{
+  "discoveryId": "19469",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 15,
+      "favourites": 0
+    }
+  },
+  "lastName": "Oubre",
+  "firstName": "Brandon",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19469-brandon-oubre",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Computer Science"
+    }
+  ],
+  "firstNameLastName": "Brandon Oubre",
+  "equipmentLinkTypes": [],
+  "objectId": 19469,
+  "updatedWhen": "2025-05-10T08:21:45.4118917-05:00",
+  "hasCollaborationData": false,
+  "email": "boubre@uab.edu",
+  "publication_keywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Brain Disorders Cerebrovascular Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Physical Rehabilitation Rare Diseases Rehabilitation Stroke",
+  "grant_keywords": ""
+}

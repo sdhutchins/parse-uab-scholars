@@ -1,0 +1,44 @@
+{
+  "discoveryId": "16381",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kennedy",
+  "firstName": "Rebecca",
+  "hasThumbnail": false,
+  "discoveryUrlId": "16381-rebecca-kennedy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Vice President-Stdt Health & Wellbeing",
+      "department": "Psychology"
+    }
+  ],
+  "firstNameLastName": "Rebecca Kennedy",
+  "equipmentLinkTypes": [],
+  "objectId": 16381,
+  "updatedWhen": "2025-05-10T08:15:54.5932258-05:00",
+  "hasCollaborationData": false,
+  "email": "rekenn@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,128 @@
+{
+  "lastName": "Dluhy",
+  "overview": "Dr. Richard A. Dluhy is currently Professor of Chemistry and Chair of the Department of Chemistry at the University of Alabama at Birmingham.  He received his B.S. degree in Biochemistry from the University of Connecticut, and his Ph.D. in Physical Chemistry from Rutgers University.  He was an NRC Post-Doctoral Research Associate at the National Research Council of Canada in Ottawa, Canada.  Prior to his academic career, Dr. Dluhy worked in the pharmaceutical industry at Hoffman-LaRoche (Nutley, NJ), and in the Biotechnology and Chemical Methods Development groups at Battelle Memorial Institute (Columbus, Ohio).  Prior to arriving at UAB, he was Associate Professor and Professor in the Department of Chemistry at the University of Georgia (Athens), where he was also Associate Department Head and Director of the Nanoscale Science and Research Center. His research interests span a range of topics related to biomedical spectroscopy, and surface and interfacial analysis, particularly the development and application of infrared and Raman spectroscopy to the study the biomolecular assemblies, and chemically assembled nanomaterials at surfaces. Dr. Dluhy’s research has been supported by the National Institutes of Health, National Science Foundation, Howard Hughes Medical Institute, US Department of Energy and the European Union.  His work has been internationally recognized through numerous invited lectures; in addition, he was appointed Professeur Visité, Centre de Physique Moléculaire Optique et Hertzienne at the Université Bordeaux, Bordeaux, France, was awarded an Alexander von Humboldt Research Award from the Humboldt Foundation in Bonn, Germany, and was a DAAD Fellow at the Robert Koch Institute, Berlin, Germany.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3070-richard-dluhy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Chemistry"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Analytical Chemistry",
+          "Chemistry"
+        ],
+        "value": "Analytical Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "discoveryId": "3070",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 81,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 152,
+      "favourites": 0
+    }
+  },
+  "firstName": "Richard",
+  "firstNameLastName": "Richard Dluhy",
+  "equipmentLinkTypes": [],
+  "objectId": 3070,
+  "updatedWhen": "2025-05-10T08:08:52.8850706-05:00",
+  "hasCollaborationData": true,
+  "email": "rdluhy@uab.edu",
+  "publication_keywords": "Hematology",
+  "grant_keywords": "Autoimmune Disease Biodefense Bioengineering Biotechnology Diabetes Emerging Infectious Diseases Genetics Immunotherapy Infectious Diseases Influenza Nanotechnology Pediatric Pneumonia & Influenza Prevention"
+}

@@ -1,0 +1,125 @@
+{
+  "discoveryId": "58",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 37,
+      "favourites": 0
+    }
+  },
+  "lastName": "Halanych",
+  "firstName": "Jewell",
+  "hasThumbnail": false,
+  "discoveryUrlId": "58-jewell-halanych",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Medicine",
+      "department": "Montgomery Internal Medicine"
+    }
+  ],
+  "firstNameLastName": "Jewell Halanych",
+  "equipmentLinkTypes": [],
+  "objectId": 58,
+  "updatedWhen": "2025-05-10T08:02:10.9585035-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Library and Information Studies",
+          "and Information Studies",
+          "Information Studies",
+          "Studies"
+        ],
+        "value": "Library and Information Studies"
+      },
+      {
+        "paths": [
+          [
+            "Economics"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Economics",
+          "Economics"
+        ],
+        "value": "Applied Economics"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "jhalanych@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Diabetes Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Hematology Hypertension Liver Disease Minority Health Social Determinants of Health Women's Health",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Chronic Pain Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Diabetes Health Disparities Health Services Mental Health Mind and Body Minority Health Pain Research Prevention"
+}

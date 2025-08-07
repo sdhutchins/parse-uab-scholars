@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3484",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 115,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Call",
+  "firstName": "Terri",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3484-terri-call",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Dept of Optometry & Vision Science"
+    }
+  ],
+  "firstNameLastName": "Terri Call",
+  "equipmentLinkTypes": [],
+  "objectId": 3484,
+  "updatedWhen": "2025-05-10T08:09:38.3635851-05:00",
+  "hasCollaborationData": false,
+  "email": "tlcall@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Eye Disease and Disorders of Vision Health Disparities Networking and Information Technology R&D (NITRD) Rehabilitation"
+}

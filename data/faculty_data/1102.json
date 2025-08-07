@@ -1,0 +1,124 @@
+{
+  "lastName": "Chaudry",
+  "overview": "Irshad H. Chaudry was born on May 2, 1945. He received a B.S. as well as M.S. with honors from Sind University, and a Ph.D. from Monash University, Australia. After his postdoctoral training at Toronto University, Canada, he was an appointed as an Instructor and subsequently as an Assistant Professor at the Jewish Hospital and Washington University School of Medicine. He then moved to Yale University as an Associate Professor and subsequently became a Professor. He moved to Michigan State University in 1986 as Professor and Director of Research and in 1996 became the Director of the Center for Surgical Research at Brown University. In 2000, he became the Director of the Center for Surgical Research at the University of Alabama at Birmingham. His has over 600 publications to his credit and is a recipient of the NIH MERIT award.\n\nCurrent research interests include determining the mechanisms responsible for cellular and subcellular alterations following soft tissue trauma, bone fracture, hemorrhage and sepsis. Additionally, the use of novel, readily available, FDA approved inexpensive therapeutic agents to attenuate such alterations in patients following trauma is planned. Other areas include evaluation of: (1) gender dimorphism and the mechanisms responsible for producing cardiovascular and hepatocellular dysfunction and immunological alterations following trauma-hemorrhage; (2) trauma-induced changes in the hypothalamus-pituitary-adrenal axis; (3) apoptosis of immune cells; and (4) wound healing. Specific research interests include determining the mechanism of regulation of estradiol levels by hypothalamic/pituitary factors, adrenals and steroidogenic enzyme activity and how differences in estradiol levels or the estradiol: androgen ratio due to the estrus cycle, ovariectomy, and age affect immune responses after trauma. Studies of T lymphocytes, macrophages and Kupffer cell functions using molecular biological techniques are being conducted to determine why low estradiol fails to maintain immune functions in aged females after trauma. The use of estradiol, Raloxifene, prolactin, metoclopramide, or flutamide to restore immune/cardiovascular functions following trauma should yield novel information and provide an innovative approach for improving the host responses and reducing mortality from sepsis following trauma in postmenopausal and in surgically ovariectomized patients with low estrogen activity. Additional interests encompass the mechanisms by which androgen depletion/androgen antagonists improve cardiac performance and other organ functions after trauma. These studies also examine whether androgen depletion/androgen antagonists affect the adrenals and modify the response of the heart, liver and vascular smooth muscle to catecholamines. The hemodynamic parameters and organ functions being measured include blood flow, circulating blood volume, cardiac output, left ventricular performance, vascular reactivity, liver, gut, adrenal and pulmonary functions. The integration of cardiac function with other organ functions and detailed mechanistic studies at the cellular and subcellular levels using physiological, pharmacological and molecular biology techniques to identify targets for novel treatment modalities using sex steroid antagonists/agonists or hormones should provide new information for the improved treatment of trauma victims with major blood loss and for decreasing the susceptibility to sepsis following trauma.",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1102-irshad-chaudry",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Surgery - General Surgery Trauma Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "1102",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 10,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 982,
+      "favourites": 0
+    }
+  },
+  "firstName": "Irshad",
+  "firstNameLastName": "Irshad Chaudry",
+  "equipmentLinkTypes": [],
+  "objectId": 1102,
+  "updatedWhen": "2025-05-10T08:04:44.6327255-05:00",
+  "hasCollaborationData": true,
+  "email": "ichaudry@uab.edu",
+  "publication_keywords": "Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Coronaviruses Digestive Diseases Emerging Infectious Diseases Genetics Hematology Infectious Diseases Lung Mental Health Neurosciences Physical Injury - Accidents and Adverse Effects Sepsis Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury",
+  "grant_keywords": "Biodefense Bioengineering Biotechnology Brain Disorders Cardiovascular Emerging Infectious Diseases Estrogen Infectious Diseases Neurosciences Physical Injury - Accidents and Adverse Effects Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury"
+}

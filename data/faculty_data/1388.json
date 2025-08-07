@@ -1,0 +1,73 @@
+{
+  "discoveryId": "1388",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 491,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jackson",
+  "firstName": "Janice",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1388-janice-jackson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor/Chair",
+      "department": "Pediatric Dentistry"
+    }
+  ],
+  "firstNameLastName": "Janice Jackson",
+  "equipmentLinkTypes": [],
+  "objectId": 1388,
+  "updatedWhen": "2025-05-10T08:05:15.8145298-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "jang@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Pediatric Research Initiative Sleep Research",
+  "grant_keywords": ""
+}

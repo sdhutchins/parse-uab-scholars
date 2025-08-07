@@ -1,0 +1,123 @@
+{
+  "discoveryId": "2042",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 24,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 79,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 328,
+      "favourites": 0
+    }
+  },
+  "lastName": "Briles",
+  "firstName": "David",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2042-david-briles",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Microbiology"
+    }
+  ],
+  "firstNameLastName": "David Briles",
+  "equipmentLinkTypes": [],
+  "objectId": 2042,
+  "updatedWhen": "2025-05-10T08:06:35.9300114-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dbriles@uab.edu",
+  "publication_keywords": "Biodefense Biotechnology Digestive Diseases Emerging Infectious Diseases HIV/AIDS Immunization Infectious Diseases Influenza Liver Disease Lung Pneumonia Pneumonia & Influenza Prevention Sexually Transmitted Infections Vaccine Related Vaccine Related (AIDS)",
+  "grant_keywords": "Biodefense Biotechnology Clinical Research Clinical Trials and Supportive Activities Emerging Infectious Diseases Hematology Immunization Infectious Diseases Lung Otitis Media Pneumonia Pneumonia & Influenza Prevention Sepsis Vaccine Related"
+}

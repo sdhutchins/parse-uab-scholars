@@ -1,0 +1,121 @@
+{
+  "discoveryId": "2401",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 245,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 84,
+      "favourites": 0
+    }
+  },
+  "lastName": "Janowski",
+  "firstName": "Gregg",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2401-gregg-janowski",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor / Associate Dean",
+      "department": "School of Engineering"
+    }
+  ],
+  "firstNameLastName": "Gregg Janowski",
+  "equipmentLinkTypes": [],
+  "objectId": 2401,
+  "updatedWhen": "2025-05-10T08:07:28.8957274-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Materials Engineering",
+          "Engineering"
+        ],
+        "value": "Materials Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biomedical Engineering",
+          "Engineering"
+        ],
+        "value": "Biomedical Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "janowski@uab.edu",
+  "publication_keywords": "Aging Dental/Oral and Craniofacial Disease",
+  "grant_keywords": "Bioengineering Biotechnology Nanotechnology"
+}

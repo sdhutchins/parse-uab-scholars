@@ -1,0 +1,123 @@
+{
+  "lastName": "Thalacker-Mercer",
+  "overview": "Anna Thalacker-Mercer, Ph.D. is an Associate Professor in the Department of Cell, Developmental and Integrative Biology at UAB. She received her doctorate degree through the Interdepartmental Nutrition Program in the Department of Nutrition Science (formerly Foods and Nutrition) at Purdue University where she developed a strong background in geriatric nutrition and the mechanisms underlying aging skeletal muscle. She continued her research training as a Postdoctoral Fellow in the Nutrition Obesity Research Center, the Center for Aging Translational Research Program, and the Center for Exercise Medicine at the UAB. During her postdoctoral training Dr. Thalacker-Mercer focused on the mechanisms underlying (i) impaired skeletal muscle regeneration with age and (ii) the heterogeneity in exercise-induced myofiber hypertrophy. From UAB, Dr. Thalacker-Mercer transitioned to the Division of Nutritional Sciences at Cornell University where she established her research program in identifying and understanding variations in nutrient and metabolic determinants of skeletal muscle regeneration and deterioration that occur with advancing age and disease.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16490-anna-thalackermercer",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Food Sciences",
+          "Sciences"
+        ],
+        "value": "Food Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Animal Production",
+          "Production"
+        ],
+        "value": "Animal Production"
+      }
+    ]
+  },
+  "discoveryId": "16490",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 47,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 112,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 108,
+      "favourites": 0
+    }
+  },
+  "firstName": "Anna",
+  "firstNameLastName": "Anna Thalacker-Mercer",
+  "equipmentLinkTypes": [],
+  "objectId": 16490,
+  "updatedWhen": "2025-05-10T08:16:04.1484469-05:00",
+  "hasCollaborationData": true,
+  "email": "athalack@uab.edu",
+  "publication_keywords": "Aging Brain Disorders Cachexia Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dietary Supplements Genetics Lung Neurodegenerative Neurosciences Nutrition Parkinson's Disease Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": "Aging Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Minority Health Nutrition Pediatric Physical Activity Physical Rehabilitation Prevention Regenerative Medicine Rehabilitation Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human"
+}

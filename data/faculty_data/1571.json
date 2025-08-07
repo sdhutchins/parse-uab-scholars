@@ -1,0 +1,123 @@
+{
+  "lastName": "Chapman Lambert",
+  "overview": "Dr. Chapman Lambert is a promising early career investigator. Her research activities focus on improving health outcomes for minority population, more specifically women living with HIV (WLWH). For her dissertation she recruited and administered a survey to 300 WLWH to assess their attitudes, beliefs and knowledge regarding HPV and cervical cancer screening. Continuing her passion to improve health outcomes for WLWH, Dr. Chapman Lambert is evaluating multilevel factors that impact medication and appointment adherence.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1571-crystal-chapman-lambert",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Nursing",
+      "department": "Nursing Family, Community & Health Systems"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Social Work",
+          "Work"
+        ],
+        "value": "Social Work"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      }
+    ]
+  },
+  "discoveryId": "1571",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 90,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 95,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 40,
+      "favourites": 0
+    }
+  },
+  "firstName": "Crystal",
+  "firstNameLastName": "Crystal Chapman Lambert",
+  "equipmentLinkTypes": [],
+  "objectId": 1571,
+  "updatedWhen": "2025-05-10T08:05:38.6155317-05:00",
+  "hasCollaborationData": true,
+  "email": "cclamber@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Dementia Depression HIV/AIDS Health Services Infectious Diseases Lung Mental Health Neurodegenerative Neurosciences Prevention Rehabilitation Social Determinants of Health Women's Health",
+  "grant_keywords": ""
+}

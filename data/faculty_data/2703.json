@@ -1,0 +1,125 @@
+{
+  "lastName": "Mirov",
+  "overview": "Dr. Mirov is an USSR-born naturalized American scholar serving as University Professor at the University of Alabama at Birmingham (UAB). He received the M.S. degree in electronic engineering, from the Moscow Power Engineering Institute – Technical University, in 1978, and the Ph.D degree in physics in 1983 from the P. N Lebedev Physics Institute of the USSR Academy of Sciences, Moscow. He served as a staff research physicist, at P. N. Lebedev Physics Institute, and a principal research scientist and a group leader at the General Physics Institute of the USSR Academy of Sciences. His early work in USSR Academy of Sciences involved physics of color centers formation under ionizing irradiation, color center's photo chemistry, laser spectroscopy of solids and led to the development of the first room temperature operable commercial color center lasers, passive Q-switches and nonlinear filters for various types of neodymium lasers from mini lasers to powerful laser glass systems. He was awarded the USSR Highest National Prize for Young Scientists, in 1982, for the development of LiF color center saturable absorbers. He received Distinguished Research Awards from the General Physics Institute, in 1985 and 1989, and from the P N. Lebedev Physical Institute in 1980.  \n\nSince 1993 Dr. Mirov is a faculty member at the Department of Physics, UAB. His main fields of interest include tunable solid-state lasers, laser spectroscopy, and quantum electronics. Dr. Mirov’s team is the leader in the development and investigation of novel gain media for middle-infrared tunable lasers. Their effort resulted in development of first commercial Cr2+ and Fe2+ doped ZnSe and ZnS crystals and lasers (middle infrared analogs of famous Ti-sapphire laser) with a broad range of scientific, industrial, medical, and defense related applications.  In 2004 the Institute of Electrical Engineers in the United Kingdom has named Dr. Mirov and his team recipients of the Snell Premium award for the input in optoelectronics and development of Cr2+:ZnS mid-IR lasers. Dr. Mirov was also awarded Charles W. Ireland Prize for Scholarly Distinction in 2009. In 2010 IPG Photonics Corporation licensed Dr. Mirov’s patents in middle-infrared laser technology and simultaneously acquired his start-up company (Photonics Innovations, Inc.).  Dr. Mirov is a fellow of the Optical Society of America and National Academy of Inventors, and member of the American Physics Society and SPIE. He has authored or co-authored over five hundred scientific publications in the field of quantum electronics, has published 1 book, several book chapters, and holds twenty six patents.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2703-sergey-mirov",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "University Professor",
+      "department": "Physics"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Communications Technologies",
+          "Technologies"
+        ],
+        "value": "Communications Technologies"
+      },
+      {
+        "paths": [
+          [
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nanotechnology"
+        ],
+        "value": "Nanotechnology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Chemistry (incl. Structural)",
+          "Chemistry (incl. Structural)",
+          "(incl. Structural)",
+          "Structural)"
+        ],
+        "value": "Physical Chemistry (incl. Structural)"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Condensed Matter Physics",
+          "Matter Physics",
+          "Physics"
+        ],
+        "value": "Condensed Matter Physics"
+      }
+    ]
+  },
+  "discoveryId": "2703",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 258,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 519,
+      "favourites": 0
+    }
+  },
+  "firstName": "Sergey",
+  "firstNameLastName": "Sergey Mirov",
+  "equipmentLinkTypes": [],
+  "objectId": 2703,
+  "updatedWhen": "2025-05-10T08:08:11.1051735-05:00",
+  "hasCollaborationData": true,
+  "email": "mirov@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Bioengineering Diabetes"
+}

@@ -1,0 +1,101 @@
+{
+  "lastName": "Harris",
+  "overview": "I investigate modifiers of disease progression in cystic fibrosis (CF) with the goal of identifying novel, targetable mechanisms that may advance therapy. I specifically focus on TGF-β dependent pathobiology as the most established genetic modifier of CF pulmonary outcomes. I have found that TGF-β inhibits CFTR function in airway epithelia and impedes benefit of the CFTR modulators (elexacaftor, tezacaftor, and ivacaftor). Receiving K08, R03, and now R01 funding to probe this mechanistic pathway, I discovered that the microRNA miR-145 mediates TGF-β inhibition of CFTR expression and function. miR-145 antagonists block TGF-β suppression of CFTR correction and improve F508del response in vitro. Currently, I am funded by the NIH and Cystic Fibrosis Foundation to investigate antisense oligonucleotide (ASO) blockade of the miR-145 binding site on CFTR as a novel, selective strategy to improve CFTR-directed therapeutics with less downstream perturbation in TGF-β signaling. I also investigate the consequence of environmental exposures such as smoke on CFTR modulator efficacy, both from an epidemiologic perspective that utilizes CF Foundation Registry/clinical trial data and a basic/translational approach that analyzes direct effects on CFTR correction/potentiation in cell and animal models. Additionally, I study the mechanisms of persistent small airway remodeling that results in refractory flow limitation despite the advancement of highly-effective CFTR modulator therapies. Overall, the goal of my research portfolio is to address persistent gaps and pursue therapeutic opportunities to improve the health of people with CF and children with chronic lung disease.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "978-william-harris",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Pediatric - Pulmonary & Sleep Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Paediatrics and Reproductive Medicine",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics"
+        ],
+        "value": "Paediatrics"
+      },
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Respiratory Diseases",
+          "Diseases"
+        ],
+        "value": "Respiratory Diseases"
+      }
+    ]
+  },
+  "discoveryId": "978",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 57,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 45,
+      "favourites": 4
+    }
+  },
+  "firstName": "William",
+  "firstNameLastName": "William Harris",
+  "equipmentLinkTypes": [],
+  "objectId": 978,
+  "updatedWhen": "2025-05-10T08:04:33.6575273-05:00",
+  "hasCollaborationData": true,
+  "email": "wtharris@uab.edu",
+  "publication_keywords": "Clinical Research Cystic Fibrosis Dental/Oral and Craniofacial Disease Digestive Diseases Infectious Diseases Kidney Disease Lung Pediatric Research Initiative Rare Diseases Tobacco Tobacco Smoke and Health",
+  "grant_keywords": ""
+}

@@ -1,0 +1,132 @@
+{
+  "lastName": "Mehta",
+  "overview": "Introduction:\n\nI am currently associate professor and associate scientist at the University of Alabama at Birmingham Comprehensive Cancer Center (UABCCC). I am board certified in Internal Medicine, Hematology and Oncology. \n\nClinical Interests:\n\nMy focus of interest is LYMPHOMA (Hodgkin lymphoma, Non Hodgkin lymphoma-T cell and B cell lymphomas). I specialize in treatments all types of lymphoma in my clinic. \n\nResearch:\n\nI am also involved in lymphoma related research, which includes genomic and proteomic (gene and protein related) studies in various kinds of lymphomas. As a clinical investigator I am also part of many clinical trials as principal investigator or sub investigator particularly in lymphomas. Many new promising targeted and immunologic treatments for lymphomas are being developed at UABCCC, which patients of lymphoma can benefit. My passion is to develop targeted and immunologic therapies in lymphomas with less toxicities and more effectiveness.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "526-amitkumar-mehta",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Medical and Health Sciences",
+          "Medical and Health Sciences",
+          "and Health Sciences",
+          "Health Sciences",
+          "Sciences"
+        ],
+        "value": "Other Medical and Health Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "526",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 167,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 77,
+      "favourites": 0
+    }
+  },
+  "firstName": "Amitkumar",
+  "firstNameLastName": "Amitkumar Mehta",
+  "equipmentLinkTypes": [],
+  "objectId": 526,
+  "updatedWhen": "2025-05-10T08:03:25.2622588-05:00",
+  "hasCollaborationData": true,
+  "email": "anmehta@uab.edu",
+  "publication_keywords": "Biotechnology Cancer Clinical Research Clinical Trials and Supportive Activities Gene Therapy Gene Therapy Clinical Trials Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Infectious Diseases Lymphatic Research Lymphoma Orphan Drug Patient Safety Rare Diseases",
+  "grant_keywords": ""
+}

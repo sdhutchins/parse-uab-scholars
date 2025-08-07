@@ -1,0 +1,122 @@
+{
+  "lastName": "Subramaniam",
+  "overview": "Akila Subramaniam is a tenured Associate Professor as well as Division Director in the Division of Maternal-Fetal Medicine as well as the Director of the OBGYN Research and Diagnostic Laboratory, Vice-Chair of Education, and the Bruce Harris Jr. Endowed Professor in OBGYN. She completed her bachelor degree in Management Science from the Massachusetts Institute of Technology. Shen then went on to complete her medical degree and a master’s in public health at the Louisiana State University Health Sciences Center in New Orleans, Louisiana. She completed her residency as well as a dual fellowship in Maternal-Fetal Medicine and Medical Genetics. Given dual certification in MFM and genetics, Dr. Subramaniam’s clinical interest include fetal ultrasound, prenatal genetic diagnosis, and high-risk obstetrics. Current research interests include outcomes based studies and clinical trials of prenatal and obstetric interventions to decrease the risk of maternal and neonatal morbidity. These have largely focused on puerperal infection, obstetric hemorrhage and thromboprophylaxis, as well as evaluating pathways for preterm birth.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3599-akila-subramaniam",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "OB/GYN - Maternal & Fetal Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "3599",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 10,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 346,
+      "favourites": 0
+    }
+  },
+  "firstName": "Akila",
+  "firstNameLastName": "Akila Subramaniam",
+  "equipmentLinkTypes": [],
+  "objectId": 3599,
+  "updatedWhen": "2025-05-10T08:09:49.3410713-05:00",
+  "hasCollaborationData": true,
+  "email": "asubra@uab.edu",
+  "publication_keywords": "Aging Biomedical Imaging Cancer Clinical Research Comparative Effectiveness Research Contraception/Reproduction Cost Effectiveness Research Health Services Infant Mortality Machine Learning and Artificial Intelligence Maternal Health Maternal Morbidity and Mortality Networking and Information Technology R&D (NITRD) Patient Safety Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Pregnancy Prevention Women's Health",
+  "grant_keywords": "Brain Disorders Cardiovascular Clinical Research Contraception/Reproduction Depression Genetics Heart Disease Human Genome Hypertension Infant Mortality Machine Learning and Artificial Intelligence Major Depressive Disorder Maternal Health Maternal Morbidity and Mortality Mental Health Mental Illness Networking and Information Technology R&D (NITRD) Pediatric Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Serious Mental Illness Women's Health"
+}

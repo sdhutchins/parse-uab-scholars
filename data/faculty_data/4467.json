@@ -1,0 +1,44 @@
+{
+  "discoveryId": "4467",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Parker",
+  "firstName": "Scott",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4467-scott-parker",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Clinical Assistant Professor",
+      "department": "Huntsville Medical - Internal Med Program"
+    }
+  ],
+  "firstNameLastName": "Scott Parker",
+  "equipmentLinkTypes": [],
+  "objectId": 4467,
+  "updatedWhen": "2025-05-10T08:11:08.8679680-05:00",
+  "hasCollaborationData": false,
+  "email": "sdparker@uab.edu",
+  "publication_keywords": "Infectious Diseases",
+  "grant_keywords": ""
+}

@@ -1,0 +1,120 @@
+{
+  "discoveryId": "389",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 6,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 6,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 182,
+      "favourites": 0
+    }
+  },
+  "lastName": "Paterson",
+  "firstName": "Andrew",
+  "hasThumbnail": true,
+  "discoveryUrlId": "389-andrew-paterson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Endocrinology, Diabetes, and Metabolism"
+    }
+  ],
+  "firstNameLastName": "Andrew Paterson",
+  "equipmentLinkTypes": [],
+  "objectId": 389,
+  "updatedWhen": "2025-05-10T08:03:00.8214788-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Geography and Environmental Geoscience",
+          "Geography and Environmental Geoscience",
+          "and Environmental Geoscience",
+          "Environmental Geoscience",
+          "Geoscience"
+        ],
+        "value": "Physical Geography and Environmental Geoscience"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Ecology"
+        ],
+        "value": "Ecology"
+      },
+      {
+        "paths": [
+          [
+            "Agricultural and Veterinary Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Fisheries Sciences",
+          "Sciences"
+        ],
+        "value": "Fisheries Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geology"
+        ],
+        "value": "Geology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "paterson@uab.edu",
+  "publication_keywords": "Autoimmune Disease Clinical Research Diabetes Kidney Disease Patient Safety",
+  "grant_keywords": "Autoimmune Disease Biotechnology Breast Cancer Cancer Cardiovascular Diabetes Emerging Infectious Diseases Estrogen Genetics Heart Disease Immunization Infectious Diseases Nutrition Pediatric Prevention Vaccine Related Women's Health"
+}

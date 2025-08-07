@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2795",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 96,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mumford",
+  "firstName": "Gregory",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2795-gregory-mumford",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Anthropology"
+    }
+  ],
+  "firstNameLastName": "Gregory Mumford",
+  "equipmentLinkTypes": [],
+  "objectId": 2795,
+  "updatedWhen": "2025-05-10T08:08:22.0504811-05:00",
+  "hasCollaborationData": false,
+  "email": "gmumford@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2627",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 109,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Steele",
+  "firstName": "Brian",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2627-brian-steele",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "History"
+    }
+  ],
+  "firstNameLastName": "Brian Steele",
+  "equipmentLinkTypes": [],
+  "objectId": 2627,
+  "updatedWhen": "2025-05-10T08:08:00.8926803-05:00",
+  "hasCollaborationData": false,
+  "email": "bdsteele@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

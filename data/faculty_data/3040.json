@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3040",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 148,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Clark",
+  "firstName": "Cullen",
+  "hasThumbnail": false,
+  "discoveryUrlId": "3040-cullen-clark",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Sociology"
+    }
+  ],
+  "firstNameLastName": "Cullen Clark",
+  "equipmentLinkTypes": [],
+  "objectId": 3040,
+  "updatedWhen": "2025-05-10T08:08:43.2945456-05:00",
+  "hasCollaborationData": false,
+  "email": "culclark@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

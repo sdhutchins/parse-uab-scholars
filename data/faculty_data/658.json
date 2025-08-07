@@ -1,0 +1,127 @@
+{
+  "lastName": "Rowe",
+  "overview": "Steven M. Rowe received his BA degree from the University of Virginia in 1994, his medical degree from Vanderbilt University in 1998, and an MSPH from the University of Alabama at Birmingham in 2005. He completed a combined Internal Medicine and Pediatrics internship and residency at the University of Alabama at Birmingham. He also completed a combined Pulmonary and Critical Care Medicine and Pediatric Pulmonary fellowship at the University of Alabama at Birmingham.  \nIn 2014, Dr. Rowe was promoted to Professor with tenure in the Departments of Medicine (Pulmonary, Allergy, and Critical Care Medicine), Pediatrics (Pediatric Pulmonology), and Cell Developmental and Integrative Biology. He is the Director of the Gregory Fleming Cystic Fibrosis Research Center, which involves over 100 faculty members and has been continuously funded for over 25 years. Dr. Rowe is board certified in Internal Medicine, Pediatrics, Pulmonary Medicine and Critical Care Medicine and serves as the Chief Scientific Officer of the Cystic Fibrosis Foundation. His principal research interests are investigating the pathogenesis of cystic fibrosis, and exploiting those lessons into other diseases impacted by abnormal mucus, including chronic obstructive pulmonary disease and idiopathic pulmonary fibrosis. Dr. Rowe has a remarkable ability to identify, establish, and cultivate effective collaborations across institutional and geographic boundaries to address important problems in respiratory and genetic diseases. He has over 220 peer-reviewed publications and published in multiple prestigious medical journals, including the New England Journal of Medicine (8 times), Nature, Science, and Science Translational Medicine. Dr. Rowe has been recognized for his mentorship by the institution and maintains a strong track record of training students at all levels, including multiple junior faculty, several whom have now transitioned to independence.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "658-steven-rowe",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      }
+    ]
+  },
+  "discoveryId": "658",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 241,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 300,
+      "favourites": 0
+    }
+  },
+  "firstName": "Steven",
+  "firstNameLastName": "Steven Rowe",
+  "equipmentLinkTypes": [],
+  "objectId": 658,
+  "updatedWhen": "2025-05-10T08:03:49.9584385-05:00",
+  "hasCollaborationData": true,
+  "email": "smrowe@uab.edu",
+  "publication_keywords": "Atherosclerosis Biodefense Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Therapeutics and Interventions Cystic Fibrosis Emerging Infectious Diseases Genetics Heart Disease Infectious Diseases Influenza Lung Orphan Drug Pediatric Pneumonia Pneumonia & Influenza Prevention Rare Diseases Tobacco Tobacco Smoke and Health",
+  "grant_keywords": ""
+}

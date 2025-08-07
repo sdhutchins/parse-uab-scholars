@@ -1,0 +1,86 @@
+{
+  "discoveryId": "2702",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 12,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 14,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 0
+    }
+  },
+  "lastName": "Martyshkin",
+  "firstName": "Dmitry",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2702-dmitry-martyshkin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Research Assistant Professor",
+      "department": "Physics"
+    }
+  ],
+  "firstNameLastName": "Dmitry Martyshkin",
+  "equipmentLinkTypes": [],
+  "objectId": 2702,
+  "updatedWhen": "2025-05-10T08:08:11.1051735-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Optical Physics",
+          "Physics"
+        ],
+        "value": "Optical Physics"
+      },
+      {
+        "paths": [
+          [
+            "Physical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Quantum Physics",
+          "Physics"
+        ],
+        "value": "Quantum Physics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Electrical and Electronic Engineering",
+          "and Electronic Engineering",
+          "Electronic Engineering",
+          "Engineering"
+        ],
+        "value": "Electrical and Electronic Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dmartych@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "Bioengineering Diabetes"
+}

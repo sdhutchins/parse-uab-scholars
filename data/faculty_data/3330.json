@@ -1,0 +1,104 @@
+{
+  "lastName": "Oates",
+  "overview": "I am a social epidemiologist with training in sociological theory and research methods focused on the social determinants of health (SDH), and experience in the application of SDH measures, tools, and data for health disparities, outcomes, and health services research.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3330-gabriela-oates",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Sociology",
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociological Methodology and Research Methods",
+          "Methodology and Research Methods",
+          "and Research Methods",
+          "Research Methods",
+          "Methods"
+        ],
+        "value": "Sociological Methodology and Research Methods"
+      },
+      {
+        "paths": [
+          [
+            "Public Health and Health Services",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epidemiology"
+        ],
+        "value": "Epidemiology"
+      }
+    ]
+  },
+  "discoveryId": "3330",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 42,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 124,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gabriela",
+  "firstNameLastName": "Gabriela Oates",
+  "equipmentLinkTypes": [],
+  "objectId": 3330,
+  "updatedWhen": "2025-05-10T08:09:27.9730203-05:00",
+  "hasCollaborationData": true,
+  "email": "goates@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Cancer Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Coronaviruses Coronaviruses Disparities and At-Risk Populations Cystic Fibrosis Health Disparities Health Effects of Indoor Air Pollution Hematology Infectious Diseases Lung Minority Health Pediatric Prevention Rare Diseases Rehabilitation Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health Transplantation",
+  "grant_keywords": "Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
+}

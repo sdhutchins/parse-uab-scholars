@@ -1,0 +1,44 @@
+{
+  "discoveryId": "10849",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Jackson",
+  "firstName": "Pamela",
+  "hasThumbnail": false,
+  "discoveryUrlId": "10849-pamela-jackson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Environmental Health Sciences"
+    }
+  ],
+  "firstNameLastName": "Pamela Jackson",
+  "equipmentLinkTypes": [],
+  "objectId": 10849,
+  "updatedWhen": "2025-05-10T08:15:02.2711623-05:00",
+  "hasCollaborationData": true,
+  "email": "jacksop2@uab.edu",
+  "publication_keywords": "Aging Arthritis Back Pain Behavioral and Social Science Chronic Pain Climate-Related Exposures and Conditions Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Neurosciences Osteoarthritis Pain Research Social Determinants of Health",
+  "grant_keywords": "Cardiovascular Clinical Research Contraception/Reproduction Genetics Heart Disease Human Genome Hypertension Maternal Health Maternal Morbidity and Mortality Pediatric Perinatal Period - Conditions Originating in Perinatal Period Precision Medicine Pregnancy Preterm, Low Birth Weight and Health of the Newborn Prevention Women's Health"
+}

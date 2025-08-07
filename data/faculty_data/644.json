@@ -1,0 +1,132 @@
+{
+  "lastName": "Harrington",
+  "overview": "Kathleen Harrington is a health behaviorist who directs the UAB Tobacco Consult Service and is currently involved in tobacco cessation and electronic cigarette research among hospital patients. She is also involved with a program promoting enrollment in the MD-MPH joint degree program. She has designed and delivered training to apply motivational interviewing techniques to promote engagement and adherence for a variety of health issues. Kathleen Harrington received masters degrees in Education and Public Health (epidemiology) prior to completing her doctorate in Health Education and Promotion from UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "644-kathleen-harrington",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "644",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 23,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 127,
+      "favourites": 0
+    }
+  },
+  "firstName": "Kathleen",
+  "firstNameLastName": "Kathleen Harrington",
+  "equipmentLinkTypes": [],
+  "objectId": 644,
+  "updatedWhen": "2025-05-10T08:03:37.9153058-05:00",
+  "hasCollaborationData": true,
+  "email": "kharring@uab.edu",
+  "publication_keywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Lung Lung Cancer Minority Health Nutrition Obesity Patient Safety Prevention Sexually Transmitted Infections Substance Misuse Tobacco Tobacco Smoke and Health Women's Health",
+  "grant_keywords": "Asthma Basic Behavioral and Social Science Behavioral and Social Science Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Cost Effectiveness Research Drug Abuse (NIDA only) Health Disparities Health Services Lung Minority Health Patient Safety Pediatric Prevention Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health"
+}

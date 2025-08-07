@@ -1,0 +1,147 @@
+{
+  "lastName": "Ballmann",
+  "overview": "I am a well-versed scientist in both basic and applied techniques with an emphasis on physiological and psychophysiological responses to exercise, physiology of music, ergogenic aids, and sport/exercise performance. My primary research focus is related to using music as a means to improve physical ability and psychophysiological responses to exercise in both athletes and clinical populations. Additionally, I investigate nutritional supplementation as a means to improve exercise performance in athletes and recreational exercisers with a special emphasis on sympathomimetics and stimulants. I am passionate about mentoring students through research experiences. I believe music and exercise are the best medicine. I am a Fellow of the American College of Sports Medicine.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18519-christopher-ballmann",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Human Movement and Sports Sciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Exercise Physiology",
+          "Physiology"
+        ],
+        "value": "Exercise Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Performing Arts and Creative Writing",
+            "Studies in Creative Arts and Writing"
+          ]
+        ],
+        "valueAnalysed": [
+          "Music Therapy",
+          "Therapy"
+        ],
+        "value": "Music Therapy"
+      },
+      {
+        "paths": [
+          [
+            "Nutrition and Dietetics",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutritional Physiology",
+          "Physiology"
+        ],
+        "value": "Nutritional Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Nutrition and Dietetics",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical and Sports Nutrition",
+          "and Sports Nutrition",
+          "Sports Nutrition",
+          "Nutrition"
+        ],
+        "value": "Clinical and Sports Nutrition"
+      },
+      {
+        "paths": [
+          [
+            "Neurosciences",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Autonomic Nervous System",
+          "Nervous System",
+          "System"
+        ],
+        "value": "Autonomic Nervous System"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiology (incl. Cardiovascular Diseases)",
+          "(incl. Cardiovascular Diseases)",
+          "Cardiovascular Diseases)",
+          "Diseases)"
+        ],
+        "value": "Cardiology (incl. Cardiovascular Diseases)"
+      }
+    ]
+  },
+  "discoveryId": "18519",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 85,
+      "favourites": 0
+    }
+  },
+  "firstName": "Christopher",
+  "firstNameLastName": "Christopher Ballmann",
+  "equipmentLinkTypes": [],
+  "objectId": 18519,
+  "updatedWhen": "2025-05-10T08:19:33.9895757-05:00",
+  "hasCollaborationData": false,
+  "email": "cgb0002@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Neurosciences Nutrition Physical Activity",
+  "grant_keywords": ""
+}

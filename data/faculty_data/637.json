@@ -1,0 +1,127 @@
+{
+  "lastName": "Deshane",
+  "overview": "Jessy Deshane received her PhD in Biochemistry and Molecular Genetics from University of Alabama at Birmingham under the mentorship of Dr. Anupam Agarwal. After completing her post-doctoral training in Immunology with Dr. David Chaplin, in Department of Microbiology, she joined the faculty of the Division of Pulmonary, Allergy, and Critical Care Medicine in the Department of Medicine in 2011 as an Assistant Professor.\n\nDr. Deshane is committed to an academic career combining basic and translational research with an emphasis on inflammatory diseases of the airway. Research in Dr. Deshane’s laboratory is focused on myeloid-derived regulatory cells (MDRCs) and their immunoregulatory roles in chronic inflammatory lung diseases. Dr. Deshane is particularly interested in delineating mechanisms underlying the differentiation, activation, metabolism and function of MDRCs. Her group recently reported that a subset of reactive oxygen species (ROS)-producing MDRCs exacerbate T cell responses and airway hyper-reactivity in mice. They recently characterized human MDRC subsets in bronchoalveolar lavage of asthmatics.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "637-jessy-deshane",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "637",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 26,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 58,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 194,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jessy",
+  "firstNameLastName": "Jessy Deshane",
+  "equipmentLinkTypes": [],
+  "objectId": 637,
+  "updatedWhen": "2025-05-10T08:03:37.9023108-05:00",
+  "hasCollaborationData": true,
+  "email": "treena@uab.edu",
+  "publication_keywords": "Asthma Bioengineering Biotechnology Cancer Cancer Genomics Clinical Research Conditions Affecting the Embryonic and Fetal Periods Coronaviruses Emerging Infectious Diseases Genetics Human Genome Immunization Immunotherapy Infectious Diseases Lung Lung Cancer Maternal Health Maternal Morbidity and Mortality Pediatric Research Initiative Precision Medicine Pregnancy Prevention Rare Diseases Vaccine Related Women's Health",
+  "grant_keywords": ""
+}

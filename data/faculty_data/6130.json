@@ -1,0 +1,156 @@
+{
+  "discoveryId": "6130",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 53,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 31,
+      "favourites": 0
+    }
+  },
+  "lastName": "Payne",
+  "firstName": "Gregory",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6130-gregory-payne",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor of Medicine",
+      "department": "Medicine - Cardiovascular Disease"
+    }
+  ],
+  "firstNameLastName": "Gregory Payne",
+  "equipmentLinkTypes": [],
+  "objectId": 6130,
+  "updatedWhen": "2025-05-10T08:12:55.3230636-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Cardiorespiratory Medicine and Haematology",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiology (incl. Cardiovascular Diseases)",
+          "(incl. Cardiovascular Diseases)",
+          "Cardiovascular Diseases)",
+          "Diseases)"
+        ],
+        "value": "Cardiology (incl. Cardiovascular Diseases)"
+      },
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genomics"
+        ],
+        "value": "Genomics"
+      },
+      {
+        "paths": [
+          [
+            "Biochemistry and Cell Biology",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cellular Interactions (incl. Adhesion, Matrix, Cell Wall)",
+          "Interactions (incl. Adhesion, Matrix, Cell Wall)",
+          "(incl. Adhesion, Matrix, Cell Wall)",
+          "Adhesion, Matrix, Cell Wall)",
+          "Matrix, Cell Wall)",
+          "Cell Wall)",
+          "Wall)"
+        ],
+        "value": "Cellular Interactions (incl. Adhesion, Matrix, Cell Wall)"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "gapayne@uab.edu",
+  "publication_keywords": "Aging Atherosclerosis Autoimmune Disease Cardiovascular Coronaviruses Emerging Infectious Diseases Genetics Heart Disease Heart Disease - Coronary Heart Disease Human Genome Infectious Diseases Lung Pulmonary Fibrosis Rare Diseases",
+  "grant_keywords": "Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Heart Disease Heart Disease - Coronary Heart Disease Minority Health Rare Diseases Rural Health Social Determinants of Health Women's Health"
+}

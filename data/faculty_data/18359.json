@@ -1,0 +1,99 @@
+{
+  "lastName": "Wille",
+  "overview": "Dr. Coral Wille received a PhD in Microbiology at the University of Wisconsin-Madison, and then completed postdoctoral research at the Wisconsin Institute for Discovery (UW-Madison). Dr. Wille's training has focused on epigenetic regulation of cell fate and tumor viruses. \n\nDr. Wille recently joined UAB and started her lab in 2023. The Wille Lab interrogates the molecular underpinnings of development and transformation using dynamic reprogramming model systems.\n\nFor more information and to learn about opportunities in the Wille lab, please visit https://sites.uab.edu/willelab/",
+  "hasThumbnail": true,
+  "discoveryUrlId": "18359-coral-wille",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Genetics Research Division"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Genetics",
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Epigenetics (incl. Genome Methylation and Epigenomics)",
+          "(incl. Genome Methylation and Epigenomics)",
+          "Genome Methylation and Epigenomics)",
+          "Methylation and Epigenomics)",
+          "and Epigenomics)",
+          "Epigenomics)"
+        ],
+        "value": "Epigenetics (incl. Genome Methylation and Epigenomics)"
+      },
+      {
+        "paths": [
+          [
+            "Medical Biotechnology",
+            "Technology"
+          ]
+        ],
+        "valueAnalysed": [
+          "Regenerative Medicine (incl. Stem Cells and Tissue Engineering)",
+          "Medicine (incl. Stem Cells and Tissue Engineering)",
+          "(incl. Stem Cells and Tissue Engineering)",
+          "Stem Cells and Tissue Engineering)",
+          "Cells and Tissue Engineering)",
+          "and Tissue Engineering)",
+          "Tissue Engineering)",
+          "Engineering)"
+        ],
+        "value": "Regenerative Medicine (incl. Stem Cells and Tissue Engineering)"
+      },
+      {
+        "paths": [
+          [
+            "Oncology and Carcinogenesis",
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cancer Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Cancer Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "18359",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "firstName": "Coral",
+  "firstNameLastName": "Coral Wille",
+  "equipmentLinkTypes": [],
+  "objectId": 18359,
+  "updatedWhen": "2025-05-10T08:19:16.6401340-05:00",
+  "hasCollaborationData": false,
+  "email": "cwille@uab.edu",
+  "publication_keywords": "Aging Biotechnology Cancer Cancer Genomics Dental/Oral and Craniofacial Disease Genetics HIV/AIDS Hematology Human Genome Infectious Diseases Lymphatic Research Lymphoma Pediatric Research Initiative Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Embryonic - Human Stem Cell Research - Embryonic - Non-Human Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Stem Cell Research - Induced Pluripotent Stem Cell - Non-Human Stem Cell Research - Nonembryonic - Non-Human",
+  "grant_keywords": ""
+}

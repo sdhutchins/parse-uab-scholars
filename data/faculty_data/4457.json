@@ -1,0 +1,122 @@
+{
+  "lastName": "Michalek",
+  "overview": "Suzanne M. Michalek completed her undergraduate and initial graduate studies in genetics (B.S., 1967; M.S., 1968) in the Department of Biology at Illinois State University. She then initiated studies in immunology at the University of Chicago with emphasis on the mucosal immune system. Her studies at UAB (Ph.D., 1976) on the induction of salivary IgA antibody responses protective against Streptococcus mutans-induced dental caries provided evidence for the existence of a common mucosal immune system and for the development of a human oral vaccine against dental caries. Following postdoctoral studies at NIH on the effects of bacterial LPS on the host’s immune system, Dr. Michalek was recruited to join the Mucosal Immune Groups at UAB in January 1979. Dr. Michalek currently is Professor Emeritus in the Department of Microbiology. She is a senior scientist in the Comprehensive Cancer Center, the Comprehensive Arthritis, Musculoskeletal, Bone and Autoimmunity Center, the Center for AIDS Research, and a member of the Microbiome Center and the Immunology Institute. She serves as the chair of the UAB Institutional Biosafety Committee (IBC) and a member of the IACUC and VPR Research Safety Committee",
+  "hasThumbnail": false,
+  "discoveryUrlId": "4457-suzanne-michalek",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Microbiology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "4457",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 37,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 340,
+      "favourites": 0
+    }
+  },
+  "firstName": "Suzanne",
+  "firstNameLastName": "Suzanne Michalek",
+  "equipmentLinkTypes": [],
+  "objectId": 4457,
+  "updatedWhen": "2025-05-10T08:11:08.8609674-05:00",
+  "hasCollaborationData": true,
+  "email": "suemich@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Bioengineering Dental/Oral and Craniofacial Disease Digestive Diseases Emerging Infectious Diseases Genetics Immunization Infectious Diseases Liver Disease Microbiome Nanotechnology Prevention Vaccine Related",
+  "grant_keywords": "Bioengineering Dental/Oral and Craniofacial Disease Infectious Diseases Microbiome Nanotechnology Prevention"
+}

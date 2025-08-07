@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1188",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Castellanos",
+  "firstName": "Paul",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1188-paul-castellanos",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Otolaryngology Chair Office"
+    }
+  ],
+  "firstNameLastName": "Paul Castellanos",
+  "equipmentLinkTypes": [],
+  "objectId": 1188,
+  "updatedWhen": "2025-05-10T08:04:55.7260837-05:00",
+  "hasCollaborationData": false,
+  "email": "larynx@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

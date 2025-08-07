@@ -1,0 +1,122 @@
+{
+  "discoveryId": "16268",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 62,
+      "favourites": 0
+    }
+  },
+  "lastName": "Kamata",
+  "firstName": "Masakazu",
+  "hasThumbnail": true,
+  "discoveryUrlId": "16268-masakazu-kamata",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Microbiology"
+    }
+  ],
+  "firstNameLastName": "Masakazu Kamata",
+  "equipmentLinkTypes": [],
+  "objectId": 16268,
+  "updatedWhen": "2025-05-10T08:15:45.2787577-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "masa3k@uab.edu",
+  "publication_keywords": "Biotechnology Brain Cancer Brain Disorders Cancer Cancer Genomics Clinical Research Gene Therapy Genetics HIV/AIDS Human Genome Immunotherapy Infectious Diseases Neurosciences Orphan Drug Rare Diseases Sexually Transmitted Infections Stem Cell Research Stem Cell Research - Nonembryonic - Human Stem Cell Research - Umbilical Cord Blood/ Placenta Stem Cell Research - Umbilical Cord Blood/ Placenta - Human",
+  "grant_keywords": "Bioengineering Biotechnology Cancer Eye Disease and Disorders of Vision Gene Therapy Genetics HIV/AIDS Hematology Immunization Immunotherapy Infectious Diseases Lymphatic Research Lymphoma Nanotechnology Neurosciences Orphan Drug Rare Diseases Sexually Transmitted Infections Vaccine Related"
+}

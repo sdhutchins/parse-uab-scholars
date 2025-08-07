@@ -1,0 +1,44 @@
+{
+  "discoveryId": "3362",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dilworth",
+  "firstName": "Paulette",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3362-paulette-dilworth",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Vice President-Access & Engagement",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Paulette Dilworth",
+  "equipmentLinkTypes": [],
+  "objectId": 3362,
+  "updatedWhen": "2025-05-10T08:09:28.0054188-05:00",
+  "hasCollaborationData": false,
+  "email": "ppdilworth@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": "American Indian or Alaska Native Health Disparities Minority Health"
+}

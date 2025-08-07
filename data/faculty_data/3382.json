@@ -1,0 +1,125 @@
+{
+  "lastName": "Kennedy",
+  "overview": "Dr. Kennedy is certified by the American Board of Colon and Rectal Surgery and by the American Board of Surgery. In addition, he is a Fellow of the American College of Surgeons and a Fellow of the American Society of Colon and Rectal Surgery. Kennedy’s main interest is in laparoscopic approaches to complex colorectal disease. He has experience with all advanced laparoscopic and minimally invasive approaches including single-incision laparoscopy and robotic surgery. His clinical areas of expertise include colon cancer, rectal cancer, inflammatory bowel disease, benign conditions of colon, rectum, and anus, and endoscopic treatment of colonic disease.\n\nDr. Kennedy was born and raised in Montana and is a graduate of the University of Washington School of Medicine in Seattle. He earned his doctorate in cancer biology at the University of Wisconsin School of Medicine and Public Health, where he also completed his general surgery residency in 2006. Dr. Kennedy then completed his colon and rectal surgery fellowship at the Mayo Clinic in Rochester, Minn., in 2007.\n\nDr. Kennedy’s research efforts are focused on chemoprevention of colon and rectal cancer. His funded laboratory uses genetic models to better understand how chemicals prevent tumor formation and what genetic pathways are responsible for their effects. The ultimate goal is to identify targeted agents that are better tolerated by patients in hopes of preventing colon and rectal cancer.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3382-gregory-kennedy",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Surgery - General Surgery Gastrointestinal Section"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      }
+    ]
+  },
+  "discoveryId": "3382",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 19,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 4,
+      "favourites": 4
+    },
+    "publications": {
+      "all": 227,
+      "favourites": 0
+    }
+  },
+  "firstName": "Gregory",
+  "firstNameLastName": "Gregory Kennedy",
+  "equipmentLinkTypes": [],
+  "objectId": 3382,
+  "updatedWhen": "2025-05-10T08:09:28.0155034-05:00",
+  "hasCollaborationData": true,
+  "email": "gkennedy@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Breast Cancer Cancer Chronic Pain Clinical Research Depression Digestive Diseases Health Disparities Mental Health Mental Illness Nutrition Pain Research Rural Health Social Determinants of Health Women's Health",
+  "grant_keywords": "Aging Arthritis Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Cancer Clinical Research Colo-Rectal Cancer Complementary and Integrative Health Dietary Supplements Digestive Diseases Immunization Immunotherapy Mental Health Mental Illness Neurosciences Nutrition Prevention Rare Diseases Rheumatoid Arthritis Vaccine Related Women's Health"
+}

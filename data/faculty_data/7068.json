@@ -1,0 +1,123 @@
+{
+  "lastName": "Coats",
+  "overview": "Dr. Mamie T. Coats obtained her B.S. degree in Biochemistry from Xavier University of Louisiana, New Orleans, Louisiana. She obtained a Ph.D. in Microbiology for the University of Alabama at Birmingham, Birmingham, Alabama. She remained at UAB for her post-doctoral studies.\n\nDr. Coats’ research focuses on pneumococcal biofilms and animal models of pneumococcal disease relevant to children.\n\nStreptococcus pneumoniae remains a major causative agent of community-acquired pneumonia, bacterial meningitis, otitis media and bacteremia worldwide. Children are especially susceptible to pneumococcal infection. While there are pneumococcal vaccines available, the diversity and adaptability of the organism necessitates continued research into its pathogenesis. Our lab focuses on how the presence of biofilms affects the progression of disease and the factors involved in biofilm development. Of particular interest is the role of biofilms in cystic fibrosis and otitis media.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7068-mamie-coats",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Biomedical & Health Sciences MS Program"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Science and Management",
+          "Science and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Environmental Science and Management"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Soil Sciences",
+          "Sciences"
+        ],
+        "value": "Soil Sciences"
+      }
+    ]
+  },
+  "discoveryId": "7068",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 40,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 16,
+      "favourites": 0
+    }
+  },
+  "firstName": "Mamie",
+  "firstNameLastName": "Mamie Coats",
+  "equipmentLinkTypes": [],
+  "objectId": 7068,
+  "updatedWhen": "2025-05-10T08:14:10.2908151-05:00",
+  "hasCollaborationData": true,
+  "email": "mamiec@uab.edu",
+  "publication_keywords": "Bioengineering Biotechnology Genetics Immunization Infectious Diseases Lung Nanotechnology Prevention Sexually Transmitted Infections Vaccine Related",
+  "grant_keywords": ""
+}

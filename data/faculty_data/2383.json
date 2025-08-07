@@ -1,0 +1,109 @@
+{
+  "lastName": "Loder-Jackson",
+  "overview": "Dr. Tondra L. Loder-Jackson holds a primary appointment as professor of educational foundations in the UAB School of Education and Human Sciences, where she helped to establish and formerly directed the UAB Center for Urban Education. She also holds secondary appointments in the UAB College of Arts and Sciences as a professor in the African American Studies Program and the Department of History. She also serves as a Faculty Fellow (Human Rights and Society) with the UAB Institute for Human Rights. She has worked on anti-poverty, anti-discrimination, and educational initiatives at nonprofit organizations, schools, and universities in Chicago, IL and Philadelphia, PA. Dr. Loder-Jackson authored Schoolhouse Activists: African American Educators and the Long Birmingham Civil Rights Movement (2015, State University of New York Press). Her co-edited volume (with Derrick P. Alridge and Jon N. Hale) Schooling the Movement: The Activism of Southern Black Educators from Reconstruction through the Civil Rights Era (2023, University of South Carolina Press) received a 2024 Society of Professors of Education Outstanding Book Award. She was named one of Birmingham-Southern College's 2020 Distinguished Alumni. Dr. Loder-Jackson recently fully endowed the Schoolhouse Activist Endowed Award in Education for student scholarships at UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2383-tondra-loderjackson",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Human Studies"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "2383",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 153,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 28,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tondra",
+  "firstNameLastName": "Tondra Loder-Jackson",
+  "equipmentLinkTypes": [],
+  "objectId": 2383,
+  "updatedWhen": "2025-05-10T08:07:28.8807257-05:00",
+  "hasCollaborationData": true,
+  "email": "tloder@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

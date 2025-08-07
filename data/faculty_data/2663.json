@@ -1,0 +1,84 @@
+{
+  "discoveryId": "2663",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 157,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 87,
+      "favourites": 0
+    }
+  },
+  "lastName": "Weikard",
+  "firstName": "Rudi",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2663-rudi-weikard",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Mathematics"
+    }
+  ],
+  "firstNameLastName": "Rudi Weikard",
+  "equipmentLinkTypes": [],
+  "objectId": 2663,
+  "updatedWhen": "2025-05-10T08:08:11.0531862-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pure Mathematics",
+          "Mathematics"
+        ],
+        "value": "Pure Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Applied Mathematics",
+          "Mathematics"
+        ],
+        "value": "Applied Mathematics"
+      },
+      {
+        "paths": [
+          [
+            "Mathematical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mathematical Physics",
+          "Physics"
+        ],
+        "value": "Mathematical Physics"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "weikard@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

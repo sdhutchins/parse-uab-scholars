@@ -1,0 +1,124 @@
+{
+  "lastName": "Younger",
+  "overview": "Jarred Younger completed postdoctoral fellowships at Arizona State University and the Stanford University School of Medicine before taking an Assistant Professor position at Stanford.\n\nHe has recently joined the UAB faculty in Psychology, with secondary appointments in Anesthesiology and Rheumatology. He is currently funded by the National Institutes of Health and the Department of Defense to study new techniques for diagnosing and treating neuroinflammation.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2755-jarred-younger",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Psychology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2755",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 94,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jarred",
+  "firstNameLastName": "Jarred Younger",
+  "equipmentLinkTypes": [],
+  "objectId": 2755,
+  "updatedWhen": "2025-05-10T08:08:22.0130855-05:00",
+  "hasCollaborationData": true,
+  "email": "younger@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Biomedical Imaging Chronic Fatigue Syndrome (ME/CFS) Chronic Pain Climate-Related Exposures and Conditions Clinical Research Fibromyalgia Minority Health Neurosciences Pain Research Physical Activity Physical Rehabilitation Rehabilitation Women's Health",
+  "grant_keywords": ""
+}

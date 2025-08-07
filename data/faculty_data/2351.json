@@ -1,0 +1,75 @@
+{
+  "discoveryId": "2351",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 161,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 11,
+      "favourites": 0
+    }
+  },
+  "lastName": "Meadows",
+  "firstName": "Lee",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2351-lee-meadows",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "firstNameLastName": "Lee Meadows",
+  "equipmentLinkTypes": [],
+  "objectId": 2351,
+  "updatedWhen": "2025-05-10T08:07:28.8517131-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "lmeadows@uab.edu",
+  "publication_keywords": "Clinical Research Pediatric Research Initiative",
+  "grant_keywords": "Pediatric"
+}

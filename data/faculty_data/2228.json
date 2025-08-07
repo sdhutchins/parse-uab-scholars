@@ -1,0 +1,122 @@
+{
+  "lastName": "Bertram",
+  "overview": "Michael Bertram, PhD, MBA, is the Director of the UAB Institutional Research Core Program, the Associate Director for Administration at the O'Neal Comprehensive Cancer Center, and Professor in the Department of Cell, Developmental and Integrative Biology. Previously, Dr. Bertram was the Administrative Director for the UAB Center for AIDS Research. His scientific background (PhD in Molecular Biology & Genetics), significant experience with the NIH P30 Center Grant mechanism, and knowledge of academic research management offers a unique combination of skills in the biomedical research field. Currently, Dr. Bertram manages the $21 million operational budget of the O'Neal Comprehensive Cancer Center and is responsible for the day-to-day operations of the Center. In the past years, he co-wrote and managed two successful NCI Center Core Support Grant (CCSG) applications. In addition, Dr. Bertram oversees the fiscal and regulatory operations of the translational and clinical trial research activities in oncology for the O'Neal Comprehensive Cancer Center. His leadership activities at UAB have led to the implementation of administrative improvements resulting in efficiencies that have saved thousands of man-hours a year. Dr. Bertram serves the greater UAB community on multiple committees and boards. He is currently a member of the National Council of University Research Administrators, National Organization of Research Development Professionals, Society of Research Administrators International, Association of Biomedical Research Facilities, and the Association of Cancer Center Administrators. Dr. Bertram received his PhD from Cornell University and his MBA from UAB.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2228-michael-bertram",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Cell, Developmental and Integrative Biology (CDIB)"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Zoology"
+        ],
+        "value": "Zoology"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Information and Computing Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Information Systems",
+          "Systems"
+        ],
+        "value": "Information Systems"
+      }
+    ]
+  },
+  "discoveryId": "2228",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 21,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 9,
+      "favourites": 0
+    }
+  },
+  "firstName": "Michael",
+  "firstNameLastName": "Michael Bertram",
+  "equipmentLinkTypes": [],
+  "objectId": 2228,
+  "updatedWhen": "2025-05-10T08:07:03.7370183-05:00",
+  "hasCollaborationData": false,
+  "email": "mbertram@uab.edu",
+  "publication_keywords": "Aging Biotechnology Genetics Human Genome Neurosciences",
+  "grant_keywords": ""
+}

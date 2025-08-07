@@ -1,0 +1,60 @@
+{
+  "discoveryId": "17342",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 8,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "lastName": "Rothenberg",
+  "firstName": "Steven",
+  "hasThumbnail": false,
+  "discoveryUrlId": "17342-steven-rothenberg",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Radiology"
+    }
+  ],
+  "firstNameLastName": "Steven Rothenberg",
+  "equipmentLinkTypes": [],
+  "objectId": 17342,
+  "updatedWhen": "2025-05-10T08:17:34.3946279-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "srothenb@uab.edu",
+  "publication_keywords": "Bioengineering Biomedical Imaging Brain Disorders Cancer Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

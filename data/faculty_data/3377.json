@@ -1,0 +1,122 @@
+{
+  "lastName": "Reuter",
+  "overview": "Dr. Tina Kempin Reuter is the Director of the Institute for Human Rights, Director of the Center for Social Science and Justice Research, and Associate Professor in the Department of Political Science and Public Administration and the Department of Anthropology, specializing in human rights, peace studies, and international politics at the University of Alabama at Birmingham (UAB). Her research focuses on human rights with a particular emphasis on the struggle of vulnerable and marginalized populations, including minorities, persons with disabilities, refugees and migrants, women, children, the LGBTQ community, formerly incarcerated persons, and people dealing with the consequences of povert. She studies how to use technology to improve access, inclusion, and participation of marginalized communities in society. In addition, she is an expert on ethnic conflict and peace making with a geographical focus on Europe and the Middle East.\n\nBefore joining UAB, Dr. Reuter was the Director of the Reiff Center for Human Rights and Conflict Resolution and Associate Professor of international and comparative politics at Christopher Newport University. She was formerly associated with the Solomon Asch Center for the Study of Ethnopolitical Conflict, University of Pennsylvania, the Institute of Public International Law at the University of Zurich, and the Center for Security Studies at the Swiss Federal Institute of Technology.\n\nDr. Kempin Reuter holds a PhD in International Relations and International Law and an MA in Contemporary History, Economics, and International Law from the University of Zurich, Switzerland. She is the author of numerous publications in her field and has been awarded multiple prizes and grants to expand her research and teaching.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3377-tina-kempin-reuter",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Government"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Law and Legal Studies"
+          ]
+        ],
+        "valueAnalysed": [
+          "Law"
+        ],
+        "value": "Law"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Political Science",
+          "Science"
+        ],
+        "value": "Political Science"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cognitive Sciences",
+          "Sciences"
+        ],
+        "value": "Cognitive Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      }
+    ]
+  },
+  "discoveryId": "3377",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 4,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 46,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 17,
+      "favourites": 0
+    }
+  },
+  "firstName": "Tina Kempin",
+  "firstNameLastName": "Tina Kempin Reuter",
+  "equipmentLinkTypes": [],
+  "objectId": 3377,
+  "updatedWhen": "2025-05-10T08:09:28.0155034-05:00",
+  "hasCollaborationData": true,
+  "email": "tkreuter@uab.edu",
+  "publication_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Mental Health Social Determinants of Health",
+  "grant_keywords": ""
+}

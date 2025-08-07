@@ -1,0 +1,131 @@
+{
+  "lastName": "Gao",
+  "overview": "Dr. Jie Gao is an Assistant Professor and Medical Laboratory Scientist at the UAB Clinical laboratory Science Program. Dr. Gao is dedicated to biomedical laboratory science and lifelong learning. As an educator, she aims to promote active learning and motivate students to translate knowledge into clinical practices and to learn more about the profession beyond the classroom. In the CLS program, she is teaching clinical chemistry, instrumentation and automation, molecular diagnostics, non-thesis research and so on. In addition, Dr. Gao has professional experiences with clinical laboratory research and drug development research, which are focused on the improvement of mental health and therapeutic interventions to mental illnesses. Dr. Gao is an active member of the American Society for Clinical Pathology and American Society for Clinical Laboratory Science. She is also serving as an active reviewer for several professional journals.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "6242-jie-gao",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Clinical Laboratory Sciences"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Theoretical and Computational Chemistry",
+          "and Computational Chemistry",
+          "Computational Chemistry",
+          "Chemistry"
+        ],
+        "value": "Theoretical and Computational Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "6242",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 68,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 27,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jie",
+  "firstNameLastName": "Jie Gao",
+  "equipmentLinkTypes": [],
+  "objectId": 6242,
+  "updatedWhen": "2025-05-10T08:13:05.3243026-05:00",
+  "hasCollaborationData": true,
+  "email": "gaoj@uab.edu",
+  "publication_keywords": "Aging Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Breast Cancer Cancer Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Liver Disease Mental Health Multiple Sclerosis Neurodegenerative Neurosciences Organ Transplantation Prevention Social Determinants of Health Transplantation Women's Health",
+  "grant_keywords": ""
+}

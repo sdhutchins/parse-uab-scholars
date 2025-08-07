@@ -1,0 +1,110 @@
+{
+  "lastName": "Lee",
+  "overview": "Dr. Lee joined the UAB Division of Infectious Diseases at UAB in 2016 and is currently an Associate Professor.  She is the UAB Chief Healthcare Epidemiologist and in this role, she utilizes evidence based medicine to prevent the spread of healthcare-associated infections..  Her research focuses on multi-drug resistant pathogens as they relate to infection control.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3468-rachael-lee",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "discoveryId": "3468",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 145,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 21,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 65,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rachael",
+  "firstNameLastName": "Rachael Lee",
+  "equipmentLinkTypes": [],
+  "objectId": 3468,
+  "updatedWhen": "2025-05-10T08:09:38.3575395-05:00",
+  "hasCollaborationData": true,
+  "email": "ralee@uab.edu",
+  "publication_keywords": "Cannabinoid Research Chronic Pain Clinical Research Complementary and Integrative Health Drug Abuse (NIDA only) Hematology Infectious Diseases Lung Pain Research Pneumonia Pneumonia & Influenza Sepsis Substance Misuse Therapeutic Cannabinoid Research",
+  "grant_keywords": ""
+}

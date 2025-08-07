@@ -1,0 +1,124 @@
+{
+  "lastName": "Henostroza",
+  "overview": "Dr. Henostroza was born in Peru and did medical school at Universidad Peruana Cayetano Heredia (UPCH). Subsequently he did his internal medicine residency under John Sheagren at Illinois Masonic Medical Center. Upon finishing his residency he was offered a position back in his country to lead an initiative under the sponsorship of WHO/TDR and Find Diagnositcs to evaluate novel TB diagnostic trials, where he establish the TB Research unit at the tropical medicine institute Alexander Von Humboldt, UPCH. After this experience he continued his training in Infectious Diseases at UAB. Upon completing his fellowship he joined the ID faculty at UAB in 2008 and move with his family to live and work in Zambia a landlocked country in Sub Saharan Africa within the Center for Infectious Diseases Research in Zambia (CIDRZ), where he implemented research (funded by CDC, NIH, Stop TB partnership, European Union, USAID and AERAS) with emphasis on TB-HIV co-infection and malaria. In 2011 he was appointed Director of the UAB-Zambia Tuberculosis research Initiative. After 7 years working overseas he relocated back to Birmingham in 2015 to continue his international work now based in Birmingham. Due to his work and knowledge he serves as member of the TB diagnostic Working Group (WHO), the Prisons Working Group (IUATLD) and is a TB Advisory board member for the State of Alabama. Since 2015, Dr. Henostroza serves as Director of the Gorgas Course in Clinical Tropical Medicine (a collaborative initiative between UAB and UPCH) and more recently serves as director of William Crawford Gorgas Center for Geographic Medicine. With the sponsorship of the Gorgas Memorial Institute he oversees the Gorgas Scholarship Award, that supports international research experience for UAB medical students and residents and the UPCH-UAB Gorgas pilot grants for collaborative work within Peruvian and UAB investigators in tropical diseases. His research interest focuses on TB POC diagnostics, TB clinical trials, TB vaccine clinical trials and Health Systems Implementation in vulnerable populations with emphasis in prisoners. His current programs are currently located in Zambia, Panama, Peru and Antigua and Barbuda.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "561-german-henostroza",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Infectious Diseases"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "discoveryId": "561",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 25,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 8,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 35,
+      "favourites": 0
+    }
+  },
+  "firstName": "German",
+  "firstNameLastName": "German Henostroza",
+  "equipmentLinkTypes": [],
+  "objectId": 561,
+  "updatedWhen": "2025-05-10T08:03:25.3152491-05:00",
+  "hasCollaborationData": true,
+  "email": "germanh@uab.edu",
+  "publication_keywords": "Behavioral and Social Science Brain Disorders Climate-Related Exposures and Conditions Clinical Research Depression HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Malaria Mental Health Mental Illness Nutrition Obesity Prevention Rare Diseases Rural Health Sexually Transmitted Infections Social Determinants of Health Vector-Borne Diseases Violence Against Women Violence Research Women's Health",
+  "grant_keywords": ""
+}

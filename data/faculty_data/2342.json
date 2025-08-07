@@ -1,0 +1,61 @@
+{
+  "lastName": "Dominick",
+  "overview": "Dr. Ann Dominick has been an educator in Alabama for 30 years. For the first 16 years she taught third and fourth grade students in Homewood and Hoover City school districts. During that time, she also began working with teachers as a consultant for Marilyn Burns Education Associates, and later worked as a mathematics coach for Hoover City Schools. Her teaching has been driven by Piaget’s theory of how people learn, and her pedagogical focus has been helping students of all ages understand and enjoy learning mathematics. \n\nSince 2004 Dr. Dominick has worked as project co-director, mathematics coach, and course instructor for the Greater Birmingham Mathematics Partnership (GBMP). GBMP is a project to help teachers, administrators, and parents improve mathematics education in their communities. She received the Presidential Award for Excellence in Mathematics Teaching in 1994, and in 1999 she was honored to be Alabama’s State Teacher of the Year.\n\nWhen she is not teaching, Dr. Dominick can be found singing and playing the guitar, driving carpool for her four children, and cheering them on in robotics, tennis, lacrosse, band, show choir, and soccer. She loves to travel and spend time with her family, and is thrilled to be part of the UABTeach family.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2342-ann-dominick",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Curriculum Instruction"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Education Systems",
+          "Systems"
+        ],
+        "value": "Education Systems"
+      }
+    ]
+  },
+  "discoveryId": "2342",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 77,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 7,
+      "favourites": 0
+    }
+  },
+  "firstName": "Ann",
+  "firstNameLastName": "Ann Dominick",
+  "equipmentLinkTypes": [],
+  "objectId": 2342,
+  "updatedWhen": "2025-05-10T08:07:17.7094807-05:00",
+  "hasCollaborationData": true,
+  "email": "adominic@uab.edu",
+  "publication_keywords": "Pediatric Research Initiative",
+  "grant_keywords": ""
+}

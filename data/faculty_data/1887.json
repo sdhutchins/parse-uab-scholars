@@ -1,0 +1,128 @@
+{
+  "discoveryId": "1887",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 131,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 105,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 98,
+      "favourites": 0
+    }
+  },
+  "lastName": "Wingo",
+  "firstName": "Brooks",
+  "hasThumbnail": true,
+  "discoveryUrlId": "1887-brooks-wingo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Occupational Therapy"
+    }
+  ],
+  "firstNameLastName": "Brooks Wingo",
+  "equipmentLinkTypes": [],
+  "objectId": 1887,
+  "updatedWhen": "2025-05-10T08:06:12.3311946-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Specialist Studies in Education",
+          "Studies in Education",
+          "in Education",
+          "Education"
+        ],
+        "value": "Specialist Studies in Education"
+      },
+      {
+        "paths": [
+          [
+            "Education"
+          ]
+        ],
+        "valueAnalysed": [
+          "Curriculum and Pedagogy",
+          "and Pedagogy",
+          "Pedagogy"
+        ],
+        "value": "Curriculum and Pedagogy"
+      },
+      {
+        "paths": [
+          [
+            "Studies in Human Society"
+          ]
+        ],
+        "valueAnalysed": [
+          "Sociology"
+        ],
+        "value": "Sociology"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "bcwingo@uab.edu",
+  "publication_keywords": "Autoimmune Disease Brain Disorders Clinical Research Clinical Trials and Supportive Activities Multiple Sclerosis Neurodegenerative Neurosciences Nutrition Prevention",
+  "grant_keywords": "Brain Disorders Neurosciences Physical Injury - Accidents and Adverse Effects Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury"
+}

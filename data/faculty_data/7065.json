@@ -1,0 +1,131 @@
+{
+  "lastName": "Nazari",
+  "overview": "Dr. Nazari is the Director of the Sustainable Smart Cities Research Center (SSCR) and Associate Professor with a dual appointment in the Department of Civil, Construction and Environmental Engineering and School of Public Health at the University of Alabama at Birmingham. His primary research interests are the application of remote sensing in water resources and environment, flood modeling and resiliency planning, community vulnerability and public health, and impact assessment of extreme weather events on the built environment.\nDr. Nazari is the founder and creator of NJFloodAlert.com as well as Planetary Resilience technologies (a startup company based on his patented work), the first high-resolution asset-based resiliency decision-making system that is currently in use by state and local officials and as well as residents. He has worked on New York and New Jersey Resiliency planning has been a pioneer in the damage and resiliency assessment of coastal infrastructures and community vulnerability to natural disasters. Dr. Nazari’s research has been supported by NSF, USDA, FEMA, NJDCA, NJDEP, NY/NJ DOT, and American Water. Dr. Nazari has over 50 peer-reviewed publications, served on the editorial boards of several journals, and has presented his work in national and international conferences as well as multiple media outlets and TV interviews.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "7065-rouzbeh-nazari",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Civil, Construction & Environmental Engineering"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Built Environment and Design"
+          ]
+        ],
+        "valueAnalysed": [
+          "Urban and Regional Planning",
+          "and Regional Planning",
+          "Regional Planning",
+          "Planning"
+        ],
+        "value": "Urban and Regional Planning"
+      },
+      {
+        "paths": [
+          [
+            "Environmental Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Environmental Science and Management",
+          "Science and Management",
+          "and Management",
+          "Management"
+        ],
+        "value": "Environmental Science and Management"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Atmospheric Sciences",
+          "Sciences"
+        ],
+        "value": "Atmospheric Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Earth Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physical Geography and Environmental Geoscience",
+          "Geography and Environmental Geoscience",
+          "and Environmental Geoscience",
+          "Environmental Geoscience",
+          "Geoscience"
+        ],
+        "value": "Physical Geography and Environmental Geoscience"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Geomatic Engineering",
+          "Engineering"
+        ],
+        "value": "Geomatic Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "7065",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 5,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 58,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 53,
+      "favourites": 0
+    }
+  },
+  "firstName": "Rouzbeh",
+  "firstNameLastName": "Rouzbeh Nazari",
+  "equipmentLinkTypes": [],
+  "objectId": 7065,
+  "updatedWhen": "2025-05-10T08:14:10.2878148-05:00",
+  "hasCollaborationData": true,
+  "email": "rnazari@uab.edu",
+  "publication_keywords": "Bioengineering Climate-Related Exposures and Conditions Data Science Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD)",
+  "grant_keywords": ""
+}

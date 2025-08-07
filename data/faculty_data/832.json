@@ -1,0 +1,121 @@
+{
+  "discoveryId": "832",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 122,
+      "favourites": 0
+    }
+  },
+  "lastName": "Witherspoon",
+  "firstName": "Clark",
+  "hasThumbnail": false,
+  "discoveryUrlId": "832-clark-witherspoon",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Ophthalmology"
+    }
+  ],
+  "firstNameLastName": "Clark Witherspoon",
+  "equipmentLinkTypes": [],
+  "objectId": 832,
+  "updatedWhen": "2025-05-10T08:04:12.9576202-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Opthalmology and Optometry",
+          "and Optometry",
+          "Optometry"
+        ],
+        "value": "Opthalmology and Optometry"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "cdw529@uab.edu",
+  "publication_keywords": "Aging Bioengineering Biomedical Imaging Biotechnology Clinical Research Eye Disease and Disorders of Vision Gene Therapy Genetics Macular Degeneration Neurodegenerative Neurosciences Pediatric Research Initiative Rare Diseases",
+  "grant_keywords": "Aging Bioengineering Biomedical Imaging Clinical Research Eye Disease and Disorders of Vision Macular Degeneration Neurodegenerative Neurosciences Prevention"
+}

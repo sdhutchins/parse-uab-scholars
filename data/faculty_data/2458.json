@@ -1,0 +1,83 @@
+{
+  "discoveryId": "2458",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 11,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 4,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 15,
+      "favourites": 0
+    }
+  },
+  "lastName": "Nichols",
+  "firstName": "Robert",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2458-robert-nichols",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Research Professor"
+    }
+  ],
+  "firstNameLastName": "Robert Nichols",
+  "equipmentLinkTypes": [],
+  "objectId": 2458,
+  "updatedWhen": "2025-05-10T08:07:39.3499236-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Aerospace Engineering",
+          "Engineering"
+        ],
+        "value": "Aerospace Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Civil Engineering",
+          "Engineering"
+        ],
+        "value": "Civil Engineering"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Mechanical Engineering",
+          "Engineering"
+        ],
+        "value": "Mechanical Engineering"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "bnichols@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

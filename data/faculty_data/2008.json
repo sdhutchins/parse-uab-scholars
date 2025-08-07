@@ -1,0 +1,85 @@
+{
+  "discoveryId": "2008",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 16,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 20,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 2,
+      "favourites": 0
+    }
+  },
+  "lastName": "Broker",
+  "firstName": "Thomas",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2008-thomas-broker",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "Biochemistry & Molecular Genetics"
+    }
+  ],
+  "firstNameLastName": "Thomas Broker",
+  "equipmentLinkTypes": [],
+  "objectId": 2008,
+  "updatedWhen": "2025-05-10T08:06:24.5349437-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Chemical Sciences",
+          "Chemical Sciences",
+          "Sciences"
+        ],
+        "value": "Other Chemical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Genetics"
+        ],
+        "value": "Genetics"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "broker@uab.edu",
+  "publication_keywords": "Cancer Cervical Cancer Genetics HIV/AIDS Infectious Diseases Prevention Sexually Transmitted Infections Women's Health",
+  "grant_keywords": "Biotechnology Cancer Cervical Cancer Genetics Infectious Diseases Orphan Drug Rare Diseases Sexually Transmitted Infections Women's Health"
+}

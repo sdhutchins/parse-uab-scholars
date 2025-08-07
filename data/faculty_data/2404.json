@@ -1,0 +1,44 @@
+{
+  "discoveryId": "2404",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 113,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 32,
+      "favourites": 0
+    }
+  },
+  "lastName": "Dobbins",
+  "firstName": "Allan",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2404-allan-dobbins",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor-Engineering 9 Mo",
+      "department": "Biomedical Engineering"
+    }
+  ],
+  "firstNameLastName": "Allan Dobbins",
+  "equipmentLinkTypes": [],
+  "objectId": 2404,
+  "updatedWhen": "2025-05-10T08:07:28.8967171-05:00",
+  "hasCollaborationData": true,
+  "email": "adobbins@uab.edu",
+  "publication_keywords": "Acquired Cognitive Impairment Aging Bioengineering Brain Disorders Dementia Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury",
+  "grant_keywords": ""
+}

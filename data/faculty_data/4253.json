@@ -1,0 +1,59 @@
+{
+  "discoveryId": "4253",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 3,
+      "favourites": 1
+    },
+    "teachingActivities": {
+      "all": 11,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 1,
+      "favourites": 1
+    }
+  },
+  "lastName": "Smith",
+  "firstName": "Nathan",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4253-nathan-smith",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Behavioral & Population Sciences"
+    }
+  ],
+  "firstNameLastName": "Nathan Smith",
+  "equipmentLinkTypes": [],
+  "objectId": 4253,
+  "updatedWhen": "2025-05-10T08:10:51.2556607-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Dentistry"
+        ],
+        "value": "Dentistry"
+      }
+    ]
+  },
+  "hasCollaborationData": false,
+  "email": "nsmith@uab.edu",
+  "publication_keywords": "Dental/Oral and Craniofacial Disease Infectious Diseases",
+  "grant_keywords": ""
+}

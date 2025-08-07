@@ -1,0 +1,128 @@
+{
+  "lastName": "Casey",
+  "overview": "Jennifer Larson-Casey received her doctorate at the University of North Dakota. Her postdoctoral training was completed at the University of Iowa in the Free Radical and Radiation Biology Program and the University of Alabama in the Pulmonary, Allergy, and Critical Care Division. She is now an Assistant Professor of Pulmonary, Allergy and Critical Care in the Department of Medicine. She is a recent awardee of the Parker B. Francis Pulmonary Research Fellowship. Jennifer was awarded the 2022 Recognition of Early Academic Achievement (REAAch) Award from the Assembly of Respiratory Cell and Molecular Biology (RCMB) of the American Thoracic Society. This recognition is awarded to Early Stage Investigators who demonstrate an outstanding commitment to develop a productive academic career.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "4642-jennifer-casey",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "4642",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 9,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 3,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 58,
+      "favourites": 0
+    }
+  },
+  "firstName": "Jennifer",
+  "firstNameLastName": "Jennifer Casey",
+  "equipmentLinkTypes": [],
+  "objectId": 4642,
+  "updatedWhen": "2025-05-10T08:11:25.1757165-05:00",
+  "hasCollaborationData": true,
+  "email": "jlcasey1@uab.edu",
+  "publication_keywords": "Lung Rare Diseases",
+  "grant_keywords": "Clinical Research Genetics Lung"
+}

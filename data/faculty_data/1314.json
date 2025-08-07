@@ -1,0 +1,44 @@
+{
+  "discoveryId": "1314",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 2,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 135,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Mazer-Gurmendi",
+  "firstName": "Raquel",
+  "hasThumbnail": false,
+  "discoveryUrlId": "1314-raquel-mazergurmendi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Behavioral & Population Sciences"
+    }
+  ],
+  "firstNameLastName": "Raquel Mazer-Gurmendi",
+  "equipmentLinkTypes": [],
+  "objectId": 1314,
+  "updatedWhen": "2025-05-10T08:05:06.5159119-05:00",
+  "hasCollaborationData": false,
+  "email": "rmazer@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,45 @@
+{
+  "discoveryId": "19129",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 2,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Cobo",
+  "overview": "Isidoro Cobo, Ph.D., is an Assistant Professor of Medicine in the Division of Immunology and Rheumatology at the University of Alabama at Birmingham. With a background in biochemistry and extensive research experience in inflammatory signaling pathways, he focuses on understanding the role of inflammatory molecules in tissue homeostasis, as well as their dysregulation in diseases like gout, atherosclerosis, and cancer. Using Next Generation Sequencing techniques, histological and molecular approaches, and bioinformatic tools, our laboratory aims to investigate the epigenetic changes in macrophages to better understand macrophage responses during homeostasis and disease. His work aims to unravel the mechanisms underlying inflammatory diseases and develop targeted therapies.",
+  "firstName": "Isidoro",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19129-isidoro-cobo",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Medicine - Immunology and Rheumatology"
+    }
+  ],
+  "firstNameLastName": "Isidoro Cobo",
+  "equipmentLinkTypes": [],
+  "objectId": 19129,
+  "updatedWhen": "2025-05-10T08:20:57.3128699-05:00",
+  "hasCollaborationData": false,
+  "email": "icobo@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2573",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 157,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 4,
+      "favourites": 0
+    }
+  },
+  "lastName": "Quinlan",
+  "overview": "Kieran Quinlan retired from UAB's English Department in 2020. His main interest was in 20th century American, Irish, and British authors from a cultural, philosophical, and religious perspective about which he published 4 books and numerous essays. He also wrote several memoir pieces for The Chronicle of Higher Education and other venues. He remains engaged with selected authors and curates a bibliographical profile for one of them with Oxford University Press.",
+  "firstName": "Patrick",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2573-patrick-quinlan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor Emeritus",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Patrick Quinlan",
+  "equipmentLinkTypes": [],
+  "objectId": 2573,
+  "updatedWhen": "2025-05-10T08:07:50.5623651-05:00",
+  "hasCollaborationData": false,
+  "email": "kquinlan@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

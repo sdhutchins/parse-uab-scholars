@@ -1,0 +1,45 @@
+{
+  "discoveryId": "2569",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 0,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 248,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 5,
+      "favourites": 0
+    }
+  },
+  "lastName": "Madden-Lunsford",
+  "overview": "Kerry Madden (www.kerrymadden.com) is the author of the Appalachian Maggie Valley Trilogy: Gentle’s Holler, Louisiana’s Song, and Jessie’s Mountain (all Viking). Her other books include Offsides, a 1997 New York Public Library Books for the Teen Age selection, Writing Smarts, which helps kids craft their own stories and poetry, and Nothing Fancy About Kathryn & Charlie, about a Selma, Alabama friendship between a storyteller and a folk artist. Kerry is an Associate Professor of Creative Writing at the University of Alabama Birmingham and also teaches at Antioch University in Los Angeles and at the Sewanee Young Writers Conference in Tennessee. The mother of three grown children, she divides her time between Birmingham and Los Angeles.",
+  "firstName": "Kerry",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2569-kerry-maddenlunsford",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "English"
+    }
+  ],
+  "firstNameLastName": "Kerry Madden-Lunsford",
+  "equipmentLinkTypes": [],
+  "objectId": 2569,
+  "updatedWhen": "2025-05-10T08:07:50.5623651-05:00",
+  "hasCollaborationData": false,
+  "email": "kmadden@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

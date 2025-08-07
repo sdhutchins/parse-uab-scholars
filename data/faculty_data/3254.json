@@ -1,0 +1,121 @@
+{
+  "lastName": "Birket",
+  "overview": "Dr. Birket received her PharmD from the University of Kansas in 2007. She received a PhD in Pharmaceutical Sciences, with an emphasis in Clinical and Experimental Therapeutics, from the University of Kentucky, under the mentorship of Dr. David Feola. After graduating in 2012, she joined the Pulmonary, Allergy, and Critical Care Division as a T32 trainee, under the mentorship of Dr. Steven Rowe.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "3254-susan-birket",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      }
+    ]
+  },
+  "discoveryId": "3254",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 41,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 33,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 92,
+      "favourites": 0
+    }
+  },
+  "firstName": "Susan",
+  "firstNameLastName": "Susan Birket",
+  "equipmentLinkTypes": [],
+  "objectId": 3254,
+  "updatedWhen": "2025-05-10T08:09:16.2154321-05:00",
+  "hasCollaborationData": true,
+  "email": "sbirket@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Clinical Research Cystic Fibrosis Digestive Diseases Emerging Infectious Diseases Infectious Diseases Lung Microbiome Orphan Drug Pediatric Rare Diseases",
+  "grant_keywords": ""
+}

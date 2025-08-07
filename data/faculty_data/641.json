@@ -1,0 +1,127 @@
+{
+  "lastName": "Duncan",
+  "overview": "Dr. Duncan is a Professor in the Department of Medicine, Division of Pulmonary, Allergy, and Critical Care Medicine.  He attended medical school at the University of Washington (Seattle) and served as a Medical Intern and Resident there.  His subsequent clinical and research training fellowships were at the University of Pittsburgh, Stanford University, and The Scripps Research Institute.  Dr. Duncan has had prior faculty appointments at Stanford University and the University of Pittsburgh.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "641-steven-duncan",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      }
+    ]
+  },
+  "discoveryId": "641",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 17,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 5,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 143,
+      "favourites": 0
+    }
+  },
+  "firstName": "Steven",
+  "firstNameLastName": "Steven Duncan",
+  "equipmentLinkTypes": [],
+  "objectId": 641,
+  "updatedWhen": "2025-05-10T08:03:37.9103154-05:00",
+  "hasCollaborationData": true,
+  "email": "duncsr19@uab.edu",
+  "publication_keywords": "Asthma Autoimmune Disease Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Immunization Lung Orphan Drug Rare Diseases",
+  "grant_keywords": ""
+}

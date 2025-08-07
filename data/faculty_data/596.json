@@ -1,0 +1,122 @@
+{
+  "lastName": "Curtis",
+  "overview": "Dr. Curtis is an Associate Professor of Medicine in the Division of Nephrology. She directs the medical student summer research program for the NIH/NIDDK-funded UAB-UCSD O’Brien Center for Acute Kidney Injury Research. She is also Associate Dean for Research and Training in the Graduate School, where she oversees the Office of Postdoctoral Education. She has graduate faculty status in the Department of Cell, Developmental and Integrative Biology at UAB. She has mentored  trainees at the undergraduate, graduate and postdoctoral levels many of whom have continued to pursue academic careers. Dr. Curtis has received mentoring awards including the Department of Medicine Excellence in Mentorship Award and the Graduate Dean's Award for Excellence in Mentorship.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "596-lisa-curtis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Associate Professor",
+      "department": "Medicine - Nephrology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Physiology",
+          "Physiology"
+        ],
+        "value": "Medical Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Neurosciences"
+        ],
+        "value": "Neurosciences"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Physiology"
+        ],
+        "value": "Physiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Other Biological Sciences",
+          "Biological Sciences",
+          "Sciences"
+        ],
+        "value": "Other Biological Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      }
+    ]
+  },
+  "discoveryId": "596",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 15,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 12,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 7,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 50,
+      "favourites": 0
+    }
+  },
+  "firstName": "Lisa",
+  "firstNameLastName": "Lisa Curtis",
+  "equipmentLinkTypes": [],
+  "objectId": 596,
+  "updatedWhen": "2025-05-10T08:03:37.8209904-05:00",
+  "hasCollaborationData": true,
+  "email": "lmcurtis@uab.edu",
+  "publication_keywords": "Aging Clinical Research Estrogen Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Kidney Disease Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Women's Health",
+  "grant_keywords": "Clinical Research Genetics Kidney Disease"
+}

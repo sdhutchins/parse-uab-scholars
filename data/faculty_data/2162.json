@@ -1,0 +1,128 @@
+{
+  "lastName": "Barnes",
+  "overview": "Dr. Barnes was trained in Chemistry and Biochemistry in the UK. He joined UAB in 1977 and pursued research on bile acids and latterly polyphenols, particularly soy isoflavones. He was promoted to Associate Professor (with tenure) in 1985 and Full Professor in 1994. He has received NIH support from several areas to pursue the conjugation of bile acids, the chemistry, biochemistry and physiology of polyphenols, the underlying chemistry of lens cataracts and the use of omics approaches in biomedical research. He was the Associate Director of the Purdue UAB Botanicals Center for Age Related Disease (2000-2010) and the UAB Center for Nutrient Gene Interaction (2002-2011). He was an elected member of the National Advisory Council for the Center for Complementary and Alternate Medicine (2007-2010) and the NIH Council of Councils (2010-2012). He was the Director of the NIH funded Workshop in Metabolomics (2012-2018). He received the 2012 Distinguished Faculty Award and in 2018 became a Distinguished Professor of Pharmacology and Toxicology.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2162-stephen-barnes",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Distinguished Professor",
+      "department": "Medicine - Pulmonary, Allergy, & Critical Care Medicine"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Biochemistry and Metabolomics",
+          "Biochemistry and Metabolomics",
+          "and Metabolomics",
+          "Metabolomics"
+        ],
+        "value": "Medical Biochemistry and Metabolomics"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Engineering"
+          ]
+        ],
+        "valueAnalysed": [
+          "Food Sciences",
+          "Sciences"
+        ],
+        "value": "Food Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      }
+    ]
+  },
+  "discoveryId": "2162",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 102,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 94,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 463,
+      "favourites": 0
+    }
+  },
+  "firstName": "Stephen",
+  "firstNameLastName": "Stephen Barnes",
+  "equipmentLinkTypes": [],
+  "objectId": 2162,
+  "updatedWhen": "2025-05-10T08:06:50.7368340-05:00",
+  "hasCollaborationData": true,
+  "email": "sbarnes@uab.edu",
+  "publication_keywords": "Aging Attention Deficit Hyperactivity Disorder (ADHD) Behavioral and Social Science Bioengineering Biotechnology Brain Disorders Breast Cancer Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Congenital Structural Anomalies Dietary Supplements Digestive Diseases Estrogen Heart Disease Kidney Disease Mental Health Microbiome Nanotechnology Neurosciences Nutrition Pediatric Research Initiative Physical Activity Physical Injury - Accidents and Adverse Effects Polycystic Kidney Disease Prevention Traumatic Brain Injury (TBI) Traumatic Head and Spine Injury Women's Health",
+  "grant_keywords": "Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Digestive Diseases Mental Health Mental Illness Neurosciences"
+}

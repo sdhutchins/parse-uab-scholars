@@ -1,0 +1,125 @@
+{
+  "lastName": "Davis",
+  "overview": "Introduction:\n\nA graduate of Boston University in Boston, Massachusetts, Dr. Davis completed medical school at the University of Alabama School of Medicine (UASOM), where he also served his internship, residency, and the ABIM academic subspecialty research fellowship clinical investigator pathway in Hematology/Oncology. He is Professor of Medicine, Microbiology, and Biochemistry and Molecular Genetics in the division of Hematology/Oncology. He is board certified in Hematology.\n\nResearch:\n\nDr. Davis' laboratory is focused on the cellular and molecular immunobiology of lymphocytes in normal and diseased conditions. He has been broadly trained as a physician-scientist with a background in basic lymphocyte development and receptor biology. As a postdoctoral fellow he co-discovered a multigene family that encodes Fc receptor-like (FCRL) molecules with tyrosine-based regulatory potential that are expressed by subpopulations of lymphocytes in normal and diseased states. Current work involves investigating FCRL members in humans and mice to define their functional roles in normal and aberrant immune conditions. Work by his group and through productive collaborations has provided a better understanding of these receptors in basic immunology as well as in clinically important autoimmune and malignant conditions. Beyond his role as a physician-scientist, he also serves as Director of the UAB Multidisciplinary Molecular Interaction (MMIC) Core Facility which supports the operation of a Biacore T200 instrument. This technology allows for the determination of very sensitive kinetic interactions between macromolecules and/or small drugs using surface plasmon resonance (SPR).",
+  "hasThumbnail": true,
+  "discoveryUrlId": "513-randall-davis",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Immunology"
+        ],
+        "value": "Immunology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Clinical Sciences",
+          "Sciences"
+        ],
+        "value": "Clinical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Cardiorespiratory Medicine and Haematology",
+          "Medicine and Haematology",
+          "and Haematology",
+          "Haematology"
+        ],
+        "value": "Cardiorespiratory Medicine and Haematology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Paediatrics and Reproductive Medicine",
+          "and Reproductive Medicine",
+          "Reproductive Medicine",
+          "Medicine"
+        ],
+        "value": "Paediatrics and Reproductive Medicine"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "discoveryId": "513",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 30,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 15,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 73,
+      "favourites": 0
+    }
+  },
+  "firstName": "Randall",
+  "firstNameLastName": "Randall Davis",
+  "equipmentLinkTypes": [],
+  "objectId": 513,
+  "updatedWhen": "2025-05-10T08:03:25.2353917-05:00",
+  "hasCollaborationData": true,
+  "email": "rsdavis@uab.edu",
+  "publication_keywords": "Autoimmune Disease Biodefense Biotechnology Cancer Clinical Research Coronaviruses Coronaviruses Vaccines Digestive Diseases Emerging Infectious Diseases Genetics Hematology Immunization Immunotherapy Infectious Diseases Inflammatory Bowel Disease Lymphatic Research Lymphoma Orphan Drug Precision Medicine Prevention Rare Diseases Vaccine Related",
+  "grant_keywords": "Biotechnology Cancer Clinical Research Gene Therapy Genetics Hematology Immunization Immunotherapy Lung Lung Cancer Lymphatic Research Lymphoma Orphan Drug Rare Diseases Vaccine Related Women's Health"
+}

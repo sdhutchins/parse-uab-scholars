@@ -1,0 +1,45 @@
+{
+  "discoveryId": "19219",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 7,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 0,
+      "favourites": 0
+    }
+  },
+  "lastName": "Xin",
+  "overview": "Dr. Xin received his Ph.D. in Health Services Research, specializing in biostatistics and econometrics from the University of Florida, Gainesville. Before accepting the Assistant Professor position at DOPM, he was working at UMass Chan Medical School, Worcester MA as a team scientist examining the areas of benefit structure designs in health insurance, innovative healthcare organization and delivery models, such as patient-centered medical homes, and nonurgent emergency department (eD) care use and costs. His statistical experience has laid a solid foundation for his goal of being a health services researcher.",
+  "firstName": "Haichang",
+  "hasThumbnail": true,
+  "discoveryUrlId": "19219-haichang-xin",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Assistant Professor",
+      "department": "Med - Preventive Medicine"
+    }
+  ],
+  "firstNameLastName": "Haichang Xin",
+  "equipmentLinkTypes": [],
+  "objectId": 19219,
+  "updatedWhen": "2025-05-10T08:21:05.7210198-05:00",
+  "hasCollaborationData": false,
+  "email": "hxin@uab.edu",
+  "publication_keywords": "",
+  "grant_keywords": ""
+}

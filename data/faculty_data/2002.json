@@ -1,0 +1,126 @@
+{
+  "discoveryId": "2002",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 18,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 190,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 19,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 132,
+      "favourites": 0
+    }
+  },
+  "lastName": "Pekmezi",
+  "firstName": "Dorothy",
+  "hasThumbnail": false,
+  "discoveryUrlId": "2002-dorothy-pekmezi",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Health Behavior"
+    }
+  ],
+  "firstNameLastName": "Dorothy Pekmezi",
+  "equipmentLinkTypes": [],
+  "objectId": 2002,
+  "updatedWhen": "2025-05-10T08:06:24.5193276-05:00",
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Public Health and Health Services",
+          "Health and Health Services",
+          "and Health Services",
+          "Health Services",
+          "Services"
+        ],
+        "value": "Public Health and Health Services"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Human Movement and Sports Sciences",
+          "Movement and Sports Sciences",
+          "and Sports Sciences",
+          "Sports Sciences",
+          "Sciences"
+        ],
+        "value": "Human Movement and Sports Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nutrition and Dietetics",
+          "and Dietetics",
+          "Dietetics"
+        ],
+        "value": "Nutrition and Dietetics"
+      },
+      {
+        "paths": [
+          [
+            "Psychology and Cognitive Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Psychology"
+        ],
+        "value": "Psychology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Nursing"
+        ],
+        "value": "Nursing"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Oncology and Carcinogenesis",
+          "and Carcinogenesis",
+          "Carcinogenesis"
+        ],
+        "value": "Oncology and Carcinogenesis"
+      }
+    ]
+  },
+  "hasCollaborationData": true,
+  "email": "dpekmezi@uab.edu",
+  "publication_keywords": "Aging Behavioral and Social Science Cancer Cardiovascular Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Minority Health Nutrition Obesity Physical Activity Physical Rehabilitation Prevention Rehabilitation Rural Health Social Determinants of Health Telehealth Women's Health",
+  "grant_keywords": "Behavioral and Social Science Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Nutrition Obesity Physical Activity Prevention Women's Health"
+}

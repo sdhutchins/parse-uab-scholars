@@ -1,0 +1,126 @@
+{
+  "lastName": "Reynolds",
+  "overview": "Introduction:\n\nI received a BS in Chemistry from the University of Virginia in 1977 and a PhD from Duke University in 1985.  While a student at Duke University under Dr. Barbara Shaw in Chemistry and Dr. David Sedwick in the Department of Medicine, I obtained a diverse education in experimental design and basic research covering topics from cell culture, protein isolation and gel electrophoresis to organic synthesis and drug design. After a brief postdoctoral fellowship at NIEHS in the Research Triangle Park with Dr. Robert London in the area of deuterated probe development for in vivo NMR metabolism, I began a 25-year career in drug design and synthesis at Southern Research Institute in Birmingham, Alabama, advancing to the position of Director of Drug Discovery Technology. Although involved in numerous diverse programs from chemical education and outreach, optimization of Bath and Body Works bubble baths, chemical and biological diversity acquisition, and high throughput drug discovery technology, my major areas of emphasis were medicninal chemistry and new target and drug discovery against cancer and infectious diseases, particularly tuberculosis.\n\nResearch:\n\nIn 2012, I joined the University of Alabama at Birmingham to pursue a long time dream of supporting advanced education while also focusing on independent research in drug design against cancer and infectious diseases.",
+  "hasThumbnail": true,
+  "discoveryUrlId": "2523-robert-reynolds",
+  "positions": [
+    {
+      "fromInstitutionalAppointment": false,
+      "position": "Professor",
+      "department": "Medicine - Hematology & Oncology"
+    }
+  ],
+  "tags": {
+    "explicit": [
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Pharmacology and Pharmaceutical Sciences",
+          "and Pharmaceutical Sciences",
+          "Pharmaceutical Sciences",
+          "Sciences"
+        ],
+        "value": "Pharmacology and Pharmaceutical Sciences"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medicinal and Biomolecular Chemistry",
+          "and Biomolecular Chemistry",
+          "Biomolecular Chemistry",
+          "Chemistry"
+        ],
+        "value": "Medicinal and Biomolecular Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Chemical Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Organic Chemistry",
+          "Chemistry"
+        ],
+        "value": "Organic Chemistry"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Microbiology"
+        ],
+        "value": "Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Medical and Health Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Medical Microbiology",
+          "Microbiology"
+        ],
+        "value": "Medical Microbiology"
+      },
+      {
+        "paths": [
+          [
+            "Biological Sciences"
+          ]
+        ],
+        "valueAnalysed": [
+          "Biochemistry and Cell Biology",
+          "and Cell Biology",
+          "Cell Biology",
+          "Biology"
+        ],
+        "value": "Biochemistry and Cell Biology"
+      }
+    ]
+  },
+  "discoveryId": "2523",
+  "linkedObjectsCounts": {
+    "grants": {
+      "all": 1,
+      "favourites": 0
+    },
+    "teachingActivities": {
+      "all": 1,
+      "favourites": 0
+    },
+    "equipment": {
+      "all": 0,
+      "favourites": 0
+    },
+    "professionalActivities": {
+      "all": 0,
+      "favourites": 0
+    },
+    "publications": {
+      "all": 119,
+      "favourites": 0
+    }
+  },
+  "firstName": "Robert",
+  "firstNameLastName": "Robert Reynolds",
+  "equipmentLinkTypes": [],
+  "objectId": 2523,
+  "updatedWhen": "2025-05-10T08:07:50.5200204-05:00",
+  "hasCollaborationData": true,
+  "email": "rcr12lkt@uab.edu",
+  "publication_keywords": "Antimicrobial Resistance Biodefense Biotechnology Breast Cancer Cancer Coronaviruses Data Science Emerging Infectious Diseases HIV/AIDS Immunization Infectious Diseases Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Orphan Drug Prevention Rare Diseases Tuberculosis Vaccine Related Women's Health",
+  "grant_keywords": "Antimicrobial Resistance Genetics HIV/AIDS Infectious Diseases Sexually Transmitted Infections"
+}
