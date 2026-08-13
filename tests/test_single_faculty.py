@@ -12,7 +12,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.fetch_enhanced_data import (
+from src.fetch_uab_data import (
     extract_keywords,
     fetch_user_details,
     fetch_publications,
