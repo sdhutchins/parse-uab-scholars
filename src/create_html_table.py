@@ -9,6 +9,9 @@ import json
 from pathlib import Path
 from typing import List, Dict
 
+# All paths relative to project root (parent of src/)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
 
 def create_html_table(faculty_data: List[Dict]) -> str:
     """
@@ -349,7 +352,7 @@ def main():
     print("Loading faculty-student data...")
     
     # Load the processed data
-    with open("data/processed/faculty_students.json", "r") as f:
+    with open(PROJECT_ROOT / "data/processed/faculty_students.json", "r") as f:
         faculty_data = json.load(f)
     
     print(f"Loaded {len(faculty_data)} faculty records")
@@ -359,7 +362,7 @@ def main():
     html_content = create_html_table(faculty_data)
     
     # Save HTML file
-    output_file = Path("data/processed/faculty_mentoring_table.html")
+    output_file = PROJECT_ROOT / "data/processed/faculty_mentoring_table.html"
     with open(output_file, "w") as f:
         f.write(html_content)
     

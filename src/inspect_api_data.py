@@ -5,6 +5,10 @@ Inspect the raw API response to see the data structure
 
 import requests
 import json
+from pathlib import Path
+
+# All paths relative to project root (parent of src/)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 # Test with Elizabeth Worthey (ID: 3694)
 TEST_DISCOVERY_ID = "3694"
@@ -56,7 +60,7 @@ def fetch_and_save_api_data():
     }
     
     # Save to test.json
-    with open("test.json", "w", encoding="utf-8") as f:
+    with open(PROJECT_ROOT / "test.json", "w", encoding="utf-8") as f:
         json.dump(all_data, f, indent=2, ensure_ascii=False)
     
     print("✅ Saved API data to test.json")

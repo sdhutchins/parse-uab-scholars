@@ -13,6 +13,9 @@ import subprocess
 import sys
 from pathlib import Path
 
+# All paths relative to project root (parent of src/)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
 
 def run_command(cmd, description):
     """Run a command and handle errors."""
@@ -31,29 +34,43 @@ def main():
     """Main update process."""
     print("Starting docs update process...")
     
+    src_dir = PROJECT_ROOT / "src"
+    data_dir = PROJECT_ROOT / "data"
+    docs_dir = PROJECT_ROOT / "docs"
+
     # Step 1: Regenerate faculty-student data
-    if not run_command("python create_faculty_student_data.py", "Faculty data generation"):
+    cmd = f"python {src_dir / 'create_faculty_student_data.py'}"
+    if not run_command(cmd, "Faculty data generation"):
         print("Failed to generate faculty data. Exiting.")
         sys.exit(1)
-    
+
     # Step 2: Copy JSON data to docs
     print("Copying data files to docs folder...")
     try:
-        shutil.copy("data/processed/faculty_students.json", "docs/")
+        shutil.copy(
+            data_dir / "processed/faculty_students.json",
+            docs_dir,
+        )
         print("✓ Data file copied to docs folder")
     except Exception as e:
         print(f"✗ Error copying data file: {e}")
         sys.exit(1)
-    
+
     # Step 3: Ensure assets are in docs folder
     print("Ensuring assets are in docs folder...")
-    docs_assets = Path("docs/assets")
+    docs_assets = docs_dir / "assets"
     docs_assets.mkdir(exist_ok=True)
-    
+
     # Copy CSS and JS files
     try:
-        shutil.copy("data/processed/assets/styles.css", "docs/assets/")
-        shutil.copy("data/processed/assets/script.js", "docs/assets/")
+        shutil.copy(
+            data_dir / "processed/assets/styles.css",
+            docs_assets,
+        )
+        shutil.copy(
+            data_dir / "processed/assets/script.js",
+            docs_assets,
+        )
         print("✓ Assets copied to docs folder")
     except Exception as e:
         print(f"✗ Error copying assets: {e}")

@@ -1,6 +1,8 @@
 # UAB Faculty Committee Memberships
 
-This project extracts and visualizes faculty committee memberships and mentoring relationships from the University of Alabama at Birmingham (UAB) Scholars database. The system processes faculty profiles, research classifications, and committee assignments to create an interactive web-based table for exploring all students currently or formerly mentored by faculty at UAB through graduate committee memberships.
+This project extracts and visualizes faculty committee memberships and mentoring relationships from the University of Alabama at Birmingham (UAB) Scholars database. 
+
+The system processes faculty profiles, research classifications, and committee assignments to create an interactive web-based table for exploring all students currently or formerly mentored by faculty at UAB through graduate committee memberships.
 
 ## Table of Contents
 
@@ -48,7 +50,8 @@ The project processes structured data from multiple sources to create a searchab
 
 **Step 1: Run the unified pipeline on your cluster**
 ```bash
-sbatch submit_pipeline_jobs.sh
+sbatch src/submit_enhanced_data_jobs.sh
+sbatch src/submit_grad_committee_jobs.sh
 ```
 
 This creates:
@@ -56,7 +59,7 @@ This creates:
 - `data/faculty_data/` - Individual faculty files with emails, keywords, and committee roles
 
 **Step 2: Wait for completion**
-- 200 parallel jobs process ~25 faculty each
+- 128 parallel jobs process faculty in chunks
 - Each faculty gets one complete data file
 - Failed jobs are automatically retried
 
@@ -64,7 +67,7 @@ This creates:
 
 **Step 3: Generate the combined dataset**
 ```bash
-python create_faculty_student_data.py
+python src/create_faculty_student_data.py
 ```
 
 This creates `data/processed/faculty_students.json` containing:
@@ -77,7 +80,7 @@ This creates `data/processed/faculty_students.json` containing:
 
 **Step 4: Update the GitHub Pages website**
 ```bash
-python update_docs.py
+python src/update_docs.py
 ```
 
 This script:
@@ -111,25 +114,29 @@ parse-uab-scholars/
 ├── README.md                       <- This file
 ├── LICENSE                         <- License for the repo
 ├── CONTRIBUTING.md                 <- Contribution guidelines
-├── fetch_uab_data_pipeline.py      <- Unified data collection pipeline
-├── submit_pipeline_jobs.sh         <- SLURM job submission script
-├── create_faculty_student_data.py  <- Data processing for HTML table
-├── create_html_table.py            <- HTML table generation
-├── update_docs.py                  <- Documentation updates
+├── src/                            <- All scripts
+│   ├── fetch_enhanced_data.py      <- Enhanced faculty data collection
+│   ├── fetch_graduate_committee.py <- Graduate committee data collection
+│   ├── create_faculty_student_data.py <- Data processing for HTML table
+│   ├── create_html_table.py        <- HTML table generation
+│   ├── update_docs.py              <- Documentation updates
+│   ├── merge_committee_chunks.py   <- Merge committee chunk files
+│   ├── inspect_api_data.py         <- API data inspection utility
+│   ├── submit_enhanced_data_jobs.sh <- SLURM job: enhanced data
+│   └── submit_grad_committee_jobs.sh <- SLURM job: committees
 ├── archive/                        <- Old/unused scripts
-├── data
-│   ├── uab_scholars_profiles.jsonl <- Faculty profiles (Stage 1 output)
-│   ├── faculty_data/               <- Individual faculty files (Stage 2-3 output)
-│   │   ├── 1922.json              <- Inmaculada Aban's complete data
-│   │   ├── 3738.json              <- Mohamad Abbas's complete data
-│   │   └── ...                    <- One file per faculty
+├── data/
+│   ├── uab_scholars_profiles.jsonl <- Faculty profiles
+│   ├── faculty_data/               <- Individual faculty files
+│   ├── committees_by_id/           <- Committee data per faculty
 │   └── processed/
 │       └── faculty_students.json   <- Combined data for HTML table
-├── docs                            <- GitHub Pages site
+├── docs/                           <- GitHub Pages site
 │   ├── index.html                  <- Main web interface
 │   ├── faculty_students.json       <- Data for web interface
 │   └── assets/                     <- CSS and JavaScript files
-└── logs                            <- Pipeline execution logs
+├── tests/                          <- Test scripts and data
+└── logs/                           <- Pipeline execution logs
 ```
 
 ## Contributing

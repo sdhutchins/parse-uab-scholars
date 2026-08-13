@@ -10,9 +10,11 @@ This script combines:
 
 import json
 import re
-import os
 from pathlib import Path
 from typing import Dict, List, Optional, Set
+
+# All paths relative to project root (parent of src/)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
 def extract_student_name(title: str) -> Optional[str]:
@@ -117,7 +119,7 @@ def process_faculty_data() -> List[Dict]:
     # Load scholars profiles for basic info
     print("Loading scholars profiles...")
     scholars_profiles = {}
-    with open("data/uab_scholars_profiles.jsonl", "r") as f:
+    with open(PROJECT_ROOT / "data/uab_scholars_profiles.jsonl", "r") as f:
         for line in f:
             profile = json.loads(line.strip())
             scholars_profiles[profile["discoveryId"]] = profile
@@ -125,14 +127,14 @@ def process_faculty_data() -> List[Dict]:
     # Load enhanced faculty data for keywords and email
     print("Loading enhanced faculty data...")
     enhanced_profiles = {}
-    faculty_data_dir = Path("data/faculty_data")
+    faculty_data_dir = PROJECT_ROOT / "data/faculty_data"
     for json_file in faculty_data_dir.glob("*.json"):
         discovery_id = json_file.stem
         with open(json_file, "r") as f:
             enhanced_profiles[discovery_id] = json.load(f)
     
     # Process committee files
-    committees_dir = Path("data/committees_by_id")
+    committees_dir = PROJECT_ROOT / "data/committees_by_id"
     committee_roles = get_all_committee_roles()
     
     print("Processing committee files...")
@@ -234,7 +236,7 @@ def main():
     faculty_data.sort(key=lambda x: x["userName"])
     
     # Create output directory
-    output_dir = Path("data/processed")
+    output_dir = PROJECT_ROOT / "data/processed"
     output_dir.mkdir(exist_ok=True)
     
     # Save combined data

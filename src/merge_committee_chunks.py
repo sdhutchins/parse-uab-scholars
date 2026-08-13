@@ -1,10 +1,14 @@
 import os
 import json
 from collections import defaultdict
+from pathlib import Path
+
+# All paths relative to project root (parent of src/)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 # Configuration
-input_dir = "../data/committees_by_id"
-output_file = "../data/uab_grad_committees_grouped.json"
+input_dir = PROJECT_ROOT / "data/committees_by_id"
+output_file = PROJECT_ROOT / "data/uab_grad_committees_grouped.json"
 
 # Initialize merged dictionary
 merged = defaultdict(list)

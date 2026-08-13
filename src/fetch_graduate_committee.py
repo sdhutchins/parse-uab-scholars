@@ -3,6 +3,10 @@ import json
 import time
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+
+# All paths relative to project root (parent of src/)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 # Parallel config
 chunk_id = int(os.getenv("CHUNK_ID", "0"))
@@ -11,10 +15,10 @@ n_threads = int(os.getenv("N_THREADS", "4"))
 retry_registry_file = os.getenv("RETRY_REGISTRY", None)
 
 # Paths
-input_file = "data/uab_scholars_profiles.jsonl"
-output_dir = "data/committees_by_id"
-log_file = f"logs/chunk_{chunk_id}_grad_committee.log"
-error_file = f"logs/chunk_{chunk_id}_grad_committee_errors.log"
+input_file = PROJECT_ROOT / "data/uab_scholars_profiles.jsonl"
+output_dir = PROJECT_ROOT / "data/committees_by_id"
+log_file = PROJECT_ROOT / f"logs/chunk_{chunk_id}_grad_committee.log"
+error_file = PROJECT_ROOT / f"logs/chunk_{chunk_id}_grad_committee_errors.log"
 
 # API
 url = "https://scholars.uab.edu/api/teachingActivities/linkedTo"
