@@ -1,11 +1,27 @@
 /* Custom styles for UAB Faculty Committee Memberships Table */
+:root {
+    --uab-green: #1a5632;
+    --uab-gold: #fdb913;
+    --uab-dragons-lair-green: #033319;
+    --uab-gold-highlight: #fff2d2;
+    --uab-light-green: #f4fbe7;
+}
+
 body {
     background-color: #f8f9fa;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit;
 }
 
 .header-section {
-    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    background: linear-gradient(135deg, var(--uab-dragons-lair-green) 0%, var(--uab-green) 100%);
+    border-bottom: 4px solid var(--uab-gold);
     color: white;
     padding: 2rem 0;
     margin-bottom: 2rem;
@@ -31,8 +47,8 @@ body {
 }
 
 .stats-badge {
-    background: #e3f2fd;
-    color: #1976d2;
+    background: var(--uab-gold-highlight);
+    color: var(--uab-dragons-lair-green);
     padding: 0.5rem 1rem;
     border-radius: 20px;
     font-size: 0.9rem;
@@ -54,7 +70,7 @@ body {
 }
 
 .table th {
-    background: #f8f9fa;
+    background: var(--uab-light-green);
     border-bottom: 2px solid #dee2e6;
     font-weight: 600;
     color: #495057;
@@ -69,17 +85,17 @@ body {
 
 .faculty-name {
     font-weight: 500;
-    color: #2c3e50;
+    color: var(--uab-dragons-lair-green);
 }
 
 .faculty-link {
-    color: #1976d2;
+    color: var(--uab-green);
     text-decoration: none;
     transition: color 0.2s ease;
 }
 
 .faculty-link:hover {
-    color: #1565c0;
+    color: var(--uab-dragons-lair-green);
     text-decoration: underline;
 }
 
@@ -89,13 +105,13 @@ body {
 }
 
 .email-link {
-    color: #17a2b8;
+    color: var(--uab-green);
     text-decoration: none;
     transition: color 0.2s ease;
 }
 
 .email-link:hover {
-    color: #138496;
+    color: var(--uab-dragons-lair-green);
     text-decoration: underline;
 }
 
@@ -111,12 +127,12 @@ body {
 }
 
 .current-student {
-    color: #28a745 !important;
+    color: var(--uab-green) !important;
     font-weight: 500 !important;
 }
 
 .students .current-student {
-    color: #28a745 !important;
+    color: var(--uab-green) !important;
     font-weight: 500 !important;
 }
 
@@ -137,7 +153,7 @@ body {
 }
 
 .highlight {
-    background-color: #fff3cd;
+    background-color: var(--uab-gold-highlight);
     padding: 0.1rem 0.2rem;
     border-radius: 3px;
     font-weight: 500;
@@ -150,8 +166,8 @@ body {
 }
 
 .btn-group .btn.active {
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: var(--uab-green);
+    border-color: var(--uab-green);
     color: white;
 }
 
@@ -194,7 +210,60 @@ body {
 
 .loading .spinner-border {
     margin-bottom: 1rem;
-} 
+}
+
+/* UAB brand overrides for Bootstrap controls and badges. */
+.btn-primary,
+.btn-success,
+.bg-success,
+.email-badge {
+    background-color: var(--uab-green) !important;
+    border-color: var(--uab-green) !important;
+    color: white !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-success:hover,
+.btn-success:focus {
+    background-color: var(--uab-dragons-lair-green) !important;
+    border-color: var(--uab-dragons-lair-green) !important;
+}
+
+.btn-outline-primary {
+    border-color: var(--uab-green);
+    color: var(--uab-green);
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+    background-color: var(--uab-green);
+    border-color: var(--uab-green);
+    color: white;
+}
+
+.btn-info {
+    background-color: var(--uab-gold);
+    border-color: var(--uab-gold);
+    color: var(--uab-dragons-lair-green);
+}
+
+.btn-info:hover,
+.btn-info:focus {
+    background-color: #e5a500;
+    border-color: #e5a500;
+    color: var(--uab-dragons-lair-green);
+}
+
+.form-control:focus {
+    border-color: var(--uab-green);
+    box-shadow: 0 0 0 0.25rem rgba(26, 86, 50, 0.25);
+}
+
+.text-primary,
+.spinner-border.text-primary {
+    color: var(--uab-green) !important;
+}
 
 /* Research area dropdown styling */
 #researchAreasDropdown {
@@ -259,10 +328,10 @@ body {
 }
 
 .suggestion-item.selected {
-    background-color: #007bff !important;
+    background-color: var(--uab-green) !important;
     color: white !important;
 }
 
 .suggestion-item.selected i {
     color: white !important;
-} 
+}
