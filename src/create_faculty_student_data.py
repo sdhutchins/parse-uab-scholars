@@ -10,8 +10,10 @@ This script combines:
 
 import json
 import re
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Set
+from zoneinfo import ZoneInfo
 
 # All paths relative to project root (parent of src/)
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -239,10 +241,19 @@ def main():
     output_dir = PROJECT_ROOT / "data/processed"
     output_dir.mkdir(exist_ok=True)
     
+    # Record when this website dataset was generated so the deployed page
+    # reports data provenance rather than a Git or server file timestamp.
+    dataset = {
+        "updatedAt": datetime.now(
+            ZoneInfo("America/Chicago")
+        ).isoformat(timespec="seconds"),
+        "faculty": faculty_data,
+    }
+
     # Save combined data
     output_file = output_dir / "faculty_students.json"
     with open(output_file, "w") as f:
-        json.dump(faculty_data, f, indent=2)
+        json.dump(dataset, f, indent=2)
     
     # Print summary statistics
     total_faculty = len(faculty_data)
