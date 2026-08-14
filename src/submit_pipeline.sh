@@ -21,7 +21,17 @@ set -euo pipefail
 
 module load Python/3.11.5-GCCcore-13.2.0
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# Slurm executes a copied script from its spool directory. Use the directory
+# where sbatch was invoked so repository files resolve to the real checkout.
+if [[ -n "${SLURM_SUBMIT_DIR:-}" ]]; then
+    REPO_ROOT="$SLURM_SUBMIT_DIR"
+else
+    SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+    REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+fi
+
+SCRIPT_DIR="$REPO_ROOT/src"
+cd "$REPO_ROOT"
 
 export CHUNK_ID=${SLURM_ARRAY_TASK_ID:-0}
 export CHUNK_TOTAL=128
