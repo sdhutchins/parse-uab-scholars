@@ -57,7 +57,11 @@ def fetch_all_profiles(
 
     # Determine total records with a single-record probe
     probe_payload = {
-        "params": {"by": "text", "type": "user", "text": ""},
+        "params": {
+            "by": "text",
+            "category": "user",
+            "text": "",
+        },
         "pagination": {"startFrom": 0, "perPage": 1},
         "sort": "relevance",
         "filters": filters,
@@ -79,7 +83,11 @@ def fetch_all_profiles(
     ):
         for start in range(0, total, page_size):
             payload = {
-                "params": {"by": "text", "type": "user", "text": ""},
+                "params": {
+                    "by": "text",
+                    "category": "user",
+                    "text": "",
+                },
                 "pagination": {
                     "startFrom": start,
                     "perPage": page_size,
@@ -147,62 +155,59 @@ def fetch_committee_roles(
             pass  # corrupted file, will retry
 
     url = f"{BASE_URL}/teachingActivities/linkedTo"
-    ids_to_try = [profile.get("discoveryUrlId"), discovery_id]
     name = profile.get("firstNameLastName", "Unknown")
     attempts = 0
 
     while attempts < max_retries:
-        for object_id in filter(None, ids_to_try):
-            payload = {
-                "objectId": object_id,
-                "objectType": "user",
-                "pagination": {"perPage": 100, "startFrom": 0},
-                "sort": "dateDesc",
-                "favouritesFirst": True,
-            }
-            try:
-                r = requests.post(
-                    url, headers=HEADERS, json=payload, timeout=20
+        payload = {
+            "objectId": discovery_id,
+            "category": "user",
+            "pagination": {"perPage": 100, "startFrom": 0},
+            "sort": "dateDesc",
+        }
+        try:
+            r = requests.post(
+                url, headers=HEADERS, json=payload, timeout=20
+            )
+            if r.status_code == 200:
+                activities = [
+                    a
+                    for a in r.json().get("resource", [])
+                    if a.get("objectTypeDisplayName")
+                    == "Graduate Committee Participation"
+                ]
+
+                records = _build_committee_records(
+                    activities, discovery_id, name, profile
                 )
-                if r.status_code == 200:
-                    activities = [
-                        a
-                        for a in r.json().get("resource", [])
-                        if a.get("objectTypeDisplayName")
-                        == "Graduate Committee Participation"
-                    ]
+                output_path.write_text(
+                    json.dumps(records, indent=2, ensure_ascii=False),
+                    encoding="utf-8",
+                )
+                status = "empty" if not records else "ok"
+                return discovery_id, status, records
 
-                    records = _build_committee_records(
-                        activities, discovery_id, name, profile
-                    )
-                    output_path.write_text(
-                        json.dumps(records, indent=2, ensure_ascii=False),
-                        encoding="utf-8",
-                    )
-                    status = "empty" if not records else "ok"
-                    return discovery_id, status, records
-
-                elif r.status_code >= 500:
-                    logger.warning(
-                        f"Retry ({attempts + 1}) for {discovery_id} "
-                        f"(HTTP {r.status_code})"
-                    )
-                    time.sleep(sleep_secs)
-                    attempts += 1
-                    continue
-                else:
-                    return (
-                        discovery_id,
-                        f"failed_status_{r.status_code}",
-                        [],
-                    )
-
-            except Exception as exc:
+            if r.status_code >= 500:
                 logger.warning(
-                    f"Network error on {discovery_id}: {exc}"
+                    f"Retry ({attempts + 1}) for {discovery_id} "
+                    f"(HTTP {r.status_code})"
                 )
                 time.sleep(sleep_secs)
                 attempts += 1
+                continue
+
+            return (
+                discovery_id,
+                f"failed_status_{r.status_code}",
+                [],
+            )
+
+        except Exception as exc:
+            logger.warning(
+                f"Network error on {discovery_id}: {exc}"
+            )
+            time.sleep(sleep_secs)
+            attempts += 1
 
     return discovery_id, "max_retries_exceeded", []
 
