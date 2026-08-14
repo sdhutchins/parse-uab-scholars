@@ -50,7 +50,7 @@ at UAB through graduate committee memberships.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/[username]/parse-uab-scholars.git
+   git clone https://github.com/sdhutchins/parse-uab-scholars.git
    cd parse-uab-scholars
    ```
 
