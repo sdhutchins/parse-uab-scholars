@@ -392,6 +392,16 @@ textarea {
     text-align: center;
 }
 
+.site-footer a {
+    color: var(--uab-green);
+    font-weight: 500;
+}
+
+.site-footer a:hover,
+.site-footer a:focus {
+    color: var(--uab-dragons-lair-green);
+}
+
 @media (max-width: 900px) {
     .header-content {
         align-items: flex-start;
