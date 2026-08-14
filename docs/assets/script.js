@@ -564,18 +564,18 @@ class FacultyTable {
         const showingResults = document.getElementById('showingResults');
 
         if (totalFaculty) {
-            totalFaculty.textContent = `Total Faculty: ${this.facultyData.length}`;
+            totalFaculty.textContent = `${this.facultyData.length.toLocaleString()} faculty`;
         }
 
         if (totalStudents) {
             const allStudents = this.facultyData.reduce((sum, faculty) => {
                 return sum + (faculty.students ? faculty.students.split(',').length : 0);
             }, 0);
-            totalStudents.textContent = `Total Students: ${allStudents}`;
+            totalStudents.textContent = `${allStudents.toLocaleString()} students`;
         }
 
         if (showingResults) {
-            showingResults.textContent = `Showing: ${this.filteredData.length} faculty`;
+            showingResults.textContent = `${this.filteredData.length.toLocaleString()} shown`;
         }
     }
 
@@ -681,4 +681,4 @@ function changePageSize(size) {
 // Initialize the table when the page loads
 document.addEventListener('DOMContentLoaded', () => {
     window.facultyTable = new FacultyTable();
-}); 
+});

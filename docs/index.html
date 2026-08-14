@@ -18,123 +18,85 @@
     <link href="assets/styles.css" rel="stylesheet">
 </head>
 <body>
-    <!-- Header Section -->
-    <div class="header-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h1><i class="fas fa-graduation-cap me-3"></i>UAB Faculty Committee Memberships</h1>
-                    <p>Easy way to view all students currently or formerly mentored by faculty at UAB through graduate committee memberships</p>
+    <header class="header-section">
+        <div class="app-container header-content">
+            <div class="header-title">
+                <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+                <div>
+                    <h1>UAB Faculty Committee Memberships</h1>
+                    <p>Explore faculty mentoring and graduate committee relationships.</p>
                 </div>
+            </div>
+            <div class="header-meta">
+                <div class="stats-summary" aria-live="polite">
+                    <span id="totalFaculty">Loading faculty</span>
+                    <span id="totalStudents">Loading students</span>
+                    <span id="showingResults">Loading results</span>
+                </div>
+                <small class="source-note">
+                    Updated August 6, 2025 · Source:
+                    <a href="https://scholars.uab.edu/" target="_blank" rel="noopener noreferrer">UAB Scholars</a>
+                </small>
             </div>
         </div>
-    </div>
+    </header>
 
-    <div class="container">
-        <!-- Search and Filter Section -->
-        <div class="search-section">
-            <div class="row">
-                <div class="col-12">
-                    <div class="row mb-3">
-                        <div class="col-md-6">
-                            <label for="searchInput" class="form-label">
-                                <i class="fas fa-search me-2"></i>Search
-                            </label>
-                            <div class="position-relative">
-                                <input type="text" class="form-control" id="searchInput" 
-                                       placeholder="Faculty, research areas, or students...">
-                                <div id="searchSuggestions" class="position-absolute w-100 bg-white border rounded shadow-sm" style="top: 100%; z-index: 1000; max-height: 200px; overflow-y: auto; display: none;"></div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <label for="researchFilter" class="form-label">Research Area</label>
-                            <div class="dropdown">
-                                <input type="text" class="form-control" id="researchFilter" placeholder="Type or select research area...">
-                                <div class="dropdown-menu w-100" id="researchAreasDropdown" style="max-height: 200px; overflow-y: auto;">
-                                    <!-- Research areas will be populated by JavaScript -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="filter-buttons">
-                        <button class="btn btn-outline-secondary btn-sm" id="clearFilters">
-                            <i class="fas fa-times me-1"></i>Clear Filters
-                        </button>
-                        <button class="btn btn-primary btn-sm" id="selectAll">
-                            <i class="fas fa-check-square me-1"></i>Select All
-                        </button>
-                        <button class="btn btn-outline-primary btn-sm" id="deselectAll">
-                            <i class="fas fa-square me-1"></i>Deselect All
-                        </button>
-                        <button class="btn btn-info btn-sm" id="showSelected">
-                            <i class="fas fa-eye me-1"></i>Show Selected
-                        </button>
-                        <button class="btn btn-success btn-sm" id="downloadCSV">
-                            <i class="fas fa-download me-1"></i>Download CSV
-                        </button>
-                    </div>
+    <main class="app-container">
+        <section class="search-section" aria-label="Search and filters">
+            <div class="search-grid">
+                <div class="position-relative search-field">
+                    <label for="searchInput" class="visually-hidden">Search faculty records</label>
+                    <i class="fas fa-search search-icon" aria-hidden="true"></i>
+                    <input type="text" class="form-control" id="searchInput"
+                           placeholder="Search faculty, research areas, or students...">
+                    <div id="searchSuggestions" class="position-absolute w-100 bg-white border rounded shadow-sm" style="top: 100%; z-index: 1000; max-height: 200px; overflow-y: auto; display: none;"></div>
                 </div>
-            </div>
-            
-            <!-- Statistics -->
-            <div class="row mt-3">
-                <div class="col-12">
-                    <span class="stats-badge" id="totalFaculty">
-                        <i class="fas fa-users me-1"></i>Total Faculty: Loading...
-                    </span>
-                    <span class="stats-badge" id="totalStudents">
-                        <i class="fas fa-user-graduate me-1"></i>Total Students: Loading...
-                    </span>
-                    <span class="stats-badge" id="showingResults">
-                        <i class="fas fa-eye me-1"></i>Showing: Loading...
-                    </span>
-                </div>
-            </div>
-
-            <!-- Legend -->
-            <div class="row mt-3">
-                <div class="col-12">
-                    <div class="d-flex flex-wrap align-items-center gap-3">
-                        <small class="text-muted">Legend:</small>
-                        <span class="badge email-badge px-2 py-1">Email</span>
-                        <span class="badge bg-success px-2 py-1">Current Students</span>
-                        <span class="badge bg-secondary px-2 py-1">On Committee/Graduated/Previously On Committee</span>
+                <div class="dropdown">
+                    <label for="researchFilter" class="visually-hidden">Filter by research area</label>
+                    <input type="text" class="form-control" id="researchFilter"
+                           placeholder="Filter by research area...">
+                    <div class="dropdown-menu w-100" id="researchAreasDropdown" style="max-height: 200px; overflow-y: auto;">
+                        <!-- Research areas will be populated by JavaScript -->
                     </div>
                 </div>
             </div>
 
-            <!-- Disclaimer Alert -->
-            <div class="row mt-3">
-                <div class="col-12">
-                    <div class="alert alert-warning" role="alert">
-                        <i class="fas fa-exclamation-triangle me-2"></i>
-                        <strong>Last Updated:</strong> August 6, 2025 | 
-                        <strong>Data Source:</strong> All information is publicly available from 
-                        <a href="https://scholars.uab.edu/" target="_blank" class="alert-link">UAB Scholars</a>. 
-                        This table provides a consolidated view of faculty committee memberships. An easy way to view all students currently or formerly mentored by faculty at UAB through graduate committee memberships.
-                    </div>
+            <div class="toolbar">
+                <div class="filter-buttons" aria-label="Table selection controls">
+                    <button class="btn btn-outline-secondary btn-sm" id="clearFilters">
+                        <i class="fas fa-times me-1" aria-hidden="true"></i>Clear
+                    </button>
+                    <button class="btn btn-outline-primary btn-sm" id="selectAll">
+                        <i class="fas fa-check-square me-1" aria-hidden="true"></i>Select all
+                    </button>
+                    <button class="btn btn-outline-primary btn-sm" id="deselectAll">
+                        <i class="fas fa-square me-1" aria-hidden="true"></i>Deselect all
+                    </button>
+                    <button class="btn btn-info btn-sm" id="showSelected">
+                        <i class="fas fa-eye me-1" aria-hidden="true"></i>Show selected
+                    </button>
                 </div>
+                <button class="btn btn-primary btn-sm" id="downloadCSV">
+                    <i class="fas fa-download me-1" aria-hidden="true"></i>Download CSV
+                </button>
             </div>
 
-            <!-- Pagination Controls -->
-            <div class="row mt-3">
-                <div class="col-md-6">
-                    <small class="text-muted">
-                        Showing <span id="showingStart">1</span>-<span id="showingEnd">20</span> of <span id="totalResults">0</span> faculty
-                    </small>
-                </div>
-                <div class="col-md-6 text-end">
-                    <div class="btn-group btn-group-sm">
-                        <button id="prevPage" class="btn btn-outline-primary" disabled>
-                            <i class="fas fa-chevron-left"></i>
+            <div class="pagination-row">
+                <small class="result-range">
+                    <span id="showingStart">1</span>-<span id="showingEnd">20</span>
+                    of <span id="totalResults">0</span>
+                </small>
+                <div class="pagination-controls">
+                    <div class="btn-group btn-group-sm" aria-label="Page navigation">
+                        <button id="prevPage" class="btn btn-outline-primary" aria-label="Previous page" disabled>
+                            <i class="fas fa-chevron-left" aria-hidden="true"></i>
                         </button>
                         <span id="pageInfo" class="btn btn-outline-secondary disabled">Page 1</span>
-                        <button id="nextPage" class="btn btn-outline-primary">
-                            <i class="fas fa-chevron-right"></i>
+                        <button id="nextPage" class="btn btn-outline-primary" aria-label="Next page">
+                            <i class="fas fa-chevron-right" aria-hidden="true"></i>
                         </button>
                     </div>
-                    <div class="btn-group btn-group-sm ms-2">
+                    <div class="btn-group btn-group-sm page-size" aria-label="Rows per page">
                         <button class="btn btn-outline-secondary" onclick="changePageSize(10)">10</button>
                         <button class="btn btn-outline-secondary active" onclick="changePageSize(20)">20</button>
                         <button class="btn btn-outline-secondary" onclick="changePageSize(50)">50</button>
@@ -142,7 +104,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
 
         <!-- Table Section -->
         <div class="table-container">
@@ -150,21 +112,11 @@
                 <table class="table table-hover" id="facultyTable">
                     <thead>
                         <tr>
-                            <th style="width: 5%;">
-                                <i class="fas fa-check-square me-2"></i>
-                            </th>
-                            <th style="width: 15%;">
-                                <i class="fas fa-user-tie me-2"></i>Faculty
-                            </th>
-                            <th style="width: 10%;">
-                                <i class="fas fa-envelope me-2"></i>Email
-                            </th>
-                            <th style="width: 25%;">
-                                <i class="fas fa-flask me-2"></i>Research Areas
-                            </th>
-                            <th style="width: 45%;">
-                                <i class="fas fa-user-graduate me-2"></i>Committee Memberships
-                            </th>
+                            <th style="width: 4%;"><span class="visually-hidden">Select</span></th>
+                            <th style="width: 16%;">Faculty</th>
+                            <th style="width: 13%;">Email</th>
+                            <th style="width: 25%;">Research areas</th>
+                            <th style="width: 42%;">Committee memberships</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -184,20 +136,11 @@
             </div>
         </div>
 
-        <!-- Footer -->
-        <div class="row mt-4 mb-4">
-            <div class="col-12 text-center">
-                <p class="text-muted">
-                    <small>
-                        <i class="fas fa-info-circle me-1"></i>
-                        Data extracted from UAB Scholars profiles and graduate committee records. This data exists on individual UAB Scholars pages but provides an easy way to view all students currently or formerly mentored by faculty at UAB.
-                        <br>
-                        Last updated: August 6, 2025
-                    </small>
-                </p>
-            </div>
-        </div>
-    </div>
+        <footer class="site-footer">
+            <div>Faculty profiles and graduate committee records consolidated from UAB Scholars.</div>
+            <div>This independent page is not affiliated with or endorsed by UAB.</div>
+        </footer>
+    </main>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

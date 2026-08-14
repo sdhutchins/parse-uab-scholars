@@ -1,15 +1,22 @@
-/* Custom styles for UAB Faculty Committee Memberships Table */
+/* Astryx-inspired styles for the UAB faculty committee table. */
 :root {
     --uab-green: #1a5632;
     --uab-gold: #fdb913;
     --uab-dragons-lair-green: #033319;
     --uab-gold-highlight: #fff2d2;
     --uab-light-green: #f4fbe7;
+    --surface: #ffffff;
+    --page-background: #f4f6f4;
+    --border: #dfe4e0;
+    --text: #1e2722;
+    --muted: #657069;
 }
 
 body {
-    background-color: #f8f9fa;
+    background: var(--page-background);
+    color: var(--text);
     font-family: 'Roboto', Arial, sans-serif;
+    margin: 0;
 }
 
 button,
@@ -19,204 +26,146 @@ textarea {
     font-family: inherit;
 }
 
+.app-container {
+    margin: 0 auto;
+    max-width: 1600px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
 .header-section {
-    background: linear-gradient(135deg, var(--uab-dragons-lair-green) 0%, var(--uab-green) 100%);
-    border-bottom: 4px solid var(--uab-gold);
+    background: var(--uab-green);
     color: white;
-    padding: 2rem 0;
-    margin-bottom: 2rem;
+    margin-bottom: 1.25rem;
+    padding: 1.25rem 0;
+}
+
+.header-content,
+.header-title,
+.stats-summary,
+.toolbar,
+.pagination-row,
+.pagination-controls {
+    align-items: center;
+    display: flex;
+}
+
+.header-content {
+    gap: 2rem;
+    justify-content: space-between;
+}
+
+.header-title {
+    gap: 0.875rem;
+    min-width: 0;
+}
+
+.header-title > i {
+    color: var(--uab-gold);
+    font-size: 1.75rem;
 }
 
 .header-section h1 {
+    font-size: 1.45rem;
     font-weight: 600;
-    margin-bottom: 0.5rem;
+    line-height: 1.2;
+    margin: 0;
 }
 
 .header-section p {
-    font-size: 1.1rem;
-    opacity: 0.9;
-    margin-bottom: 0;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.9rem;
+    margin: 0.2rem 0 0;
+}
+
+.stats-summary {
+    flex: 0 0 auto;
+    font-size: 0.8rem;
+    gap: 0;
+    white-space: nowrap;
+}
+
+.stats-summary span + span::before {
+    color: rgba(255, 255, 255, 0.45);
+    content: '·';
+    margin: 0 0.65rem;
+}
+
+.header-meta {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.search-section,
+.table-container {
+    background: var(--surface);
+    border: 1px solid var(--border);
 }
 
 .search-section {
-    background: white;
-    padding: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    margin-bottom: 1rem;
+    border-radius: 10px 10px 0 0;
+    padding: 0.875rem 1rem;
 }
 
-.stats-badge {
-    background: var(--uab-gold-highlight);
-    color: var(--uab-dragons-lair-green);
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
+.search-grid {
+    display: grid;
+    gap: 0.75rem;
+    grid-template-columns: minmax(0, 2fr) minmax(240px, 1fr);
+}
+
+.search-field .form-control {
+    padding-left: 2.35rem;
+}
+
+.search-icon {
+    color: var(--muted);
+    left: 0.85rem;
+    pointer-events: none;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+
+.form-control {
+    border-color: #cfd6d1;
+    border-radius: 7px;
     font-size: 0.9rem;
-    font-weight: 500;
-    margin-right: 1rem;
-    margin-bottom: 0.5rem;
-    display: inline-block;
+    min-height: 40px;
 }
 
-.table-container {
-    background: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    overflow: hidden;
+.form-control:focus {
+    border-color: var(--uab-green);
+    box-shadow: 0 0 0 0.2rem rgba(26, 86, 50, 0.16);
 }
 
-.table {
-    margin-bottom: 0;
-}
-
-.table th {
-    background: var(--uab-light-green);
-    border-bottom: 2px solid #dee2e6;
-    font-weight: 600;
-    color: #495057;
-    padding: 1rem;
-}
-
-.table td {
-    padding: 0.75rem 1rem;
-    vertical-align: top;
-    border-bottom: 1px solid #dee2e6;
-}
-
-.faculty-name {
-    font-weight: 500;
-    color: var(--uab-dragons-lair-green);
-}
-
-.faculty-link {
-    color: var(--uab-green);
-    text-decoration: none;
-    transition: color 0.2s ease;
-}
-
-.faculty-link:hover {
-    color: var(--uab-dragons-lair-green);
-    text-decoration: underline;
-}
-
-.faculty-link .fa-external-link-alt {
-    font-size: 0.8em;
-    margin-left: 0.25rem;
-}
-
-.email-link {
-    color: var(--uab-green);
-    text-decoration: none;
-    transition: color 0.2s ease;
-}
-
-.email-link:hover {
-    color: var(--uab-dragons-lair-green);
-    text-decoration: underline;
-}
-
-.research-areas {
-    font-size: 0.9rem;
-    line-height: 1.4;
-    color: #666;
-}
-
-.students {
-    font-size: 0.9rem;
-    line-height: 1.4;
-}
-
-.current-student {
-    color: var(--uab-green) !important;
-    font-weight: 500 !important;
-}
-
-.students .current-student {
-    color: var(--uab-green) !important;
-    font-weight: 500 !important;
-}
-
-.no-results {
-    text-align: center;
-    padding: 2rem;
-    color: #6c757d;
-    font-style: italic;
+.toolbar {
+    border-bottom: 1px solid var(--border);
+    gap: 1rem;
+    justify-content: space-between;
+    margin-top: 0.75rem;
+    padding-bottom: 0.75rem;
 }
 
 .filter-buttons {
-    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
 }
 
-.filter-buttons .btn {
-    margin-right: 0.5rem;
-    margin-bottom: 0.5rem;
-}
-
-.highlight {
-    background-color: var(--uab-gold-highlight);
-    padding: 0.1rem 0.2rem;
-    border-radius: 3px;
+.btn {
+    border-radius: 7px;
     font-weight: 500;
 }
 
-/* Pagination styling */
-.btn-group .btn {
-    border-radius: 0.375rem;
-    margin: 0 0.125rem;
+.filter-buttons .btn {
+    margin: 0;
 }
 
-.btn-group .btn.active {
-    background-color: var(--uab-green);
-    border-color: var(--uab-green);
-    color: white;
-}
-
-.btn-group .btn:disabled {
-    opacity: 0.6;
-    cursor: not-allowed;
-}
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .header-section {
-        padding: 1.5rem 0;
-    }
-    
-    .header-section h1 {
-        font-size: 1.75rem;
-    }
-    
-    .search-section {
-        padding: 0.75rem;
-    }
-    
-    .table th,
-    .table td {
-        padding: 0.5rem;
-        font-size: 0.9rem;
-    }
-    
-    .stats-badge {
-        margin-right: 0.5rem;
-        margin-bottom: 0.25rem;
-        font-size: 0.8rem;
-    }
-}
-
-.loading {
-    text-align: center;
-    padding: 2rem;
-}
-
-.loading .spinner-border {
-    margin-bottom: 1rem;
-}
-
-/* UAB brand overrides for Bootstrap controls and badges. */
 .btn-primary,
-.btn-success,
-.bg-success,
-.email-badge {
+.btn-success {
     background-color: var(--uab-green) !important;
     border-color: var(--uab-green) !important;
     color: white !important;
@@ -230,108 +179,272 @@ textarea {
     border-color: var(--uab-dragons-lair-green) !important;
 }
 
-.btn-outline-primary {
-    border-color: var(--uab-green);
+.btn-outline-primary,
+.btn-info {
+    background: white;
+    border-color: #a8b9ae;
     color: var(--uab-green);
 }
 
 .btn-outline-primary:hover,
-.btn-outline-primary:focus {
-    background-color: var(--uab-green);
+.btn-outline-primary:focus,
+.btn-info:hover,
+.btn-info:focus {
+    background: var(--uab-light-green);
     border-color: var(--uab-green);
-    color: white;
+    color: var(--uab-dragons-lair-green);
 }
 
-.btn-info {
-    background-color: var(--uab-gold);
+.btn-warning,
+.btn-warning:hover,
+.btn-warning:focus {
+    background: var(--uab-gold);
     border-color: var(--uab-gold);
     color: var(--uab-dragons-lair-green);
 }
 
-.btn-info:hover,
-.btn-info:focus {
-    background-color: #e5a500;
-    border-color: #e5a500;
-    color: var(--uab-dragons-lair-green);
+.source-note {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 0.72rem;
+    text-align: right;
 }
 
-.form-control:focus {
+.source-note a {
+    color: white;
+    font-weight: 700;
+}
+
+.pagination-row {
+    justify-content: space-between;
+    padding-top: 0.7rem;
+}
+
+.result-range {
+    color: var(--muted);
+}
+
+.pagination-controls {
+    gap: 0.5rem;
+}
+
+.btn-group .btn {
+    margin: 0;
+}
+
+.btn-group .btn.active {
+    background: var(--uab-green);
     border-color: var(--uab-green);
-    box-shadow: 0 0 0 0.25rem rgba(26, 86, 50, 0.25);
+    color: white;
 }
 
-.text-primary,
-.spinner-border.text-primary {
+.btn-group .btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.65;
+}
+
+.table-container {
+    border-radius: 0 0 10px 10px;
+    border-top: 0;
+    overflow: hidden;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.table {
+    margin: 0;
+    min-width: 900px;
+}
+
+.table th {
+    background: var(--uab-light-green);
+    border-bottom: 1px solid var(--border);
+    color: #4f5a53;
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    padding: 0.75rem 0.8rem;
+    text-transform: none;
+}
+
+.table td {
+    border-bottom: 1px solid #e8ebe9;
+    font-size: 0.84rem;
+    line-height: 1.4;
+    padding: 0.72rem 0.8rem;
+    vertical-align: top;
+}
+
+.table tbody tr:hover > * {
+    background: #fafcfb;
+}
+
+.faculty-name {
+    color: var(--uab-dragons-lair-green);
+    font-weight: 500;
+}
+
+.faculty-link,
+.email-link {
+    color: var(--uab-green);
+    text-decoration: none;
+}
+
+.faculty-link:hover,
+.email-link:hover {
+    color: var(--uab-dragons-lair-green);
+    text-decoration: underline;
+}
+
+.faculty-link .fa-external-link-alt {
+    font-size: 0.75em;
+    margin-left: 0.2rem;
+}
+
+.research-areas,
+.students {
+    color: #475149;
+}
+
+.current-student {
     color: var(--uab-green) !important;
+    font-weight: 600 !important;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
 }
 
-/* Research area dropdown styling */
+.highlight {
+    background: var(--uab-gold-highlight);
+    border-radius: 2px;
+    font-weight: 500;
+    padding: 0.05rem 0.15rem;
+}
+
+.no-results,
+.loading {
+    color: var(--muted);
+    padding: 2rem;
+    text-align: center;
+}
+
+.loading .spinner-border {
+    color: var(--uab-green) !important;
+    margin-bottom: 0.75rem;
+}
+
 #researchAreasDropdown {
-    max-height: 200px !important;
+    border: 1px solid #cfd6d1;
+    border-radius: 7px;
+    box-shadow: 0 8px 20px rgba(3, 51, 25, 0.12);
+    max-height: 240px !important;
     overflow-y: auto !important;
     width: 100% !important;
-    border: 1px solid #ced4da;
-    border-radius: 0.375rem;
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
 
 #researchAreasDropdown .dropdown-item {
-    padding: 0.5rem 1rem;
-    border-bottom: 1px solid #f8f9fa;
+    border-bottom: 1px solid #edf0ee;
     cursor: pointer;
-    transition: background-color 0.15s ease-in-out;
+    font-size: 0.85rem;
+    padding: 0.5rem 0.75rem;
 }
 
-#researchAreasDropdown .dropdown-item:hover {
-    background-color: #f8f9fa;
+#researchAreasDropdown .dropdown-item:hover,
+.suggestion-item:hover {
+    background: var(--uab-light-green) !important;
 }
 
-#researchAreasDropdown .dropdown-item:last-child {
-    border-bottom: none;
+#researchAreasDropdown .dropdown-item:last-child,
+.suggestion-item:last-child {
+    border-bottom: 0 !important;
 }
 
-/* Custom scrollbar for the dropdown */
-#researchAreasDropdown::-webkit-scrollbar {
-    width: 8px;
-}
-
-#researchAreasDropdown::-webkit-scrollbar-track {
-    background: #f1f1f1;
-    border-radius: 4px;
-}
-
-#researchAreasDropdown::-webkit-scrollbar-thumb {
-    background: #c1c1c1;
-    border-radius: 4px;
-}
-
-#researchAreasDropdown::-webkit-scrollbar-thumb:hover {
-    background: #a8a8a8;
-}
-
-/* Search suggestions styling */
 #searchSuggestions {
-    border: 1px solid #dee2e6;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-color: #cfd6d1 !important;
+    box-shadow: 0 8px 20px rgba(3, 51, 25, 0.12) !important;
 }
 
 .suggestion-item {
-    transition: background-color 0.2s ease;
-}
-
-.suggestion-item:hover {
-    background-color: #f8f9fa !important;
-}
-
-.suggestion-item:last-child {
-    border-bottom: none !important;
+    font-size: 0.85rem;
+    transition: background-color 0.15s ease;
 }
 
 .suggestion-item.selected {
-    background-color: var(--uab-green) !important;
+    background: var(--uab-green) !important;
     color: white !important;
 }
 
 .suggestion-item.selected i {
     color: white !important;
+}
+
+.site-footer {
+    color: var(--muted);
+    font-size: 0.75rem;
+    padding: 1rem 0 1.5rem;
+    text-align: center;
+}
+
+@media (max-width: 900px) {
+    .header-content {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .search-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .header-meta {
+        align-items: flex-start;
+    }
+
+    .source-note {
+        text-align: left;
+    }
+}
+
+@media (max-width: 600px) {
+    .app-container {
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+
+    .header-section {
+        padding: 1rem 0;
+    }
+
+    .header-section h1 {
+        font-size: 1.2rem;
+    }
+
+    .header-section p {
+        font-size: 0.8rem;
+    }
+
+    .stats-summary {
+        flex-wrap: wrap;
+        font-size: 0.75rem;
+        white-space: normal;
+    }
+
+    .toolbar,
+    .pagination-row {
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .toolbar > #downloadCSV {
+        align-self: flex-start;
+    }
+
+    .pagination-controls {
+        align-items: flex-start;
+        flex-wrap: wrap;
+    }
+
+    .page-size {
+        margin-left: 0 !important;
+    }
 }
