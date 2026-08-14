@@ -252,6 +252,13 @@ textarea {
     overflow-x: auto;
 }
 
+.data-note {
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.78rem;
+    padding: 0.65rem 0.8rem;
+}
+
 .table {
     margin: 0;
     min-width: 900px;
