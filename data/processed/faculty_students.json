@@ -209,9 +209,9 @@
   {
     "discoveryId": "1504",
     "userName": "Aimee Holland",
-    "researchAreas": "Nursing, Public Health and Health Services, Obstetrics and Gynaecology, Educational Administration, Management and Leadership",
+    "researchAreas": "",
     "email": "aimeeholland@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1504-aimee-holland",
+    "scholarsUrl": null,
     "students": "Janice D Harden, Brittany J Munger",
     "currentStudents": [
       "Janice D Harden"
@@ -241,9 +241,9 @@
   {
     "discoveryId": "2400",
     "userName": "Alan Eberhardt",
-    "researchAreas": "Biomedical Engineering, Mechanical Engineering, Human Movement and Sports Sciences, Clinical Sciences, Materials Engineering, Dentistry",
+    "researchAreas": "",
     "email": "aeberhar@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2400-alan-eberhardt",
+    "scholarsUrl": null,
     "students": "Christopher D Morgan, Jonathan Daniel Hill, Erica N Schilling, Yongzhe Yan, John D Easton, Christopher J Sage, William A Brayer, Ezzuddin Abuhussein, Alexander Miles Levy, Kayla Rettig",
     "currentStudents": [
       "Christopher D Morgan",
@@ -254,9 +254,9 @@
   {
     "discoveryId": "973",
     "userName": "Alan Percy",
-    "researchAreas": "Clinical Sciences, Neurosciences, Cognitive Sciences, Paediatrics and Reproductive Medicine, Genetics, Psychology",
+    "researchAreas": "",
     "email": "apercy@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/973-alan-percy",
+    "scholarsUrl": null,
     "students": "Helen K Root, Kelsey C Patterson, Natasha L Pacheco, John M Rutherford, Christopher A Chapleau, Claudia Campo, Ingrid M. Hopkins",
     "currentStudents": [],
     "searchKeywords": "Brain Disorders Clinical Research Clinical Trials and Supportive Activities Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Neurodegenerative Neurosciences Orphan Drug Pediatric Rare Diseases Rett Syndrome Women's Health"
@@ -494,9 +494,9 @@
   {
     "discoveryId": "526",
     "userName": "Amitkumar Mehta",
-    "researchAreas": "Oncology and Carcinogenesis, Clinical Sciences, Cardiorespiratory Medicine and Haematology, Other Medical and Health Sciences, Public Health and Health Services, Paediatrics and Reproductive Medicine",
+    "researchAreas": "",
     "email": "anmehta@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/526-amitkumar-mehta",
+    "scholarsUrl": null,
     "students": "Alana Franceski",
     "currentStudents": [],
     "searchKeywords": "Biotechnology Cancer Clinical Research Clinical Trials and Supportive Activities Gene Therapy Gene Therapy Clinical Trials Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Hematology Infectious Diseases Lymphatic Research Lymphoma Orphan Drug Patient Safety Rare Diseases"
@@ -600,7 +600,7 @@
   {
     "discoveryId": "5118",
     "userName": "Anand Iyer",
-    "researchAreas": "Clinical Sciences, Public Health and Health Services, Cardiorespiratory Medicine and Haematology, Nursing",
+    "researchAreas": "Clinical Sciences, Public Health and Health Services, Cardiorespiratory Medicine and Haematology, Nursing, Geriatrics and Gerontology, Intensive Care, Operations Research",
     "email": null,
     "scholarsUrl": "https://scholars.uab.edu/5118-anand-iyer",
     "students": "Jun Yeong Byun, Lanier O'Hare",
@@ -851,7 +851,7 @@
   {
     "discoveryId": "7931",
     "userName": "Angela Sullivan",
-    "researchAreas": "Mental Health",
+    "researchAreas": "Mental Health, Education Assessment and Evaluation",
     "email": "amsulli@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/7931-angela-sullivan",
     "students": "Herbert A Wilkerson, Claudia S Follette",
@@ -1112,6 +1112,16 @@
     "searchKeywords": "Biodefense Duchenne/ Becker Muscular Dystrophy Genetics Human Genome Kidney Disease Muscular Dystrophy Orphan Drug Pediatric Research Initiative Physical Activity Physical Injury - Accidents and Adverse Effects Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Nonembryonic - Non-Human Wound Healing and Care Kidney Disease"
   },
   {
+    "discoveryId": "19868",
+    "userName": "Aoyjai Montgomery",
+    "researchAreas": "",
+    "email": "aoyjai@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/19868-aoyjai-montgomery",
+    "students": "Asiah Alfreda Ruffin",
+    "currentStudents": [],
+    "searchKeywords": "Behavioral and Social Science Biodefense Brain Disorders Chronic Pain Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Depression Emerging Infectious Diseases Infectious Diseases Mental Health Pain Research Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID"
+  },
+  {
     "discoveryId": "2431",
     "userName": "Arie Nakhmani",
     "researchAreas": "Clinical Sciences, Electrical and Electronic Engineering, Oncology and Carcinogenesis, Cognitive Sciences, Neurosciences, Artificial Intelligence and Image Processing",
@@ -1183,7 +1193,7 @@
     "userName": "Ashley Jones",
     "researchAreas": "",
     "email": "ashleymj@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/5656-ashley-jones",
+    "scholarsUrl": null,
     "students": "Deamber Harris, Laurie E Christolear",
     "currentStudents": [
       "Laurie E Christolear"
@@ -1209,6 +1219,16 @@
     "students": "Mokshad P Gaonkar",
     "currentStudents": [],
     "searchKeywords": "Aging Biotechnology Clinical Research Coronaviruses Dental/Oral and Craniofacial Disease Emerging Infectious Diseases Health Disparities Hematology Infectious Diseases Kidney Disease Minority Health Patient Safety Prevention Rare Diseases Sepsis Sexually Transmitted Infections Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Minority Health Rural Health Sexually Transmitted Infections Social Determinants of Health Women's Health"
+  },
+  {
+    "discoveryId": "2488",
+    "userName": "Asim Bej",
+    "researchAreas": "Microbiology, Food Sciences, Forensic Biology, Environmental Biotechnology Diagnostics, Biosensors",
+    "email": "abej@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/2488-asim-bej",
+    "students": "Amber M Richardson, George Brian Hadley Green, Matthew David Kuhl, Alex D Dawson",
+    "currentStudents": [],
+    "searchKeywords": "Biotechnology Digestive Diseases Genetics Microbiome Nutrition Obesity Prevention Women's Health"
   },
   {
     "discoveryId": "17185",
@@ -1411,9 +1431,9 @@
   {
     "discoveryId": "7063",
     "userName": "Blake Hildreth",
-    "researchAreas": "Veterinary Sciences, Biochemistry and Cell Biology, Clinical Sciences, Oncology and Carcinogenesis, Pathology, excl. Oral Pathology, Genetics",
+    "researchAreas": "",
     "email": "hildretb@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/7063-blake-hildreth",
+    "scholarsUrl": null,
     "students": "Ayla Lyn Vaughn Embs, Jonathan Moye, Christina Ruth Larson, Leah Gehrs, Teresa Chiyanne Beamon, Muthya Pragun Acharya, Nayonika Mukherjee, Mahak Bhargava, Maria Fernanda Salcedo Noriega, Tyler Page Freeland, John B Echols, Arthur Willgoos Meehan, Alexis M Murawski, Ayushi Mandloi, Francesca Raquel Dempsey, Santhosh Kumar Karthikeyan, Sarah M Thomas, Caitlin Harvey, Kai Chen, Lance Dylan Reynolds, Christopher Ramirez Livelo, Seok Won Choi",
     "currentStudents": [
       "John B Echols",
@@ -1425,9 +1445,9 @@
   {
     "discoveryId": "16453",
     "userName": "Bo-Ruei Chen",
-    "researchAreas": "Biochemistry and Cell Biology, Evolutionary Biology, Genetics, Clinical Sciences, Oncology and Carcinogenesis, Medicinal and Biomolecular Chemistry",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/16453-boruei-chen",
+    "scholarsUrl": null,
     "students": "Nghi Doan Phuong Dang, Lance Dylan Reynolds",
     "currentStudents": [],
     "searchKeywords": ""
@@ -1708,9 +1728,9 @@
   {
     "discoveryId": "8638",
     "userName": "Brittney Randolph",
-    "researchAreas": "Clinical Sciences, Cognitive Sciences",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/8638-brittney-randolph",
+    "scholarsUrl": null,
     "students": "Alena C Borgatti, Emma Botelho",
     "currentStudents": [],
     "searchKeywords": ""
@@ -1788,9 +1808,9 @@
   {
     "discoveryId": "2727",
     "userName": "Burel Goodin",
-    "researchAreas": "Clinical Sciences, Public Health and Health Services, Neurosciences, Psychology, Pharmacology and Pharmaceutical Sciences, Biochemistry and Cell Biology",
+    "researchAreas": "",
     "email": "bgoodin1@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2727-burel-goodin",
+    "scholarsUrl": null,
     "students": "Caroline K Webb, Corinne T Evans, Daniel A Kusko, Tolulope Adetayo, Pavithra A Thomas, Asia Wiggins, Demetria Pizano, Shirlacia Gray, Pavithra A Thomas, Tolulope Adetayo, Joanna Michelle Hobson, Malcolm C Barker Kamps, Jason Blake, Shannon Renee Gilstrap, Elizabeth Susan Hawes, Tiffany D Tucker, Emma Botelho, Alena C Borgatti, Yunus Bayramoglu, Kathleen Sykes Hodgin, Pamela Jackson, Gabrielle F Gloston, Kristina B McMahan, Cesar E Gonzalez, Sof\u00eda Mildrum Chana, Kathryn L Prendergast, Corinne T Evans, Keith R Chichester, Daniel A Kusko, Amani Norling, Demario Seayonquez Overstreet, Salvador Alejandro Lopez, Michelle Sisson, Malcolm C Barker Kamps, Kathryn A Thomspon, Sangeeta Nair, Larissa J Strath, Stephanie C Mueller, Christina M D'Angelo, Michael A Owens, Samantha P Schiavon, Terence M Penn, Stacie K Yates, Lindsey C Elliott, Kathryn A Thomspon, Mary K Lynch, Samantha K Henry, Christian David Clesi, Lauren Bolden, Allyson L Varley, Meredith A Henry, Michael A Owens, Christopher B Thorne, Caroline L Lassen Greene, Hailey W Bulls, Jodi Paul, Angela J Rogers, Matthew S Herbert, Juliette Galindo",
     "currentStudents": [
       "Caroline K Webb",
@@ -2167,9 +2187,9 @@
   {
     "discoveryId": "694",
     "userName": "Chander Raman",
-    "researchAreas": "Immunology, Biochemistry and Cell Biology, Medicinal and Biomolecular Chemistry, Medical Biochemistry and Metabolomics, Physiology, Medical Physiology, Autoimmunity",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/694-chander-raman",
+    "scholarsUrl": null,
     "students": "Monica Michelle Moran, Radomir Slominski, Kathryn Sullivan, Ching-En Lee, Francesca Luca, Kyle H Cichos, Kathryn Sullivan, Malik Rashaun Seals, Fatima alduraibi, Morgan E Greene, Trevor Joseph Blain, Seok Won Choi, Valeriya Kuznetsova, Samuel J Duesman, Nicole J Gallups, Mildred Perez, Carla J Shepard, Jacob K Files, Matthew D Smith, Ashley N Wimer, Brandon J Pope, Vishal Sharma, Virginia Camacho, Aubrey M Schonhoff, Rachael M Orlandella, Jerome Moulden, Huixian Hong, Rachel Jimenez, Molly E Tyner, Jennie Hamilton, Marvin Q Bowlin, Sara A Gibson, Tahseen Nasti, Sara L Stone, Kirsten S Neeck, Arthur J Vanvalkenburg, Yudong Liu, Mark S Moehle, Catherine H Poholek, Hao Li, Yanna Ding, Amber L Buel, Kevin S Cashman, Donald J McGuire, Wen-I Yeh, Sangyong Hong, Matthew M Halpert, John H Wang, Nicholas Jones, Ti He, Jillian E Adams, Rita J Luther, Robert Axtell, Rodney G King, Brantley Herrin",
     "currentStudents": [
       "Radomir Slominski"
@@ -2276,9 +2296,9 @@
   {
     "discoveryId": "4354",
     "userName": "Charles Watkins",
-    "researchAreas": "Inorganic Chemistry, Other Chemical Sciences, Physical Chemistry, Structural, Organic Chemistry, Medicinal and Biomolecular Chemistry, Biochemistry and Cell Biology",
+    "researchAreas": "",
     "email": "watkins@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/4354-charles-watkins",
+    "scholarsUrl": null,
     "students": "Sheritta M Cooks, Justin T Sheff, Justin T Sheff, Chammie Y Richey, Christina R Richey, Jason L Freeman, Anthony J Lang, Kai Chen, Kai Chen, Anthony J Lang, Phillip M Smart, Andrew R Gallian, Samuel B Owens, Abha A Kaisare, Anthony P Gies, Rachel H Graves",
     "currentStudents": [],
     "searchKeywords": ""
@@ -2310,7 +2330,7 @@
   {
     "discoveryId": "17991",
     "userName": "Chen Huang",
-    "researchAreas": "Oncology and Carcinogenesis, Psychology, Cognitive Sciences, Biochemistry and Cell Biology, Clinical Sciences, Neurosciences",
+    "researchAreas": "Cancer Genetics, Bioinformatics, Systems Biology",
     "email": "huangc@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/17991-chen-huang",
     "students": "Araf Mahmud, Stephen Opoku, Cody R Dotson, Monima Anam, Radomir Slominski, Kristen Coutinho",
@@ -2322,9 +2342,9 @@
   {
     "discoveryId": "6207",
     "userName": "Chen Lin",
-    "researchAreas": "Clinical Sciences, Neurosciences, Cardiorespiratory Medicine and Haematology, Human Movement and Sports Sciences, Psychology, Cognitive Sciences",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/6207-chen-lin",
+    "scholarsUrl": null,
     "students": "Hamad Khalid Bin shuwayyi, Hely Div Nanavati, Zhuobin Huang",
     "currentStudents": [],
     "searchKeywords": ""
@@ -2514,7 +2534,7 @@
   {
     "discoveryId": "18519",
     "userName": "Christopher Ballmann",
-    "researchAreas": "Exercise Physiology, Music Therapy, Nutritional Physiology, Clinical and Sports Nutrition, Autonomic Nervous System, Human Movement and Sports Sciences, Cardiology, Cardiovascular Diseases",
+    "researchAreas": "Exercise Physiology, Music Therapy, Clinical and Sports Nutrition, Human Movement and Sports Sciences, Biological Psychology, Neuropsychology, Psychopharmacology, Physiological Psychology",
     "email": "cgb0002@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/18519-christopher-ballmann",
     "students": "Emily Susanne Gaddy, Cedric A Edoh, Alexandra Marie Elgin, Thomas Case",
@@ -2655,9 +2675,9 @@
   {
     "discoveryId": "1816",
     "userName": "Christy Lemak",
-    "researchAreas": "Public Health and Health Services, Policy and Administration, Business and Management, Clinical Sciences, Psychology",
+    "researchAreas": "",
     "email": "lemak@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1816-christy-lemak",
+    "scholarsUrl": null,
     "students": "Marjorie Saintil-Alston, Luis Orlando Amaro, Yasemin R Tanik, Christine Eriks, Michael Shane Pilcher, Perry Ann Reed, Ishwari Venkataraman, Michael Erlano Chua, charles Leon Lee, Daniel Huggins, Jolynn Rae Suko, Wendy Smith, Kofi Ali Cash, Suzanne M Smith, Sheila Slonim, Meghan B McCarthy, Soumya Upadhyay, Carolyn T Harper",
     "currentStudents": [
       "Marjorie Saintil-Alston",
@@ -2845,6 +2865,16 @@
     "students": "Gaurav Seth, Xinyue Zhou, Brittany M Smith, Nhi Nguyen, Victoria Lynn Flanary",
     "currentStudents": [],
     "searchKeywords": "Aging Biotechnology Cancer Cancer Genomics Dental/Oral and Craniofacial Disease Genetics HIV/AIDS Hematology Human Genome Infectious Diseases Lymphatic Research Lymphoma Pediatric Research Initiative Rare Diseases Regenerative Medicine Stem Cell Research Stem Cell Research - Embryonic - Human Stem Cell Research - Embryonic - Non-Human Stem Cell Research - Induced Pluripotent Stem Cell Stem Cell Research - Induced Pluripotent Stem Cell - Human Stem Cell Research - Induced Pluripotent Stem Cell - Non-Human Stem Cell Research - Nonembryonic - Non-Human"
+  },
+  {
+    "discoveryId": "6691",
+    "userName": "Corinne Augelli-Szafran",
+    "researchAreas": "",
+    "email": "caugelli@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/6691-corinne-augelliszafran",
+    "students": "Amy E Glass",
+    "currentStudents": [],
+    "searchKeywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Biodefense Biotechnology Brain Disorders Dementia Digestive Diseases Drug Abuse (NIDA only) Emerging Infectious Diseases HIV/AIDS Infectious Diseases Influenza Liver Disease Neurodegenerative Neurosciences Orphan Drug Pneumonia & Influenza Prevention Rare Diseases Stimulant Use and Misuse Substance Misuse Vector-Borne Diseases West Nile Virus Clinical Research Kidney Disease"
   },
   {
     "discoveryId": "3393",
@@ -3474,9 +3504,9 @@
   {
     "discoveryId": "3189",
     "userName": "Dayna Watson",
-    "researchAreas": "Human Movement and Sports Sciences, Education Systems, Curriculum and Pedagogy",
+    "researchAreas": "",
     "email": "watsondm@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/3189-dayna-watson",
+    "scholarsUrl": null,
     "students": "Katherine C Busch, Douglas Bradford Hill, Carl A Floyd, Fabrice S Julien",
     "currentStudents": [],
     "searchKeywords": "Behavioral and Social Science Mental Health Pediatric Research Initiative"
@@ -3738,7 +3768,7 @@
   {
     "discoveryId": "808",
     "userName": "Dr. Laura E. Dreer",
-    "researchAreas": "Clinical Sciences, Mental Health, Rehabilitation and Therapy, excl. Physiotherapy, Biological Psychology, Neuropsychology, Psychopharmacology, Physiological Psychology, Health Promotion",
+    "researchAreas": "Clinical Sciences, Mental Health, Rehabilitation and Therapy, excl. Physiotherapy, Biological Psychology, Neuropsychology, Psychopharmacology, Physiological Psychology, Health Promotion, Public Health and Health Services, Vision Science, Neurosciences",
     "email": "dreer@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/808-dr-laura-e-dreer",
     "students": "Christina A Diblasio, Wesley Ryan Browning, Sarah Caitlin Terry, Rachael M Vaughan, Jilian A Nieman, Elizabeth A Barstow, Mary L Warren, Jennifer K Bambara, Bethany S Martinez",
@@ -3812,8 +3842,18 @@
     "userName": "Edmund Segner",
     "researchAreas": "",
     "email": "esegner@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/3946-edmund-segner",
+    "scholarsUrl": null,
     "students": "Howard Michael Richards",
+    "currentStudents": [],
+    "searchKeywords": ""
+  },
+  {
+    "discoveryId": "2532",
+    "userName": "Eduardo Neiva",
+    "researchAreas": "",
+    "email": "neiva@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/2532-eduardo-neiva",
+    "students": "Stan R Diel, Zachary D McAuley, Dorian G Kendrick, Christel D Barnett, Justin C Massey, Shannon Simpson, Chloe M Gooden, Sonya L Hardy",
     "currentStudents": [],
     "searchKeywords": ""
   },
@@ -3926,9 +3966,9 @@
   {
     "discoveryId": "1877",
     "userName": "Elizabeth Barstow",
-    "researchAreas": "Clinical Sciences, Public Health and Health Services, Human Movement and Sports Sciences, Neurosciences, Medical Physiology, Other Medical and Health Sciences",
+    "researchAreas": "",
     "email": "bbarstow@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1877-elizabeth-barstow",
+    "scholarsUrl": null,
     "students": "Talal Alshammari, Lulwah AlMulhim, Sourav Datta, Tracy R Fleming-Tracy, Trinh Huynh, Kathleen Mary Weden, Yumi Kim, Elizabeth M Smith",
     "currentStudents": [
       "Lulwah AlMulhim",
@@ -4024,9 +4064,9 @@
   {
     "discoveryId": "2262",
     "userName": "Elizabeth Sztul",
-    "researchAreas": "Biochemistry and Cell Biology, Physiology, Medical Physiology, Plant Biology, Clinical Sciences, Medical Microbiology",
+    "researchAreas": "",
     "email": "esztul@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2262-elizabeth-sztul",
+    "scholarsUrl": null,
     "students": "Kasandra Julie Scholz, Casey Mahoney, Tomasz J Nawara, Kelsey Clearman, Peyton Elise Vanwinkle, Shreya N Kashyap, Jazmine I Benjamin, Rachel N Underwood, Theodore Busby, Jordyn M Kippe, Katie L Bales, Evan R Boitet, Jay M Bhatt, Jennifer A Watson, Vedrana Bali, Camilla A Thompson, John W Wright, Kurt A Zimmerman, Mark Stewart, Raymond C Pasek, Joshua D Sammons, Rachel B Gill, Sharday N Ewell, Michael R Heaven, Jason Lowery, Zachary A Kosan, Corey L Williams, Violetta N Pivtorayko, James B Machamer, Cristy Tower, Sabarish Indran, Tomasz J Szul, Daniel L Flint, Robert Grabski, Jennifer L Larimore, Matthew L Jones, Magdalena A Krzyzaniak, Philip J Dolan, Lindsay A Parish, Huiping Ding, Tori A Matthews, Asta Jurkuvenaite",
     "currentStudents": [],
     "searchKeywords": "Bioengineering Genetics Pediatric Regenerative Medicine Atherosclerosis"
@@ -4060,7 +4100,7 @@
     "userName": "Ellen Mwenesongole",
     "researchAreas": "",
     "email": "emweneso@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/17284-ellen-mwenesongole",
+    "scholarsUrl": null,
     "students": "Sarah Jenkins, Sree Sai Chandhanna Khatravath, Megan E Joos, Alyssa S Hampton, Brynnen Eve Bargerhuff, Samantha Mcinnis Way, Andrew B Harris",
     "currentStudents": [
       "Sarah Jenkins",
@@ -4221,7 +4261,7 @@
   {
     "discoveryId": "17756",
     "userName": "Erin Dooley",
-    "researchAreas": "Public Health and Health Services, Human Movement and Sports Sciences, Medical Physiology, Clinical Sciences, Nutrition and Dietetics",
+    "researchAreas": "Public Health and Health Services, Human Movement and Sports Sciences, Epidemiology, Exercise Physiology",
     "email": "edooley@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/17756-erin-dooley",
     "students": "Taishayla K Nash, Michael J Hankes, Gabrielle F Gloston",
@@ -4420,9 +4460,9 @@
   {
     "discoveryId": "2414",
     "userName": "Fouad Fouad",
-    "researchAreas": "Civil Engineering, Urban and Regional Planning, Transportation and Freight Services, Chemical Engineering, Electrical and Electronic Engineering, Environmental Engineering",
+    "researchAreas": "",
     "email": "ffouad@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2414-fouad-fouad",
+    "scholarsUrl": null,
     "students": "Wessam Alaa Abd-Elghany, Richard B Hawkins, Krenar Krasniqi, Alysia Carlisle, Matthew L Blackstone, Mary C Nabors, Isaac Campos, Sandra Cutts, Akshay Yadav, Paula Alvarez Pino, Feyza Nur Yildirim, Mohamed S Gallow, Pratima Chitrakar, Kalyn N Murray, April M Nabors, Emily M Black",
     "currentStudents": [
       "Wessam Alaa Abd-Elghany",
@@ -4457,11 +4497,21 @@
     "searchKeywords": ""
   },
   {
+    "discoveryId": "2279",
+    "userName": "Frank Messina",
+    "researchAreas": "Law, Commercial Services, Marketing, Policy and Administration, Human Movement and Sports Sciences, Applied Economics",
+    "email": "fmessina@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/2279-frank-messina",
+    "students": "Douglas J Digirolamo",
+    "currentStudents": [],
+    "searchKeywords": ""
+  },
+  {
     "discoveryId": "16379",
     "userName": "Frank Puga",
-    "researchAreas": "Nursing, Clinical Sciences, Neurosciences, Oncology and Carcinogenesis, Public Health and Health Services, Mental Health",
+    "researchAreas": "",
     "email": "fpuga@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/16379-frank-puga",
+    "scholarsUrl": null,
     "students": "Cheryl A Lee, Sof\u00eda Mildrum Chana, Meghan C Jones, Abigail Poe, Chunhong Xiao, Kyungmi Lee",
     "currentStudents": [
       "Sof\u00eda Mildrum Chana",
@@ -4811,7 +4861,7 @@
   {
     "discoveryId": "2751",
     "userName": "Gitendra Uswatte",
-    "researchAreas": "Clinical Sciences, Neurosciences, Cognitive Sciences, Psychology, Human Movement and Sports Sciences, Cardiorespiratory Medicine and Haematology",
+    "researchAreas": "Neurosciences, Psychology, Human Movement and Sports Sciences, Neurocognitive Patterns and Neural Networks, Biological Psychology, Neuropsychology, Psychopharmacology, Physiological Psychology",
     "email": "guswatte@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/2751-gitendra-uswatte",
     "students": "Mohammadsadegh Mojaradinloo, Alibek Sartayev, Olesya Iosipchuk, Saleh Alhirsan, Jason Blake, Yue Zhang, Mudasir S Andrabi, Brent M Womble, Joseph C Griffis, Michelle M Haddad, Josie M Tyrer, Chelsey A Sterling, Tyler A Rickards, Brad H Sokal, Patricia M Barreto, Joydip S Barman, Christi E Perkins, Lynne V Gauthier, Lynne V Gauthier, Siu-Kuen A Hui, Yong-Hui Chen, Margaret M Schmitt",
@@ -4958,9 +5008,9 @@
   {
     "discoveryId": "3382",
     "userName": "Gregory Kennedy",
-    "researchAreas": "Clinical Sciences, Oncology and Carcinogenesis, Pharmacology and Pharmaceutical Sciences, Organic Chemistry, Medicinal and Biomolecular Chemistry, Nursing",
+    "researchAreas": "",
     "email": "gkennedy@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/3382-gregory-kennedy",
+    "scholarsUrl": null,
     "students": "Yuan-Tai Huang, Sophie Paterson Bru, Ningxiang Zeng",
     "currentStudents": [],
     "searchKeywords": "Behavioral and Social Science Brain Disorders Breast Cancer Cancer Chronic Pain Clinical Research Depression Digestive Diseases Health Disparities Mental Health Mental Illness Nutrition Pain Research Rural Health Social Determinants of Health Women's Health Aging Arthritis Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Cancer Clinical Research Colo-Rectal Cancer Complementary and Integrative Health Dietary Supplements Digestive Diseases Immunization Immunotherapy Mental Health Mental Illness Neurosciences Nutrition Prevention Rare Diseases Rheumatoid Arthritis Vaccine Related Women's Health"
@@ -4991,7 +5041,7 @@
   {
     "discoveryId": "6130",
     "userName": "Gregory Payne",
-    "researchAreas": "Physiology, Medical Physiology, Cardiorespiratory Medicine and Haematology, Clinical Sciences, Pharmacology and Pharmaceutical Sciences, Cardiology, Cardiovascular Diseases, Genomics, Cellular Interactions, Adhesion, Matrix, Cell Wall",
+    "researchAreas": "Physiology, Medical Physiology, Cardiorespiratory Medicine and Haematology, Clinical Sciences, Pharmacology and Pharmaceutical Sciences, Cardiology, Cardiovascular Diseases, Genomics, Cellular Interactions, Adhesion, Matrix, Cell Wall, Systems Biology",
     "email": "gapayne@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/6130-gregory-payne",
     "students": "Md Hasanul Banna Siam, Mahima S Reddy, Falone Amoa, Kyle Robert Landers Landers, Luke I Jones, Daniel Minassian, Courtney Swain, Robert E Lee, Samuel F Chang",
@@ -5270,9 +5320,9 @@
   {
     "discoveryId": "2666",
     "userName": "Henghui Zou",
-    "researchAreas": "Pure Mathematics, Applied Mathematics, Numerical and Computational Mathematics, Mechanical Engineering, Mathematical Physics, Other Mathematical Sciences",
+    "researchAreas": "",
     "email": "zou@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2666-henghui-zou",
+    "scholarsUrl": null,
     "students": "Feng Li, Jinguo Lian, Rouba A Chahine",
     "currentStudents": [],
     "searchKeywords": ""
@@ -5292,9 +5342,9 @@
   {
     "discoveryId": "1183",
     "userName": "Herrick Siegel",
-    "researchAreas": "Distributed Computing, Computer Software, Clinical Sciences, Computer Hardware, Communications Technologies, Electrical and Electronic Engineering",
+    "researchAreas": "",
     "email": "hsiegel@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1183-herrick-siegel",
+    "scholarsUrl": null,
     "students": "Zuoping Li, Neha B Butala",
     "currentStudents": [],
     "searchKeywords": "Bioengineering Machine Learning and Artificial Intelligence"
@@ -5302,9 +5352,9 @@
   {
     "discoveryId": "6910",
     "userName": "Hind Lal",
-    "researchAreas": "Cardiorespiratory Medicine and Haematology, Clinical Sciences, Public Health and Health Services, Medical Physiology, Biochemistry and Cell Biology, Genetics",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/6910-hind-lal",
+    "scholarsUrl": null,
     "students": "Arvind Singh Bhati, Sachin Budhathoki, Meet Patel, Meimei Wang, Daniel Minassian, Yutao Hua, Yuhua Wei, Angelica Toro Cora, Lu Wang, Arun Jyothidasan, Sayan Bakshi, Zainab Gbongbo Suleiman",
     "currentStudents": [
       "Arvind Singh Bhati",
@@ -5379,9 +5429,9 @@
   {
     "discoveryId": "4890",
     "userName": "Hope Amm",
-    "researchAreas": "Oncology and Carcinogenesis, Biochemistry and Cell Biology, Biomedical Engineering, Clinical Sciences, Dentistry, Paediatrics and Reproductive Medicine",
+    "researchAreas": "",
     "email": "hopeamm@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/4890-hope-amm",
+    "scholarsUrl": null,
     "students": "Chloe La Prairie, Sree Ramya Bhamidipaati, Sara Elizabeth Edmonds, Mary Lauren Sharp, Logan Daniel Stone, Revati Ranjit Suryawanshi, Najd Aswad, giana m lupinetti",
     "currentStudents": [],
     "searchKeywords": "Bioengineering Biomedical Imaging Biotechnology Cancer Clinical Research Clinical Trials and Supportive Activities Dental/Oral and Craniofacial Disease Digestive Diseases Genetics Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Immunotherapy Minority Health Orphan Drug Rare Diseases Women's Health Biomedical Imaging Biotechnology Cancer Clinical Research Dental/Oral and Craniofacial Disease Health Disparities Minority Health Orphan Drug Prevention Rare Diseases"
@@ -5549,9 +5599,9 @@
   {
     "discoveryId": "2771",
     "userName": "Irena Stepanikova",
-    "researchAreas": "Paediatrics and Reproductive Medicine, Public Health and Health Services, Psychology, Clinical Sciences",
+    "researchAreas": "",
     "email": "irena@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2771-irena-stepanikova",
+    "scholarsUrl": null,
     "students": "Megan Rutland Mileski, Alejandra Maria Col\u00f3n-L\u00f3pez, Sanjeev Acharya, Shane Burns, Bria K Morgan, Jalal Uddin, Sarah B Rutland, Soumya J Niranjan, Sarah B Rutland, John H Cunningham, Aowen Zhu, Deborah B Ejem, Gabriela R Oates, Ronald W Berkowsky, Kristi L Stringer, Lori B Bateman",
     "currentStudents": [],
     "searchKeywords": "American Indian or Alaska Native Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Caregiving Research Clinical Research Clinical Trials and Supportive Activities Contraception/Reproduction Depression Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Major Depressive Disorder Maternal Health Maternal Morbidity and Mortality Mental Health Mental Illness Minority Health Pregnancy Prevention Regenerative Medicine Rehabilitation Serious Mental Illness Social Determinants of Health Transplantation Women's Health Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Health Services Minority Health"
@@ -5759,6 +5809,16 @@
     "searchKeywords": "Chronic Obstructive Pulmonary Disease Digestive Diseases Infant Mortality Liver Disease Lung Neonatal Respiratory Distress Orphan Drug Pediatric Research Initiative Perinatal Period - Conditions Originating in Perinatal Period Rare Diseases Biotechnology Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Cystic Fibrosis Genetics Health Disparities Heart Disease Infectious Diseases Lung Microbiome Minority Health Neonatal Respiratory Distress Orphan Drug Pediatric Perinatal Period - Conditions Originating in Perinatal Period Preterm, Low Birth Weight and Health of the Newborn Prevention Rare Diseases Tobacco Tobacco Smoke and Health Women's Health"
   },
   {
+    "discoveryId": "1059",
+    "userName": "James Bonner",
+    "researchAreas": "Oncology and Carcinogenesis, Clinical Sciences, Other Physical Sciences, Public Health and Health Services, Dentistry, Pharmacology and Pharmaceutical Sciences",
+    "email": "jabonner@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/1059-james-bonner",
+    "students": "Jennifer A Stanley, Gautam Prasad",
+    "currentStudents": [],
+    "searchKeywords": "Cancer Immunotherapy Infectious Diseases Lung Lung Cancer Orphan Drug Radiation Oncology Rare Diseases Women's Health"
+  },
+  {
     "discoveryId": "165",
     "userName": "James Booth",
     "researchAreas": "Clinical Sciences, Public Health and Health Services, Oncology and Carcinogenesis, Paediatrics and Reproductive Medicine, Genetics, Cardiorespiratory Medicine and Haematology",
@@ -5806,9 +5866,9 @@
   {
     "discoveryId": "2233",
     "userName": "James Collawn",
-    "researchAreas": "Biochemistry and Cell Biology, Medical Physiology, Physiology, Cardiorespiratory Medicine and Haematology, Clinical Sciences, Medical Biochemistry and Metabolomics",
+    "researchAreas": "",
     "email": "jcollawn@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2233-james-collawn",
+    "scholarsUrl": null,
     "students": "Jie Yuan, Sidra Amir, Jordan Barham, Tomasz J Nawara, Kari D Thrasher, Jazmine I Benjamin, Hala Zein-Sabatto, Rachel M Carnes, Sindhu Nair, Melissa R Bentley, Dominique R Benson, Hui Wu, Mohammad A Abdelgawwad, Dominique R Benson, Shara B Legg, James A Lambert, Carleen Mae P Sabusap, Vivian Y Lin, Matthew Weaver, Courtney M Fernandez",
     "currentStudents": [],
     "searchKeywords": "Biotechnology Cancer Congenital Structural Anomalies Genetics Kidney Disease Pediatric Polycystic Kidney Disease Aging Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Heart Disease Hypertension Neurodegenerative Neurosciences Parkinson's Disease Physical Activity Physical Rehabilitation Precision Medicine Prevention Rehabilitation"
@@ -5960,15 +6020,25 @@
   {
     "discoveryId": "1813",
     "userName": "James Rimmer",
-    "researchAreas": "Human Movement and Sports Sciences, Clinical Sciences, Public Health and Health Services, Psychology, Neurosciences, Curriculum and Pedagogy",
+    "researchAreas": "",
     "email": "jrimmer@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1813-james-rimmer",
+    "scholarsUrl": null,
     "students": "Md Nazmul Hassan, Pooja Arora, Sangeetha Padalabalanarayanan, Tracy R Fleming-Tracy, Madison R Currie, Ayse G Zengul, Julianne Grace Clina, Jacob L Adams, John D Easton, Brenda Jeng, Yumi Kim, Katie Lj Cederberg, Byron Lai, Sean M Pool",
     "currentStudents": [
       "Md Nazmul Hassan",
       "Pooja Arora"
     ],
     "searchKeywords": "Autoimmune Disease Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Multiple Sclerosis Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Nutrition Physical Activity Physical Injury - Accidents and Adverse Effects Prevention Rehabilitation Social Determinants of Health Spinal Cord Injury Telehealth Traumatic Head and Spine Injury Behavioral and Social Science Cardiovascular Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Services Minority Health Networking and Information Technology R&D (NITRD) Neurosciences Physical Activity Physical Injury - Accidents and Adverse Effects Physical Rehabilitation Prevention Rehabilitation Spinal Cord Injury Telehealth Traumatic Head and Spine Injury"
+  },
+  {
+    "discoveryId": "469",
+    "userName": "James Shikany",
+    "researchAreas": "Clinical Sciences, Public Health and Health Services, Nutrition and Dietetics, Cardiorespiratory Medicine and Haematology, Food Sciences, Oncology and Carcinogenesis",
+    "email": "jshikany@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/469-james-shikany",
+    "students": "Stephanie E Tison, Swati Sakhuja, Kenneth P Kell, Ihsan Hakima, Mandeep K Virk, Cathy C Roche, Mustafa O Mohd",
+    "currentStudents": [],
+    "searchKeywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Cardiovascular Clinical Research Contraception/Reproduction Dietary Supplements Estrogen Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Heart Disease - Coronary Heart Disease Hypertension Minority Health Nutrition Obesity Pediatric Research Initiative Pregnancy Prevention Sexual and Gender Minorities (SGM/LGBT*) Social Determinants of Health Women's Health"
   },
   {
     "discoveryId": "665",
@@ -6003,7 +6073,7 @@
   {
     "discoveryId": "18332",
     "userName": "Jamie Peters",
-    "researchAreas": "",
+    "researchAreas": "Physiology, Neurosciences, Biological Psychology, Neuropsychology, Psychopharmacology, Physiological Psychology, Pharmacology and Pharmaceutical Sciences, Gene and Molecular Therapy",
     "email": "doctorj@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/18332-jamie-peters",
     "students": "Olivia R Drake, Zephyr Desa, Nathaniel Kregar, Guy Michael Twa",
@@ -6015,9 +6085,9 @@
   {
     "discoveryId": "2068",
     "userName": "Jamil Saad",
-    "researchAreas": "Microbiology, Biochemistry and Cell Biology, Medicinal and Biomolecular Chemistry, Physical Chemistry, Structural, Virology, Structural Biology, Macromolecular Modelling",
+    "researchAreas": "",
     "email": "saad@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2068-jamil-saad",
+    "scholarsUrl": null,
     "students": "Stephanie Satomi Suinn, Samaneh Mehri, Ferdinand Amanor, Shane Thomas Rich-New, Dominik Herrmann, Jazmine I Benjamin, Rhea M Derke, Uday V Tak, Richard E Murphy, James L Kizziah, Xuan Tan, Alexander B Kleinpeter, Brady L Spencer, Constance C Agamasu, Keith A Manning, Robert Hammond, Rosanne L Hill, Michael Spilman, Eneida L Owens, Michael J Lopker, Bryan D Cox, Rui Kong, Hongyi Yang, Altaira D Dearborn, Rebecca S Rudicell",
     "currentStudents": [],
     "searchKeywords": "Biotechnology Cancer HIV/AIDS Immunization Infectious Diseases Lung Pneumonia Pneumonia & Influenza Prevention Vaccine Related Bioengineering Biotechnology HIV/AIDS Infectious Diseases Nanotechnology Sexually Transmitted Infections"
@@ -6172,7 +6242,7 @@
   {
     "discoveryId": "2418",
     "userName": "Jason Kirby",
-    "researchAreas": "Civil Engineering, Interdisciplinary Engineering, Horticultural Production",
+    "researchAreas": "Civil Engineering, Interdisciplinary Engineering, Environmental Engineering",
     "email": "jtkirby@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/2418-jason-kirby",
     "students": "Kofi Ntow Opare, Richard B Hawkins, Mithila Hasan, Lana Marji, Jonathan D Stanton, Eric V Muth",
@@ -6283,6 +6353,16 @@
       "Naseem Anjum"
     ],
     "searchKeywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Brain Disorders Clinical Research Dementia Digestive Diseases Infectious Diseases Lung Neurodegenerative Neurosciences Physical Injury - Accidents and Adverse Effects Rare Diseases"
+  },
+  {
+    "discoveryId": "2171",
+    "userName": "Jeevan Prasain",
+    "researchAreas": "Pharmacology and Pharmaceutical Sciences, Biochemistry and Cell Biology, Plant Biology, Analytical Chemistry, Medicinal and Biomolecular Chemistry, Clinical Sciences",
+    "email": "jprasain@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/2171-jeevan-prasain",
+    "students": "John K Cutts, Johnathan W Edmonds, Tracy Lyn D Alessandro",
+    "currentStudents": [],
+    "searchKeywords": "Aging Breast Cancer Cancer Cardiovascular Complementary and Integrative Health Contraception/Reproduction Diabetes Dietary Supplements Digestive Diseases Infertility Lung Microbiome Nutrition Obesity Prevention Women's Health Genetics"
   },
   {
     "discoveryId": "1313",
@@ -6688,7 +6768,7 @@
     "userName": "Jessica Chambliss",
     "researchAreas": "Oncology and Carcinogenesis, Public Health and Health Services, Curriculum and Pedagogy, Clinical Sciences",
     "email": "jlthames@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/11282-jessica-chambliss",
+    "scholarsUrl": "https://scholars.uab.edu/11282-jessica-t-chambliss",
     "students": "Maizonne J Fields, Kennedy Nicole Butler, Nevette S Sample, Joyce Imafidon, Jolanda Hudson, Lindsey Allison Rice, Amber N Martin",
     "currentStudents": [],
     "searchKeywords": "Adolescent Sexual Activity Behavioral and Social Science Cancer Clinical Research Contraception/Reproduction Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Minority Health Opioid Misuse and Addiction Opioids Pediatric AIDS Pediatric Research Initiative Prevention Sexually Transmitted Infections Social Determinants of Health Substance Misuse Teenage Pregnancy"
@@ -6861,9 +6941,9 @@
   {
     "discoveryId": "6242",
     "userName": "Jie Gao",
-    "researchAreas": "Pharmacology and Pharmaceutical Sciences, Medicinal and Biomolecular Chemistry, Organic Chemistry, Theoretical and Computational Chemistry, Oncology and Carcinogenesis, Public Health and Health Services",
+    "researchAreas": "",
     "email": "gaoj@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/6242-jie-gao",
+    "scholarsUrl": null,
     "students": "Talal Alshammari",
     "currentStudents": [],
     "searchKeywords": "Aging Autoimmune Disease Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Breast Cancer Cancer Chronic Liver Disease and Cirrhosis Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Digestive Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Liver Disease Mental Health Multiple Sclerosis Neurodegenerative Neurosciences Organ Transplantation Prevention Social Determinants of Health Transplantation Women's Health"
@@ -7011,7 +7091,7 @@
     "userName": "John Crews",
     "researchAreas": "",
     "email": "jecrews@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/17721-john-crews",
+    "scholarsUrl": null,
     "students": "Mary L Warren",
     "currentStudents": [],
     "searchKeywords": ""
@@ -7203,9 +7283,9 @@
   {
     "discoveryId": "1155",
     "userName": "John Porterfield",
-    "researchAreas": "Clinical Sciences, Curriculum and Pedagogy, Neurosciences, Medical Physiology, Public Health and Health Services, Psychology",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/1155-john-porterfield",
+    "scholarsUrl": null,
     "students": "Brandon A Singletary, Benjamin J McManus",
     "currentStudents": [],
     "searchKeywords": ""
@@ -7289,7 +7369,7 @@
     "userName": "John Williams",
     "researchAreas": "",
     "email": "jwilli@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/4074-john-williams",
+    "scholarsUrl": null,
     "students": "Kirsten I Larsen",
     "currentStudents": [],
     "searchKeywords": ""
@@ -7398,9 +7478,9 @@
   {
     "discoveryId": "1851",
     "userName": "Jose Fernandez",
-    "researchAreas": "Clinical Sciences, Paediatrics and Reproductive Medicine, Genetics, Public Health and Health Services, Medical Physiology, Human Movement and Sports Sciences",
+    "researchAreas": "",
     "email": "jose@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1851-jose-fernandez",
+    "scholarsUrl": null,
     "students": "Allyn Abadie, Amanda R Finn, Cody Hanick, Tara E Harman, David R Bryan, Catharine A Couch, Kathryn L Stowers, Aston Dommel, Jessica Johnson, Sarah Tucker, Harleen Kaur, Makenzie Callahan, Christian E Behrens, Larissa J Strath, Elizabeth N Kroeger, Ashley C Delk",
     "currentStudents": [
       "Allyn Abadie"
@@ -7728,7 +7808,7 @@
     "userName": "Karen Dixon",
     "researchAreas": "",
     "email": "kdixon@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/16783-karen-dixon",
+    "scholarsUrl": null,
     "students": "Stephanie A Chopko",
     "currentStudents": [],
     "searchKeywords": ""
@@ -7860,9 +7940,9 @@
   {
     "discoveryId": "644",
     "userName": "Kathleen Harrington",
-    "researchAreas": "Public Health and Health Services, Clinical Sciences, Curriculum and Pedagogy, Human Movement and Sports Sciences, Paediatrics and Reproductive Medicine, Cardiorespiratory Medicine and Haematology",
+    "researchAreas": "",
     "email": "kharring@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/644-kathleen-harrington",
+    "scholarsUrl": null,
     "students": "Meifang Chen, Heather R Young, Kelley H. Devane, Michelle S Williams, Midge N Ray",
     "currentStudents": [],
     "searchKeywords": "Alcoholism, Alcohol Use and Health Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) HIV/AIDS Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Infectious Diseases Lung Lung Cancer Minority Health Nutrition Obesity Patient Safety Prevention Sexually Transmitted Infections Substance Misuse Tobacco Tobacco Smoke and Health Women's Health Asthma Basic Behavioral and Social Science Behavioral and Social Science Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Cost Effectiveness Research Drug Abuse (NIDA only) Health Disparities Health Services Lung Minority Health Patient Safety Pediatric Prevention Social Determinants of Health Substance Misuse Tobacco Tobacco Smoke and Health"
@@ -8035,9 +8115,9 @@
   {
     "discoveryId": "3130",
     "userName": "Keith Swetz",
-    "researchAreas": "Clinical Sciences, Applied Ethics",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/3130-keith-swetz",
+    "scholarsUrl": null,
     "students": "Rachel A Duncan",
     "currentStudents": [],
     "searchKeywords": ""
@@ -8105,9 +8185,9 @@
   {
     "discoveryId": "3199",
     "userName": "Kelly Kenzik",
-    "researchAreas": "Oncology and Carcinogenesis, Public Health and Health Services, Clinical Sciences, Paediatrics and Reproductive Medicine, Biochemistry and Cell Biology, Cardiorespiratory Medicine and Haematology",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/3199-kelly-kenzik",
+    "scholarsUrl": null,
     "students": "Jeffrey Alan Franks, Courtney L Phillips, Jacqueline N Bui",
     "currentStudents": [],
     "searchKeywords": ""
@@ -8137,9 +8217,9 @@
   {
     "discoveryId": "4018",
     "userName": "Ken Marion",
-    "researchAreas": "Zoology, Ecological Applications, Ecology, Physiology, Fisheries Sciences, Biochemistry and Cell Biology",
+    "researchAreas": "",
     "email": "kmarion@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/4018-ken-marion",
+    "scholarsUrl": null,
     "students": "Theresa Rose Madrigal, Zachary Brian Cimino, Forrest W Collins, Sarah Shainker, Robby Brannum, Katherine Margaret Presz, Forrest W Collins, Eric V Muth",
     "currentStudents": [],
     "searchKeywords": "Aging Women's Health"
@@ -8345,7 +8425,7 @@
   {
     "discoveryId": "16645",
     "userName": "Kimberly Smith",
-    "researchAreas": "Human Movement and Sports Sciences, Medical Physiology",
+    "researchAreas": "Education Assessment and Evaluation, Social Program Evaluation, Applied Statistics, Public Health and Health Services, Mental Health",
     "email": null,
     "scholarsUrl": "https://scholars.uab.edu/16645-kimberly-smith",
     "students": "Silvia Y Lopez Torres, Demetria Mar Hubbard, Abigail Rose Williamson, David R Bryan, Ciera Bartholomew, Katherine Ellison",
@@ -8432,9 +8512,9 @@
   {
     "discoveryId": "2841",
     "userName": "Krishan Chawla",
-    "researchAreas": "Materials Engineering, Mechanical Engineering, Manufacturing Engineering, Resources Engineering and Extractive Metallurgy, Condensed Matter Physics, Aerospace Engineering",
+    "researchAreas": "",
     "email": "kchawla@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2841-krishan-chawla",
+    "scholarsUrl": null,
     "students": "Ricardo E Aristizabal, Qingquan Liu, Ashutosh Goel, Lakshya J Deka, Lakshya J Deka, Pavan P Chintalapati, Mark C Koopman, Francis J Samalot, Qingquan Liu, Rahul R Kulkarni, Joel D Griffith, Nenad Velisavljevic, Kipp Carlisle, Kipp Carlisle, Nenad Velisavljevic, Adolfo A Villalobos, Francis J Samalot, Paul A Baker, Rahul Jain, Richard C Petersen, Chad A Ulven, Jianguang Zhang, Naiyu Sun, Andreiy Kondrat'yev, Andreiy Kondrat'yev, Juan C Serrano, Saulius E Drukteinis, Rahul R Kulkarni, Shane D Bartus, Bhavesh V Patel",
     "currentStudents": [],
     "searchKeywords": "Biomedical Imaging Regenerative Medicine"
@@ -8464,7 +8544,7 @@
   {
     "discoveryId": "2728",
     "userName": "Kristi Guest",
-    "researchAreas": "Psychology, Specialist Studies in Education, Social Work",
+    "researchAreas": "Psychology, Special Education and Disability",
     "email": "kguest@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/2728-kristi-guest",
     "students": "Brianna N Stein, Consuelo A Click, Samina Irshad Ansari, Braden P Laboret, Jeremy J Cottle, Tiffany D Tucker, Jennifer Rena Weikard, Abigail J Anderson, Brianna N Stein, Jennifer Rena Weikard, Casie Morgan, Jeremy J Cottle, Timothy G Hilty, Helen K Root, Logan W Boe, Jenna B Lebersfeld, Samantha Gonzalez, Shannon Mo Wittig, Bethany T Stenger, Teneasha T Washington, Eva P Trinh, Sarah E Edwards, Shannon Mo Wittig, Tamika L Ryan, Abbe N Grossnickle, Anjana S Madan, Bernnadette Knight, Stephanie A Chopko, Cynthia R Hall, Trista A Perez, Angela M Warren, Tanja G Malone, Katrina K Gilbert, Leslie Keener, Leslie Keener",
@@ -8496,9 +8576,9 @@
   {
     "discoveryId": "6121",
     "userName": "Kristina Zierold",
-    "researchAreas": "Public Health and Health Services, Clinical Sciences, Neurosciences, Environmental Science and Management, Environmental Engineering not elsewhere classified, Community Child Health, Environmental and Occupational Health and Safety",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/6121-kristina-zierold",
+    "scholarsUrl": null,
     "students": "Matthew Kaleb Hanvey, Samuel I Stowe, Kelsey M Maclin, Oludesola Oludayo Ogunesan, Jasna M Rosser-Williams, Margaret C Summers",
     "currentStudents": [
       "Kelsey M Maclin",
@@ -8619,9 +8699,9 @@
   {
     "discoveryId": "1835",
     "userName": "Larry Hearld",
-    "researchAreas": "Public Health and Health Services, Business and Management, Policy and Administration, Nursing, Psychology, Human Movement and Sports Sciences",
+    "researchAreas": "",
     "email": "lhearld@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1835-larry-hearld",
+    "scholarsUrl": null,
     "students": "Petra Sprik, Yasemin R Tanik, Demetria Mar Hubbard, Reid Montgomery Eagleson, Jason L Kimbrell, Michael Shane Pilcher, Melinda F Clarke, Sangeetha Padalabalanarayanan, Aurora Tafili, Khushbu Khatri, Miranda Sedillo, Jolynn Rae Suko, Neel Pathak, Aizhan Karabukayeva, Aizhan Karabukayeva, Ginger Kaye-Stewart Biesbrock, Teresa Maria Zyczynski, Ginger Henry, Matthew G Parker, Dorka Michellette Picard, Thomas H Ozburn, Deanna C Kyrimis, Jami L Anderson, Sarah Anne Long, Tanekkia M Taylor Clark, Frank Cardwell Feagin, Jennifer O Strahan, Reena Joseph, John R Lovett, Jeremy Jed Lyman, Akbar Ghiasi, Christi G Pierce, Katherine A Meese, Kena R Norris, Seongwon Choi, Robert Howard, Neeraj A Puro",
     "currentStudents": [
       "Petra Sprik",
@@ -8637,9 +8717,9 @@
   {
     "discoveryId": "3497",
     "userName": "Latesha Elopre",
-    "researchAreas": "Public Health and Health Services, Clinical Sciences, Social Work, Nursing, Medical Microbiology, Specialist Studies in Education",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/3497-latesha-elopre",
+    "scholarsUrl": null,
     "students": "Ikenna Obasi Odii, Sydney Elon Grooms, Cicily A Gray",
     "currentStudents": [],
     "searchKeywords": ""
@@ -8781,7 +8861,7 @@
   {
     "discoveryId": "4812",
     "userName": "Laurie A. Malone",
-    "researchAreas": "Human Movement and Sports Sciences, Clinical Sciences, Public Health and Health Services, Curriculum and Pedagogy, Specialist Studies in Education, Biomedical Engineering",
+    "researchAreas": "Human Movement and Sports Sciences, Clinical Sciences, Public Health and Health Services, Curriculum and Pedagogy, Specialist Studies in Education, Biomedical Engineering, Special Education and Disability",
     "email": "lamalone@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/4812-laurie-a-malone",
     "students": "Talal Alshammari, Sean M Pool, Susan R Silverman, Elizabeth A Barstow",
@@ -8843,7 +8923,7 @@
     "userName": "Lee Meadows",
     "researchAreas": "Curriculum and Pedagogy, Specialist Studies in Education",
     "email": "lmeadows@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2351-lee-meadows",
+    "scholarsUrl": "https://scholars.uab.edu/2351-patrick-meadows",
     "students": "Paulette G Evans",
     "currentStudents": [],
     "searchKeywords": "Clinical Research Pediatric Research Initiative Pediatric"
@@ -8905,6 +8985,18 @@
       "Shyam P Prabhakar"
     ],
     "searchKeywords": "Aging Bioengineering Brain Disorders Clinical Research Data Science Health Services Machine Learning and Artificial Intelligence Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Parkinson's Disease Substance Misuse"
+  },
+  {
+    "discoveryId": "2564",
+    "userName": "Leonard Grimes",
+    "researchAreas": "",
+    "email": "kgrimes@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/2564-leonard-grimes",
+    "students": "John W Gallagher, Anna Grace Meadows, Madison Elizabeth Hogg, Donald Brett Hurst, Madison B Vincent, Ardell T Fleeson, Carlee Slay, Jessica Marie Robbins, Toby T Camp, Ashton Virginia Ray, Allie R Pennington, Matthew D Whitehurst, Sarah E Goggans, Kayla L Light",
+    "currentStudents": [
+      "Anna Grace Meadows"
+    ],
+    "searchKeywords": ""
   },
   {
     "discoveryId": "16988",
@@ -9024,6 +9116,16 @@
       "Ter'Ricka Faith Brundidge"
     ],
     "searchKeywords": "Behavioral and Social Science Childhood Obesity Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Mental Health Nutrition Obesity Pediatric Pediatric Research Initiative Prevention Social Determinants of Health"
+  },
+  {
+    "discoveryId": "824",
+    "userName": "Lindsay Rhodes",
+    "researchAreas": "Clinical Sciences, Public Health and Health Services, Opthalmology and Optometry, Sociology",
+    "email": "rhodesl@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/824-lindsay-rhodes",
+    "students": "Ellen Konadu Antwi-Adjei, Jessica Jasien",
+    "currentStudents": [],
+    "searchKeywords": "Aging Bioengineering Biomedical Imaging Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Cost Effectiveness Research Diabetes Eye Disease and Disorders of Vision Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Patient Safety Prevention Primary Health Care Rural Health Telehealth Aging Behavioral and Social Science Clinical Research Eye Disease and Disorders of Vision Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Neurodegenerative Neurosciences Patient Safety Physical Rehabilitation Prevention Rehabilitation Rural Health Social Determinants of Health Telehealth"
   },
   {
     "discoveryId": "18515",
@@ -9256,9 +9358,9 @@
   {
     "discoveryId": "2187",
     "userName": "Lucas Pozzo-Miller",
-    "researchAreas": "Neurosciences, Cognitive Sciences, Psychology, Biochemistry and Cell Biology, Pharmacology and Pharmaceutical Sciences, Clinical Sciences",
+    "researchAreas": "",
     "email": "lucaspm@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2187-lucas-pozzomiller",
+    "scholarsUrl": null,
     "students": "Chang Li, Taylor Lynn Schanel, Lacy K Goode, Anna K Cook, Destynie Medeiros, Cesar Andres Acevedo Triana, Alan Anderson Umfress, Samuel J Mabry, Karen N Ayala Baylon, Dustin Z Revell, Megan C Rich, Mary Phillips, Leanne M Holt, Natasha L Pacheco, Hai Vo, Ryan J Vaden, Andrew S Bohannon, Ann M Laszczyk, Ian F Kimbrough, David A Figge",
     "currentStudents": [
       "Chang Li"
@@ -9320,6 +9422,16 @@
       "Patric Joseph Perez"
     ],
     "searchKeywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Basic Behavioral and Social Science Behavioral and Social Science Biotechnology Brain Disorders Dementia Eye Disease and Disorders of Vision Genetics Neurodegenerative Neurosciences Aging Anxiety Disorders Assistive Technology Basic Behavioral and Social Science Behavioral and Social Science Bioengineering Brain Disorders Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Genetics Intellectual and Developmental Disabilities (IDD) Mental Health Mental Illness Neurodegenerative Neurosciences Parkinson's Disease Post-Traumatic Stress Disorder (PTSD) Rehabilitation Schizophrenia Serious Mental Illness Women's Health"
+  },
+  {
+    "discoveryId": "2350",
+    "userName": "Lynn Kirkland",
+    "researchAreas": "Education Systems, Specialist Studies in Education, Curriculum and Pedagogy",
+    "email": "lkirk@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/2350-lynn-kirkland",
+    "students": "Riham S Alsultan, Melissa D McGuff, Rebekah L Reach, Kiana Billings Coleman, Amanda R Cramer, Lori St Clair Shingleton, Marisa Ann Frederick, Marisa Ann Frederick, Andrea M Dailey, Dessilyn C Chappell, Fredeisha H Darrington, Lynn S Giles, Monisha F. Douglas-Moore, Dorielle J Dixon, Alisha D Wheeler, Fatimah H Hafiz, Tiffany N Russell, Latonya R Barnes, Curtrina N Jones, Felecia M Jones",
+    "currentStudents": [],
+    "searchKeywords": "Basic Behavioral and Social Science Behavioral and Social Science Pediatric Research Initiative"
   },
   {
     "discoveryId": "3132",
@@ -9449,9 +9561,9 @@
   {
     "discoveryId": "536",
     "userName": "Mansoor Saleh",
-    "researchAreas": "Oncology and Carcinogenesis, Clinical Sciences, Cardiorespiratory Medicine and Haematology, Paediatrics and Reproductive Medicine, Immunology, Pharmacology and Pharmaceutical Sciences",
+    "researchAreas": "",
     "email": "mns@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/536-mansoor-saleh",
+    "scholarsUrl": null,
     "students": "Karim I Budhwani",
     "currentStudents": [],
     "searchKeywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Colo-Rectal Cancer Coronaviruses Cost Effectiveness Research Dementia Depression Digestive Diseases Emerging Infectious Diseases Health Disparities Health Services Infectious Diseases Mental Health Mental Illness Neurodegenerative Neurosciences Orphan Drug Patient Safety Prevention Rare Diseases Urologic Diseases Women's Health"
@@ -9605,9 +9717,9 @@
   {
     "discoveryId": "1481",
     "userName": "Marie Bakitas",
-    "researchAreas": "Nursing, Public Health and Health Services, Clinical Sciences, Oncology and Carcinogenesis, Cardiorespiratory Medicine and Haematology, Other Medical and Health Sciences",
+    "researchAreas": "",
     "email": "mbakitas@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1481-marie-bakitas",
+    "scholarsUrl": null,
     "students": "Avery Chantelle Kelly Bechthold, Lanier O'Hare, Richard Anthony Taylor, Bailey Ann Hendricks, Rebecca L Sipples, Macy L Stockdill, Rachel A Duncan, Amy M Beasley, Marcia A Hughey, Ardie V Pack-Mabien, James P Rhudy, Paula M Gordon",
     "currentStudents": [],
     "searchKeywords": "Aging Behavioral and Social Science Brain Disorders Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Depression Dietary Supplements Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Heart Disease Mental Health Mental Illness Mind and Body Minority Health Nutrition Pain Research Prevention Rehabilitation Behavioral and Social Science Brain Disorders Cancer Cardiovascular Caregiving Research Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Depression Dissemination and Implementation Research Health Disparities Health Services Heart Disease Mental Health Mental Illness Minority Health Networking and Information Technology R&D (NITRD) Pain Research Prevention Rural Health Social Determinants of Health"
@@ -9678,7 +9790,7 @@
   {
     "discoveryId": "640",
     "userName": "Mark Dransfield",
-    "researchAreas": "Clinical Sciences, Cardiorespiratory Medicine and Haematology, Public Health and Health Services, Other Medical and Health Sciences, Pharmacology and Pharmaceutical Sciences, Medical Physiology",
+    "researchAreas": "Clinical Sciences, Respiratory Diseases",
     "email": "mdrans99@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/640-mark-dransfield",
     "students": "David B Page, Mohammed Mes Alqahtani",
@@ -9722,9 +9834,9 @@
   {
     "discoveryId": "1060",
     "userName": "Markus Bredel",
-    "researchAreas": "Oncology and Carcinogenesis, Clinical Sciences, Neurosciences, Other Physical Sciences, Biochemistry and Cell Biology, Public Health and Health Services",
+    "researchAreas": "",
     "email": "mbredel@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1060-markus-bredel",
+    "scholarsUrl": null,
     "students": "Caitlin Harvey, Aran Merati, Sindhu Nair, Christian T Stackhouse, Nicholas J Eustace, Joshua Fried, Angel Alvarez",
     "currentStudents": [
       "Aran Merati"
@@ -9734,9 +9846,9 @@
   {
     "discoveryId": "1577",
     "userName": "Martha Dawson",
-    "researchAreas": "Nursing, Specialist Studies in Education, Public Health and Health Services, Curriculum and Pedagogy, Education Systems, Cultural Studies",
+    "researchAreas": "",
     "email": "madawson@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1577-martha-dawson",
+    "scholarsUrl": null,
     "students": "Bria K Morgan, Apryl S Lewis",
     "currentStudents": [],
     "searchKeywords": "Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Coronaviruses Coronaviruses Disparities and At-Risk Populations Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Hematology Infectious Diseases Minority Health Prevention Sepsis Social Determinants of Health"
@@ -9831,9 +9943,9 @@
   {
     "discoveryId": "4650",
     "userName": "Mary Braswell",
-    "researchAreas": "Literary Studies, Language Studies, Linguistics",
+    "researchAreas": "",
     "email": "mfbras@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/4650-mary-braswell",
+    "scholarsUrl": null,
     "students": "Brian A Stack, Patricia A Rippetoe, Anne M Bailey, Timothy M Harner, Christina A Schmitz, Lauren Ashley H Kitchens",
     "currentStudents": [],
     "searchKeywords": ""
@@ -10035,9 +10147,9 @@
   {
     "discoveryId": "1952",
     "userName": "Max Michael",
-    "researchAreas": "Public Health and Health Services, Clinical Sciences, Psychology, Cognitive Sciences, Nursing, Oncology and Carcinogenesis",
+    "researchAreas": "",
     "email": "maxm@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1952-max-michael",
+    "scholarsUrl": null,
     "students": "William A Anderson, Gregory E Ellis, Jason Adam Wasserman",
     "currentStudents": [],
     "searchKeywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Clinical Research Coronaviruses Coronaviruses Diagnostics and Prognostics Coronaviruses Disparities and At-Risk Populations Drug Abuse (NIDA only) Emerging Infectious Diseases Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Infectious Diseases Minority Health Obesity Prevention Rural Health Social Determinants of Health Substance Misuse Clinical Research Clinical Trials and Supportive Activities HIV/AIDS Health Disparities Health Services Infectious Diseases Minority Health Sexually Transmitted Infections"
@@ -10065,9 +10177,9 @@
   {
     "discoveryId": "16477",
     "userName": "Megan Kiedrowski",
-    "researchAreas": "Medical Microbiology, Microbiology, Immunology, Neurosciences, Pharmacology and Pharmaceutical Sciences, Public Health and Health Services",
+    "researchAreas": "",
     "email": "mkiedro@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/16477-megan-kiedrowski",
+    "scholarsUrl": null,
     "students": "Gunnar Nelson Eastep, Md Hasanul Banna Siam, Kyle Robert Landers Landers, Kendall Mae Shaffer, Jessie Lynda E Fields, Anh Tuan Nguyen, Avery Dennis Lieber, Ashley Catherine Martin, Kristina Nicole Valladares, Caitlyn Sebastian, Nicholas Jordan Evans, Emma Graffice, Joshua T Huffines, Erin Nicole Yepsen, Caitlin Elizabeth Billiot, Caitlin N Costello, Emily Michelle Hughes, Jessica Lane, Meghan J Hirsch, Jennifer Nichelle Luck, Gretchen E Bollar, Sara Noelle Stoner, Joshua J Baty, Natalie R Lindgren",
     "currentStudents": [
       "Caitlyn Sebastian",
@@ -10132,9 +10244,9 @@
   {
     "discoveryId": "17587",
     "userName": "Melissa Smith",
-    "researchAreas": "Public Health and Health Services, Statistics, Other Medical and Health Sciences",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/17587-melissa-smith",
+    "scholarsUrl": null,
     "students": "Mary Appah, Ernestina Osei Boateng, Lingling Wang, Hely Div Nanavati, John Bassler, Jinhong Cui, Amy Elizabeth Callahan, Andrew M Sims",
     "currentStudents": [
       "Lingling Wang"
@@ -10144,7 +10256,7 @@
   {
     "discoveryId": "7316",
     "userName": "Meredith Gartin",
-    "researchAreas": "Anthropology, Public Health and Health Services, Curriculum and Pedagogy, Evolutionary Biology, Nutrition and Dietetics",
+    "researchAreas": "Anthropology, Public Health and Health Services, Curriculum and Pedagogy, Migrant Cultural Studies, Migration, Globalisation and Culture, Social and Cultural Anthropology",
     "email": "gartin@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/7316-meredith-gartin",
     "students": "Joyce Imafidon, Maryclare Gabel",
@@ -10482,9 +10594,9 @@
   {
     "discoveryId": "2773",
     "userName": "Mieke Thomeer McBride",
-    "researchAreas": "Psychology, Public Health and Health Services, Sociology, Demography, Religion and Religious Studies, Clinical Sciences",
+    "researchAreas": "",
     "email": "mthomeer@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2773-mieke-thomeer-mcbride",
+    "scholarsUrl": null,
     "students": "Kiera Y Chan, Brittany N Powell, Katherine Rowe, Cheryl A Lee, Hosne Tilat Mahal, Antoinette S Williams, Clifford James Ross, Clifford James Ross, Brianna Patterson, Cortney M Johnson, Christopher E Jones, Brittany Nichole Goodenough-Ellis, Ghislaine C Atkins, Serra Sevde Aydogan, Kirsten L Ostergren Clark, Allison Claire Estep, Allison Claire Estep, Chenoia N Bryant, Roman B Johnson, Shane Burns, Aowen Zhu, Nagwa Alharbi, Katie N M Reece, Soumya J Niranjan, Haley M Kendrick, Tuba Demir, Beverly K Hogan, Anthony Campbell",
     "currentStudents": [
       "Kiera Y Chan",
@@ -10574,9 +10686,9 @@
   {
     "discoveryId": "3089",
     "userName": "Mohamed Kazamel",
-    "researchAreas": "Clinical Sciences, Neurosciences, Psychology, Cognitive Sciences, Public Health and Health Services, Human Movement and Sports Sciences",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/3089-mohamed-kazamel",
+    "scholarsUrl": null,
     "students": "Robert F Rosencrans, Molly Ann King Tipton",
     "currentStudents": [],
     "searchKeywords": ""
@@ -10977,9 +11089,9 @@
   {
     "discoveryId": "897",
     "userName": "Nefertiti Durant",
-    "researchAreas": "Public Health and Health Services, Human Movement and Sports Sciences, Clinical Sciences, Paediatrics and Reproductive Medicine, Curriculum and Pedagogy, Nursing",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/897-nefertiti-durant",
+    "scholarsUrl": null,
     "students": "Danielle M Lorch, Rodney Joseph",
     "currentStudents": [],
     "searchKeywords": ""
@@ -11233,9 +11345,9 @@
   {
     "discoveryId": "1469",
     "userName": "Om Srivastava",
-    "researchAreas": "Opthalmology and Optometry, Medicinal and Biomolecular Chemistry, Biochemistry and Cell Biology, Medical Biochemistry and Metabolomics",
+    "researchAreas": "",
     "email": "srivasta@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1469-om-srivastava",
+    "scholarsUrl": null,
     "students": "AKOSUA Konadu BOATENG, John L Bradley, Mytho K Tran, Roy Joseph, Kyle A Floyd, Chinwe O Asomugha, Kayla L Vickers, Jose M Chaves, Jordan M Renna, Jose M Chaves, David R Stella, Sara L McGowan, Kai Wang, John Chijuka, Alexia C Vaughn, Veronica R Harrington",
     "currentStudents": [
       "AKOSUA Konadu BOATENG"
@@ -11247,7 +11359,7 @@
     "userName": "Omar Mohamed",
     "researchAreas": "",
     "email": "omohamed@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/19488-omar-mohamed",
+    "scholarsUrl": null,
     "students": "Surabhi Chhabra, Panisa Homyai, Alia Khaled Khazaal",
     "currentStudents": [],
     "searchKeywords": ""
@@ -11277,9 +11389,9 @@
   {
     "discoveryId": "3137",
     "userName": "P. Darwin Bell",
-    "researchAreas": "Clinical Sciences, Medical Physiology, Physiology, Biochemistry and Cell Biology, Cardiorespiratory Medicine and Haematology, Public Health and Health Services",
+    "researchAreas": "",
     "email": "pdbell@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/3137-p-darwin-bell",
+    "scholarsUrl": null,
     "students": "James R Davenport, Balazs Ruzsics, Brian J Siroky, Yi Xie, Ianthalatres Williams",
     "currentStudents": [],
     "searchKeywords": "Bioengineering Biotechnology Clinical Research Congenital Structural Anomalies Genetics Kidney Disease Pediatric Research Initiative Polycystic Kidney Disease Rare Diseases Cardiovascular Clinical Research Congenital Structural Anomalies Genetics Hypertension Kidney Disease Pediatric Polycystic Kidney Disease"
@@ -11401,6 +11513,20 @@
     "searchKeywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Depression Mental Health Physical Activity Prevention Social Determinants of Health"
   },
   {
+    "discoveryId": "1594",
+    "userName": "Patricia Patrician",
+    "researchAreas": "Nursing, Public Health and Health Services, Human Movement and Sports Sciences, Psychology, Business and Management, Policy and Administration",
+    "email": "ppatrici@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/1594-patricia-patrician",
+    "students": "Hannah Elizabeth Bergbower, Kristal A Mancuso, Asiah Alfreda Ruffin, Justin L Miller, Jennifer Hardin Towery, Caitlin A Marley, Tanekkia M Taylor Clark, Colleen V Anusiewicz, Apryl S Lewis, Tracey D King, Adre' C Frost-Jordan",
+    "currentStudents": [
+      "Hannah Elizabeth Bergbower",
+      "Kristal A Mancuso",
+      "Adre' C Frost-Jordan"
+    ],
+    "searchKeywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Brain Disorders Caregiving Research Clinical Research Dementia Health Services Mental Health Networking and Information Technology R&D (NITRD) Neurodegenerative Neurosciences Patient Safety Social Determinants of Health Telehealth"
+  },
+  {
     "discoveryId": "1876",
     "userName": "Patricia Perez",
     "researchAreas": "Clinical Sciences, Human Movement and Sports Sciences, Curriculum and Pedagogy, Specialist Studies in Education, Physiology",
@@ -11413,7 +11539,7 @@
   {
     "discoveryId": "5298",
     "userName": "Patrick Grusenmeyer",
-    "researchAreas": "Oncology and Carcinogenesis, Public Health and Health Services, Health Care Administration, Finance, Marketing Management, Strategy, Customer Relations, Policy and Administration, Health Policy",
+    "researchAreas": "Public Health and Health Services, Health Care Administration, Finance, Marketing Management, Strategy, Customer Relations, Policy and Administration, Health Policy",
     "email": "pgrusen@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/5298-patrick-grusenmeyer",
     "students": "Alfred Dewey, Shannon Marie Stephenson, WAFICK Khairy MOHAMED, Matthew G Parker, Sean Martin Prados, Lieu Thompson",
@@ -11578,9 +11704,9 @@
   {
     "discoveryId": "2489",
     "userName": "Peggy Biga",
-    "researchAreas": "Zoology, Biochemistry and Cell Biology, Ecology, Physiology, Fisheries Sciences, Veterinary Sciences",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/2489-peggy-biga",
+    "scholarsUrl": null,
     "students": "Denise P Horner, Addesyn Renee Aderogba, BINOOP MOHAN, Noor Afroze Yousuf, Nikita Jade Mellor, Jinbao Liu, Sarah Shainker, Michael Nii Tettey Addo, Christel Whitehead, Heidi M Glassie, Huixin WU, Khalid W Freij",
     "currentStudents": [
       "Addesyn Renee Aderogba",
@@ -11736,7 +11862,7 @@
     "userName": "Peter O'Neil",
     "researchAreas": "",
     "email": "pvoneil@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/3959-peter-o'neil",
+    "scholarsUrl": null,
     "students": "Susan M Ling, Darlene D Martin",
     "currentStudents": [],
     "searchKeywords": ""
@@ -11816,9 +11942,9 @@
   {
     "discoveryId": "656",
     "userName": "Philip O'Reilly",
-    "researchAreas": "Clinical Sciences, Cardiorespiratory Medicine and Haematology, Immunology, Pharmacology and Pharmaceutical Sciences, Medical Physiology, Public Health and Health Services",
+    "researchAreas": "",
     "email": "poreilly@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/656-philip-o'reilly",
+    "scholarsUrl": null,
     "students": "Amit Gaggar",
     "currentStudents": [],
     "searchKeywords": "Autoimmune Disease Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Emphysema Lung Prevention Pulmonary Fibrosis Rare Diseases Tobacco Tobacco Smoke and Health Chronic Obstructive Pulmonary Disease Clinical Research Lung Prevention"
@@ -11836,7 +11962,7 @@
   {
     "discoveryId": "1403",
     "userName": "Ping Zhang",
-    "researchAreas": "Dentistry, Immunology, Medicinal and Biomolecular Chemistry, Organic Chemistry, Zoology, Pharmacology and Pharmaceutical Sciences",
+    "researchAreas": "Dentistry, Immunology, Medicinal and Biomolecular Chemistry, Organic Chemistry, Microbiology, Cellular Immunology",
     "email": "pingz@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/1403-ping-zhang",
     "students": "Chloe La Prairie, Chaeeun Lim, Quiesly Torres Quinones, Walaa Mohieden Alturki, Kyle Jeffrey Sahlberg, Tyra Avery, Phorum Desai, Avery Dennis Lieber, Leena Menon, Sara Elizabeth Edmonds, Reem Jamal A Alhefdhi, Chandani Arjun Mantri, Himanshi Aggarwal, Namrata Pradeep Landge, Maria F Montoya, Kayla R King, Taimy Cruz Hondares, Alexandra A Chen, Yu-Yin lin, Roshanak Rastegar, Mohammad A. Koujan, Gulam Yezdani",
@@ -11911,7 +12037,7 @@
     "userName": "Qing Tian",
     "researchAreas": "",
     "email": "qtian@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/19071-qing-tian",
+    "scholarsUrl": null,
     "students": "Vishnu Prasad Iyer, Qizhen Lan, Joshua M Daugherty",
     "currentStudents": [
       "Qizhen Lan"
@@ -12038,9 +12164,9 @@
   {
     "discoveryId": "814",
     "userName": "Rafael Grytz",
-    "researchAreas": "Biomedical Engineering, Mechanical Engineering, Opthalmology and Optometry, Materials Engineering, Neurosciences, Civil Engineering",
+    "researchAreas": "",
     "email": "grytz@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/814-rafael-grytz",
+    "scholarsUrl": null,
     "students": "Mahmoud Tawfik KhalafAllah, Alexander Miles Levy, Keyur V Savla, Ji Hee Kim, Miranda C Trentle, Sarah Baldivia, Sarah Baldivia",
     "currentStudents": [
       "Mahmoud Tawfik KhalafAllah",
@@ -12266,6 +12392,16 @@
     "searchKeywords": ""
   },
   {
+    "discoveryId": "1591",
+    "userName": "Rebecca Miltner",
+    "researchAreas": "Nursing, Public Health and Health Services, Education Systems, Curriculum and Pedagogy, Specialist Studies in Education, Medical Physiology",
+    "email": "smiltner@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/1591-rebecca-miltner",
+    "students": "Jennifer Hardin Towery, Apryl S Lewis, Aoyjai Prapanjaroensin, Pauline A Swiger, Carrie Lee Gardner",
+    "currentStudents": [],
+    "searchKeywords": "Clinical Research Health Services Mental Health Prevention"
+  },
+  {
     "discoveryId": "17341",
     "userName": "Rebecca Rampe",
     "researchAreas": "",
@@ -12276,9 +12412,19 @@
     "searchKeywords": "Behavioral and Social Science Prevention"
   },
   {
+    "discoveryId": "887",
+    "userName": "Reed Dimmitt",
+    "researchAreas": "",
+    "email": "rdimmitt@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/887-reed-dimmitt",
+    "students": "Corinne T Evans, Tolulope Adetayo, Mary K Lynch",
+    "currentStudents": [],
+    "searchKeywords": ""
+  },
+  {
     "discoveryId": "1903",
     "userName": "Remo George",
-    "researchAreas": "Clinical Sciences, Biochemistry and Cell Biology, Cardiorespiratory Medicine and Haematology",
+    "researchAreas": "Clinical Sciences, Biochemistry and Cell Biology, Nuclear Medicine, Radiation Therapy",
     "email": "remogeorge@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/1903-remo-george",
     "students": "Michael Richard Drelich, Raquema Williams, Abdullah F Alosaimi",
@@ -12355,9 +12501,9 @@
   {
     "discoveryId": "3070",
     "userName": "Richard Dluhy",
-    "researchAreas": "Analytical Chemistry, Physical Chemistry, Structural, Biochemistry and Cell Biology, Medicinal and Biomolecular Chemistry, Other Chemical Sciences, Mechanical Engineering",
+    "researchAreas": "",
     "email": "rdluhy@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/3070-richard-dluhy",
+    "scholarsUrl": null,
     "students": "Liana Islam, Shelbie J Cingoranelli, Brynnen Eve Bargerhuff, Lynzi Paige Hunter, Amareshwari Konutham, Miranda C Trentle, Zachariah M Ingram",
     "currentStudents": [
       "Amareshwari Konutham",
@@ -12438,9 +12584,9 @@
   {
     "discoveryId": "4240",
     "userName": "Richard Shewchuk",
-    "researchAreas": "Public Health and Health Services, Clinical Sciences, Psychology, Business and Management, Policy and Administration, Curriculum and Pedagogy",
+    "researchAreas": "",
     "email": "shewchuk@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/4240-richard-shewchuk",
+    "scholarsUrl": null,
     "students": "Sylvia Zhongyi Pan, Mengying He, Holly E Jarek, Christopher Tsavatewa, Ricky D Wallace, Anna L de Joya, Todd B Smith, Shamly Austin, Cathleen O Erwin, Anantachai Panjamapirom, Gouri P Gupte, Anthony Goudie, Sandeep S Virk, Haiyan Qu, Charles Saunders, Amy K Yarbrough, Maziar Abdolrasulnia, Nelson C Weichold, Wensheng Fan, Lee W Bewley, Tamara M Crutchley, Elena A Platonova, Huabin Luo, Ian G Child, Jeffrey Rufo, Sheryl Ann Ebert, Jacqueline C Wiltshire, Sharina D Person, Robin B Parnell",
     "currentStudents": [],
     "searchKeywords": "Aging Behavioral and Social Science Clinical Research Coronaviruses Emerging Infectious Diseases Health Services Immunization Infectious Diseases Osteoporosis Prevention Vaccine Related Women's Health Behavioral and Social Science Cancer Clinical Research Clinical Trials and Supportive Activities Health Disparities Physical Activity Prevention Rehabilitation Rural Health Women's Health"
@@ -12605,9 +12751,9 @@
   {
     "discoveryId": "2500",
     "userName": "Robert Palazzo",
-    "researchAreas": "Biochemistry and Cell Biology, Oncology and Carcinogenesis, Paediatrics and Reproductive Medicine, Physiology, Zoology, Clinical Sciences",
+    "researchAreas": "",
     "email": "rpalazzo@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2500-robert-palazzo",
+    "scholarsUrl": null,
     "students": "Danish Gulab Hussain Diwan",
     "currentStudents": [],
     "searchKeywords": "Breast Cancer Cancer Genetics Women's Health"
@@ -12645,7 +12791,7 @@
   {
     "discoveryId": "1211",
     "userName": "Robert Russell",
-    "researchAreas": "Clinical Sciences, Paediatrics and Reproductive Medicine, Nursing, Public Health and Health Services, Cardiorespiratory Medicine and Haematology",
+    "researchAreas": "Clinical Sciences, Public Health and Health Services",
     "email": "russ4904@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/1211-robert-russell",
     "students": "Ilan Igo Maizlin",
@@ -12932,9 +13078,9 @@
   {
     "discoveryId": "2216",
     "userName": "Runhua Liu",
-    "researchAreas": "Oncology and Carcinogenesis, Clinical Sciences, Genetics, Other Biological Sciences, Other Chemical Sciences, Paediatrics and Reproductive Medicine",
+    "researchAreas": "",
     "email": "runhua@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2216-runhua-liu",
+    "scholarsUrl": null,
     "students": "Ningning Xu",
     "currentStudents": [],
     "searchKeywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease Related Dementias (ADRD) Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Behavioral and Social Science Bioengineering Biotechnology Brain Disorders Breast Cancer Cancer Cerebrovascular Coronaviruses Coronaviruses Therapeutics and Interventions Dementia Digestive Diseases Emerging Infectious Diseases Genetics Immunization Immunotherapy Infectious Diseases Liver Cancer Liver Disease Lung Nanotechnology Neurodegenerative Neurosciences Pneumonia Pneumonia & Influenza Prostate Cancer Rare Diseases Tuberous Sclerosis Urologic Diseases Vaccine Related Vascular Cognitive Impairment/Dementia Women's Health Biotechnology Breast Cancer Cancer Cancer Genomics Genetics Health Disparities Human Genome Women's Health"
@@ -12977,7 +13123,7 @@
   {
     "discoveryId": "17319",
     "userName": "Ryan Godwin",
-    "researchAreas": "Biochemistry and Cell Biology, Computation Theory and Mathematics, Computer Software, Other Information and Computing Sciences, Chemical Engineering, Materials Engineering",
+    "researchAreas": "Computer Software, Biological Physics, Artificial Intelligence and Image Processing, Knowledge Representation and Machine Learning, Time-Series Analysis",
     "email": "rcg2@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/17319-ryan-godwin",
     "students": "Stevan C Fairburn",
@@ -13023,7 +13169,7 @@
     "userName": "S Hernandez",
     "researchAreas": "Public Health and Health Services, Policy and Administration, Nursing, Business and Management, Marketing, Applied Economics",
     "email": "hernande@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1831-s-hernandez",
+    "scholarsUrl": "https://scholars.uab.edu/1831-samuel-hernandez",
     "students": "Jason L Kimbrell, Cory Howard, Michelle Gilchrist, PETER Clifton DANCY, John Walsh, Suzanne Garber, Dorka Michellette Picard, Deanna C Kyrimis, Rochelle Richards, Michael H Malaise, Jon Law, Corey T Spraberry, Isabell Marie Pacheco, Robert Thomas Peterson, Thomas Arthur Alexander, Joseph M Cates, Kena R Norris, Gemini O Majkowski, Leon E Moores, Stephen G Cullen, Michael A Wiechart",
     "currentStudents": [
       "Jason L Kimbrell",
@@ -13109,7 +13255,7 @@
     "userName": "Samantha Simiele",
     "researchAreas": "",
     "email": "ssimiele@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/18624-samantha-simiele",
+    "scholarsUrl": null,
     "students": "Ho-Hsin Chang",
     "currentStudents": [],
     "searchKeywords": ""
@@ -13117,9 +13263,9 @@
   {
     "discoveryId": "2502",
     "userName": "Samiksha Raut",
-    "researchAreas": "Curriculum and Pedagogy",
+    "researchAreas": "",
     "email": "sraut@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2502-samiksha-raut",
+    "scholarsUrl": null,
     "students": "Sarah J Adkins, Sarah J Adkins",
     "currentStudents": [],
     "searchKeywords": "Contraception/Reproduction Endocrine Disruptors Estrogen Women's Health Health Disparities Minority Health"
@@ -13351,9 +13497,9 @@
   {
     "discoveryId": "2194",
     "userName": "Scott Wilson",
-    "researchAreas": "Biochemistry and Cell Biology, Neurosciences, Genetics, Clinical Sciences, Physiology, Medical Physiology",
+    "researchAreas": "",
     "email": "livvy01@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2194-scott-wilson",
+    "scholarsUrl": null,
     "students": "Melissa L Garcia, Kaylan Simone Brown, Ananya Swaroop, Shekinah Miriam Phillips, Prathibha Sekar, Gokulakrishna Banumurthy, Rylie Hightower, Allison R Fusilier, Ashlee M Long",
     "currentStudents": [],
     "searchKeywords": "Aging Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Charcot-Marie-Tooth Disease Genetics Mental Health Neurodegenerative Neurosciences Peripheral Neuropathy Rare Diseases Anxiety Disorders Basic Behavioral and Social Science Behavioral and Social Science Brain Disorders Mental Health Mental Illness Neurodegenerative Neurosciences Pediatric Post-Traumatic Stress Disorder (PTSD) Rare Diseases Spinal Muscular Atrophy"
@@ -13402,9 +13548,9 @@
   {
     "discoveryId": "2525",
     "userName": "Sergey Vyazovkin",
-    "researchAreas": "Analytical Chemistry, Macromolecular and Materials Chemistry, Physical Chemistry, Structural, Other Chemical Sciences, Materials Engineering, Theoretical and Computational Chemistry",
+    "researchAreas": "",
     "email": "vyazovkin@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2525-sergey-vyazovkin",
+    "scholarsUrl": null,
     "students": "Maksim Dolmat, Yiming Yang, Maria A Espinosa, Tatsiana Liavitskaya, Victoria L Stanford, Amanda Kennell, Matthew Bishop, Jennifer R Barnes, Zachary R Lindsey, Reza Farasat, Jun Chen",
     "currentStudents": [
       "Maria A Espinosa"
@@ -13434,9 +13580,9 @@
   {
     "discoveryId": "2499",
     "userName": "Shahid Mukhtar",
-    "researchAreas": "Plant Biology, Crop and Pasture Production, Microbiology, Biochemistry and Cell Biology, Ecology, Genetics",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/2499-shahid-mukhtar",
+    "scholarsUrl": null,
     "students": "BINOOP MOHAN, Jinbao Liu, Brendon R Herring, Danish Gulab Hussain Diwan, Taiaba Afrin, Nilesh Kumar, Santhosh Kumar Karthikeyan, Bharat Mishra, Timothy C Howton, Ningxiang Zeng, Yali Sun",
     "currentStudents": [
       "BINOOP MOHAN"
@@ -13490,7 +13636,7 @@
     "userName": "Sharon Holley",
     "researchAreas": "",
     "email": "sharonholley@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/16863-sharon-holley",
+    "scholarsUrl": null,
     "students": "Hannah Elizabeth Bergbower",
     "currentStudents": [],
     "searchKeywords": "Clinical Research Emerging Infectious Diseases Health Services Infectious Diseases Influenza Malaria Patient Safety Pneumonia & Influenza Prevention Rare Diseases Vector-Borne Diseases"
@@ -13637,7 +13783,7 @@
     "userName": "Sofia Beas Parodi",
     "researchAreas": "",
     "email": "sbeas@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/17577-sofia-beas-parodi",
+    "scholarsUrl": "https://scholars.uab.edu/17577-sofia-beas",
     "students": "Zoe Fokakis, Chang Li, Natalie D Fitzgerald, Briana Lynne Machen, Adrienne Samani",
     "currentStudents": [
       "Natalie D Fitzgerald",
@@ -14054,9 +14200,9 @@
   {
     "discoveryId": "17342",
     "userName": "Steven Rothenberg",
-    "researchAreas": "Clinical Sciences",
+    "researchAreas": "",
     "email": "srothenb@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/17342-steven-rothenberg",
+    "scholarsUrl": null,
     "students": "Alfred Dewey, Hunter Shaw Goffinett",
     "currentStudents": [],
     "searchKeywords": "Bioengineering Biomedical Imaging Brain Disorders Cancer Clinical Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Machine Learning and Artificial Intelligence Minority Health Networking and Information Technology R&D (NITRD)"
@@ -14122,9 +14268,9 @@
   {
     "discoveryId": "7033",
     "userName": "Summer Thyme",
-    "researchAreas": "Biochemistry and Cell Biology, Other Chemical Sciences, Neurosciences, Medical Physiology, Psychology, Cognitive Sciences",
+    "researchAreas": "",
     "email": "sthyme@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/7033-summer-thyme",
+    "scholarsUrl": null,
     "students": "Verdion Quirinu Martina, Ari Benjamin Ginsparg, Emma Finn Jones, Nancy Gallus, Prathibha Sekar, Hunter B Dean, Robert Albert Phillips",
     "currentStudents": [
       "Ari Benjamin Ginsparg"
@@ -14222,6 +14368,16 @@
     "searchKeywords": "Acquired Cognitive Impairment Brain Disorders Cerebrovascular Epilepsy Genetics Mental Health Neurodegenerative Neurosciences Prevention Stroke Brain Cancer Brain Disorders Cancer Drug Abuse (NIDA only) Electronic Nicotine Delivery Systems Epilepsy Neurodegenerative Neurosciences Rare Diseases Substance Misuse Tobacco"
   },
   {
+    "discoveryId": "2894",
+    "userName": "Susan McMullan",
+    "researchAreas": "Nursing, Clinical Sciences, Curriculum and Pedagogy, Library and Information Studies, Paediatrics and Reproductive Medicine",
+    "email": "susanpmcm@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/2894-susan-mcmullan",
+    "students": "T'Anya Marye Carter",
+    "currentStudents": [],
+    "searchKeywords": "Alcoholism, Alcohol Use and Health Behavioral and Social Science Clinical Research Drug Abuse (NIDA only) Health Services Mental Health Social Determinants of Health Substance Misuse"
+  },
+  {
     "discoveryId": "2256",
     "userName": "Susan Ruppert",
     "researchAreas": "Oncology and Carcinogenesis, Clinical Sciences, Pharmacology and Pharmaceutical Sciences, Medicinal and Biomolecular Chemistry, Organic Chemistry, Biochemistry and Cell Biology",
@@ -14284,9 +14440,9 @@
   {
     "discoveryId": "2640",
     "userName": "Suzanne Perumean-Chaney",
-    "researchAreas": "Public Health and Health Services, Clinical Sciences, Criminology, Nursing, Nutrition and Dietetics, Policy and Administration",
+    "researchAreas": "",
     "email": "schaney@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2640-suzanne-perumeanchaney",
+    "scholarsUrl": null,
     "students": "Rafeka Hossain, Jessica Lauren Hicks, Tennille N Webb, Brandi L McClain, Naif Alrashdi, Logan W Boe, Lisa R Allen, Matthew Ainsworth, Victoria Williams, Jutaluk Kongsuk, Cassandra Herman, Zhixin Wang, Jonathan Adams, Emma Sartin, Emma Sartin, Kimberly C Williams, Stephanie M Cardwell, Anjana S Madan, Lindsay M Sutton, Omobolanle A Ene-Korubo",
     "currentStudents": [],
     "searchKeywords": "Acquired Cognitive Impairment Aging Alzheimer's Disease Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) Asthma Behavioral and Social Science Brain Disorders Cancer Clinical Research Clinical Trials and Supportive Activities Dementia Depression Lung Mental Health Minority Health Neurodegenerative Neurosciences Nutrition Obesity Pediatric Physical Activity Prevention Social Determinants of Health Adolescent Sexual Activity Behavioral and Social Science Clinical Research Clinical Trials and Supportive Activities Drug Abuse (NIDA only) HIV/AIDS Immunization Infectious Diseases Mental Health Pediatric Pediatric AIDS Prevention Sexually Transmitted Infections Substance Misuse Vaccine Related Vaccine Related (AIDS)"
@@ -14471,7 +14627,7 @@
     "userName": "Teneasha Washington",
     "researchAreas": "Nursing, Public Health and Health Services, Psychology, Communication and Media Studies",
     "email": "teneasha@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/15535-teneasha-washington",
+    "scholarsUrl": "https://scholars.uab.edu/15535-teneasha-jackson",
     "students": "Consuelo A Click, Robin L Myers, Cicily A Gray, Jolanda Hudson, Juliana Sea, Margaret A Enlow, Miriam A Abayomi-Cole, Andrea V Gosa, Deandrea Barren, Amber N Martin, Brandi L McClain, Hassanatu B Blake, Princess V Nash",
     "currentStudents": [
       "Deandrea Barren",
@@ -14502,9 +14658,9 @@
   {
     "discoveryId": "3607",
     "userName": "Terpsithea Christou",
-    "researchAreas": "Dentistry, Biomedical Engineering, Clinical Sciences",
+    "researchAreas": "",
     "email": "tetich@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/3607-terpsithea-christou",
+    "scholarsUrl": null,
     "students": "Jared Teeples, Jerry Spillers, Adriana Morales Buendia, Mary Lauren Sharp, Gabrielle Coe, Logan Icenhour, Najd Aswad, Julia Irby Dean, Gregory Long, Farhana Rahman, Aikaterini K Aslanidou, Tayem Abou Saleh, Matthew S Leftwich, Panagiotis Kyteas",
     "currentStudents": [
       "Jerry Spillers"
@@ -14643,9 +14799,9 @@
   {
     "discoveryId": "6225",
     "userName": "Tiago Colicchio",
-    "researchAreas": "Health Informatics",
+    "researchAreas": "",
     "email": "tiagokc@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/6225-tiago-colicchio",
+    "scholarsUrl": null,
     "students": "Heather Duran Martin",
     "currentStudents": [],
     "searchKeywords": "Clinical Research Coronaviruses Drug Abuse (NIDA only) Emerging Infectious Diseases Infectious Diseases Opioids Patient Safety Substance Misuse Clinical Research Clinical Trials and Supportive Activities Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Health Services Minority Health Rural Health Social Determinants of Health Women's Health"
@@ -14882,9 +15038,9 @@
   {
     "discoveryId": "2505",
     "userName": "Trygve Tollefsbol",
-    "researchAreas": "Biochemistry and Cell Biology, Clinical Sciences, Other Chemical Sciences, Oncology and Carcinogenesis, Genetics, Medicinal and Biomolecular Chemistry",
+    "researchAreas": "",
     "email": "trygve@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2505-trygve-tollefsbol",
+    "scholarsUrl": null,
     "students": "Kiari R Kinnie, Nusrat Fatima, Alex D Dawson, Brittany L Davis, Sebanti Ganguly, Mohammad Mijanur Rahman, Olutomi T Akinduro, Andrew C Brane, Manvi Sharma, Itika Arora, Huixin WU, John M Schoelz, Zoya T Anderson, Kayla A Lewis, Louis P Watanabe, Katherine E Savell, Benjamin B Mills, Tandy L McAlister, Bidisha Paul, Yifeng Gao",
     "currentStudents": [
       "Nusrat Fatima",
@@ -15001,9 +15157,9 @@
   {
     "discoveryId": "16714",
     "userName": "Vikas Dudeja",
-    "researchAreas": "Clinical Sciences, Medical Biochemistry and Metabolomics",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/16714-vikas-dudeja",
+    "scholarsUrl": null,
     "students": "Meet Patel, Christina Ruth Larson, Maria Fernanda Salcedo Noriega",
     "currentStudents": [
       "Maria Fernanda Salcedo Noriega"
@@ -15085,9 +15241,9 @@
   {
     "discoveryId": "1980",
     "userName": "Virginia Howard",
-    "researchAreas": "Clinical Sciences, Neurosciences, Public Health and Health Services, Cognitive Sciences, Epidemiology, Culture, Gender, Sexuality, Cardiology, Cardiovascular Diseases",
+    "researchAreas": "",
     "email": "vjhoward@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/1980-virginia-howard",
+    "scholarsUrl": null,
     "students": "Nekayla Jenae Anderson, Jasmine M Nelson, Hely Div Nanavati, Rebecca L Williams, Nirav P Patel, Nuo Xu, Najibah Ali Galadanci, Joonseok Kim, Emiri Matsuda, Emily C McKinley, Jesse S Passler, Karen C Albright, Meifang Chen, Erica L Dawson, Allison Ann Gullick",
     "currentStudents": [
       "Jasmine M Nelson"
@@ -15199,6 +15355,16 @@
     "searchKeywords": "Cancer Cervical Cancer Clinical Research Contraception/Reproduction Genetics Infectious Diseases Ovarian Cancer Prevention Radiation Oncology Rare Diseases Sexually Transmitted Infections Women's Health Cancer Cancer Genomics Clinical Research Clinical Trials and Supportive Activities Genetics Health Disparities Health Services Human Genome Networking and Information Technology R&D (NITRD) Prevention Rare Diseases Rural Health Social Determinants of Health Women's Health"
   },
   {
+    "discoveryId": "840",
+    "userName": "Walter Johnson",
+    "researchAreas": "Cardiorespiratory Medicine and Haematology, Clinical Sciences, Paediatrics and Reproductive Medicine, Public Health and Health Services, Medical Physiology, Oncology and Carcinogenesis",
+    "email": "wjohnson@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/840-walter-johnson",
+    "students": "Najibah Ali Galadanci",
+    "currentStudents": [],
+    "searchKeywords": "Autoimmune Disease Cardiovascular Clinical Research Congenital Heart Disease Congenital Structural Anomalies Contraception/Reproduction Heart Disease Pediatric Research Initiative Rare Diseases Women's Health Cardiovascular Clinical Research Heart Disease Hematology Lung Orphan Drug Pediatric Research Initiative Prevention Rare Diseases Sickle Cell Disease"
+  },
+  {
     "discoveryId": "2629",
     "userName": "Walter Ward",
     "researchAreas": "",
@@ -15254,9 +15420,9 @@
   {
     "discoveryId": "2982",
     "userName": "Wei Li",
-    "researchAreas": "Neurosciences, Cognitive Sciences, Psychology, Clinical Sciences, Pharmacology and Pharmaceutical Sciences",
+    "researchAreas": "",
     "email": "weili7@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2982-wei-li",
+    "scholarsUrl": null,
     "students": "Zephyr Desa, Jewel S Hairston, Chang Li",
     "currentStudents": [
       "Chang Li"
@@ -15272,6 +15438,16 @@
     "students": "Krystal Lee Rivera",
     "currentStudents": [],
     "searchKeywords": "Acute Respiratory Distress Syndrome Asthma Lung Rare Diseases Physical Injury - Accidents and Adverse Effects"
+  },
+  {
+    "discoveryId": "1849",
+    "userName": "Wendy Demark-Wahnefried",
+    "researchAreas": "Oncology and Carcinogenesis, Clinical Sciences, Public Health and Health Services, Nutrition and Dietetics, Food Sciences, Anthropology",
+    "email": "demark@uab.edu",
+    "scholarsUrl": "https://scholars.uab.edu/1849-wendy-demarkwahnefried",
+    "students": "Erica Anne Schleicher, Harleen Kaur, Harleen Kaur, Victoria Williams, Ayse G Zengul, Justin Gibson, Mallory G Cases",
+    "currentStudents": [],
+    "searchKeywords": "Aging Behavioral and Social Science Breast Cancer Cancer Clinical Research Clinical Trials and Supportive Activities Comparative Effectiveness Research Dissemination and Implementation Research Health Disparities Health Disparities and Racial or Ethnic Minority Health Research Nutrition Obesity Patient Safety Physical Activity Prevention Prostate Cancer Rehabilitation Rural Health Social Determinants of Health Telehealth Urologic Diseases Women's Health Chronic Pain Clinical Research Clinical Trials and Supportive Activities Complementary and Integrative Health Dietary Supplements Hematology Microbiome Neurosciences Nutrition Pain Research Pediatric Research Initiative Prevention Rare Diseases Sickle Cell Disease Women's Health"
   },
   {
     "discoveryId": "2605",
@@ -15299,9 +15475,9 @@
   {
     "discoveryId": "7190",
     "userName": "Wenli Bi",
-    "researchAreas": "Condensed Matter Physics, Geochemistry, Geology, Physical Geography and Environmental Geoscience, Materials Engineering, Geophysics",
+    "researchAreas": "",
     "email": "wbi@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/7190-wenli-bi",
+    "scholarsUrl": null,
     "students": "Greeshma C Jose, Andrew D Pope, Adam Dudley Smith, Mackenzie Christine Siford, Bibek S Dhami, Garrett Blaine Tolbert, Bria Christina Storr, Chia Min Lin, Zachary T Nix",
     "currentStudents": [
       "Greeshma C Jose"
@@ -15331,9 +15507,9 @@
   {
     "discoveryId": "627",
     "userName": "William Bailey",
-    "researchAreas": "Clinical Sciences, Public Health and Health Services, Cardiorespiratory Medicine and Haematology, Pharmacology and Pharmaceutical Sciences, Medical Physiology, Immunology",
+    "researchAreas": "",
     "email": "wcbailey@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/627-william-bailey",
+    "scholarsUrl": null,
     "students": "Christopher B Thorne",
     "currentStudents": [],
     "searchKeywords": "Cancer Chronic Obstructive Pulmonary Disease Clinical Research Clinical Trials and Supportive Activities Lung Lung Cancer Machine Learning and Artificial Intelligence Precision Medicine Prevention Social Determinants of Health Cardiovascular Chronic Obstructive Pulmonary Disease Clinical Research Heart Disease Infectious Diseases Lung Women's Health"
@@ -15361,9 +15537,9 @@
   {
     "discoveryId": "2766",
     "userName": "William Cockerham",
-    "researchAreas": "Public Health and Health Services, Sociology, Psychology, Anthropology, Linguistics, Literary Studies",
+    "researchAreas": "",
     "email": "wcocker@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/2766-william-cockerham",
+    "scholarsUrl": null,
     "students": "Fabrice S Julien, Philip A Gibson, Anthony Campbell, Gabriela R Oates, Zachary R Simoni, Latoya J O'Neal, Bryant W Hamby, Lori B Bateman, Carrie A Betcher, William A Anderson, Anne S Brown, Henna Budhwani, Colin T Farrell, Yue Cao, Xiaofei Qiao, Brian P Hinote, Mercy W Mwaria, Gregory M Minisman, Akilah J Dulin, Colin T Farrell, Nilda I Kernion, Angelina R Wittich, Brian P Hinote, Margaret C. Snead, Margaret C. Snead, Julie L Locher",
     "currentStudents": [],
     "searchKeywords": "Behavioral and Social Science Brain Disorders Cardiovascular Clinical Research Health Services Heart Disease Mental Health Mental Illness Nutrition Physical Activity Prevention Social Determinants of Health"
@@ -15466,7 +15642,7 @@
   {
     "discoveryId": "17408",
     "userName": "William Tyler",
-    "researchAreas": "Cognitive Sciences, Neurosciences, Psychology, Clinical Sciences, Pharmacology and Pharmaceutical Sciences",
+    "researchAreas": "Cognitive Sciences, Neurosciences, Psychology, Clinical Sciences, Pharmacology and Pharmaceutical Sciences, Biomedical Engineering, Neurocognitive Patterns and Neural Networks, Biological Psychology, Neuropsychology, Psychopharmacology, Physiological Psychology, Rehabilitation Engineering, Medical Devices, Sensory Processes, Perception and Performance, Computer-Human Interaction, Sport and Exercise Psychology, Entrepreneurship, Innovation and Technology Management, Autonomic Nervous System",
     "email": "wjpt@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/17408-william-tyler",
     "students": "Alibek Sartayev, Alexandra Marie Elgin, Melissa Van-Trang Do, Hunter Shaw Goffinett, Helen E Brinyark, Lucas A Lowe, Ashton Michelle Weber",
@@ -15533,9 +15709,9 @@
   {
     "discoveryId": "2299",
     "userName": "Xuan Huang",
-    "researchAreas": "Business and Management, Statistics, Mechanical Engineering, Nursing, Other Mathematical Sciences, Electrical and Electronic Engineering",
+    "researchAreas": "",
     "email": null,
-    "scholarsUrl": "https://scholars.uab.edu/2299-xuan-huang",
+    "scholarsUrl": null,
     "students": "Ligaj Pradhan",
     "currentStudents": [],
     "searchKeywords": ""
@@ -15650,7 +15826,7 @@
   {
     "discoveryId": "17726",
     "userName": "Yu Holly Chen",
-    "researchAreas": "Biochemistry and Cell Biology, Clinical Sciences, Opthalmology and Optometry, Paediatrics and Reproductive Medicine, Medical Physiology, Public Health and Health Services",
+    "researchAreas": "Biochemistry and Cell Biology, Opthalmology and Optometry, Regenerative Medicine, Stem Cells, Tissue Engineering, Animal Cell and Molecular Biology, Neurosciences",
     "email": "chenh@uab.edu",
     "scholarsUrl": "https://scholars.uab.edu/17726-yu-holly-chen",
     "students": "Choice I Uwumwonse",
@@ -15811,9 +15987,9 @@
   {
     "discoveryId": "16355",
     "userName": "Zachary Irwin",
-    "researchAreas": "Neurosciences, Biomedical Engineering, Clinical Sciences, Electrical and Electronic Engineering, Psychology, Cognitive Sciences",
+    "researchAreas": "",
     "email": "irwinz@uab.edu",
-    "scholarsUrl": "https://scholars.uab.edu/16355-zachary-irwin",
+    "scholarsUrl": null,
     "students": "Autum Key, Robert C Rawlins, Anas U Khan, Adeel A Memon",
     "currentStudents": [
       "Robert C Rawlins"
