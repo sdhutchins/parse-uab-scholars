@@ -2,3 +2,14 @@
 .env
 .DS_Store
 logs/
+
+# Retrieved UAB Scholars data
+data/uab_scholars_profiles.jsonl
+data/committees_by_id/
+data/faculty_data/
+
+# Generated intermediate datasets
+data/uab_grad_committees_grouped.json
+data/enhanced_faculty_students.json
+data/enhanced_profiles.jsonl
+data/processed/faculty_students.json
