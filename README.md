@@ -1,5 +1,13 @@
 # UAB Faculty Committee Memberships
 
+<!-- markdown-link-check-disable -->
+[![Tests](https://github.com/sdhutchins/parse-uab-scholars/actions/workflows/tests.yml/badge.svg)](https://github.com/sdhutchins/parse-uab-scholars/actions/workflows/tests.yml)
+[![Linting](https://github.com/sdhutchins/parse-uab-scholars/actions/workflows/linters.yml/badge.svg)](https://github.com/sdhutchins/parse-uab-scholars/actions/workflows/linters.yml)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.shauritahutchins.com%2Fparse-uab-scholars%2F)](https://www.shauritahutchins.com/parse-uab-scholars/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+<!-- markdown-link-check-enable -->
+
 This project extracts and visualizes faculty committee memberships
 and mentoring relationships from the University of Alabama at
 Birmingham (UAB) Scholars database.

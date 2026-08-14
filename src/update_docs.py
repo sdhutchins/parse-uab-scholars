@@ -17,11 +17,16 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
-def run_command(cmd, description):
+def run_command(command: list[str], description: str) -> bool:
     """Run a command and handle errors."""
     print(f"Running: {description}")
     try:
-        result = subprocess.run(cmd, shell=True, check=True, capture_output=True, text=True)
+        subprocess.run(
+            command,
+            check=True,
+            capture_output=True,
+            text=True,
+        )
         print(f"✓ {description} completed successfully")
         return True
     except subprocess.CalledProcessError as e:
@@ -39,8 +44,11 @@ def main():
     docs_dir = PROJECT_ROOT / "docs"
 
     # Step 1: Regenerate faculty-student data
-    cmd = f"python {src_dir / 'create_faculty_student_data.py'}"
-    if not run_command(cmd, "Faculty data generation"):
+    command = [
+        sys.executable,
+        str(src_dir / "create_faculty_student_data.py"),
+    ]
+    if not run_command(command, "Faculty data generation"):
         print("Failed to generate faculty data. Exiting.")
         sys.exit(1)
 
@@ -86,4 +94,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main() 
+    main()
