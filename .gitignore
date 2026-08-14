@@ -3,6 +3,10 @@
 .DS_Store
 logs/
 
+# Python bytecode
+__pycache__/
+*.py[cod]
+
 # Retrieved UAB Scholars data
 data/uab_scholars_profiles.jsonl
 data/committees_by_id/

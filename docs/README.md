@@ -21,6 +21,7 @@ This folder contains the GitHub Pages website for the UAB Faculty Committee Memb
 ## Data Structure
 
 The `faculty_students.json` file contains:
+
 - Faculty names and discovery IDs
 - Research area tags
 - Student mentoring relationships with roles and status
@@ -42,6 +43,7 @@ python update_docs.py
 ```
 
 This will:
+
 1. Regenerate faculty-student data from source files
 2. Copy the JSON data to docs folder
 3. Ensure all assets are up to date
